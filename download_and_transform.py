@@ -22,6 +22,8 @@ with open('col_ids.txt', 'r') as f:
     lines = f.readlines()
 print(lines)
 
+failed = []
+
 for y in lines:
     col_id = y.strip()
     print(f"processing collection: {col_id}")
@@ -29,17 +31,22 @@ for y in lines:
     print(f"{METS_DIR}/{col_id}*.xml")
     files = glob.glob(f"{METS_DIR}/{col_id}/*_mets.xml")
     for x in files:
-        tail = os.path.split(x)[-1]
-        doc_id = tail.split('_')[0]
-        tei_file = f"{doc_id}.xml"
-        print(f"transforming mets: {x} to {tei_file}")
-        with PySaxonProcessor(license=False) as proc:
-            xsltproc = proc.new_xslt30_processor()
-            xsltproc.set_parameter("combine", proc.make_boolean_value(True))
-            xsltproc.set_parameter("ab", proc.make_boolean_value(True))
-            document = proc.parse_xml(xml_file_name=x)
-            executable = xsltproc.compile_stylesheet(stylesheet_file=XSLT)
-            output = executable.transform_to_string(xdm_node=document)
-            output = output.replace(' type=""', '')
+        try:
+            tail = os.path.split(x)[-1]
+            doc_id = tail.split('_')[0]
+            tei_file = f"{doc_id}.xml"
+            print(f"transforming mets: {x} to {tei_file}")
+            with PySaxonProcessor(license=False) as proc:
+                xsltproc = proc.new_xslt30_processor()
+                xsltproc.set_parameter("combine", proc.make_boolean_value(True))
+                xsltproc.set_parameter("ab", proc.make_boolean_value(True))
+                document = proc.parse_xml(xml_file_name=x)
+                executable = xsltproc.compile_stylesheet(stylesheet_file=XSLT)
+                output = executable.transform_to_string(xdm_node=document)
+                output = output.replace(' type=""', '')
             with open(os.path.join(TEI_DIR, tei_file), "w") as f:
                 f.write(output)
+        except Exception as e:
+            failed.append([x, e])
+for x in failed:
+    print(x)
