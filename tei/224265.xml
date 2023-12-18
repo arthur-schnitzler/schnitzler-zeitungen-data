@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript</title><idno type="Transkribus">224265</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3296" lry="4256" xml:id="facs_1">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0001.jpeg" width="3296px" height="4256px"/>
+         <zone points="140,91 140,4169 3106,4169 3106,91" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="2693,107 2777,97 2794,110 2859,102 2879,109 2898,99 2921,108 2996,98 2995,46 2692,45" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="1739,252 1837,240 1969,178 2113,201 2171,176 2230,194 2364,172 2361,45 2149,63 2056,133 1736,138" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="873,277 952,276 991,296 1063,285 1105,298 1147,281 1177,298 1206,284 1229,294 1346,254 1346,221 1245,199 1166,216 1101,197 1069,223 1046,210 964,224 922,202 873,222" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="125,321 249,289 320,332 444,333 503,307 735,322 736,208 700,224 664,198 576,233 491,229 442,199 357,225 334,211 249,253 171,213 126,229" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="1370,679 1638,690 1791,619 2137,608 2346,664 2502,626 2626,653 2627,526 1886,532 1561,442 1371,477" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="2649,613 2749,629 2854,603 2896,632 2939,634 2970,674 3022,680 3047,660 3120,653 3128,592 3022,575 2939,528 2879,557 2778,449 2671,439" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="389,866 405,865 424,851 434,854 462,832 481,831 468,639 449,640 438,634 407,653 374,655" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="438,1057 2278,1088 2979,1008 2978,926 2649,899 437,950" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="2396,1076 2517,1109 2722,1081 2942,1104 3088,1087 3085,973 2997,978 2917,1043 2665,1010 2395,1041" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="407,1185 2919,1180 2882,1082 563,1108 406,1035" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="406,1319 2905,1252 2904,1177 2702,1139 2356,1210 405,1198" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="352,1400 417,1403 467,1432 551,1399 675,1415 842,1391 841,1325 799,1319 760,1336 639,1323 616,1337 547,1311 486,1351 440,1328 352,1329" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="854,1556 1618,1523 2078,1595 2391,1504 3001,1519 3000,1437 2876,1415 854,1471" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="418,1678 1104,1742 2979,1665 2955,1532 2659,1605 418,1606" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="411,1851 2672,1819 2862,1886 2861,1753 2701,1731 411,1740" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="404,1944 2942,1967 2942,1872 2674,1817 2358,1893 404,1866" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="420,2126 2978,2126 3062,2012 420,2038" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="414,2312 714,2231 2897,2262 2896,2154 2550,2115 413,2156" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="423,2394 2880,2381 2879,2264 2771,2236 423,2316" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="415,2486 2859,2470 2857,2372 2351,2348 413,2391" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="419,2689 2557,2570 2894,2628 2998,2599 2995,2469 416,2598" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="423,2774 566,2755 648,2796 795,2766 864,2788 954,2737 1372,2741 1344,2653 1315,2680 1216,2646 1044,2682 952,2652 832,2690 704,2647 421,2686" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="820,2954 2875,2892 2872,2785 2738,2778 818,2872" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="421,3071 2929,2998 2861,2866 1946,2975 418,2921" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="429,3250 2708,3170 2864,3143 2862,3055 426,3136" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="426,3363 1915,3387 2934,3317 2932,3232 1713,3197 424,3304" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="437,3509 1677,3500 1829,3433 1991,3510 2230,3418 2492,3473 2817,3411 2651,3325 435,3431" rendition="Line" xml:id="facs_1_r1l27"/>
+            <zone points="437,3664 2970,3526 2902,3439 434,3527" rendition="Line" xml:id="facs_1_r1l28"/>
+            <zone points="454,3766 3049,3664 3045,3560 2510,3547 451,3665" rendition="Line" xml:id="facs_1_r1l29"/>
+            <zone points="448,3837 693,3826 759,3863 1237,3785 1502,3813 1684,3777 1682,3719 1540,3684 1193,3744 1084,3702 926,3763 446,3762" rendition="Line" xml:id="facs_1_r1l30"/>
+            <zone points="2681,4145 2776,4145 2785,4008 2739,4012 2729,4011 2717,4000 2691,3999" rendition="Line" xml:id="facs_1_r1l31"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3296" lry="4320" xml:id="facs_2">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0002.jpeg" width="3296px" height="4320px"/>
+         <zone points="142,129 142,3639 3144,3639 3144,129" rendition="TextRegion" xml:id="facs_2_r1">
+            <zone points="1305,265 2903,201 2900,79 2041,65 1895,162 1303,168" rendition="Line" xml:id="facs_2_r1l1"/>
+            <zone points="881,308 1022,333 1109,296 1144,325 1247,334 1360,291 1359,233 1317,243 1292,224 1269,247 1250,228 1150,235 1128,219 1060,252 1015,226 967,253 880,240" rendition="Line" xml:id="facs_2_r1l2"/>
+            <zone points="127,335 446,339 488,362 732,344 732,260 684,247 658,263 420,243 369,268 334,246 237,277 173,242 128,255" rendition="Line" xml:id="facs_2_r1l3"/>
+            <zone points="773,816 898,743 2933,701 2931,595 771,665" rendition="Line" xml:id="facs_2_r1l4"/>
+            <zone points="504,968 1165,866 3018,870 3016,789 2822,742 501,821" rendition="Line" xml:id="facs_2_r1l5"/>
+            <zone points="502,1041 2933,999 2957,915 500,951" rendition="Line" xml:id="facs_2_r1l6"/>
+            <zone points="501,1119 2891,1112 3032,1096 3031,1013 500,1068" rendition="Line" xml:id="facs_2_r1l7"/>
+            <zone points="503,1284 2995,1229 3047,1108 501,1210" rendition="Line" xml:id="facs_2_r1l8"/>
+            <zone points="504,1402 2796,1348 2923,1271 502,1303" rendition="Line" xml:id="facs_2_r1l9"/>
+            <zone points="509,1503 615,1481 806,1554 904,1490 1036,1478 1529,1504 1647,1485 1646,1411 1156,1391 990,1430 938,1396 508,1442" rendition="Line" xml:id="facs_2_r1l10"/>
+            <zone points="814,1648 3079,1621 3076,1505 813,1575" rendition="Line" xml:id="facs_2_r1l11"/>
+            <zone points="521,1762 2429,1786 2868,1703 2808,1608 2687,1681 519,1672" rendition="Line" xml:id="facs_2_r1l12"/>
+            <zone points="808,1880 2613,1858 3048,1925 3006,1716 2088,1823 807,1784" rendition="Line" xml:id="facs_2_r1l13"/>
+            <zone points="533,2047 2382,1998 2734,2064 2731,1907 2579,1881 1851,1974 1210,1968 1106,1900 899,1982 531,1954" rendition="Line" xml:id="facs_2_r1l14"/>
+            <zone points="530,2192 2730,2160 2692,2061 1901,2043 1754,2108 1264,2057 529,2137" rendition="Line" xml:id="facs_2_r1l15"/>
+            <zone points="764,2331 2912,2283 2910,2228 2620,2193 2489,2254 762,2260" rendition="Line" xml:id="facs_2_r1l16"/>
+            <zone points="526,2533 2747,2443 2743,2331 522,2433" rendition="Line" xml:id="facs_2_r1l17"/>
+            <zone points="820,2670 3065,2550 3059,2457 2929,2426 814,2560" rendition="Line" xml:id="facs_2_r1l18"/>
+            <zone points="548,2828 2628,2696 3116,2627 3112,2563 543,2751" rendition="Line" xml:id="facs_2_r1l19"/>
+            <zone points="548,2952 3150,2775 3142,2666 3029,2665 543,2881" rendition="Line" xml:id="facs_2_r1l20"/>
+            <zone points="567,3046 3051,2882 3093,2798 563,2998" rendition="Line" xml:id="facs_2_r1l21"/>
+            <zone points="573,3176 3165,3030 3158,2931 2814,2905 567,3089" rendition="Line" xml:id="facs_2_r1l22"/>
+            <zone points="582,3326 2663,3202 3032,3138 3026,3057 575,3236" rendition="Line" xml:id="facs_2_r1l23"/>
+            <zone points="598,3466 2208,3309 2942,3328 2931,3177 2580,3183 592,3382" rendition="Line" xml:id="facs_2_r1l24"/>
+            <zone points="588,3626 713,3642 860,3598 902,3623 998,3590 1219,3594 1211,3524 1141,3534 1012,3505 916,3547 841,3506 577,3520" rendition="Line" xml:id="facs_2_r1l25"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3296" lry="4256" xml:id="facs_3">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0003.jpeg" width="3296px" height="4256px"/>
+         <zone points="140,109 140,4181 3136,4181 3136,109" rendition="TextRegion" xml:id="facs_3_r1">
+            <zone points="2590,126 2641,136 2680,120 2699,133 2718,117 2747,124 2811,112 2904,128 2929,122 2930,71 2591,68" rendition="Line" xml:id="facs_3_r1l1"/>
+            <zone points="1672,223 1835,206 1871,238 1906,214 1977,251 2177,195 2376,232 2414,212 2411,68 2027,68 1894,148 1671,150" rendition="Line" xml:id="facs_3_r1l2"/>
+            <zone points="1160,206 1243,219 1266,203 1330,226 1381,201 1403,217 1423,204 1471,223 1509,204 1509,137 1423,156 1410,143 1324,146 1292,162 1269,142 1244,165 1161,168" rendition="Line" xml:id="facs_3_r1l3"/>
+            <zone points="885,315 920,324 952,298 1003,291 1074,323 1262,319 1288,293 1358,289 1358,238 1287,207 1239,226 1076,211 1019,240 990,221 945,231 884,212" rendition="Line" xml:id="facs_3_r1l4"/>
+            <zone points="124,321 252,319 284,345 326,320 386,347 454,325 732,331 733,238 618,205 583,227 388,212 298,253 202,229 125,248" rendition="Line" xml:id="facs_3_r1l5"/>
+            <zone points="1165,504 1255,536 1293,525 1320,544 1462,509 1549,525 1541,295 1462,317 1364,279 1292,327 1158,316" rendition="Line" xml:id="facs_3_r1l6"/>
+            <zone points="500,719 525,713 542,728 557,716 573,718 597,702 614,710 633,708 624,622 605,627 577,611 549,617 532,603 517,618 507,612 488,615" rendition="Line" xml:id="facs_3_r1l7"/>
+            <zone points="1578,838 1626,838 1667,814 1723,846 1760,821 1792,823 1785,698 1766,702 1717,689 1686,707 1660,702 1648,712 1635,703 1607,718 1571,716" rendition="Line" xml:id="facs_3_r1l8"/>
+            <zone points="859,903 2983,936 3101,921 3102,851 860,817" rendition="Line" xml:id="facs_3_r1l9"/>
+            <zone points="487,1057 3078,1074 3043,949 488,961" rendition="Line" xml:id="facs_3_r1l10"/>
+            <zone points="498,1179 2862,1198 2986,1166 2987,1070 498,1067" rendition="Line" xml:id="facs_3_r1l11"/>
+            <zone points="506,1270 2905,1326 2905,1240 2605,1177 506,1203" rendition="Line" xml:id="facs_3_r1l12"/>
+            <zone points="504,1347 581,1357 616,1342 651,1355 677,1339 696,1356 706,1346 718,1356 754,1350 754,1292 729,1292 719,1282 671,1291 649,1278 604,1281 585,1271 569,1280 553,1264 531,1277 505,1267" rendition="Line" xml:id="facs_3_r1l13"/>
+            <zone points="719,1408 2916,1443 2918,1331 720,1322" rendition="Line" xml:id="facs_3_r1l14"/>
+            <zone points="497,1528 2460,1581 2912,1563 2948,1477 498,1457" rendition="Line" xml:id="facs_3_r1l15"/>
+            <zone points="491,1646 2962,1723 3016,1580 491,1595" rendition="Line" xml:id="facs_3_r1l16"/>
+            <zone points="534,1843 3010,1806 3008,1723 2886,1700 533,1770" rendition="Line" xml:id="facs_3_r1l17"/>
+            <zone points="545,1982 2340,2004 3125,1930 3124,1860 2338,1892 2131,1820 543,1927" rendition="Line" xml:id="facs_3_r1l18"/>
+            <zone points="541,2109 3014,2101 3075,1988 539,2023" rendition="Line" xml:id="facs_3_r1l19"/>
+            <zone points="548,2254 782,2249 871,2213 974,2245 1044,2206 1249,2236 1303,2197 1396,2283 1489,2295 1488,2180 1341,2127 1210,2147 1081,2119 1002,2168 739,2131 660,2167 548,2155" rendition="Line" xml:id="facs_3_r1l20"/>
+            <zone points="1143,2311 1163,2313 1168,2306 1196,2326 1214,2309 1233,2308 1225,2196 1202,2197 1193,2205 1184,2205 1166,2223 1137,2221" rendition="Line" xml:id="facs_3_r1l21"/>
+            <zone points="755,2414 2146,2353 2665,2414 3060,2336 3059,2256 753,2306" rendition="Line" xml:id="facs_3_r1l22"/>
+            <zone points="555,2603 3141,2471 3139,2384 2896,2367 552,2437" rendition="Line" xml:id="facs_3_r1l23"/>
+            <zone points="570,2723 2954,2616 2974,2539 566,2608" rendition="Line" xml:id="facs_3_r1l24"/>
+            <zone points="572,2826 2930,2699 2927,2619 2603,2601 569,2724" rendition="Line" xml:id="facs_3_r1l25"/>
+            <zone points="567,2966 3124,2858 3119,2740 563,2873" rendition="Line" xml:id="facs_3_r1l26"/>
+            <zone points="574,3072 2665,3020 3101,2947 3098,2883 569,2966" rendition="Line" xml:id="facs_3_r1l27"/>
+            <zone points="577,3189 3154,3102 3150,3003 2589,2986 574,3099" rendition="Line" xml:id="facs_3_r1l28"/>
+            <zone points="582,3329 679,3346 753,3300 806,3326 942,3296 1135,3305 1189,3292 1186,3235 1092,3221 1042,3243 578,3255" rendition="Line" xml:id="facs_3_r1l29"/>
+            <zone points="809,3433 3051,3373 3047,3290 2851,3269 805,3334" rendition="Line" xml:id="facs_3_r1l30"/>
+            <zone points="2501,3547 2546,3543 2579,3517 2684,3545 2795,3494 2859,3491 2853,3434 2817,3425 2765,3453 2721,3431 2667,3469 2601,3428 2545,3437 2518,3462 2493,3465" rendition="Line" xml:id="facs_3_r1l31"/>
+            <zone points="588,3570 2493,3492 2489,3390 585,3487" rendition="Line" xml:id="facs_3_r1l32"/>
+            <zone points="2289,3562 2305,3563 2311,3560 2327,3568 2340,3555 2366,3557 2369,3502 2343,3501 2340,3498 2330,3500 2324,3506 2314,3500 2311,3503 2292,3502" rendition="Line" xml:id="facs_3_r1l33"/>
+            <zone points="601,3731 3075,3622 3000,3488 597,3648" rendition="Line" xml:id="facs_3_r1l34"/>
+            <zone points="606,3853 2846,3746 3007,3710 3002,3630 602,3789" rendition="Line" xml:id="facs_3_r1l35"/>
+            <zone points="2748,3896 2783,3886 2819,3908 2844,3891 2889,3890 2918,3918 2931,3905 2969,3905 2968,3834 2945,3828 2891,3839 2875,3830 2827,3831 2808,3841 2747,3835" rendition="Line" xml:id="facs_3_r1l36"/>
+            <zone points="601,4020 3012,3878 3058,3788 594,3908" rendition="Line" xml:id="facs_3_r1l37"/>
+            <zone points="1130,4162 1194,4158 1207,4145 1290,4160 1450,4156 1449,4040 1420,4041 1360,4083 1315,4070 1225,4081 1190,4062 1129,4078" rendition="Line" xml:id="facs_3_r1l38"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3344" lry="4256" xml:id="facs_4">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0004.jpeg" width="3344px" height="4256px"/>
+         <zone points="171,126 171,4200 3226,4200 3226,126" rendition="TextRegion" xml:id="facs_4_r1">
+            <zone points="2617,140 2633,140 2657,153 2673,143 2727,139 2744,156 2751,152 2757,159 2774,159 2773,55 2733,52 2723,62 2716,56 2672,53 2616,57" rendition="Line" xml:id="facs_4_r1l1"/>
+            <zone points="1325,249 1699,242 1791,296 2074,235 2365,251 2421,229 2418,95 2000,103 1914,166 1322,165" rendition="Line" xml:id="facs_4_r1l2"/>
+            <zone points="921,345 1015,344 1118,299 1168,325 1205,308 1249,338 1275,321 1335,333 1365,309 1405,312 1404,239 1170,238 1044,270 976,244 920,249" rendition="Line" xml:id="facs_4_r1l3"/>
+            <zone points="154,356 702,367 783,328 783,291 630,243 399,244 305,297 255,297 215,259 155,272" rendition="Line" xml:id="facs_4_r1l4"/>
+            <zone points="569,821 585,824 609,850 633,850 650,714 630,711 623,714 607,705 584,702" rendition="Line" xml:id="facs_4_r1l5"/>
+            <zone points="482,977 2976,907 2973,793 2805,785 479,856" rendition="Line" xml:id="facs_4_r1l6"/>
+            <zone points="513,1099 2713,1060 2711,973 2507,994 2399,916 2099,997 511,1012" rendition="Line" xml:id="facs_4_r1l7"/>
+            <zone points="783,1277 2916,1231 3099,1210 3096,1096 780,1167" rendition="Line" xml:id="facs_4_r1l8"/>
+            <zone points="497,1415 3017,1325 2965,1249 2556,1234 494,1301" rendition="Line" xml:id="facs_4_r1l9"/>
+            <zone points="512,1538 2969,1492 3006,1377 509,1444" rendition="Line" xml:id="facs_4_r1l10"/>
+            <zone points="504,1659 3105,1588 3070,1512 2701,1489 502,1565" rendition="Line" xml:id="facs_4_r1l11"/>
+            <zone points="510,1786 2717,1749 2687,1626 508,1692" rendition="Line" xml:id="facs_4_r1l12"/>
+            <zone points="511,1885 3039,1835 2786,1745 510,1788" rendition="Line" xml:id="facs_4_r1l13"/>
+            <zone points="518,2034 2921,1959 2869,1880 2440,1871 516,1964" rendition="Line" xml:id="facs_4_r1l14"/>
+            <zone points="516,2116 3082,2129 3078,1979 2937,1952 515,2053" rendition="Line" xml:id="facs_4_r1l15"/>
+            <zone points="525,2273 3076,2203 3044,2133 2398,2107 524,2202" rendition="Line" xml:id="facs_4_r1l16"/>
+            <zone points="518,2360 2818,2349 3052,2304 3050,2210 517,2320" rendition="Line" xml:id="facs_4_r1l17"/>
+            <zone points="1765,2416 1782,2415 1789,2421 1842,2416 1839,2316 1822,2317 1819,2313 1809,2320 1802,2314 1789,2314 1762,2319" rendition="Line" xml:id="facs_4_r1l18"/>
+            <zone points="527,2506 2855,2502 3021,2444 3019,2354 525,2439" rendition="Line" xml:id="facs_4_r1l19"/>
+            <zone points="538,2637 2906,2616 3029,2604 3027,2493 536,2556" rendition="Line" xml:id="facs_4_r1l20"/>
+            <zone points="536,2790 2967,2768 3243,2714 3241,2621 534,2716" rendition="Line" xml:id="facs_4_r1l21"/>
+            <zone points="789,2830 825,2819 852,2832 895,2811 919,2827 979,2819 1003,2838 1029,2811 1163,2818 1226,2790 1225,2757 1168,2745 1045,2754 997,2735 901,2767 824,2752 787,2769" rendition="Line" xml:id="facs_4_r1l22"/>
+            <zone points="535,2919 2908,2854 2852,2738 533,2842" rendition="Line" xml:id="facs_4_r1l23"/>
+            <zone points="528,3031 3049,2993 3047,2907 2748,2867 526,2947" rendition="Line" xml:id="facs_4_r1l24"/>
+            <zone points="544,3166 1749,3191 2907,3096 2905,3025 995,3030 542,3110" rendition="Line" xml:id="facs_4_r1l25"/>
+            <zone points="541,3290 1353,3352 3108,3220 2337,3141 540,3223" rendition="Line" xml:id="facs_4_r1l26"/>
+            <zone points="546,3457 653,3460 703,3426 783,3447 813,3422 1045,3466 1140,3406 1208,3435 1318,3415 1316,3345 1289,3339 875,3364 801,3342 751,3364 666,3320 543,3326" rendition="Line" xml:id="facs_4_r1l27"/>
+            <zone points="577,3572 2853,3520 2921,3434 574,3482" rendition="Line" xml:id="facs_4_r1l28"/>
+            <zone points="2590,3546 2607,3547 2625,3531 2638,3532 2670,3558 2721,3551 2757,3560 2788,3539 2812,3541 2814,3504 2668,3491 2658,3483 2594,3486" rendition="Line" xml:id="facs_4_r1l29"/>
+            <zone points="2451,3552 2480,3542 2530,3567 2558,3543 2595,3546 2589,3493 2573,3495 2558,3486 2539,3495 2528,3486 2516,3498 2446,3502" rendition="Line" xml:id="facs_4_r1l30"/>
+            <zone points="2394,3562 2410,3559 2413,3555 2419,3554 2423,3557 2443,3553 2434,3504 2385,3512" rendition="Line" xml:id="facs_4_r1l31"/>
+            <zone points="1950,3604 1973,3603 1990,3592 1997,3592 2007,3601 2017,3594 2037,3594 2035,3540 2011,3544 2002,3555 1995,3555 1981,3542 1961,3550 1948,3550" rendition="Line" xml:id="facs_4_r1l32"/>
+            <zone points="1905,3600 1955,3593 1949,3553 1933,3555 1930,3559 1926,3560 1919,3557 1899,3560" rendition="Line" xml:id="facs_4_r1l33"/>
+            <zone points="561,3731 2961,3665 2981,3567 557,3618" rendition="Line" xml:id="facs_4_r1l34"/>
+            <zone points="2211,3751 2336,3789 2399,3760 2533,3771 2755,3826 2842,3810 2960,3724 3124,3730 3122,3640 3095,3637 2852,3690 2754,3652 2671,3687 2597,3649 2379,3640 2294,3696 2210,3684" rendition="Line" xml:id="facs_4_r1l35"/>
+            <zone points="565,3904 1344,3804 1537,3864 1809,3800 2285,3816 2283,3749 2113,3681 560,3757" rendition="Line" xml:id="facs_4_r1l36"/>
+            <zone points="561,4095 887,4048 1056,4080 1474,3966 1915,3988 1905,3841 1716,3823 1315,3930 1004,3899 553,3965" rendition="Line" xml:id="facs_4_r1l37"/>
+            <zone points="1297,4155 2869,4122 2867,4042 2637,4063 2350,3931 1984,4059 1296,4089" rendition="Line" xml:id="facs_4_r1l38"/>
+            <zone points="2664,4175 2855,4172 2853,4128 2807,4133 2800,4127 2787,4141 2729,4119 2699,4131 2686,4118 2679,4125 2662,4125" rendition="Line" xml:id="facs_4_r1l39"/>
+         </zone>
+         <zone points="3102,4049 3102,4210 3305,4210 3305,4049" rendition="TextRegion" xml:id="facs_4_r2">
+            <zone points="3084,4155 3322,4152 3326,4029 3302,4024 3261,4047 3225,4035 3202,4014 3168,4027 3145,4016 3088,4024" rendition="Line" xml:id="facs_4_r2l1"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3344" lry="4320" xml:id="facs_5">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0005.jpeg" width="3344px" height="4320px"/>
+         <zone points="184,139 184,4191 3154,4191 3154,139" rendition="TextRegion" xml:id="facs_5_r1">
+            <zone points="1741,281 1828,240 1929,253 2252,212 2306,230 2403,202 2399,79 2311,78 2200,164 2102,147 2037,175 1737,171" rendition="Line" xml:id="facs_5_r1l1"/>
+            <zone points="911,324 1018,330 1122,302 1195,333 1267,317 1349,329 1418,297 1418,263 1374,263 1311,222 1282,219 1245,245 1182,232 1131,254 1100,242 1059,255 911,227" rendition="Line" xml:id="facs_5_r1l2"/>
+            <zone points="167,342 258,352 299,330 374,353 491,361 545,342 661,362 696,341 771,345 772,260 539,264 483,238 297,261 253,239 168,241" rendition="Line" xml:id="facs_5_r1l3"/>
+            <zone points="1463,815 1557,861 1693,838 1790,884 1965,909 2026,869 2082,886 2124,867 2126,704 2057,696 1959,735 1922,703 1833,718 1765,685 1666,749 1559,729 1464,759" rendition="Line" xml:id="facs_5_r1l4"/>
+            <zone points="504,1075 2958,973 2992,886 2253,866 1951,956 502,1028" rendition="Line" xml:id="facs_5_r1l5"/>
+            <zone points="504,1137 2896,1003 501,1074" rendition="Line" xml:id="facs_5_r1l6"/>
+            <zone points="512,1286 3016,1171 2907,1056 2529,1044 509,1195" rendition="Line" xml:id="facs_5_r1l7"/>
+            <zone points="512,1394 2853,1299 2950,1209 509,1324" rendition="Line" xml:id="facs_5_r1l8"/>
+            <zone points="537,1490 3004,1382 2975,1308 2421,1302 535,1421" rendition="Line" xml:id="facs_5_r1l9"/>
+            <zone points="529,1618 3075,1555 3068,1357 2659,1470 525,1518" rendition="Line" xml:id="facs_5_r1l10"/>
+            <zone points="543,1740 2174,1696 2540,1641 2538,1581 718,1601 541,1677" rendition="Line" xml:id="facs_5_r1l11"/>
+            <zone points="909,1843 1880,1755 2930,1778 3080,1741 3077,1653 905,1729" rendition="Line" xml:id="facs_5_r1l12"/>
+            <zone points="2949,1810 2965,1810 2984,1816 2987,1812 2994,1815 3000,1809 3031,1811 3030,1739 3014,1739 3008,1746 2989,1743 2973,1756 2948,1760" rendition="Line" xml:id="facs_5_r1l13"/>
+            <zone points="539,1938 3070,1880 3067,1804 2531,1791 536,1856" rendition="Line" xml:id="facs_5_r1l14"/>
+            <zone points="553,2033 3036,1958 3075,1884 550,1948" rendition="Line" xml:id="facs_5_r1l15"/>
+            <zone points="552,2099 724,2072 775,2092 964,2067 1056,2087 1162,2052 1160,2005 1031,2021 1005,1997 550,2033" rendition="Line" xml:id="facs_5_r1l16"/>
+            <zone points="559,2165 3020,2082 3017,2006 2157,1987 557,2099" rendition="Line" xml:id="facs_5_r1l17"/>
+            <zone points="568,2293 3039,2227 3073,2115 565,2212" rendition="Line" xml:id="facs_5_r1l18"/>
+            <zone points="569,2416 2940,2365 3030,2242 566,2337" rendition="Line" xml:id="facs_5_r1l19"/>
+            <zone points="578,2528 3029,2419 2853,2346 575,2449" rendition="Line" xml:id="facs_5_r1l20"/>
+            <zone points="579,2620 2132,2611 2086,2480 1889,2518 1730,2464 1395,2535 1145,2490 1046,2541 577,2554" rendition="Line" xml:id="facs_5_r1l21"/>
+            <zone points="859,2770 2330,2753 3027,2699 3025,2630 2324,2579 2166,2654 1676,2606 856,2670" rendition="Line" xml:id="facs_5_r1l22"/>
+            <zone points="569,2908 2867,2844 3080,2812 3078,2745 2670,2683 2373,2772 567,2842" rendition="Line" xml:id="facs_5_r1l23"/>
+            <zone points="596,3050 3091,2957 3087,2843 2998,2834 592,2928" rendition="Line" xml:id="facs_5_r1l24"/>
+            <zone points="591,3199 759,3121 3076,3058 2988,2983 586,3051" rendition="Line" xml:id="facs_5_r1l25"/>
+            <zone points="596,3279 3058,3227 3079,3094 594,3213" rendition="Line" xml:id="facs_5_r1l26"/>
+            <zone points="616,3398 2778,3337 3039,3316 3036,3224 613,3325" rendition="Line" xml:id="facs_5_r1l27"/>
+            <zone points="609,3512 2929,3452 3088,3425 3086,3355 605,3399" rendition="Line" xml:id="facs_5_r1l28"/>
+            <zone points="906,3556 2587,3527 2622,3425 1183,3462 905,3524" rendition="Line" xml:id="facs_5_r1l29"/>
+            <zone points="612,3628 2913,3585 3070,3558 3068,3476 610,3568" rendition="Line" xml:id="facs_5_r1l30"/>
+            <zone points="628,3730 3105,3649 3102,3571 2960,3556 625,3639" rendition="Line" xml:id="facs_5_r1l31"/>
+            <zone points="615,3853 3092,3774 3013,3679 612,3758" rendition="Line" xml:id="facs_5_r1l32"/>
+            <zone points="631,3964 3009,3932 3006,3825 2841,3813 629,3901" rendition="Line" xml:id="facs_5_r1l33"/>
+            <zone points="621,4095 2964,4061 3170,4020 3168,3935 618,4004" rendition="Line" xml:id="facs_5_r1l34"/>
+            <zone points="2467,4103 2574,4103 2572,4034 2556,4034 2507,4080 2498,4080 2491,4074 2466,4075" rendition="Line" xml:id="facs_5_r1l35"/>
+            <zone points="1506,4131 1627,4169 2156,4152 2153,4032 1937,4078 1883,4044 1782,4072 1709,4045 1581,4089 1506,4087" rendition="Line" xml:id="facs_5_r1l36"/>
+            <zone points="1124,4175 1178,4176 1212,4144 1255,4133 1335,4175 1382,4146 1432,4151 1430,4062 1395,4057 1376,4067 1351,4055 1336,4068 1313,4062 1251,4102 1123,4112" rendition="Line" xml:id="facs_5_r1l37"/>
+            <zone points="2033,4181 2130,4181 2131,4153 2090,4152 2087,4148 2078,4154 2034,4150" rendition="Line" xml:id="facs_5_r1l38"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3296" lry="4256" xml:id="facs_6">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0006.jpeg" width="3296px" height="4256px"/>
+         <zone points="174,101 174,4149 3045,4149 3045,101" rendition="TextRegion" xml:id="facs_6_r1">
+            <zone points="2052,111 2123,106 2136,115 2170,99 2232,110 2258,131 2307,108 2370,126 2368,54 2309,65 2144,53 2051,64" rendition="Line" xml:id="facs_6_r1l1"/>
+            <zone points="909,312 968,315 1009,292 1062,304 1108,282 1136,304 1211,284 1258,306 1323,305 1385,292 1385,220 1341,221 1282,193 1179,210 1117,198 1011,221 964,199 908,219" rendition="Line" xml:id="facs_6_r1l2"/>
+            <zone points="159,331 346,308 411,330 757,318 758,221 344,215 297,245 160,219" rendition="Line" xml:id="facs_6_r1l3"/>
+            <zone points="502,989 518,990 530,1000 548,1005 565,993 592,1008 607,1009 613,925 598,924 589,914 564,918 543,907 533,913 508,908" rendition="Line" xml:id="facs_6_r1l4"/>
+            <zone points="501,1101 921,1083 1053,1133 1179,1082 1403,1064 1401,986 1295,979 1181,1020 1067,973 941,1024 881,988 498,999" rendition="Line" xml:id="facs_6_r1l5"/>
+            <zone points="494,1209 1699,1226 1755,1206 1753,1128 1062,1123 966,1166 853,1122 493,1181" rendition="Line" xml:id="facs_6_r1l6"/>
+            <zone points="797,1350 2948,1336 2945,1164 2399,1262 796,1290" rendition="Line" xml:id="facs_6_r1l7"/>
+            <zone points="495,1487 2344,1420 2694,1505 2936,1427 2934,1318 2825,1316 494,1385" rendition="Line" xml:id="facs_6_r1l8"/>
+            <zone points="514,1592 2454,1626 2958,1571 3023,1480 513,1490" rendition="Line" xml:id="facs_6_r1l9"/>
+            <zone points="502,1756 2905,1704 3004,1603 501,1672" rendition="Line" xml:id="facs_6_r1l10"/>
+            <zone points="512,1893 575,1890 624,1903 724,1835 783,1863 811,1860 812,1783 784,1789 753,1760 728,1773 706,1757 684,1763 663,1751 638,1766 610,1750 569,1769 513,1762" rendition="Line" xml:id="facs_6_r1l11"/>
+            <zone points="806,2043 2765,2019 3048,2001 3048,1939 805,1912" rendition="Line" xml:id="facs_6_r1l12"/>
+            <zone points="520,2154 2271,2175 3017,2094 2923,2026 519,2058" rendition="Line" xml:id="facs_6_r1l13"/>
+            <zone points="2329,2195 2360,2189 2386,2203 2447,2191 2467,2202 2490,2181 2539,2204 2578,2185 2619,2188 2663,2153 2695,2162 2688,2082 2631,2080 2551,2122 2522,2115 2420,2134 2377,2106 2323,2133" rendition="Line" xml:id="facs_6_r1l14"/>
+            <zone points="521,2324 2887,2245 2690,2147 520,2206" rendition="Line" xml:id="facs_6_r1l15"/>
+            <zone points="524,2450 1743,2378 2348,2436 2662,2360 2918,2447 3010,2322 2582,2252 522,2326" rendition="Line" xml:id="facs_6_r1l16"/>
+            <zone points="529,2550 2690,2556 2895,2537 2894,2441 527,2450" rendition="Line" xml:id="facs_6_r1l17"/>
+            <zone points="520,2680 3011,2664 3010,2567 2707,2544 519,2567" rendition="Line" xml:id="facs_6_r1l18"/>
+            <zone points="522,2831 2997,2773 2933,2659 521,2743" rendition="Line" xml:id="facs_6_r1l19"/>
+            <zone points="523,2965 2997,2870 2959,2803 2148,2791 520,2899" rendition="Line" xml:id="facs_6_r1l20"/>
+            <zone points="527,3087 3049,3012 3043,2888 524,3009" rendition="Line" xml:id="facs_6_r1l21"/>
+            <zone points="544,3247 944,3215 1055,3247 1152,3197 1392,3181 1768,3213 1762,3120 1639,3092 1094,3151 945,3106 539,3163" rendition="Line" xml:id="facs_6_r1l22"/>
+            <zone points="835,3382 2936,3256 2931,3178 2772,3172 1785,3257 1638,3200 963,3330 828,3273" rendition="Line" xml:id="facs_6_r1l23"/>
+            <zone points="563,3553 2273,3400 3065,3443 3026,3274 559,3473" rendition="Line" xml:id="facs_6_r1l24"/>
+            <zone points="1708,3516 1730,3510 1752,3516 1774,3507 1808,3536 1827,3520 1886,3518 1886,3474 1858,3474 1815,3449 1800,3451 1784,3436 1750,3463 1709,3463" rendition="Line" xml:id="facs_6_r1l25"/>
+            <zone points="558,3681 2504,3522 2903,3570 2965,3447 1510,3483 554,3610" rendition="Line" xml:id="facs_6_r1l26"/>
+            <zone points="583,3780 3019,3607 2103,3571 579,3712" rendition="Line" xml:id="facs_6_r1l27"/>
+            <zone points="579,3901 2980,3771 3004,3657 1602,3788 1156,3744 576,3851" rendition="Line" xml:id="facs_6_r1l28"/>
+            <zone points="594,4006 1102,4057 1842,3910 2952,3897 2945,3776 2792,3762 2463,3849 2148,3800 590,3935" rendition="Line" xml:id="facs_6_r1l29"/>
+            <zone points="1370,4102 1544,4090 1633,4122 1731,4087 1825,4100 1822,3994 1744,3990 1676,4017 1638,4003 1614,4026 1570,4011 1511,4029 1367,4015" rendition="Line" xml:id="facs_6_r1l30"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3248" lry="4192" xml:id="facs_7">
+         <graphic url="F_02_Ausschnitte-1933-Undated_1924-Benvenisti-Manuskript_0007.jpeg" width="3248px" height="4192px"/>
+         <zone points="172,0 172,1022 2949,1022 2949,0" rendition="TextRegion" xml:id="facs_7_r1">
+            <zone points="2173,115 2194,114 2212,125 2224,115 2236,120 2250,107 2272,109 2264,-14 2165,-14" rendition="Line" xml:id="facs_7_r1l1"/>
+            <zone points="911,230 953,230 1001,197 1094,224 1130,209 1172,226 1274,211 1331,232 1391,214 1391,141 1364,148 1334,121 1298,118 1277,133 1166,133 1147,118 1036,143 1003,122 970,137 910,119" rendition="Line" xml:id="facs_7_r1l2"/>
+            <zone points="158,217 299,254 389,228 512,250 629,223 701,236 782,212 783,152 564,139 539,157 455,138 353,147 293,188 242,143 158,163" rendition="Line" xml:id="facs_7_r1l3"/>
+            <zone points="521,678 2901,593 2918,346 2132,500 1955,443 1369,560 1003,468 756,578 514,552" rendition="Line" xml:id="facs_7_r1l4"/>
+            <zone points="535,882 704,927 1084,802 1599,867 1831,731 2251,808 2965,726 2957,609 2606,579 2434,666 1412,633 901,779 523,705" rendition="Line" xml:id="facs_7_r1l5"/>
+            <zone points="533,1003 618,988 838,1053 904,1059 937,1039 988,1056 1028,1036 1084,1062 1092,843 1023,838 934,892 875,865 807,911 704,928 595,882 538,883" rendition="Line" xml:id="facs_7_r1l6"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/> 
+               <lb facs="#facs_1_r1l2" n="N002"/> —
+               <lb facs="#facs_1_r1l3" n="N003"/>box 38/4
+               <lb facs="#facs_1_r1l4" n="N004"/>2. Cuttings
+               <lb facs="#facs_1_r1l5" n="N005"/>ARTHUR SGHNITTLER: 4 NA· SHOTE
+               <lb facs="#facs_1_r1l6" n="N006"/>Za
+               <lb facs="#facs_1_r1l7" n="N007"/>7
+               <lb facs="#facs_1_r1l8" n="N008"/>lie strikes one as a nan cho nseds all tue ferce of his persch ality te Heep
+               <lb facs="#facs_1_r1l9" n="N009"/>+ gl Seai
+               <lb facs="#facs_1_r1l10" n="N010"/>his overvhelning brains queit. That is the doninant inpression I had aftar
+               <lb facs="#facs_1_r1l11" n="N011"/>tventy minutns of the nost inspiring talk I have enjored vith anv nan for
+               <lb facs="#facs_1_r1l12" n="N012"/>h nonths
+               <lb facs="#facs_1_r1l13" n="N013"/>In a a tnis inpressich conas as a surprise. 7or there are in
+               <lb facs="#facs_1_r1l14" n="N014"/>Schnitzler’s vriting certain qualities of suavity which lige the outword ge¬
+               <lb facs="#facs_1_r1l15" n="N015"/>serve of a vell mannered person, are only the outcone of good artistis
+               <lb facs="#facs_1_r1l16" n="N016"/>breeing, put shich to superficial people belie the real teuperanent both#
+               <lb facs="#facs_1_r1l17" n="N017"/>of the artist and the nan. Egen a syupathetic and inaginitive study of Sehn##¬.
+               <lb facs="#facs_1_r1l18" n="N018"/>Rohnig-ler ’s vorks vill not alvars correct the error, and that is vhy#l
+               <lb facs="#facs_1_r1l19" n="N019"/>as deubt less nany others, have ione bafore me, cans ta hin, axpectingto
+               <lb facs="#facs_1_r1l20" n="N020"/>find a perschality cold, polished and courteous, a nan of urbane soep¬
+               <lb facs="#facs_1_r1l21" n="N021"/>ticisn, and gentle dist llusionnents, a tenperauental agnostic, chastened of
+               <lb facs="#facs_1_r1l22" n="N022"/>both anger and enthousiasn.
+               <lb facs="#facs_1_r1l23" n="N023"/>Of ccurse all these things are precisely, vhat Schniteler 4
+               <lb facs="#facs_1_r1l24" n="N024"/>is not. Tue first thing that striges one about hin, is ## nost lov####
+               <lb facs="#facs_1_r1l25" n="N025"/>varnth and fapetuousness He is voth nentally an: physicaly a young nan,
+               <lb facs="#facs_1_r1l26" n="N026"/>despite his years. His ere is clear, his chnplexion rosey, and his grey K
+               <lb facs="#facs_1_r1l27" n="N027"/>hair and beard are shot vith streaks of blond. In his nantal attituda
+               <lb facs="#facs_1_r1l28" n="N028"/>Schniteler is equally vouthful. Thataver subliegt he touches, he is inedi¬
+               <lb facs="#facs_1_r1l29" n="N029"/>atel, on fire. Bis vhole haart is in his talk, and he spends hinself in it a
+               <lb facs="#facs_1_r1l30" n="N030"/>as recklessl, as a boy of eighteen.
+               <lb facs="#facs_1_r1l31" n="N031"/>100
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1">
+               <lb facs="#facs_2_r1l1" n="N001"/>   e
+               <lb facs="#facs_2_r1l2" n="N002"/>box 38/4
+               <lb facs="#facs_2_r1l3" n="N003"/>2. Cuttings
+               <lb facs="#facs_2_r1l4" n="N004"/>I Tound Sohnitzler in his little house in the outer distriot of
+               <lb facs="#facs_2_r1l5" n="N005"/>Vienna, in itself no nean achievenent (finlin, nin, 1 nean]) for Schnitzler
+               <lb facs="#facs_2_r1l6" n="N006"/>is one of tne uost sougnt after people in zurope and nas nore or liss te
+               <lb facs="#facs_2_r1l7" n="N007"/>barricade ninseif against intruners, Schnitzlek had broken off sone diota¬
+               <lb facs="#facs_2_r1l8" n="N008"/>tign to oone donn to ue, and had so to speak to rub his eyes a little be¬
+               <lb facs="#facs_2_r1l9" n="N009"/>fore he could launch out in the nev topic. Also he seened at first dis¬
+               <lb facs="#facs_2_r1l10" n="N010"/>hrclined to grant the intervien.
+               <lb facs="#facs_2_r1l11" n="N011"/>I neVer give intervievs,“said 411 I have to say on the Je¬
+               <lb facs="#facs_2_r1l12" n="N012"/>vish question 1. in ay book Der VEd IN’S FREIE.“ I reccnnend-— —
+               <lb facs="#facs_2_r1l13" n="N013"/>VHErr Dootor,] I said,’I have not read Der Jeg in's Freie onde but
+               <lb facs="#facs_2_r1l14" n="N014"/>three tines and it is to disouss that pock I have ooue to you. #
+               <lb facs="#facs_2_r1l15" n="N015"/>An extraordinarily sueet suile broke out over Sonnitzler's face.
+               <lb facs="#facs_2_r1l16" n="N016"/>You are very flattering,'e said. and motioned #e to a seet.
+               <lb facs="#facs_2_r1l17" n="N017"/>Ani gette eus enly ve vers talking tegether at-e1##.
+               <lb facs="#facs_2_r1l18" n="N018"/>Talziag to Seaniteler is a islightful business. Tue sand sense of
+               <lb facs="#facs_2_r1l19" n="N019"/>Frade andiere t#rt is so per eotiple in nis Jooka, is evident in bis talk
+               <lb facs="#facs_2_r1l20" n="N020"/>ans searing, despite uis venesence and ready enthfustssn, die bas anong other
+               <lb facs="#facs_2_r1l21" n="N021"/>tnings a perfect gentus for lettlng hiaself be interrupted, If he sees von
+               <lb facs="#facs_2_r1l22" n="N022"/>have Sosetning 1o sa. var s yon olf se t. Speus for couple of senten
+               <lb facs="#facs_2_r1l23" n="N023"/>#es, un ##en 1te. Jou a Trsotion of a secchl to leap into tne talz, It
+               <lb facs="#facs_2_r1l24" n="N024"/>is lise an ooliging ous ariver alosing dosn netiuen the offioial stg
+               <lb facs="#facs_2_r1l25" n="N025"/>stopping places.
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_r1">
+               <lb facs="#facs_3_r1l1" n="N001"/>e
+               <lb facs="#facs_3_r1l2" n="N002"/>1
+               <lb facs="#facs_3_r1l3" n="N003"/>—
+               <lb facs="#facs_3_r1l4" n="N004"/>box 38/4
+               <lb facs="#facs_3_r1l5" n="N005"/>2. Cuttings
+               <lb facs="#facs_3_r1l6" n="N006"/>She
+               <lb facs="#facs_3_r1l7" n="N007"/>30
+               <lb facs="#facs_3_r1l8" n="N008"/>and
+               <lb facs="#facs_3_r1l9" n="N009"/>As olle Speaks to nig, g#r bscones consoicus oß this terrifio deph
+               <lb facs="#facs_3_r1l10" n="N010"/>am intenstty of feeling of the cöntinous mental rush going on vithllthe san,
+               <lb facs="#facs_3_r1l11" n="N011"/>One foras sone oonception of the dsgree of unrelenting dtsoipline it nust
+               <lb facs="#facs_3_r1l12" n="N012"/>oost Schnitzler to have shat he is namely ous of tns aost polished and
+               <lb facs="#facs_3_r1l13" n="N013"/>urbane
+               <lb facs="#facs_3_r1l14" n="N014"/>writers in contenporary Surope, dos eastly that quiok sensitizi¬
+               <lb facs="#facs_3_r1l15" n="N015"/>##, tnat over read) response of tne heart night have swanped his Judge¬
+               <lb facs="#facs_3_r1l16" n="N016"/>nent and dissed his taste. I! Schnitzler hadt not been Schnitzler, he vould
+               <lb facs="#facs_3_r1l17" n="N017"/>one feels (not vithont a silent tnanksgiving to Heaven for a calanity so
+               <lb facs="#facs_3_r1l18" n="N018"/>nearly avertes] havs aase ene of those prolifio enotionel vriters, vho des¬
+               <lb facs="#facs_3_r1l19" n="N019"/>pite tue presenos ol rea, talent never rise higher than the second rank in
+               <lb facs="#facs_3_r1l20" n="N020"/>the artistie hierarchy.
+               <lb facs="#facs_3_r1l21" n="N021"/>—
+               <lb facs="#facs_3_r1l22" n="N022"/>The truth it that tnere arn tuo Schritelers. Toere 18 tre enotional
+               <lb facs="#facs_3_r1l23" n="N023"/>Schattzler vith tun irrisistable oreative urge In hin, aus ühere in bis von¬
+               <lb facs="#facs_3_r1l24" n="N024"/>tor varder am. faziliar spirit, tue oritical Schnitzler, and it 1s oy a
+               <lb facs="#facs_3_r1l25" n="N025"/>volraboration el ind #ao separats individuals tnat Senritzler's voras
+               <lb facs="#facs_3_r1l26" n="N026"/>oone into being. Tnis oritioal Sohnitzler, 1 don't sind telling you, is the
+               <lb facs="#facs_3_r1l27" n="N027"/>devil ci a fellos, de is persistant vateful ans utterly unrelenting. Sven
+               <lb facs="#facs_3_r1l28" n="N028"/>in nis oun donuin, aaving no cther onjeot for his fuht, he turns and lei¬
+               <lb facs="#facs_3_r1l29" n="N029"/>cerates ninsel1.
+               <lb facs="#facs_3_r1l30" n="N030"/>#inen T atteupt ang sort of eritteal or reflective eriting, said
+               <lb facs="#facs_3_r1l31" n="N031"/> 
+               <lb facs="#facs_3_r1l32" n="N032"/>Sahnitzler,“1 an nal strangled sr ny oun perantheses
+               <lb facs="#facs_3_r1l33" n="N033"/>K
+               <lb facs="#facs_3_r1l34" n="N034"/>I resespor thicking at ##e tiss tnat Joi nad originall)y iotented Sohnitz¬
+               <lb facs="#facs_3_r1l35" n="N035"/>1er Ter a aort o. Upton Sinolair, ane the. ## the last sinute ananged
+               <lb facs="#facs_3_r1l36" n="N036"/>able
+               <lb facs="#facs_3_r1l37" n="N037"/>nis sind.] in uther soras Scanitaler is one uf thosn hot altogsther envi¬
+               <lb facs="#facs_3_r1l38" n="N038"/>
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <ab facs="#facs_4_r1">
+               <lb facs="#facs_4_r1l1" n="N001"/>1
+               <lb facs="#facs_4_r1l2" n="N002"/>
+               <lb facs="#facs_4_r1l3" n="N003"/>box 38/4
+               <lb facs="#facs_4_r1l4" n="N004"/>2. Cuttings
+               <lb facs="#facs_4_r1l5" n="N005"/>40
+               <lb facs="#facs_4_r1l6" n="N006"/>whose Jungenents and critical faculty nsVer heve a holiday, It 18 a heavy
+               <lb facs="#facs_4_r1l7" n="N007"/>price to pay, but in Sohnitzler's case the gane is worth oandle.
+               <lb facs="#facs_4_r1l8" n="N008"/>That Schnitzler should uave had pienty to say on the dixtan xxin#
+               <lb facs="#facs_4_r1l9" n="N009"/>Jevisn question, vas only to be expeoted. fe nas written about it Nnough.
+               <lb facs="#facs_4_r1l10" n="N010"/>TProfessor Berngerdi' touches it . Tue innortal ineffable Lietnant Gust!“
+               <lb facs="#facs_4_r1l11" n="N011"/>is full of it. sut above all'Der Veg in's Freie' is renarkable for its bril
+               <lb facs="#facs_4_r1l12" n="N012"/>liant, 1 night alnost say its brutal treatnent of this subject.
+               <lb facs="#facs_4_r1l13" n="N013"/>In Heinrich Beurnann, the lewisn literateurhe has drasn vith such naster¬
+               <lb facs="#facs_4_r1l14" n="N014"/>1, asskkasg dispaesionate aceuracy a certain type of oentral European
+               <lb facs="#facs_4_r1l15" n="N015"/>Jen, that 1 havé alvays neintarnel nostudy of the levish question oould be
+               <lb facs="#facs_4_r1l16" n="N016"/>const#ered couplete without a perusal of this work. Jehrnann i8 by no neans
+               <lb facs="#facs_4_r1l17" n="N017"/>a perfeot being, de is oversensitive self analytioal, and I an very auch
+               <lb facs="#facs_4_r1l18" n="N018"/>#
+               <lb facs="#facs_4_r1l19" n="N019"/>afraid Ino linen to be tactlessand yet à nan 9f real abflitg and nany vir¬
+               <lb facs="#facs_4_r1l20" n="N020"/>tues. Sirounstances have, I thing aade Behrnann vhet ne 18, and thougn 1#
+               <lb facs="#facs_4_r1l21" n="N021"/>coula not get hin to nake a definite pronouncenent on the subject, Zan
+               <lb facs="#facs_4_r1l22" n="N022"/>E beien
+               <lb facs="#facs_4_r1l23" n="N023"/>inolined tnat Schnitzler thinks so tco. Pot I disoussed Behrnann with
+               <lb facs="#facs_4_r1l24" n="N024"/>Schnitzler just as I would däscuss a liVin; person. Thers vas nothing in¬
+               <lb facs="#facs_4_r1l25" n="N025"/>oongrouous abölt tnis, beoauge Behrnann happenes to be alive. Iu Von
+               <lb facs="#facs_4_r1l26" n="N026"/>will nest all over Vienna, or for tnat natter vith a slightly different ao¬
+               <lb facs="#facs_4_r1l27" n="N027"/>cent all over Gerdany
+               <lb facs="#facs_4_r1l28" n="N028"/>LnLlntate-vin h#ightatter the Oper# aroneuf-#iese
+               <lb facs="#facs_4_r1l29" n="N029"/>—
+               <lb facs="#facs_4_r1l30" n="N030"/>
+               <lb facs="#facs_4_r1l31" n="N031"/>N
+               <lb facs="#facs_4_r1l32" n="N032"/>G
+               <lb facs="#facs_4_r1l33" n="N033"/>—
+               <lb facs="#facs_4_r1l34" n="N034"/>excellent Viennise sauvage stalze: de sat opposite ne in the restauzant
+               <lb facs="#facs_4_r1l35" n="N035"/>t#e dranati##aritio of the-
+               <lb facs="#facs_4_r1l36" n="N036"/>car, ooning##p fron Salze#etentell be 18
+               <lb facs="#facs_4_r1l37" n="N037"/>put vernaha- Ahlt In- Sanbalag pergonel—
+               <lb facs="#facs_4_r1l38" n="N038"/>e 
+               <lb facs="#facs_4_r1l39" n="N039"/>
+            </ab>
+            <ab facs="#facs_4_r2">
+               <lb facs="#facs_4_r2l1" n="N001"/>W
+            </ab>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <ab facs="#facs_5_r1">
+               <lb facs="#facs_5_r1l1" n="N001"/>
+               <lb facs="#facs_5_r1l2" n="N002"/>box 38/4
+               <lb facs="#facs_5_r1l3" n="N003"/>2. Cuttings
+               <lb facs="#facs_5_r1l4" n="N004"/>sa Selug (
+               <lb facs="#facs_5_r1l5" n="N005"/>Tne solution ## the Jerish prooles is one shich esch undividual aust find
+               <lb facs="#facs_5_r1l6" n="N006"/>for hisself. Tnere 15 no geseral sdlution. Zionisn does not seen to ne
+               <lb facs="#facs_5_r1l7" n="N007"/>to oe a solution at all. it sors to as too suoh aotated oy sudien Ispul)
+               <lb facs="#facs_5_r1l8" n="N008"/>ses, 09 resentaent, 5y anern desire to escape fron one Is envirowlent
+               <lb facs="#facs_5_r1l9" n="N009"/>nd scaroely over to spring fros # vell reasoned deoision. This does not .
+               <lb facs="#facs_5_r1l10" n="N010"/>prevent an Irca enairing Ziorisn, 1 aleire peoele vho can reach out so hig
+               <lb facs="#facs_5_r1l11" n="N011"/>and greau so spleniialy, eut tney will never oonsinoe #0
+               <lb facs="#facs_5_r1l12" n="N012"/>1 neet erdly peint out that the Zionist plays aotizely into th
+               <lb facs="#facs_5_r1l13" n="N013"/>∆
+               <lb facs="#facs_5_r1l14" n="N014"/>hanis ol tue anti-Seaite, He oonfesses to a veaknens in our position shioh
+               <lb facs="#facs_5_r1l15" n="N015"/>## inn does pot existe.M. parents ocne pros Hungary, but ny desire takes
+               <lb facs="#facs_5_r1l16" n="N016"/>da Pace cse
+               <lb facs="#facs_5_r1l17" n="N017"/>berssetneettu#rgtenlleggery nor ##lestine, I root here in Vienna, ay hose
+               <lb facs="#facs_5_r1l18" n="N018"/>and thc hose 91 a. Jeuth.l nave groen up ttentfkying nyself vitn the nigh)
+               <lb facs="#facs_5_r1l19" n="N019"/>Is inaiviaual oulter, i us zurt ## It, an: in 1s part of s0. Thr snould
+               <lb facs="#facs_5_r1l20" n="N020"/>Thy should 1 leave this oountry# ##ceuse a fev ignorant aus i11brod fools
+               <lb facs="#facs_5_r1l21" n="N021"/>of anti-Seuites tel #e 1 do net belong here.
+               <lb facs="#facs_5_r1l22" n="N022"/>o i believe that tnere 1s un basio indiviiual Jevish oberaoter
+               <lb facs="#facs_5_r1l23" n="N023"/>apart fros vertal traizs shien environnent has forced unon it: That 1s a
+               <lb facs="#facs_5_r1l24" n="N024"/>aifficult questionan yet I anould 1: anything ve tnolinen to e negative,
+               <lb facs="#facs_5_r1l25" n="N025"/>ansveri 1o not Solieve tnat ene Jev it essentially atft##ant spiritually
+               <lb facs="#facs_5_r1l26" n="N026"/>dilferent er tnat thore is a #tfferende of spiritual rytha betveen hin a
+               <lb facs="#facs_5_r1l27" n="N027"/>ine gentile. Tu# attitude of the vorli tovards his has produced oertain
+               <lb facs="#facs_5_r1l28" n="N028"/>payonolegieal nontfiostions. Ters asar thi attitute, und those nodiffoa¬
+               <lb facs="#facs_5_r1l29" n="N029"/>bnurn Aal da dspmi ahe eutn e
+               <lb facs="#facs_5_r1l30" n="N030"/>tich 
+               <lb facs="#facs_5_r1l31" n="N031"/>t###undlest Sert vere tone tagen tor anotner eountry Kept in 1 noranor
+               <lb facs="#facs_5_r1l32" n="N032"/>of its origin an: 11 taat origin vere also sept fron its assoolates, thaf
+               <lb facs="#facs_5_r1l33" n="N033"/>tnis enild vould gros up absolutely Mnoonsoiousof a uifferenos setveen
+               <lb facs="#facs_5_r1l34" n="N034"/>itself aus i#s pla, nates, ezoept perhaps tnat it signt ievelonx and beoome¬
+               <lb facs="#facs_5_r1l35" n="N035"/>Sahenen
+               <lb facs="#facs_5_r1l36" n="N036"/>
+               <lb facs="#facs_5_r1l37" n="N037"/>D
+               <lb facs="#facs_5_r1l38" n="N038"/>e
+            </ab>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_r1">
+               <lb facs="#facs_6_r1l1" n="N001"/>de
+               <lb facs="#facs_6_r1l2" n="N002"/>box 38/4
+               <lb facs="#facs_6_r1l3" n="N003"/>2. Cuttings
+               <lb facs="#facs_6_r1l4" n="N004"/>6
+               <lb facs="#facs_6_r1l5" n="N005"/>absolutalgs ##nnse deuszot
+               <lb facs="#facs_6_r1l6" n="N006"/>aware of a keener and quicker brain.
+               <lb facs="#facs_6_r1l7" n="N007"/>I an howerer conpalled to aduit tnat thers is a sort of Freena)
+               <lb facs="#facs_6_r1l8" n="N008"/>sonary between Jews. Ve unconsciously feel cur war to one another more
+               <lb facs="#facs_6_r1l9" n="N009"/>quickl, than ve do to gentiles. Thers is a readder unspoken understanding,
+               <lb facs="#facs_6_r1l10" n="N010"/>But hos far this iupdies an actual being different on our part I hesitate
+               <lb facs="#facs_6_r1l11" n="N011"/>to say
+               <lb facs="#facs_6_r1l12" n="N012"/>Vh anti-Seuitisn has gained so nuch in strength recently?I think
+               <lb facs="#facs_6_r1l13" n="N013"/>it has to de with the general state the world is in at present - Renenber
+               <lb facs="#facs_6_r1l14" n="N014"/>04, 68#
+               <lb facs="#facs_6_r1l15" n="N015"/>that a ware of hate has swept over the peocles of the gauld, anf that
+               <lb facs="#facs_6_r1l16" n="N016"/>nate is a verv real deeß rooted instinct, ghich nust have its vent onde
+               <lb facs="#facs_6_r1l17" n="N017"/>it is aroused. Sons ooject nust be found fer it, and it is therefore
+               <lb facs="#facs_6_r1l18" n="N018"/>not unnaturally, that it ooncentrates on a secticn of the connunity that
+               <lb facs="#facs_6_r1l19" n="N019"/>engoys a certain traditional privelege of persecution, a section of the
+               <lb facs="#facs_6_r1l20" n="N020"/>ccnnunity, noreoher, Nhich for sone reason er other is veakened by un ex¬
+               <lb facs="#facs_6_r1l21" n="N021"/>cessive ebfectivity and by a certain inclina tion to self anlyses, and is
+               <lb facs="#facs_6_r1l22" n="N022"/>therefore perhaps à readéer rictin.
+               <lb facs="#facs_6_r1l23" n="N023"/>De I thing tnat tue Jeus are a creative pedpler I nost unbs¬
+               <lb facs="#facs_6_r1l24" n="N024"/>sttattagl: ansser that 1 do. Lock at tue naues tnat tne ve can snon rithin
+               <lb facs="#facs_6_r1l25" n="N025"/>Jeia
+               <lb facs="#facs_6_r1l26" n="N026"/>a shost space of tise. in nuste Richari Strauss and Gustar Nahler In
+               <lb facs="#facs_6_r1l27" n="N027"/>painting Van Lisbernann, in literaturs s chole nost of nanes . Vore than
+               <lb facs="#facs_6_r1l28" n="N028"/>tnat 1 beltere #e arc on verge of great leutsn renaissance. Who+ Ux.
+               <lb facs="#facs_6_r1l29" n="N029"/>absue Mug 1e Kal Judann, nas &amp; dugen Ide 2e#¬
+               <lb facs="#facs_6_r1l30" n="N030"/>
+            </ab>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <ab facs="#facs_7_r1">
+               <lb facs="#facs_7_r1l1" n="N001"/>—
+               <lb facs="#facs_7_r1l2" n="N002"/>box 38/4
+               <lb facs="#facs_7_r1l3" n="N003"/>2. Cuttings
+               <lb facs="#facs_7_r1l4" n="N004"/>sen luf We u a. emiut e dorekag ue
+               <lb facs="#facs_7_r1l5" n="N005"/>ac mr wi # suh # hr i muud besome.
+               <lb facs="#facs_7_r1l6" n="N006"/>dbhger
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

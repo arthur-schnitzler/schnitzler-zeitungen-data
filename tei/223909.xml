@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">A_12_Andreas-Thameyer</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">A_12_Andreas-Thameyer</title><idno type="Transkribus">223909</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3344" lry="4064" xml:id="facs_1">
+         <graphic url="A_12_Andreas-Thameyer_30647_00001.jpeg" width="3344px" height="4064px"/>
+         <zone points="270,236 270,2550 2466,2550 2466,236" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="1305,267 1928,272 1928,206 1880,196 1747,205 1719,189 1673,213 1584,217 1526,193 1470,193 1446,215 1305,196" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="835,264 957,276 1066,273 1084,259 1108,274 1277,263 1275,201 1258,197 1200,217 1122,194 1049,226 1029,212 1001,223 971,206 926,217 834,197" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="2068,279 2166,283 2251,312 2299,288 2359,287 2476,313 2477,194 2344,189 2176,220 2143,194 2113,205 2069,185" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="261,310 309,300 355,321 471,271 808,266 807,227 749,198 634,211 560,183 465,226 333,210 303,190 260,199" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="464,299 1148,348 1498,293 2075,320 2075,247 464,266" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="1401,1222 1502,1209 1570,1235 1645,1210 1712,1218 1737,1236 1787,1229 1791,1171 1751,1171 1686,1133 1615,1146 1556,1137 1467,1067 1411,1066" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="1046,1254 1181,1291 1435,1278 1576,1340 1801,1313 2163,1355 2257,1328 2265,1211 1873,1170 1739,1235 1049,1207" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="1965,2576 1989,2568 2031,2572 2064,2555 2086,2565 2102,2553 2138,2572 2160,2572 2159,2453 2135,2447 2113,2457 2081,2446 2059,2462 2041,2454 2026,2468 1964,2469" rendition="Line" xml:id="facs_1_r1l8"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>letzter Brief
+               <lb facs="#facs_1_r1l2" n="N002"/>Thanevers
+               <lb facs="#facs_1_r1l3" n="N003"/>box 2/2
+               <lb facs="#facs_1_r1l4" n="N004"/>12. Andreas
+               <lb facs="#facs_1_r1l5" n="N005"/> n   C  — I    4— — U 4  I WL
+               <lb facs="#facs_1_r1l6" n="N006"/>as  —
+               <lb facs="#facs_1_r1l7" n="N007"/>Ansschnit aun: Mosgreis Prosse, Wie
+               <lb facs="#facs_1_r1l8" n="N008"/>le Vorlesse
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

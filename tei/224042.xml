@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">C_12_Anatols-Größenwahn</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">C_12_Anatols-Größenwahn</title><idno type="Transkribus">224042</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3392" lry="4352" xml:id="facs_1">
+         <graphic url="C_12_Anatols-Gro%CC%88%C3%9Fenwahn_30161_0001.jpeg" width="3392px" height="4352px"/>
+         <zone points="141,172 141,3008 2959,3008 2959,172" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="978,193 998,198 1004,194 1008,200 1010,198 1022,200 1035,135 1026,133 1021,135 1012,133 1009,135 990,131" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="860,221 952,213 1089,218 1104,209 1151,216 1151,164 1127,162 1104,176 1073,162 1049,173 1035,166 995,196 943,161 861,160" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="130,276 1945,238 2042,215 2041,156 915,216 803,154 128,182" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="544,1242 674,1284 752,1262 971,1262 1004,1283 1061,1261 1146,1280 1146,1211 1004,1181 952,1205 914,1184 643,1211 591,1192 544,1218" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="687,1436 720,1431 736,1445 786,1431 840,1451 883,1434 949,1450 980,1431 979,1355 792,1355 769,1367 686,1358" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="2157,1436 2176,1434 2188,1444 2205,1437 2228,1450 2238,1445 2256,1453 2280,1441 2301,1449 2311,1439 2327,1440 2329,1364 2308,1366 2298,1375 2286,1366 2277,1373 2265,1370 2253,1382 2220,1367 2159,1368" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="2737,1454 2749,1454 2763,1442 2787,1442 2806,1454 2825,1446 2851,1453 2860,1444 2879,1453 2898,1441 2933,1441 2933,1375 2888,1366 2860,1378 2848,1366 2829,1371 2815,1359 2808,1366 2787,1362 2768,1374 2737,1378" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="1136,1493 2950,1482 2933,1439 1136,1432" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="242,1514 292,1517 315,1498 384,1521 662,1524 740,1501 797,1514 823,1502 824,1455 682,1451 630,1427 538,1426 479,1451 406,1426 243,1434" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="1141,1530 2955,1531 2877,1485 1141,1483" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="693,1562 745,1577 896,1570 915,1587 958,1569 981,1586 1000,1570 1139,1579 1141,1499 1084,1514 1067,1498 996,1508 810,1491 789,1512 732,1502 694,1527" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="1148,1573 2957,1568 1148,1525" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="1136,1606 2772,1627 2964,1581 1136,1578" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="527,1644 633,1652 710,1634 740,1647 783,1637 820,1651 868,1646 871,1580 845,1586 789,1569 736,1583 718,1570 677,1590 626,1568 554,1575 531,1566" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="1132,1672 2034,1660 2034,1622 2001,1615 1132,1604" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="2049,1658 2958,1669 2959,1613 2049,1623" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="262,1691 1145,1701 1145,1668 1084,1650 642,1661 463,1626 262,1629" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="1144,1704 2029,1707 2006,1659 1144,1661" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="2051,1709 2970,1701 2970,1668 2887,1660 2051,1661" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="230,1731 1089,1750 1129,1746 1130,1706 230,1693" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="1155,1748 2036,1750 2019,1700 1155,1701" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="2039,1745 2972,1757 2972,1701 2039,1712" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="219,1769 330,1794 1140,1781 1112,1741 219,1740" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="1142,1788 2037,1789 2037,1749 1999,1744 1142,1743" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="2051,1798 2960,1783 2959,1745 2050,1748" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="227,1827 1129,1825 1129,1787 1098,1784 227,1785" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="1148,1834 1998,1849 2038,1842 2039,1790 1148,1787" rendition="Line" xml:id="facs_1_r1l27"/>
+            <zone points="2049,1837 2892,1845 2956,1823 2956,1788 2049,1797" rendition="Line" xml:id="facs_1_r1l28"/>
+            <zone points="228,1857 1127,1877 1127,1827 228,1841" rendition="Line" xml:id="facs_1_r1l29"/>
+            <zone points="1143,1877 1155,1877 1162,1884 1179,1875 1190,1883 1205,1874 1219,1874 1223,1879 1252,1877 1259,1870 1271,1878 1276,1873 1287,1874 1288,1836 1244,1830 1229,1841 1220,1834 1194,1840 1170,1830 1144,1832" rendition="Line" xml:id="facs_1_r1l30"/>
+            <zone points="2035,1897 2122,1873 2923,1885 2958,1878 2958,1824 2035,1828" rendition="Line" xml:id="facs_1_r1l31"/>
+            <zone points="230,1914 1139,1909 1139,1881 1087,1871 230,1872" rendition="Line" xml:id="facs_1_r1l32"/>
+            <zone points="1174,1916 2038,1934 2039,1877 1956,1848 1873,1876 1545,1856 1507,1882 1382,1860 1174,1885" rendition="Line" xml:id="facs_1_r1l33"/>
+            <zone points="2054,1923 2923,1927 2961,1918 2961,1880 2054,1885" rendition="Line" xml:id="facs_1_r1l34"/>
+            <zone points="218,1945 1117,1969 1137,1922 218,1919" rendition="Line" xml:id="facs_1_r1l35"/>
+            <zone points="1141,1963 2003,1969 2057,1948 2058,1899 1932,1928 1142,1906" rendition="Line" xml:id="facs_1_r1l36"/>
+            <zone points="2049,1965 2961,1966 2935,1919 2049,1922" rendition="Line" xml:id="facs_1_r1l37"/>
+            <zone points="224,1996 1126,2001 1126,1965 1091,1956 271,1966 224,1944" rendition="Line" xml:id="facs_1_r1l38"/>
+            <zone points="1149,2004 2960,2005 2839,1961 1149,1966" rendition="Line" xml:id="facs_1_r1l39"/>
+            <zone points="226,2043 1143,2043 1143,2000 227,1993" rendition="Line" xml:id="facs_1_r1l40"/>
+            <zone points="2038,2045 2959,2059 2940,2000 2123,2018 2038,1995" rendition="Line" xml:id="facs_1_r1l41"/>
+            <zone points="1150,2049 2050,2040 2022,1997 1150,2013" rendition="Line" xml:id="facs_1_r1l42"/>
+            <zone points="228,2095 1133,2089 1133,2047 1105,2044 229,2043" rendition="Line" xml:id="facs_1_r1l43"/>
+            <zone points="1150,2091 1785,2083 1877,2106 1919,2080 2059,2085 2059,2033 1908,2061 1150,2049" rendition="Line" xml:id="facs_1_r1l44"/>
+            <zone points="2053,2099 2959,2081 2959,2057 2874,2048 2053,2051" rendition="Line" xml:id="facs_1_r1l45"/>
+            <zone points="220,2131 817,2121 850,2147 973,2121 1039,2143 1131,2131 1131,2089 220,2090" rendition="Line" xml:id="facs_1_r1l46"/>
+            <zone points="1138,2138 2631,2151 2923,2138 2959,2081 1138,2084" rendition="Line" xml:id="facs_1_r1l47"/>
+            <zone points="229,2157 569,2185 1136,2169 1136,2134 1068,2124 1004,2145 971,2121 853,2146 230,2131" rendition="Line" xml:id="facs_1_r1l48"/>
+            <zone points="1148,2178 2048,2185 2048,2126 1148,2138" rendition="Line" xml:id="facs_1_r1l49"/>
+            <zone points="2050,2182 2961,2176 2961,2140 2848,2122 2591,2150 2050,2137" rendition="Line" xml:id="facs_1_r1l50"/>
+            <zone points="217,2224 1140,2220 1140,2168 217,2168" rendition="Line" xml:id="facs_1_r1l51"/>
+            <zone points="1151,2219 2044,2234 2044,2180 1990,2175 1151,2181" rendition="Line" xml:id="facs_1_r1l52"/>
+            <zone points="2043,2226 2917,2232 2964,2225 2964,2168 2043,2181" rendition="Line" xml:id="facs_1_r1l53"/>
+            <zone points="224,2255 984,2274 1130,2262 1131,2220 224,2215" rendition="Line" xml:id="facs_1_r1l54"/>
+            <zone points="1146,2272 2003,2261 2046,2282 2046,2233 2010,2219 1146,2220" rendition="Line" xml:id="facs_1_r1l55"/>
+            <zone points="2053,2268 2964,2282 2964,2226 2936,2221 2053,2224" rendition="Line" xml:id="facs_1_r1l56"/>
+            <zone points="226,2305 1140,2313 1119,2259 226,2256" rendition="Line" xml:id="facs_1_r1l57"/>
+            <zone points="1148,2310 2036,2311 2036,2266 2005,2261 1148,2265" rendition="Line" xml:id="facs_1_r1l58"/>
+            <zone points="2049,2310 2962,2325 2962,2282 2818,2263 2049,2265" rendition="Line" xml:id="facs_1_r1l59"/>
+            <zone points="223,2348 1135,2355 1135,2307 1050,2300 667,2325 223,2305" rendition="Line" xml:id="facs_1_r1l60"/>
+            <zone points="1148,2353 2936,2362 2879,2310 1148,2310" rendition="Line" xml:id="facs_1_r1l61"/>
+            <zone points="230,2397 1937,2402 2048,2343 230,2352" rendition="Line" xml:id="facs_1_r1l62"/>
+            <zone points="220,2426 2064,2461 2043,2369 220,2390" rendition="Line" xml:id="facs_1_r1l63"/>
+            <zone points="225,2473 1137,2487 1137,2433 225,2433" rendition="Line" xml:id="facs_1_r1l64"/>
+            <zone points="1139,2475 1680,2492 2048,2464 1748,2428 1139,2442" rendition="Line" xml:id="facs_1_r1l65"/>
+            <zone points="227,2525 2041,2525 1942,2470 227,2473" rendition="Line" xml:id="facs_1_r1l66"/>
+            <zone points="231,2568 2057,2584 2036,2520 232,2523" rendition="Line" xml:id="facs_1_r1l67"/>
+            <zone points="229,2602 1008,2614 1138,2602 1138,2564 229,2569" rendition="Line" xml:id="facs_1_r1l68"/>
+            <zone points="1150,2607 2059,2604 2028,2561 1150,2564" rendition="Line" xml:id="facs_1_r1l69"/>
+            <zone points="221,2642 1142,2641 1142,2611 1041,2599 221,2595" rendition="Line" xml:id="facs_1_r1l70"/>
+            <zone points="1145,2655 2054,2642 2054,2606 1145,2606" rendition="Line" xml:id="facs_1_r1l71"/>
+            <zone points="224,2685 1138,2698 1138,2648 1095,2646 224,2661" rendition="Line" xml:id="facs_1_r1l72"/>
+            <zone points="1146,2698 1776,2702 1809,2678 1842,2704 2022,2702 2057,2690 2057,2647 1146,2655" rendition="Line" xml:id="facs_1_r1l73"/>
+            <zone points="1142,2737 1938,2752 2046,2740 2046,2693 1142,2697" rendition="Line" xml:id="facs_1_r1l74"/>
+            <zone points="221,2755 1132,2738 1132,2701 1090,2689 221,2684" rendition="Line" xml:id="facs_1_r1l75"/>
+            <zone points="221,2798 318,2772 1114,2785 1133,2742 221,2755" rendition="Line" xml:id="facs_1_r1l76"/>
+            <zone points="1134,2783 2057,2787 2058,2749 1134,2741" rendition="Line" xml:id="facs_1_r1l77"/>
+            <zone points="218,2822 2036,2838 1951,2776 218,2798" rendition="Line" xml:id="facs_1_r1l78"/>
+            <zone points="1131,2876 2045,2866 2045,2833 2008,2823 1131,2824" rendition="Line" xml:id="facs_1_r1l79"/>
+            <zone points="224,2868 1140,2869 1123,2819 224,2823" rendition="Line" xml:id="facs_1_r1l80"/>
+            <zone points="218,2930 393,2901 872,2929 1101,2912 1127,2864 218,2869" rendition="Line" xml:id="facs_1_r1l81"/>
+            <zone points="1137,2902 1987,2934 2054,2906 2054,2864 1137,2872" rendition="Line" xml:id="facs_1_r1l82"/>
+            <zone points="1133,2960 1381,2947 1612,2962 1612,2910 1133,2908" rendition="Line" xml:id="facs_1_r1l83"/>
+            <zone points="220,2934 261,2962 1137,2954 1120,2902 268,2917 220,2896" rendition="Line" xml:id="facs_1_r1l84"/>
+            <zone points="214,2995 2068,3000 2068,2957 1853,2931 214,2931" rendition="Line" xml:id="facs_1_r1l85"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>*
+               <lb facs="#facs_1_r1l2" n="N002"/>oessen
+               <lb facs="#facs_1_r1l3" n="N003"/>12. Anatols Gr.nahn box 34/10
+               <lb facs="#facs_1_r1l4" n="N004"/>Prager Prosse Prag
+               <lb facs="#facs_1_r1l5" n="N005"/>mens 
+               <lb facs="#facs_1_r1l6" n="N006"/>
+               <lb facs="#facs_1_r1l7" n="N007"/>
+               <lb facs="#facs_1_r1l8" n="N008"/>schweben, dieses Meditieren um irdischenpackende Spiel „In Ewigkeit Amen“.
+               <lb facs="#facs_1_r1l9" n="N009"/>Schnitzler-Wildgans¬
+               <lb facs="#facs_1_r1l10" n="N010"/>Tand, diese Wollust und diese Tränen waren von Anton Wildgans, das hier vor Jah¬
+               <lb facs="#facs_1_r1l11" n="N011"/>Gedächtnisfeier
+               <lb facs="#facs_1_r1l12" n="N012"/>Schnitzlers Erfindung. Loris und Peter Al-Tren mit Romanowsky als Hauptperson
+               <lb facs="#facs_1_r1l13" n="N013"/>tenberg sind in diesem Dunstkreis geworden, Verfolgreich aufgeführt wurde. Den Sträfling
+               <lb facs="#facs_1_r1l14" n="N014"/>Kleine Bühne
+               <lb facs="#facs_1_r1l15" n="N015"/>Hermann Bahr hat in der zwiespältig erhell¬
+               <lb facs="#facs_1_r1l16" n="N016"/>und Totschläger aus Mitgefühl gab diesmal
+               <lb facs="#facs_1_r1l17" n="N017"/>Die Fünfzigjährigen, die den Rhythmus des
+               <lb facs="#facs_1_r1l18" n="N018"/>ten Atmosphäre benachbarter Angelegenhei¬
+               <lb facs="#facs_1_r1l19" n="N019"/>Rudolf Stadler, dessen Charakterisierung
+               <lb facs="#facs_1_r1l20" n="N020"/>Lebens vor dem Ausbruch des Krieges im
+               <lb facs="#facs_1_r1l21" n="N021"/>ten seine Aesthetik ersonnen. Oesterreichi¬
+               <lb facs="#facs_1_r1l22" n="N022"/>zu Herzen ging, der die Gefahr, effektvoll zu
+               <lb facs="#facs_1_r1l23" n="N023"/>Blute spürten, sind Gefolgschaft und Anrai¬
+               <lb facs="#facs_1_r1l24" n="N024"/>sche Kunst und Wiener Feuilletonismus be¬
+               <lb facs="#facs_1_r1l25" n="N025"/>übertypisieren, mit Selbstverleugnung von
+               <lb facs="#facs_1_r1l26" n="N026"/>ner. Die neue Jugend, die nachher heran¬
+               <lb facs="#facs_1_r1l27" n="N027"/>zogen aus dieser Werkstatt ihre Befruch¬
+               <lb facs="#facs_1_r1l28" n="N028"/>sich wies. Eine blendende Studie war die Zeu¬
+               <lb facs="#facs_1_r1l29" n="N029"/>wuchs, konnte die lässige Schönheit dieser
+               <lb facs="#facs_1_r1l30" n="N030"/>tung.
+               <lb facs="#facs_1_r1l31" n="N031"/>gin Marie Schmidt der Frau Bertl Halova¬
+               <lb facs="#facs_1_r1l32" n="N032"/>Gestaltung nicht völlig begreifen. Arthur
+               <lb facs="#facs_1_r1l33" n="N033"/>Die zwei Einakter, die zum Gedächtnis des
+               <lb facs="#facs_1_r1l34" n="N034"/>nic, die Beifall vor offenem Vorhang ern¬
+               <lb facs="#facs_1_r1l35" n="N035"/>Schnitzler, den die Generation der Ge¬
+               <lb facs="#facs_1_r1l36" n="N036"/>toten Dichters in der Kleinen Bühne in Sze¬
+               <lb facs="#facs_1_r1l37" n="N037"/>tete. Bureaukratisch verbiestert, sadistisch
+               <lb facs="#facs_1_r1l38" n="N038"/>reiften einen großen Schriftsteller nannte,
+               <lb facs="#facs_1_r1l39" n="N039"/>ne gingen, „Anatols Größenwahn“lborniert Roman Reinhardt als Untersu¬
+               <lb facs="#facs_1_r1l40" n="N040"/>hatte Novellen gedichtet, die sich nobel und
+               <lb facs="#facs_1_r1l41" n="N041"/>ehungsrichter. In kleineren Aufgaben Walter
+               <lb facs="#facs_1_r1l42" n="N042"/>und „Dieüberspannte Person“, sind
+               <lb facs="#facs_1_r1l43" n="N043"/>formsicher um einen inneren Stil bemühten.
+               <lb facs="#facs_1_r1l44" n="N044"/>Nachlaßwerke spezifischer Prägung. Was
+               <lb facs="#facs_1_r1l45" n="N045"/>Taubals jüdischer Protokollführer mit An¬
+               <lb facs="#facs_1_r1l46" n="N046"/>Auch einige Theaterstücke waren da, die
+               <lb facs="#facs_1_r1l47" n="N047"/>Hugo von Hofmannsthal in seinam Prolog teilnahmekomplexen, Philipp Veit als
+               <lb facs="#facs_1_r1l48" n="N048"/>durch interessante Belichtung reizten, „Der
+               <lb facs="#facs_1_r1l49" n="N049"/>(von Friedrich Hölzlin feinschmeckerisch
+               <lb facs="#facs_1_r1l50" n="N050"/>Staatsanwalt, Leopold Dudek als Nacht¬
+               <lb facs="#facs_1_r1l51" n="N051"/>grüne Kakadu“, „Der junge Medardus“ und
+               <lb facs="#facs_1_r1l52" n="N052"/>vorgesprochen) als den Besitz solcher Welt¬
+               <lb facs="#facs_1_r1l53" n="N053"/>kellner an richtiger Stelle. Die Anatol-Akte
+               <lb facs="#facs_1_r1l54" n="N054"/>so weiter. Aber was da aus den Annalen einer
+               <lb facs="#facs_1_r1l55" n="N055"/>betrachtung umgrenzt, Frühreife, Zartheit,
+               <lb facs="#facs_1_r1l56" n="N056"/>inszenierte Friedrich Hölzlin, die Regie
+               <lb facs="#facs_1_r1l57" n="N057"/>hurtig verbrauchten Vergangenheit in die
+               <lb facs="#facs_1_r1l58" n="N058"/>wohlgeordnete Trauer, ist hier als holde Sub¬
+               <lb facs="#facs_1_r1l59" n="N059"/>des Wildgansschen Gerichtsstückes lag in den
+               <lb facs="#facs_1_r1l60" n="N060"/>Erinnerung drängte, Anatol-Spuk zielloser
+               <lb facs="#facs_1_r1l61" n="N061"/>stanz in Gefäße geschlossen, die lichtdurch- Händen Rudolf Stadlers. Paul Leppin
+               <lb facs="#facs_1_r1l62" n="N062"/>Müßiggänger, das Deminutivum der Liebe, dringlich im Dunklen stehn. Hans Götzwar
+               <lb facs="#facs_1_r1l63" n="N063"/>die in der Residenzstadt der alten Monarchie kein Anatol, dem es gelungen wäre, aus Rr¬f
+               <lb facs="#facs_1_r1l64" n="N064"/>zur „Liebelei“ entartete, das waren Dinge,
+               <lb facs="#facs_1_r1l65" n="N065"/>signation eine Kunst zu machen. Seine Me¬
+               <lb facs="#facs_1_r1l66" n="N066"/>die man nicht mehr verstand und als Kurio-lancholie war zu porös, von animalischen
+               <lb facs="#facs_1_r1l67" n="N067"/>sum wertete. Und doch ist dieser Traum vonSäften durchflutet, zu wenig kostbar und
+               <lb facs="#facs_1_r1l68" n="N068"/>Sommerlüften und stiller Besinnung, der
+               <lb facs="#facs_1_r1l69" n="N069"/>einsam. Padlesak als gehorsamer Freund
+               <lb facs="#facs_1_r1l70" n="N070"/>freundliche Tod und das kokette Sterben, die
+               <lb facs="#facs_1_r1l71" n="N071"/>brachte den Ton ihrer Stimmung schon willi¬
+               <lb facs="#facs_1_r1l72" n="N072"/>Süßigkeit schmerzlich erblühter Jugend, das
+               <lb facs="#facs_1_r1l73" n="N073"/>ger zu Gehör. Tilde Ondra und Willi
+               <lb facs="#facs_1_r1l74" n="N074"/>Bauer entsprachen dem Geist ihrer Rollen,
+               <lb facs="#facs_1_r1l75" n="N075"/>Glück in den Augen armer Verkäuferinnen
+               <lb facs="#facs_1_r1l76" n="N076"/>der eigentliche Schnitzler gewesen. Das war
+               <lb facs="#facs_1_r1l77" n="N077"/>Maria Andergast hatte besonders im
+               <lb facs="#facs_1_r1l78" n="N078"/>die Welt, die ein kleines Jahrzehnt eine köst-Izweiten Aktstück der Szenen, das tempera¬
+               <lb facs="#facs_1_r1l79" n="N079"/>mentvoll für weibliche Würde eintritt, eine
+               <lb facs="#facs_1_r1l80" n="N080"/>lich erfabelte Luft über Intimitäten breite¬
+               <lb facs="#facs_1_r1l81" n="N081"/>te, eine Welt mit bedeutsam erhöhten Akzen¬
+               <lb facs="#facs_1_r1l82" n="N082"/>erdgeborene Anmut, die fraulichen Reiz mit
+               <lb facs="#facs_1_r1l83" n="N083"/>Delikatesse verbrämte.
+               <lb facs="#facs_1_r1l84" n="N084"/>ôten, resigniert und genußfroh, elegant und
+               <lb facs="#facs_1_r1l85" n="N085"/>Ivertraulich. Dieses Aufschimmern und Ver- Der Abschluß des Abends bildete das
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">A_16_Die-grüne-Krawatte</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">A_16_Die-grüne-Krawatte</title><idno type="Transkribus">223905</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3248" lry="4096" xml:id="facs_1">
+         <graphic url="A_16_Die-gru%CC%88ne-Krawatte_33786_00001.jpeg" width="3248px" height="4096px"/>
+         <zone points="254,111 254,3852 2954,3852 2954,111" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="638,158 1256,139 1255,90 1214,81 1100,105 1026,73 910,104 637,94" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="1484,171 1574,175 1627,155 1685,157 1711,173 1829,171 1840,160 1887,171 1886,85 1809,74 1770,86 1756,73 1483,88" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="455,151 491,145 529,153 549,148 573,154 580,149 607,148 606,99 580,103 561,89 555,94 545,88 541,92 517,77 483,90 452,86" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="242,178 1420,201 1457,196 1458,104 689,147 242,85" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="2011,194 2895,206 2948,194 2948,125 2011,152" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="1957,270 2610,236 2938,259 2938,194 2093,210 1957,180" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="1980,298 2941,277 2940,245 2709,236 1980,249" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="1974,328 2935,345 2935,276 1974,293" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="1980,381 2768,393 2842,363 2904,379 2939,316 1980,333" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="1979,437 2143,417 2180,433 2229,423 2259,436 2331,432 2344,420 2391,422 2390,376 2316,382 2281,366 2214,384 2158,371 2138,392 2047,378 1978,390" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="2442,462 2521,481 2549,464 2646,482 2718,473 2734,489 2822,461 2866,481 2945,467 2944,418 2900,412 2820,426 2796,410 2556,420 2532,406 2442,430" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="2010,478 2058,485 2070,473 2095,487 2169,471 2223,482 2246,466 2285,485 2336,464 2373,462 2389,478 2452,466 2452,441 2410,427 2255,434 2234,422 2183,436 2102,422 2010,436" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="1971,543 2143,509 2344,537 2879,515 2941,548 2941,485 2823,462 2735,489 1971,462" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="1966,580 2945,552 2864,515 2653,538 1966,504" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="1975,610 2452,626 2950,594 2949,550 1975,568" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="1971,670 2450,634 2600,667 2945,655 2945,595 1971,609" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="1973,685 2953,688 2952,632 2670,668 2445,639 1973,669" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="1980,743 2885,747 2947,728 2947,687 2859,710 2732,685 1979,695" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="1979,782 2891,789 2951,782 2951,727 1979,745" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="1979,830 2952,832 2952,783 2924,779 1979,781" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="1981,869 2953,863 2953,835 2842,819 2791,843 1981,835" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="1972,909 2768,919 2768,875 2743,868 2060,875 1972,854" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="1984,960 2774,965 2857,958 2857,891 2785,921 1984,918" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="1974,1010 2072,1019 2148,982 2194,1010 2942,1017 2942,943 2884,967 1974,964" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="1996,1070 2039,1049 2158,1042 2188,1062 2366,1045 2433,1061 2507,1044 2535,1060 2556,1053 2556,1013 2484,998 2190,1007 2148,981 2083,1010 1995,1003" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="2647,1094 2680,1095 2684,1100 2689,1096 2710,1097 2712,1049 2691,1050 2680,1037 2678,1040 2676,1037 2671,1037 2665,1030 2651,1029" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="2854,1097 2870,1097 2880,1104 2889,1094 2893,1099 2907,1094 2917,1102 2940,1102 2938,1044 2915,1045 2904,1054 2897,1052 2892,1055 2885,1048 2874,1057 2869,1053 2853,1053" rendition="Line" xml:id="facs_1_r1l27"/>
+            <zone points="2726,1099 2742,1101 2749,1094 2765,1102 2772,1097 2784,1104 2796,1095 2821,1096 2826,1091 2837,1091 2838,1027 2827,1026 2820,1033 2806,1028 2783,1044 2769,1032 2755,1032 2750,1027 2739,1039 2727,1038" rendition="Line" xml:id="facs_1_r1l28"/>
+            <zone points="2025,1102 2618,1102 2617,1028 2532,1058 2509,1044 2423,1061 2367,1045 2025,1053" rendition="Line" xml:id="facs_1_r1l29"/>
+            <zone points="2645,1139 2659,1140 2668,1150 2679,1148 2684,1151 2695,1152 2700,1097 2688,1096 2683,1100 2677,1095 2672,1094 2670,1097 2661,1093 2649,1093" rendition="Line" xml:id="facs_1_r1l30"/>
+            <zone points="1983,1139 2053,1146 2078,1132 2097,1150 2187,1139 2270,1152 2305,1133 2377,1152 2481,1138 2481,1098 2191,1108 2117,1090 2048,1102 1983,1070" rendition="Line" xml:id="facs_1_r1l31"/>
+            <zone points="1991,1186 2083,1200 2259,1177 2305,1193 2347,1174 2361,1188 2440,1179 2461,1193 2477,1188 2477,1140 1991,1144" rendition="Line" xml:id="facs_1_r1l32"/>
+            <zone points="1994,1228 2057,1237 2077,1226 2100,1240 2225,1223 2265,1237 2286,1225 2369,1237 2427,1225 2427,1186 2374,1181 2297,1191 2253,1179 2225,1195 1994,1186" rendition="Line" xml:id="facs_1_r1l33"/>
+            <zone points="2666,1271 2677,1272 2686,1281 2721,1280 2728,1273 2738,1274 2744,1281 2758,1281 2760,1228 2732,1232 2725,1227 2697,1228 2686,1216 2679,1221 2668,1220" rendition="Line" xml:id="facs_1_r1l34"/>
+            <zone points="1982,1285 2005,1273 2123,1282 2142,1265 2228,1281 2253,1258 2290,1283 2413,1273 2412,1234 2396,1229 1982,1236" rendition="Line" xml:id="facs_1_r1l35"/>
+            <zone points="2002,1319 2113,1329 2139,1310 2208,1328 2312,1315 2368,1326 2367,1273 2354,1271 2293,1283 2252,1260 2226,1279 2147,1266 2131,1278 2002,1275" rendition="Line" xml:id="facs_1_r1l36"/>
+            <zone points="1993,1370 2093,1359 2151,1382 2181,1359 2299,1373 2391,1347 2428,1361 2428,1315 1993,1322" rendition="Line" xml:id="facs_1_r1l37"/>
+            <zone points="1995,1402 2067,1418 2141,1401 2247,1403 2261,1415 2305,1400 2363,1414 2416,1404 2416,1356 2252,1375 2215,1357 2148,1378 2094,1360 1995,1370" rendition="Line" xml:id="facs_1_r1l38"/>
+            <zone points="1994,1451 2043,1452 2070,1445 2096,1461 2110,1449 2158,1450 2158,1402 2141,1402 2132,1411 2111,1407 2086,1417 2042,1404 2028,1409 1993,1402" rendition="Line" xml:id="facs_1_r1l39"/>
+            <zone points="2182,1441 2198,1436 2212,1448 2282,1448 2300,1457 2353,1444 2376,1455 2409,1451 2409,1407 2388,1402 2363,1414 2344,1404 2326,1411 2305,1402 2272,1413 2249,1404 2182,1408" rendition="Line" xml:id="facs_1_r1l40"/>
+            <zone points="1994,1492 2150,1503 2196,1482 2228,1508 2247,1491 2409,1505 2497,1472 2497,1453 2457,1449 1994,1451" rendition="Line" xml:id="facs_1_r1l41"/>
+            <zone points="1987,1535 2577,1536 2591,1482 2325,1500 2223,1500 2195,1481 2156,1500 1986,1489" rendition="Line" xml:id="facs_1_r1l42"/>
+            <zone points="1991,1586 2007,1587 2018,1579 2072,1591 2106,1579 2143,1601 2162,1581 2204,1580 2200,1531 2154,1538 2142,1532 2120,1543 2091,1536 2076,1546 2059,1536 2027,1546 1987,1537" rendition="Line" xml:id="facs_1_r1l43"/>
+            <zone points="2219,1591 2270,1577 2309,1589 2325,1579 2360,1589 2411,1577 2467,1584 2483,1570 2506,1584 2545,1584 2545,1535 2501,1533 2485,1547 2441,1533 2388,1542 2219,1535" rendition="Line" xml:id="facs_1_r1l44"/>
+            <zone points="1683,1613 1729,1614 1739,1605 1750,1612 1771,1608 1780,1612 1813,1601 1827,1602 1828,1541 1798,1541 1761,1526 1735,1551 1684,1546" rendition="Line" xml:id="facs_1_r1l45"/>
+            <zone points="1992,1622 2083,1640 2321,1617 2363,1638 2502,1617 2652,1647 2652,1599 2483,1571 1992,1587" rendition="Line" xml:id="facs_1_r1l46"/>
+            <zone points="1999,1675 2763,1668 2763,1633 2670,1617 2628,1638 2316,1617 2256,1642 1999,1622" rendition="Line" xml:id="facs_1_r1l47"/>
+            <zone points="1440,1675 1506,1693 1567,1675 1749,1693 1817,1680 1964,1713 1969,1618 1920,1613 1885,1633 1788,1607 1695,1623 1610,1598 1443,1604" rendition="Line" xml:id="facs_1_r1l48"/>
+            <zone points="1988,1718 2755,1709 2840,1732 2917,1711 2917,1672 1988,1674" rendition="Line" xml:id="facs_1_r1l49"/>
+            <zone points="1362,1718 1406,1733 1441,1724 1471,1739 1496,1723 1510,1723 1511,1674 1490,1672 1472,1683 1465,1678 1458,1683 1451,1676 1437,1678 1421,1662 1396,1659 1391,1663 1382,1656 1363,1654" rendition="Line" xml:id="facs_1_r1l50"/>
+            <zone points="1596,1734 1664,1735 1688,1752 1718,1753 1734,1770 1765,1755 1809,1756 1851,1730 1879,1743 1881,1683 1853,1693 1832,1683 1728,1693 1670,1679 1598,1686" rendition="Line" xml:id="facs_1_r1l51"/>
+            <zone points="2004,1760 2928,1758 2928,1716 2875,1709 2840,1732 2754,1709 2004,1714" rendition="Line" xml:id="facs_1_r1l52"/>
+            <zone points="2854,1804 2896,1806 2904,1796 2919,1807 2937,1803 2934,1755 2918,1758 2913,1754 2909,1757 2872,1757 2864,1750 2850,1751" rendition="Line" xml:id="facs_1_r1l53"/>
+            <zone points="1998,1801 2734,1807 2759,1800 2759,1756 1998,1757" rendition="Line" xml:id="facs_1_r1l54"/>
+            <zone points="1268,1818 1356,1858 1633,1849 1793,1884 1909,1878 1912,1832 1836,1781 1769,1778 1742,1802 1685,1773 1270,1774" rendition="Line" xml:id="facs_1_r1l55"/>
+            <zone points="1998,1843 2912,1851 2912,1802 1998,1801" rendition="Line" xml:id="facs_1_r1l56"/>
+            <zone points="2022,1890 2874,1890 2873,1835 2751,1858 2346,1832 2022,1849" rendition="Line" xml:id="facs_1_r1l57"/>
+            <zone points="2065,1947 2966,1937 2940,1884 2065,1898" rendition="Line" xml:id="facs_1_r1l58"/>
+            <zone points="1604,1964 1625,1956 1648,1960 1660,1953 1676,1962 1692,1955 1741,1958 1759,1951 1758,1886 1746,1886 1704,1864 1699,1869 1690,1864 1669,1870 1653,1865 1642,1877 1637,1873 1602,1883" rendition="Line" xml:id="facs_1_r1l59"/>
+            <zone points="1285,1959 1318,1946 1368,1965 1445,1961 1480,1945 1491,1955 1586,1956 1605,1949 1606,1882 1286,1885" rendition="Line" xml:id="facs_1_r1l60"/>
+            <zone points="1344,2055 1362,2052 1367,2054 1381,2051 1371,1994 1355,1997 1349,2003 1335,2005" rendition="Line" xml:id="facs_1_r1l61"/>
+            <zone points="1080,2048 1254,2057 1263,2048 1333,2052 1334,2008 1248,2011 1219,1982 1160,2013 1142,2008 1135,2015 1112,2005 1081,2011" rendition="Line" xml:id="facs_1_r1l62"/>
+            <zone points="2309,2084 2415,2065 2559,2083 2621,2062 2679,2083 2797,2045 2843,2082 2936,2049 2935,1987 2750,1987 2695,2018 2308,2010" rendition="Line" xml:id="facs_1_r1l63"/>
+            <zone points="1075,2135 1200,2161 1232,2140 1350,2161 1401,2133 1447,2161 1744,2138 1744,2064 1598,2052 1563,2069 1494,2022 1468,2036 1251,1950 1075,1950" rendition="Line" xml:id="facs_1_r1l64"/>
+            <zone points="2309,2146 2471,2167 2497,2144 2601,2140 2640,2172 2696,2139 2777,2138 2821,2161 2888,2144 2887,2074 2799,2080 2772,2106 2704,2074 2644,2100 2572,2076 2526,2109 2482,2093 2309,2104" rendition="Line" xml:id="facs_1_r1l65"/>
+            <zone points="2345,2191 2447,2195 2470,2179 2556,2199 2655,2182 2757,2195 2834,2176 2885,2192 2905,2182 2905,2145 2727,2137 2651,2164 2604,2143 2495,2146 2475,2163 2345,2150" rendition="Line" xml:id="facs_1_r1l66"/>
+            <zone points="1107,2194 1876,2205 1876,2161 1755,2133 1642,2168 1505,2144 1107,2160" rendition="Line" xml:id="facs_1_r1l67"/>
+            <zone points="2359,2240 2933,2227 2932,2186 2832,2176 2756,2194 2654,2179 2594,2196 2471,2180 2358,2191" rendition="Line" xml:id="facs_1_r1l68"/>
+            <zone points="1056,2242 1890,2255 2031,2235 2031,2193 1056,2202" rendition="Line" xml:id="facs_1_r1l69"/>
+            <zone points="1059,2283 1228,2293 1254,2275 1518,2280 1574,2264 1574,2244 1449,2227 1211,2244 1060,2230" rendition="Line" xml:id="facs_1_r1l70"/>
+            <zone points="2277,2290 2391,2271 2518,2291 2539,2275 2926,2273 2925,2222 2680,2239 2620,2223 2587,2247 2569,2228 2386,2232 2340,2253 2277,2232" rendition="Line" xml:id="facs_1_r1l71"/>
+            <zone points="1060,2335 2933,2306 1864,2251 1059,2284" rendition="Line" xml:id="facs_1_r1l72"/>
+            <zone points="2081,2353 2231,2352 2322,2394 2592,2354 2639,2378 2708,2352 2947,2377 2947,2310 2921,2308 2620,2336 2081,2325" rendition="Line" xml:id="facs_1_r1l73"/>
+            <zone points="1028,2394 1377,2382 1533,2409 1996,2378 1963,2339 1028,2343" rendition="Line" xml:id="facs_1_r1l74"/>
+            <zone points="1026,2436 1842,2447 1947,2407 2006,2443 2256,2449 2254,2361 2117,2350 1894,2395 1025,2394" rendition="Line" xml:id="facs_1_r1l75"/>
+            <zone points="1027,2490 1073,2472 1309,2491 1462,2472 1638,2491 1682,2471 1726,2483 1727,2434 1028,2430" rendition="Line" xml:id="facs_1_r1l76"/>
+            <zone points="1024,2519 1262,2520 1317,2539 1399,2513 1463,2530 1660,2522 1660,2482 1616,2477 1482,2486 1443,2467 1234,2490 1024,2465" rendition="Line" xml:id="facs_1_r1l77"/>
+            <zone points="1023,2569 1236,2552 1279,2574 1476,2573 1541,2557 1583,2581 1617,2574 1618,2525 1398,2514 1312,2537 1264,2520 1023,2518" rendition="Line" xml:id="facs_1_r1l78"/>
+            <zone points="1186,2592 1199,2587 1205,2590 1223,2584 1215,2560 1204,2564 1200,2568 1191,2563 1178,2568" rendition="Line" xml:id="facs_1_r1l79"/>
+            <zone points="1017,2605 1443,2621 1603,2599 1603,2573 1543,2559 1281,2574 1242,2557 1205,2587 1175,2564 1017,2570" rendition="Line" xml:id="facs_1_r1l80"/>
+            <zone points="1018,2676 1104,2641 1173,2663 1247,2649 1372,2664 1440,2646 1590,2677 1577,2596 1553,2616 1019,2606" rendition="Line" xml:id="facs_1_r1l81"/>
+            <zone points="1024,2699 1566,2700 1566,2661 1543,2654 1122,2658 1103,2642 1025,2657" rendition="Line" xml:id="facs_1_r1l82"/>
+            <zone points="1016,2757 1051,2739 1569,2741 1569,2699 1139,2706 1116,2690 1072,2704 1016,2681" rendition="Line" xml:id="facs_1_r1l83"/>
+            <zone points="1025,2790 1581,2785 1581,2744 1554,2739 1313,2732 1188,2750 1026,2737" rendition="Line" xml:id="facs_1_r1l84"/>
+            <zone points="1021,2837 1123,2817 1181,2842 1271,2824 1299,2838 1595,2834 1595,2785 1021,2793" rendition="Line" xml:id="facs_1_r1l85"/>
+            <zone points="1029,2878 1182,2859 1624,2879 1624,2826 1388,2839 1276,2824 1182,2843 1126,2818 1029,2825" rendition="Line" xml:id="facs_1_r1l86"/>
+            <zone points="1032,2929 1071,2929 1103,2908 1397,2925 1490,2912 1490,2877 1398,2860 1379,2877 1337,2863 1189,2874 1178,2862 1032,2876" rendition="Line" xml:id="facs_1_r1l87"/>
+            <zone points="1051,2946 1294,2965 1357,2949 1417,2970 1510,2942 1544,2968 1646,2968 1663,2963 1663,2910 1105,2907 1051,2928" rendition="Line" xml:id="facs_1_r1l88"/>
+            <zone points="1029,3005 1689,3005 1689,2957 1083,2964 1030,2944" rendition="Line" xml:id="facs_1_r1l89"/>
+            <zone points="1026,3050 1290,3039 1331,3056 1480,3036 1665,3055 1720,3046 1721,3005 1026,3003" rendition="Line" xml:id="facs_1_r1l90"/>
+            <zone points="1026,3097 1790,3089 1790,3052 1718,3043 1026,3049" rendition="Line" xml:id="facs_1_r1l91"/>
+            <zone points="1029,3138 1372,3128 1455,3159 1515,3129 1782,3144 1814,3142 1814,3094 1560,3078 1435,3101 1266,3081 1029,3099" rendition="Line" xml:id="facs_1_r1l92"/>
+            <zone points="1008,3197 1427,3170 1951,3184 1951,3135 1828,3126 1467,3153 1008,3128" rendition="Line" xml:id="facs_1_r1l93"/>
+            <zone points="1017,3212 1035,3212 1063,3226 1123,3218 1142,3228 1158,3216 1174,3218 1174,3186 1144,3186 1121,3174 1086,3175 1060,3182 1042,3179 1028,3193 1016,3193" rendition="Line" xml:id="facs_1_r1l94"/>
+            <zone points="1262,3218 1989,3228 1973,3177 1263,3179" rendition="Line" xml:id="facs_1_r1l95"/>
+            <zone points="1020,3249 1830,3261 1915,3290 2008,3263 1995,3219 1020,3212" rendition="Line" xml:id="facs_1_r1l96"/>
+            <zone points="1026,3327 1286,3295 1381,3320 1575,3300 1834,3318 1834,3267 1807,3263 1026,3253" rendition="Line" xml:id="facs_1_r1l97"/>
+            <zone points="1065,3358 1894,3355 1981,3386 2001,3303 1065,3312" rendition="Line" xml:id="facs_1_r1l98"/>
+            <zone points="1016,3405 1893,3417 1996,3383 1929,3357 1016,3352" rendition="Line" xml:id="facs_1_r1l99"/>
+            <zone points="1019,3431 1098,3457 1908,3465 1996,3438 1996,3400 1020,3403" rendition="Line" xml:id="facs_1_r1l100"/>
+            <zone points="1017,3503 1147,3476 1360,3501 1967,3491 1967,3449 1018,3438" rendition="Line" xml:id="facs_1_r1l101"/>
+            <zone points="1008,3558 1112,3526 1946,3543 1999,3522 1999,3471 1696,3511 1145,3480 1008,3502" rendition="Line" xml:id="facs_1_r1l102"/>
+            <zone points="1022,3567 1640,3598 1864,3559 1998,3602 1999,3523 1022,3539" rendition="Line" xml:id="facs_1_r1l103"/>
+            <zone points="1022,3619 1864,3639 1987,3623 1987,3563 1948,3591 1022,3584" rendition="Line" xml:id="facs_1_r1l104"/>
+            <zone points="1022,3671 1995,3681 1995,3619 1023,3618" rendition="Line" xml:id="facs_1_r1l105"/>
+            <zone points="1022,3713 1364,3726 1464,3701 1531,3734 1557,3711 1990,3711 1960,3672 1821,3666 1774,3689 1663,3665 1022,3671" rendition="Line" xml:id="facs_1_r1l106"/>
+            <zone points="1025,3754 1613,3764 1641,3741 1888,3766 1995,3737 1995,3704 1520,3731 1025,3713" rendition="Line" xml:id="facs_1_r1l107"/>
+            <zone points="1017,3787 1920,3825 2015,3801 2016,3736 1914,3765 1018,3755" rendition="Line" xml:id="facs_1_r1l108"/>
+            <zone points="1013,3874 1056,3866 1098,3872 1126,3858 1144,3869 1241,3859 1240,3791 1220,3789 1194,3806 1159,3797 1143,3805 1132,3795 1083,3806 1037,3790 1011,3800" rendition="Line" xml:id="facs_1_r1l109"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>gruene Kravat
+               <lb facs="#facs_1_r1l2" n="N002"/>box 2/6
+               <lb facs="#facs_1_r1l3" n="N003"/>Die
+               <lb facs="#facs_1_r1l4" n="N004"/>16 D  L ECe
+               <lb facs="#facs_1_r1l5" n="N005"/>Das nächstemal erschien Herr Cleophas, wohl¬
+               <lb facs="#facs_1_r1l6" n="N006"/>anständig gekleidet wie immer und trug eine
+               <lb facs="#facs_1_r1l7" n="N007"/>Krawatte vom schönsten Violett. Als man ihn
+               <lb facs="#facs_1_r1l8" n="N008"/>von weitem kommen sah, riefen die Leute
+               <lb facs="#facs_1_r1l9" n="N009"/>höhnisch aus: „Da kommt der Herr mit der
+               <lb facs="#facs_1_r1l10" n="N010"/>grünen Krawatte!“
+               <lb facs="#facs_1_r1l11" n="N011"/>eine Gesellschaft von
+               <lb facs="#facs_1_r1l12" n="N012"/>Besonders gab es
+               <lb facs="#facs_1_r1l13" n="N013"/>Leuten, der ihre Mittel nichts anderes erlauben,
+               <lb facs="#facs_1_r1l14" n="N014"/>als Zwirnsfäden um den Hals zu schlingen.
+               <lb facs="#facs_1_r1l15" n="N015"/>Diese erklärten, daß Zwirnsfäden das Eleganteste
+               <lb facs="#facs_1_r1l16" n="N016"/>und Vornehmste seien und haßten überhaupt
+               <lb facs="#facs_1_r1l17" n="N017"/>alle, die Krawatten trugen mns besonders
+               <lb facs="#facs_1_r1l18" n="N018"/>Herrn Cleophas, der immer wohlanständig ge¬
+               <lb facs="#facs_1_r1l19" n="N019"/>kleidet war und schönere und besser geknüpfte
+               <lb facs="#facs_1_r1l20" n="N020"/>Krawatten trug als irgendeiner. Da schrie ein¬
+               <lb facs="#facs_1_r1l21" n="N021"/>mal der Lauteste unter diesen Menschen, als er
+               <lb facs="#facs_1_r1l22" n="N022"/>Herrn Cleophas des Weges kommen sa
+               <lb facs="#facs_1_r1l23" n="N023"/>Herren mit der grünen Krawatte sind W
+               <lb facs="#facs_1_r1l24" n="N024"/>linge!“ Herr Cleophas kümmerte sich nicht um
+               <lb facs="#facs_1_r1l25" n="N025"/>ihn und ging seines Weges.
+               <lb facs="#facs_1_r1l26" n="N026"/>emo
+               <lb facs="#facs_1_r1l27" n="N027"/>ark
+               <lb facs="#facs_1_r1l28" n="N028"/>im
+               <lb facs="#facs_1_r1l29" n="N029"/>Als Herr Cleophas das näch
+               <lb facs="#facs_1_r1l30" n="N030"/>He
+               <lb facs="#facs_1_r1l31" n="N031"/>spazieren ging, schrie di
+               <lb facs="#facs_1_r1l32" n="N032"/>Zwirnsfaden um den H
+               <lb facs="#facs_1_r1l33" n="N033"/>der grünen Krawatte
+               <lb facs="#facs_1_r1l34" n="N034"/>Achse
+               <lb facs="#facs_1_r1l35" n="N035"/>schrien mit. Cleophe
+               <lb facs="#facs_1_r1l36" n="N036"/>dachte, daß es mit
+               <lb facs="#facs_1_r1l37" n="N037"/>Krawatien trugen, d
+               <lb facs="#facs_1_r1l38" n="N038"/>müßte. Als er das d
+               <lb facs="#facs_1_r1l39" n="N039"/>die gan
+               <lb facs="#facs_1_r1l40" n="N040"/>Menge, al
+               <lb facs="#facs_1_r1l41" n="N041"/>mit dem Zwirnsfaden
+               <lb facs="#facs_1_r1l42" n="N042"/>Herren mit der grünen Krawe
+               <lb facs="#facs_1_r1l43" n="N043"/>mörder!“
+               <lb facs="#facs_1_r1l44" n="N044"/>Da bemerkte Cl
+               <lb facs="#facs_1_r1l45" n="N045"/>2
+               <lb facs="#facs_1_r1l46" n="N046"/>Augen auf ihn gerichtet waren.
+               <lb facs="#facs_1_r1l47" n="N047"/>sich, daß er auch öfters grüne Krawe
+               <lb facs="#facs_1_r1l48" n="N048"/>#Vollzeile Nr. 31
+               <lb facs="#facs_1_r1l49" n="N049"/>tragen hatte, trat auf den Gesellen mit den
+               <lb facs="#facs_1_r1l50" n="N050"/>7ele
+               <lb facs="#facs_1_r1l51" n="N051"/>0-43
+               <lb facs="#facs_1_r1l52" n="N052"/>Zwirnsfaden zu und fragte: „Wen meinen Sie
+               <lb facs="#facs_1_r1l53" n="N053"/>Da
+               <lb facs="#facs_1_r1l54" n="N054"/>denn eigentlich? Am Ende mich auch
+               <lb facs="#facs_1_r1l55" n="N055"/>Prager Tagblatt, Prag
+               <lb facs="#facs_1_r1l56" n="N056"/>erwiderte jener: „Aber, Herr Cleophas, wi
+               <lb facs="#facs_1_r1l57" n="N057"/>können Sie glauben? Sie tragen doch
+               <lb facs="#facs_1_r1l58" n="N058"/>ne grüne Krawatte!“ Und er schüttelte ihm
+               <lb facs="#facs_1_r1l59" n="N059"/>932
+               <lb facs="#facs_1_r1l60" n="N060"/>8DEZ
+               <lb facs="#facs_1_r1l61" n="N061"/>2
+               <lb facs="#facs_1_r1l62" n="N062"/>Arthur Schn
+               <lb facs="#facs_1_r1l63" n="N063"/>versicherte ihn seiner Hoch¬
+               <lb facs="#facs_1_r1l64" n="N064"/>Die Fünse rawate
+               <lb facs="#facs_1_r1l65" n="N065"/>te und ging. Aber als er sich i
+               <lb facs="#facs_1_r1l66" n="N066"/>nung befand, klatsche der
+               <lb facs="#facs_1_r1l67" n="N067"/>Entnommen dem Nachlaßband von Art
+               <lb facs="#facs_1_r1l68" n="N068"/>virnsfaben in die Hände und
+               <lb facs="#facs_1_r1l69" n="N069"/>Schnitzler: „Kleine Komödie“, frühe NovellenM
+               <lb facs="#facs_1_r1l70" n="N070"/>(Verlag S. Fischer, Berlin).
+               <lb facs="#facs_1_r1l71" n="N071"/>hr, wie er sich getroffen fühlt?
+               <lb facs="#facs_1_r1l72" n="N072"/>Ein junger Herr namens Cleophas wohnte Wer darf jetzt noch daran zweifeln, daß Cleo¬
+               <lb facs="#facs_1_r1l73" n="N073"/>ein Wüstling, Dieb und Meuchel¬
+               <lb facs="#facs_1_r1l74" n="N074"/>zurückgezogen in seinem Hause nah der Stadt.
+               <lb facs="#facs_1_r1l75" n="N075"/>Eine korgens wandelte ihn die Lust an, unt mörder ist?“
+               <lb facs="#facs_1_r1l76" n="N076"/>Menschen zu gehen. Da kleidete e
+               <lb facs="#facs_1_r1l77" n="N077"/>anständig an wie immer, tat e
+               <lb facs="#facs_1_r1l78" n="N078"/>Krawatte um und begab sich
+               <lb facs="#facs_1_r1l79" n="N079"/>1
+               <lb facs="#facs_1_r1l80" n="N080"/>Leute geößten ihn höflich,
+               <lb facs="#facs_1_r1l81" n="N081"/>die grüne Krawatte vorzügl
+               <lb facs="#facs_1_r1l82" n="N082"/>und sprachen durch einige
+               <lb facs="#facs_1_r1l83" n="N083"/>kennung von der grünen
+               <lb facs="#facs_1_r1l84" n="N084"/>Cleophas. Einige versuchten
+               <lb facs="#facs_1_r1l85" n="N085"/>und legten grüne Krawatt
+               <lb facs="#facs_1_r1l86" n="N086"/>freilich waren sie aus gemei
+               <lb facs="#facs_1_r1l87" n="N087"/>ohre Anmut geknüpft.
+               <lb facs="#facs_1_r1l88" n="N088"/>Bald darauf machte Herr &amp;
+               <lb facs="#facs_1_r1l89" n="N089"/>einen Spaziergang durch den P
+               <lb facs="#facs_1_r1l90" n="N090"/>neuen Gewand, aber mit der gle
+               <lb facs="#facs_1_r1l91" n="N091"/>Krawatte. Da schüttelten einige bede
+               <lb facs="#facs_1_r1l92" n="N092"/>Kopf und sagten: „Schon wieder trägt
+               <lb facs="#facs_1_r1l93" n="N093"/>grüne Krawatte... Er hat wohl keine an
+               <lb facs="#facs_1_r1l94" n="N094"/>dere
+               <lb facs="#facs_1_r1l95" n="N095"/>Die etwas nervöser waren, riefen
+               <lb facs="#facs_1_r1l96" n="N096"/>aus: „Er wird uns noch zur Verzweiflung
+               <lb facs="#facs_1_r1l97" n="N097"/>bringen mit seiner grünen Krawatte!“
+               <lb facs="#facs_1_r1l98" n="N098"/>Als Herr Cleophas das nächstemal #n die
+               <lb facs="#facs_1_r1l99" n="N099"/>Leute ging, trug er eine blaue Krawatte. Da
+               <lb facs="#facs_1_r1l100" n="N100"/>riefen einige: „Was für eine Idee, plötzlich mit
+               <lb facs="#facs_1_r1l101" n="N101"/>einer blauen Krawatte daher zu kommen?“
+               <lb facs="#facs_1_r1l102" n="N102"/>Die Nervöseren aber riefen laut: „Wir sind ge¬
+               <lb facs="#facs_1_r1l103" n="N103"/>wohnt, ihn mit einer grünen zu sehen!" Wir
+               <lb facs="#facs_1_r1l104" n="N104"/>brauchen es uns nicht gefallen zu lassen, daß er
+               <lb facs="#facs_1_r1l105" n="N105"/>heute mit einer blauen erscheint!" Aber manche
+               <lb facs="#facs_1_r1l106" n="N106"/>waren daher schlau und sagten: „Ah, uns
+               <lb facs="#facs_1_r1l107" n="N107"/>wird er nicht einreden, daß diese Krawatte
+               <lb facs="#facs_1_r1l108" n="N108"/>blau ist. Herr Cleophas trägt sie und daher ist!
+               <lb facs="#facs_1_r1l109" n="N109"/>sie grün.“
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

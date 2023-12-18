@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">F_01-1-15_Broschüren-Sonderdrucke_A-Halbert</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">F_01-1-15_Broschüren-Sonderdrucke_A-Halbert</title><idno type="Transkribus">224179</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3344" lry="4320" xml:id="facs_1">
+         <graphic url="F_01-1-15_Broschu%CC%88ren-Sonderdrucke_A-Halbert_14_0001.jpeg" width="3344px" height="4320px"/>
+         <zone points="269,229 269,3827 2585,3827 2585,229" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="1471,265 1554,277 1596,262 1635,269 1670,248 1788,275 1924,257 1924,211 1877,198 1750,211 1713,197 1665,233 1616,209 1530,217 1471,188" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="1164,264 1173,266 1178,263 1182,264 1198,250 1208,254 1212,210 1204,209 1199,213 1191,212 1188,208 1182,212 1168,211" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="538,263 569,263 557,181 548,182 547,184 543,182 536,183 533,180 526,181" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="263,299 1203,297 1303,260 1117,263 1073,219 913,199 718,264 263,262" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="1022,966 2007,975 2097,952 2097,922 1022,940" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="557,967 566,967 575,960 596,978 611,973 618,978 631,974 661,979 669,971 686,968 685,938 673,938 651,923 643,928 631,923 606,927 599,921 569,920 555,926" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="1568,1071 2542,1087 2555,1011 1843,1047 1567,1020" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="565,1078 1539,1090 1539,1051 1475,1032 865,1065 828,1032 565,1028" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="1577,1124 2540,1133 2540,1081 1577,1095" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="565,1126 1365,1145 1426,1130 1426,1094 565,1099" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="1583,1187 2500,1183 2558,1174 2558,1121 1583,1133" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="664,1177 1544,1179 1543,1148 1476,1133 664,1140" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="1574,1217 2475,1238 2560,1213 2560,1183 1574,1187" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="574,1233 1322,1243 1375,1213 1553,1223 1553,1196 574,1198" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="1582,1277 1608,1288 1627,1287 1641,1274 1669,1286 1722,1273 1766,1287 1853,1271 1853,1252 1833,1255 1801,1230 1784,1242 1753,1228 1731,1242 1711,1232 1700,1240 1668,1220 1634,1231 1582,1224" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="580,1281 683,1291 718,1275 772,1291 790,1278 877,1279 940,1294 1022,1280 989,1249 947,1249 927,1233 766,1253 726,1234 678,1251 580,1229" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="1667,1314 2357,1333 2555,1309 2554,1273 2398,1282 2331,1252 2189,1288 1667,1282" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="661,1327 1486,1332 1546,1320 1546,1284 661,1301" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="1577,1363 2478,1378 2552,1360 2552,1323 1577,1336" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="572,1375 1514,1382 1551,1341 572,1343" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="1582,1421 2560,1417 2559,1383 2489,1368 2345,1365 2299,1398 2192,1366 1581,1383" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="578,1420 888,1444 1549,1417 1549,1390 1473,1378 578,1390" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="1575,1461 2376,1479 2525,1468 2558,1432 1575,1441" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="583,1476 1500,1481 1549,1474 1549,1436 583,1445" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="1578,1520 2425,1524 2527,1515 2555,1477 1578,1487" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="570,1532 1479,1532 1549,1515 1549,1487 569,1489" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="1577,1564 2489,1575 2555,1556 2555,1504 2447,1531 1577,1536" rendition="Line" xml:id="facs_1_r1l27"/>
+            <zone points="572,1570 1501,1580 1555,1560 1555,1528 572,1544" rendition="Line" xml:id="facs_1_r1l28"/>
+            <zone points="1576,1613 2464,1624 2558,1612 2570,1573 1576,1580" rendition="Line" xml:id="facs_1_r1l29"/>
+            <zone points="576,1622 1436,1627 1547,1617 1547,1574 576,1594" rendition="Line" xml:id="facs_1_r1l30"/>
+            <zone points="1592,1664 1642,1678 1670,1665 1812,1665 1834,1677 2010,1660 2010,1646 1915,1614 1844,1632 1774,1618 1727,1632 1592,1625" rendition="Line" xml:id="facs_1_r1l31"/>
+            <zone points="584,1669 1552,1665 1542,1629 1360,1620 584,1651" rendition="Line" xml:id="facs_1_r1l32"/>
+            <zone points="1675,1710 2473,1725 2558,1703 2558,1670 2454,1646 2357,1674 1674,1675" rendition="Line" xml:id="facs_1_r1l33"/>
+            <zone points="578,1728 1192,1737 1505,1722 1560,1682 578,1693" rendition="Line" xml:id="facs_1_r1l34"/>
+            <zone points="1601,1770 2019,1753 2142,1770 2195,1754 2195,1726 2080,1710 1971,1728 1939,1711 1919,1728 1725,1715 1700,1731 1601,1713" rendition="Line" xml:id="facs_1_r1l35"/>
+            <zone points="581,1760 605,1774 647,1782 657,1776 675,1784 686,1775 766,1775 787,1768 787,1747 761,1747 736,1734 716,1738 689,1725 668,1726 654,1739 630,1730 580,1737" rendition="Line" xml:id="facs_1_r1l36"/>
+            <zone points="1674,1804 2240,1822 2330,1791 2498,1816 2556,1807 2556,1752 1674,1772" rendition="Line" xml:id="facs_1_r1l37"/>
+            <zone points="676,1820 1529,1823 1567,1785 1343,1763 675,1779" rendition="Line" xml:id="facs_1_r1l38"/>
+            <zone points="1592,1855 2546,1864 2555,1807 1591,1819" rendition="Line" xml:id="facs_1_r1l39"/>
+            <zone points="581,1865 1539,1875 1548,1826 580,1836" rendition="Line" xml:id="facs_1_r1l40"/>
+            <zone points="1582,1888 1807,1918 2559,1899 2517,1854 1582,1864" rendition="Line" xml:id="facs_1_r1l41"/>
+            <zone points="581,1902 673,1930 897,1902 1216,1927 1552,1914 1552,1881 580,1881" rendition="Line" xml:id="facs_1_r1l42"/>
+            <zone points="1587,1957 1693,1972 2229,1953 2228,1925 2117,1910 2057,1929 1976,1909 1923,1931 1876,1910 1727,1909 1682,1932 1628,1914 1587,1929" rendition="Line" xml:id="facs_1_r1l43"/>
+            <zone points="591,1965 1504,1966 1558,1957 1558,1925 591,1928" rendition="Line" xml:id="facs_1_r1l44"/>
+            <zone points="1386,2095 1444,2087 1475,2099 1556,2091 1624,2101 1690,2084 1779,2084 1779,2051 1747,2031 1386,2033" rendition="Line" xml:id="facs_1_r1l45"/>
+            <zone points="1215,2272 2210,2289 2276,2270 2275,2187 1755,2192 1694,2226 1534,2190 1214,2205" rendition="Line" xml:id="facs_1_r1l46"/>
+            <zone points="871,2283 922,2287 948,2275 973,2296 1013,2280 1038,2296 1068,2284 1097,2304 1147,2281 1169,2288 1201,2276 1200,2214 1179,2208 1127,2224 1098,2220 1067,2195 985,2223 949,2195 871,2232" rendition="Line" xml:id="facs_1_r1l47"/>
+            <zone points="1207,2395 1967,2387 1966,2346 1845,2315 1521,2343 1413,2314 1376,2341 1206,2333" rendition="Line" xml:id="facs_1_r1l48"/>
+            <zone points="1654,2477 2540,2483 2564,2431 1654,2441" rendition="Line" xml:id="facs_1_r1l49"/>
+            <zone points="655,2490 1491,2490 1566,2474 1566,2427 655,2445" rendition="Line" xml:id="facs_1_r1l50"/>
+            <zone points="1599,2535 2560,2523 2559,2479 2470,2469 1598,2487" rendition="Line" xml:id="facs_1_r1l51"/>
+            <zone points="610,2540 1504,2532 1555,2490 877,2482 609,2511" rendition="Line" xml:id="facs_1_r1l52"/>
+            <zone points="1604,2584 1620,2584 1625,2580 1641,2590 1658,2580 1686,2584 1705,2572 1713,2573 1713,2552 1696,2547 1678,2529 1660,2537 1649,2532 1639,2532 1620,2541 1604,2537" rendition="Line" xml:id="facs_1_r1l53"/>
+            <zone points="592,2586 1508,2588 1574,2541 592,2547" rendition="Line" xml:id="facs_1_r1l54"/>
+            <zone points="1659,2627 1769,2615 1878,2636 1929,2615 2021,2628 2041,2612 2160,2631 2206,2622 2206,2566 1659,2587" rendition="Line" xml:id="facs_1_r1l55"/>
+            <zone points="594,2638 661,2650 742,2627 844,2641 967,2626 966,2595 927,2601 901,2582 826,2599 798,2579 718,2603 687,2588 594,2590" rendition="Line" xml:id="facs_1_r1l56"/>
+            <zone points="1656,2672 2530,2675 2567,2664 2567,2628 2348,2616 2274,2649 2217,2620 1655,2628" rendition="Line" xml:id="facs_1_r1l57"/>
+            <zone points="661,2686 1570,2676 1569,2640 1482,2618 1257,2658 1191,2630 1071,2655 865,2637 836,2667 747,2627 661,2640" rendition="Line" xml:id="facs_1_r1l58"/>
+            <zone points="1594,2728 1760,2699 1800,2731 2030,2728 2059,2699 2558,2724 2565,2667 2402,2698 2261,2665 1594,2681" rendition="Line" xml:id="facs_1_r1l59"/>
+            <zone points="1324,2716 1350,2716 1378,2733 1389,2727 1401,2738 1419,2725 1443,2723 1544,2729 1552,2737 1564,2734 1565,2684 1521,2674 1491,2692 1434,2693 1413,2681 1385,2693 1369,2685 1360,2693 1324,2690" rendition="Line" xml:id="facs_1_r1l60"/>
+            <zone points="595,2733 766,2733 809,2754 863,2730 960,2750 1059,2724 1297,2737 1297,2705 1267,2693 1193,2705 1157,2684 809,2700 645,2681 595,2703" rendition="Line" xml:id="facs_1_r1l61"/>
+            <zone points="1597,2773 2562,2775 2572,2724 1597,2733" rendition="Line" xml:id="facs_1_r1l62"/>
+            <zone points="587,2789 610,2795 632,2783 663,2788 696,2782 717,2790 746,2776 760,2777 760,2762 746,2763 724,2747 707,2753 694,2742 677,2746 672,2740 648,2736 621,2738 608,2750 588,2749" rendition="Line" xml:id="facs_1_r1l63"/>
+            <zone points="1596,2841 1655,2815 1683,2830 1829,2827 1889,2811 1963,2824 1963,2795 1904,2801 1889,2786 1827,2774 1803,2784 1784,2776 1757,2796 1726,2774 1597,2779" rendition="Line" xml:id="facs_1_r1l64"/>
+            <zone points="663,2835 1564,2823 1563,2768 1367,2799 1096,2767 877,2803 663,2785" rendition="Line" xml:id="facs_1_r1l65"/>
+            <zone points="1664,2876 2562,2859 2562,2832 2441,2807 1664,2830" rendition="Line" xml:id="facs_1_r1l66"/>
+            <zone points="584,2869 649,2894 1087,2868 1341,2889 1499,2882 1567,2844 584,2849" rendition="Line" xml:id="facs_1_r1l67"/>
+            <zone points="1594,2915 2437,2920 2568,2908 2568,2867 1594,2881" rendition="Line" xml:id="facs_1_r1l68"/>
+            <zone points="600,2928 1501,2925 1566,2911 1566,2879 600,2895" rendition="Line" xml:id="facs_1_r1l69"/>
+            <zone points="1590,2965 2576,2950 2546,2908 1590,2936" rendition="Line" xml:id="facs_1_r1l70"/>
+            <zone points="596,2991 1528,2979 1566,2975 1566,2935 596,2945" rendition="Line" xml:id="facs_1_r1l71"/>
+            <zone points="1595,3017 2574,3011 2574,2967 1595,2984" rendition="Line" xml:id="facs_1_r1l72"/>
+            <zone points="599,3032 613,3030 637,3045 665,3032 690,3032 697,3039 716,3029 737,3036 749,3027 758,3031 787,3022 787,3002 770,3001 736,2981 678,2991 667,2985 625,2988 618,2982 607,2992 598,2991" rendition="Line" xml:id="facs_1_r1l73"/>
+            <zone points="1596,3063 2466,3070 2532,3066 2565,3021 1596,3024" rendition="Line" xml:id="facs_1_r1l74"/>
+            <zone points="663,3077 1537,3076 1563,3022 662,3038" rendition="Line" xml:id="facs_1_r1l75"/>
+            <zone points="1592,3113 2569,3121 2548,3062 1592,3077" rendition="Line" xml:id="facs_1_r1l76"/>
+            <zone points="600,3123 1414,3133 1566,3101 1499,3069 599,3091" rendition="Line" xml:id="facs_1_r1l77"/>
+            <zone points="1594,3167 2285,3174 2579,3138 2524,3108 2298,3108 1685,3117 1594,3146" rendition="Line" xml:id="facs_1_r1l78"/>
+            <zone points="602,3182 1544,3175 1567,3122 601,3148" rendition="Line" xml:id="facs_1_r1l79"/>
+            <zone points="1605,3213 2399,3197 2440,3221 2578,3197 2578,3167 1605,3176" rendition="Line" xml:id="facs_1_r1l80"/>
+            <zone points="603,3240 1503,3224 1583,3191 1203,3166 603,3192" rendition="Line" xml:id="facs_1_r1l81"/>
+            <zone points="1601,3255 2555,3266 2576,3207 1601,3240" rendition="Line" xml:id="facs_1_r1l82"/>
+            <zone points="603,3283 1442,3274 1579,3262 1579,3237 1314,3218 1150,3243 1035,3212 908,3246 602,3241" rendition="Line" xml:id="facs_1_r1l83"/>
+            <zone points="1597,3303 2446,3317 2569,3301 2569,3262 1596,3273" rendition="Line" xml:id="facs_1_r1l84"/>
+            <zone points="596,3320 1514,3318 1580,3309 1580,3283 595,3284" rendition="Line" xml:id="facs_1_r1l85"/>
+            <zone points="1597,3366 1889,3356 1921,3369 1950,3348 2095,3365 2136,3352 2136,3322 2035,3307 1930,3324 1805,3308 1761,3330 1720,3309 1596,3320" rendition="Line" xml:id="facs_1_r1l86"/>
+            <zone points="601,3378 1411,3372 1505,3334 600,3334" rendition="Line" xml:id="facs_1_r1l87"/>
+            <zone points="1671,3412 2507,3409 2560,3394 2560,3349 2366,3376 1671,3371" rendition="Line" xml:id="facs_1_r1l88"/>
+            <zone points="675,3421 1341,3426 1543,3414 1581,3380 1247,3360 1190,3384 675,3383" rendition="Line" xml:id="facs_1_r1l89"/>
+            <zone points="1607,3454 2477,3460 2575,3413 1607,3426" rendition="Line" xml:id="facs_1_r1l90"/>
+            <zone points="599,3472 965,3465 1037,3478 1082,3454 1082,3435 1043,3419 897,3434 867,3420 799,3432 770,3419 715,3436 698,3422 677,3435 598,3428" rendition="Line" xml:id="facs_1_r1l91"/>
+            <zone points="1605,3511 2230,3492 2547,3518 2580,3464 1604,3462" rendition="Line" xml:id="facs_1_r1l92"/>
+            <zone points="665,3509 1377,3522 1455,3494 1535,3517 1568,3510 1568,3468 1241,3461 1187,3491 664,3472" rendition="Line" xml:id="facs_1_r1l93"/>
+            <zone points="1656,3549 1802,3565 1855,3550 1894,3567 2021,3542 2266,3555 2248,3500 2124,3521 2070,3505 2051,3522 1656,3515" rendition="Line" xml:id="facs_1_r1l94"/>
+            <zone points="597,3573 1547,3566 1585,3527 597,3543" rendition="Line" xml:id="facs_1_r1l95"/>
+            <zone points="1667,3602 2376,3612 2472,3596 2472,3563 2185,3548 2045,3569 1995,3548 1667,3569" rendition="Line" xml:id="facs_1_r1l96"/>
+            <zone points="611,3633 644,3618 715,3626 745,3614 831,3627 927,3613 949,3624 1007,3607 959,3575 868,3579 847,3594 824,3572 659,3586 611,3571" rendition="Line" xml:id="facs_1_r1l97"/>
+            <zone points="1678,3658 2579,3640 2506,3594 1678,3624" rendition="Line" xml:id="facs_1_r1l98"/>
+            <zone points="669,3665 1523,3667 1588,3659 1588,3635 1512,3602 668,3622" rendition="Line" xml:id="facs_1_r1l99"/>
+            <zone points="1602,3713 2464,3681 2592,3709 2591,3660 2546,3644 2323,3673 2280,3649 1602,3669" rendition="Line" xml:id="facs_1_r1l100"/>
+            <zone points="602,3725 1587,3695 1576,3654 602,3686" rendition="Line" xml:id="facs_1_r1l101"/>
+            <zone points="1614,3754 2148,3761 2297,3750 2330,3707 1801,3703 1614,3727" rendition="Line" xml:id="facs_1_r1l102"/>
+            <zone points="608,3765 1461,3769 1588,3751 1588,3718 608,3738" rendition="Line" xml:id="facs_1_r1l103"/>
+            <zone points="1673,3794 2363,3802 2362,3764 2306,3746 1820,3751 1759,3777 1672,3760" rendition="Line" xml:id="facs_1_r1l104"/>
+            <zone points="608,3825 640,3832 653,3824 692,3824 719,3836 750,3819 813,3827 839,3807 854,3809 853,3795 836,3794 809,3775 750,3783 715,3767 685,3782 669,3774 607,3793" rendition="Line" xml:id="facs_1_r1l105"/>
+         </zone>
+         <zone points="2646,4022 2646,4179 3080,4179 3080,4022" rendition="TextRegion" xml:id="facs_1_r2">
+            <zone points="2640,4131 3087,4131 3086,4053 2962,4092 2905,4082 2828,4104 2776,4087 2741,4099 2688,4069 2639,4076" rendition="Line" xml:id="facs_1_r2l1"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3344" lry="4320" xml:id="facs_2">
+         <graphic url="F_01-1-15_Broschu%CC%88ren-Sonderdrucke_A-Halbert_14_0002.jpeg" width="3344px" height="4320px"/>
+         <zone points="251,109 251,4126 2546,4126 2546,109" rendition="TextRegion" xml:id="facs_2_r1">
+            <zone points="2076,158 2113,145 2172,165 2212,152 2229,159 2254,139 2271,149 2316,146 2315,102 2229,112 2196,95 2177,113 2130,106 2110,118 2095,108 2075,111" rendition="Line" xml:id="facs_2_r1l1"/>
+            <zone points="1504,239 1555,262 1649,262 1714,231 1795,272 1818,250 1949,240 1950,191 1770,163 1693,206 1653,187 1586,194 1545,168 1505,175" rendition="Line" xml:id="facs_2_r1l2"/>
+            <zone points="239,253 1357,268 1357,219 1246,179 887,178 823,232 697,177 328,176 239,213" rendition="Line" xml:id="facs_2_r1l3"/>
+            <zone points="2370,837 2424,830 2449,833 2459,825 2481,833 2491,823 2506,833 2525,831 2526,791 2511,791 2504,799 2481,781 2415,778 2395,792 2370,795" rendition="Line" xml:id="facs_2_r1l4"/>
+            <zone points="1046,834 1995,843 1995,788 1046,799" rendition="Line" xml:id="facs_2_r1l5"/>
+            <zone points="1587,981 1762,944 2034,970 2429,942 2469,966 2519,953 2518,886 2171,876 2060,905 1909,880 1717,918 1585,892" rendition="Line" xml:id="facs_2_r1l6"/>
+            <zone points="579,964 1296,970 1389,945 1511,967 1510,920 1439,895 1204,921 1070,885 976,917 788,889 578,909" rendition="Line" xml:id="facs_2_r1l7"/>
+            <zone points="1587,1021 2464,997 2499,1019 2520,956 1586,969" rendition="Line" xml:id="facs_2_r1l8"/>
+            <zone points="526,1016 1493,1015 1515,965 526,974" rendition="Line" xml:id="facs_2_r1l9"/>
+            <zone points="1522,1069 2521,1044 2471,1000 1521,1019" rendition="Line" xml:id="facs_2_r1l10"/>
+            <zone points="536,1082 1446,1067 1522,1049 1522,1014 535,1015" rendition="Line" xml:id="facs_2_r1l11"/>
+            <zone points="1531,1118 2505,1093 2504,1056 2410,1047 1530,1071" rendition="Line" xml:id="facs_2_r1l12"/>
+            <zone points="533,1109 1379,1126 1504,1114 1504,1057 532,1082" rendition="Line" xml:id="facs_2_r1l13"/>
+            <zone points="1525,1164 1961,1179 2522,1145 2521,1098 1525,1122" rendition="Line" xml:id="facs_2_r1l14"/>
+            <zone points="532,1164 604,1183 643,1155 725,1171 801,1154 1016,1158 1015,1111 697,1124 669,1112 642,1125 531,1110" rendition="Line" xml:id="facs_2_r1l15"/>
+            <zone points="598,1202 1419,1218 1510,1202 1510,1158 1332,1147 1258,1179 1102,1141 922,1177 598,1170" rendition="Line" xml:id="facs_2_r1l16"/>
+            <zone points="1528,1213 2154,1221 2520,1187 2519,1145 2092,1180 2052,1156 1951,1181 1528,1164" rendition="Line" xml:id="facs_2_r1l17"/>
+            <zone points="2215,1248 2324,1256 2346,1248 2359,1260 2395,1240 2480,1261 2516,1235 2516,1198 2429,1197 2392,1208 2357,1199 2293,1215 2254,1203 2232,1218 2214,1216" rendition="Line" xml:id="facs_2_r1l18"/>
+            <zone points="522,1264 1506,1249 1505,1207 1468,1205 521,1222" rendition="Line" xml:id="facs_2_r1l19"/>
+            <zone points="1527,1273 1576,1258 1682,1271 1704,1254 1744,1273 2006,1251 2088,1263 2107,1255 2107,1204 1526,1213" rendition="Line" xml:id="facs_2_r1l20"/>
+            <zone points="1533,1306 2465,1313 2522,1302 2521,1253 1532,1266" rendition="Line" xml:id="facs_2_r1l21"/>
+            <zone points="531,1311 946,1292 1036,1326 1132,1300 1298,1326 1513,1297 1495,1253 531,1264" rendition="Line" xml:id="facs_2_r1l22"/>
+            <zone points="1535,1381 1577,1373 1595,1385 1612,1385 1639,1360 1669,1370 1701,1357 1733,1357 1743,1347 1770,1349 1770,1317 1693,1323 1656,1313 1624,1321 1609,1309 1599,1319 1587,1314 1535,1329" rendition="Line" xml:id="facs_2_r1l23"/>
+            <zone points="540,1360 573,1374 681,1358 736,1370 753,1352 842,1366 866,1351 911,1370 965,1352 1017,1359 1017,1312 540,1316" rendition="Line" xml:id="facs_2_r1l24"/>
+            <zone points="599,1405 1380,1409 1437,1396 1437,1339 1333,1367 1088,1344 977,1368 599,1363" rendition="Line" xml:id="facs_2_r1l25"/>
+            <zone points="1595,1419 2236,1423 2290,1400 2396,1423 2517,1399 2516,1349 2472,1338 2067,1375 1945,1357 1906,1385 1594,1367" rendition="Line" xml:id="facs_2_r1l26"/>
+            <zone points="607,1454 1484,1465 1514,1453 1514,1396 607,1412" rendition="Line" xml:id="facs_2_r1l27"/>
+            <zone points="1538,1473 1914,1489 1948,1463 2010,1490 2052,1457 2322,1486 2522,1452 2521,1397 1537,1426" rendition="Line" xml:id="facs_2_r1l28"/>
+            <zone points="525,1528 537,1528 552,1516 574,1514 582,1506 599,1516 607,1509 614,1514 624,1509 634,1512 644,1504 663,1510 683,1507 684,1478 671,1477 649,1460 622,1460 617,1455 607,1460 595,1452 545,1466 525,1461" rendition="Line" xml:id="facs_2_r1l29"/>
+            <zone points="1548,1525 1818,1516 1865,1526 1877,1514 1909,1517 1910,1472 1786,1476 1769,1463 1732,1465 1717,1480 1695,1465 1648,1479 1630,1469 1620,1479 1549,1471" rendition="Line" xml:id="facs_2_r1l30"/>
+            <zone points="594,1563 1182,1556 1219,1531 1264,1557 1484,1556 1521,1546 1520,1479 1392,1512 1275,1473 1026,1520 922,1491 593,1511" rendition="Line" xml:id="facs_2_r1l31"/>
+            <zone points="1599,1578 2477,1571 2521,1553 2521,1518 2429,1492 2155,1536 2056,1512 1999,1540 1942,1512 1599,1534" rendition="Line" xml:id="facs_2_r1l32"/>
+            <zone points="527,1608 1514,1600 1513,1556 1464,1549 1068,1576 527,1558" rendition="Line" xml:id="facs_2_r1l33"/>
+            <zone points="1549,1634 2197,1625 2196,1575 2149,1568 1548,1582" rendition="Line" xml:id="facs_2_r1l34"/>
+            <zone points="534,1667 1222,1665 1271,1640 1400,1671 1531,1645 1530,1615 1421,1596 534,1603" rendition="Line" xml:id="facs_2_r1l35"/>
+            <zone points="1609,1680 1869,1697 2007,1673 2074,1699 2183,1673 2396,1700 2526,1663 2526,1626 2387,1603 2279,1637 1609,1626" rendition="Line" xml:id="facs_2_r1l36"/>
+            <zone points="531,1711 571,1720 632,1692 669,1712 691,1701 706,1714 743,1701 850,1702 849,1670 827,1675 810,1658 743,1651 688,1662 641,1653 612,1665 594,1653 575,1666 530,1662" rendition="Line" xml:id="facs_2_r1l37"/>
+            <zone points="1539,1734 1568,1731 1591,1751 1611,1753 1645,1726 1712,1747 1749,1732 1761,1745 1781,1735 1813,1742 1813,1702 1768,1690 1754,1695 1726,1678 1684,1693 1669,1681 1625,1689 1538,1669" rendition="Line" xml:id="facs_2_r1l38"/>
+            <zone points="600,1749 911,1781 1059,1739 1097,1771 1453,1745 1525,1772 1524,1695 1405,1674 1336,1704 1291,1675 1178,1704 943,1679 599,1707" rendition="Line" xml:id="facs_2_r1l39"/>
+            <zone points="1608,1799 2350,1789 2349,1740 2295,1728 1607,1737" rendition="Line" xml:id="facs_2_r1l40"/>
+            <zone points="534,1796 637,1830 672,1813 697,1818 719,1801 741,1816 763,1814 778,1829 800,1826 801,1765 776,1757 739,1759 722,1746 650,1758 608,1745 534,1757" rendition="Line" xml:id="facs_2_r1l41"/>
+            <zone points="1327,1908 1377,1925 1471,1911 1486,1925 1535,1912 1565,1926 1592,1913 1617,1933 1644,1917 1758,1905 1757,1873 1652,1838 1537,1853 1464,1834 1326,1844" rendition="Line" xml:id="facs_2_r1l42"/>
+            <zone points="880,2079 2195,2068 2194,1992 2088,1963 879,1976" rendition="Line" xml:id="facs_2_r1l43"/>
+            <zone points="1547,2166 2462,2171 2531,2152 2530,2095 2357,2124 2090,2102 1992,2137 1546,2127" rendition="Line" xml:id="facs_2_r1l44"/>
+            <zone points="606,2189 1526,2171 1505,2117 1221,2142 932,2116 843,2147 605,2125" rendition="Line" xml:id="facs_2_r1l45"/>
+            <zone points="1545,2218 2398,2226 2526,2211 2526,2169 1544,2164" rendition="Line" xml:id="facs_2_r1l46"/>
+            <zone points="540,2235 1532,2220 1514,2171 1129,2202 540,2168" rendition="Line" xml:id="facs_2_r1l47"/>
+            <zone points="1552,2275 2533,2260 2532,2213 2443,2204 1551,2228" rendition="Line" xml:id="facs_2_r1l48"/>
+            <zone points="542,2281 1348,2288 1506,2277 1540,2234 541,2234" rendition="Line" xml:id="facs_2_r1l49"/>
+            <zone points="1549,2321 2459,2329 2540,2301 2540,2264 1548,2272" rendition="Line" xml:id="facs_2_r1l50"/>
+            <zone points="545,2326 1384,2337 1524,2325 1524,2283 545,2299" rendition="Line" xml:id="facs_2_r1l51"/>
+            <zone points="1554,2391 1567,2391 1576,2381 1593,2373 1616,2380 1626,2378 1633,2370 1660,2370 1670,2364 1682,2364 1682,2334 1667,2335 1652,2325 1635,2328 1630,2323 1617,2323 1612,2328 1600,2326 1592,2319 1575,2322 1553,2317" rendition="Line" xml:id="facs_2_r1l52"/>
+            <zone points="546,2390 1495,2378 1527,2373 1527,2323 545,2338" rendition="Line" xml:id="facs_2_r1l53"/>
+            <zone points="1630,2412 2523,2414 2522,2362 2493,2353 1689,2362 1630,2385" rendition="Line" xml:id="facs_2_r1l54"/>
+            <zone points="548,2441 1539,2408 1538,2375 1447,2370 547,2387" rendition="Line" xml:id="facs_2_r1l55"/>
+            <zone points="1553,2457 2500,2465 2532,2420 1597,2407 1553,2430" rendition="Line" xml:id="facs_2_r1l56"/>
+            <zone points="542,2491 1529,2475 1513,2421 542,2449" rendition="Line" xml:id="facs_2_r1l57"/>
+            <zone points="1548,2506 2540,2512 2514,2455 2089,2481 1547,2459" rendition="Line" xml:id="facs_2_r1l58"/>
+            <zone points="547,2520 1534,2529 1534,2490 1469,2466 547,2485" rendition="Line" xml:id="facs_2_r1l59"/>
+            <zone points="1549,2569 2439,2562 2540,2519 1549,2527" rendition="Line" xml:id="facs_2_r1l60"/>
+            <zone points="545,2578 1532,2565 1531,2528 1464,2514 545,2543" rendition="Line" xml:id="facs_2_r1l61"/>
+            <zone points="1548,2604 2290,2629 2400,2596 2519,2612 2541,2550 1547,2569" rendition="Line" xml:id="facs_2_r1l62"/>
+            <zone points="541,2635 1530,2616 1514,2562 541,2601" rendition="Line" xml:id="facs_2_r1l63"/>
+            <zone points="1557,2682 1575,2682 1597,2665 1622,2677 1659,2660 1730,2660 1748,2670 1775,2662 1795,2670 1795,2633 1775,2633 1730,2610 1626,2611 1614,2618 1557,2613" rendition="Line" xml:id="facs_2_r1l64"/>
+            <zone points="554,2675 1506,2678 1529,2615 553,2631" rendition="Line" xml:id="facs_2_r1l65"/>
+            <zone points="1630,2703 2493,2710 2537,2705 2536,2646 2284,2624 2163,2670 2116,2632 1968,2668 1888,2635 1849,2665 1629,2660" rendition="Line" xml:id="facs_2_r1l66"/>
+            <zone points="553,2735 1493,2718 1537,2708 1536,2651 1280,2690 552,2681" rendition="Line" xml:id="facs_2_r1l67"/>
+            <zone points="1553,2763 2443,2757 2527,2749 2526,2705 1552,2721" rendition="Line" xml:id="facs_2_r1l68"/>
+            <zone points="543,2758 1550,2761 1497,2712 543,2733" rendition="Line" xml:id="facs_2_r1l69"/>
+            <zone points="1556,2816 2535,2792 2534,2750 2401,2743 1555,2764" rendition="Line" xml:id="facs_2_r1l70"/>
+            <zone points="553,2814 958,2834 1532,2804 1531,2767 1464,2756 552,2777" rendition="Line" xml:id="facs_2_r1l71"/>
+            <zone points="1550,2862 2544,2840 2521,2788 1549,2803" rendition="Line" xml:id="facs_2_r1l72"/>
+            <zone points="554,2880 1468,2872 1532,2856 1532,2819 553,2831" rendition="Line" xml:id="facs_2_r1l73"/>
+            <zone points="1556,2901 2543,2905 2542,2846 1555,2864" rendition="Line" xml:id="facs_2_r1l74"/>
+            <zone points="542,2913 1541,2900 1540,2861 1454,2855 542,2879" rendition="Line" xml:id="facs_2_r1l75"/>
+            <zone points="1551,2961 2542,2941 2541,2902 2472,2893 1550,2899" rendition="Line" xml:id="facs_2_r1l76"/>
+            <zone points="545,2966 1507,2964 1539,2961 1538,2904 544,2924" rendition="Line" xml:id="facs_2_r1l77"/>
+            <zone points="1557,3012 2425,3008 2548,2989 2548,2957 2401,2934 2055,2943 1994,2974 1556,2957" rendition="Line" xml:id="facs_2_r1l78"/>
+            <zone points="542,3023 1541,3010 1540,2960 1459,2952 687,2956 542,2993" rendition="Line" xml:id="facs_2_r1l79"/>
+            <zone points="1551,3055 2501,3048 2535,3038 2535,2986 1551,3011" rendition="Line" xml:id="facs_2_r1l80"/>
+            <zone points="552,3068 1484,3064 1548,3049 1548,3014 551,3026" rendition="Line" xml:id="facs_2_r1l81"/>
+            <zone points="1554,3097 2515,3098 2532,3039 1553,3060" rendition="Line" xml:id="facs_2_r1l82"/>
+            <zone points="559,3122 1498,3129 1543,3114 1542,3049 558,3067" rendition="Line" xml:id="facs_2_r1l83"/>
+            <zone points="1555,3153 2547,3134 2546,3082 1555,3109" rendition="Line" xml:id="facs_2_r1l84"/>
+            <zone points="546,3173 650,3161 734,3172 771,3154 957,3171 974,3155 1011,3160 1010,3123 983,3111 763,3125 723,3115 708,3128 686,3114 545,3116" rendition="Line" xml:id="facs_2_r1l85"/>
+            <zone points="1557,3199 2544,3184 2514,3135 1557,3147" rendition="Line" xml:id="facs_2_r1l86"/>
+            <zone points="649,3212 711,3231 1539,3193 1538,3158 1486,3142 648,3170" rendition="Line" xml:id="facs_2_r1l87"/>
+            <zone points="1565,3261 2057,3230 2084,3252 2265,3252 2393,3231 2393,3186 1564,3199" rendition="Line" xml:id="facs_2_r1l88"/>
+            <zone points="555,3254 1542,3245 1541,3200 1467,3194 555,3219" rendition="Line" xml:id="facs_2_r1l89"/>
+            <zone points="1629,3279 1761,3307 2535,3295 2534,3243 2435,3223 2264,3252 1629,3242" rendition="Line" xml:id="facs_2_r1l90"/>
+            <zone points="556,3325 1540,3289 1539,3252 1465,3246 555,3254" rendition="Line" xml:id="facs_2_r1l91"/>
+            <zone points="1556,3338 2543,3339 2542,3289 2485,3283 1766,3315 1556,3291" rendition="Line" xml:id="facs_2_r1l92"/>
+            <zone points="551,3352 1476,3359 1540,3343 1539,3301 550,3323" rendition="Line" xml:id="facs_2_r1l93"/>
+            <zone points="1554,3403 2317,3373 2412,3400 2542,3371 2542,3334 1553,3349" rendition="Line" xml:id="facs_2_r1l94"/>
+            <zone points="556,3402 1540,3397 1539,3343 1233,3369 555,3350" rendition="Line" xml:id="facs_2_r1l95"/>
+            <zone points="1565,3445 2490,3438 2539,3422 2539,3385 1565,3405" rendition="Line" xml:id="facs_2_r1l96"/>
+            <zone points="555,3470 1163,3434 1349,3458 1449,3419 1541,3448 1526,3396 554,3410" rendition="Line" xml:id="facs_2_r1l97"/>
+            <zone points="1561,3490 2552,3490 2552,3431 1560,3446" rendition="Line" xml:id="facs_2_r1l98"/>
+            <zone points="558,3507 1547,3492 1546,3447 1467,3441 557,3463" rendition="Line" xml:id="facs_2_r1l99"/>
+            <zone points="1558,3529 2381,3538 2554,3522 2556,3489 1557,3487" rendition="Line" xml:id="facs_2_r1l100"/>
+            <zone points="553,3542 645,3566 1542,3544 1541,3495 1511,3493 552,3508" rendition="Line" xml:id="facs_2_r1l101"/>
+            <zone points="1574,3597 2553,3572 2552,3520 1573,3542" rendition="Line" xml:id="facs_2_r1l102"/>
+            <zone points="565,3600 1468,3600 1549,3554 564,3553" rendition="Line" xml:id="facs_2_r1l103"/>
+            <zone points="1563,3635 2179,3646 2552,3614 2551,3579 2385,3570 1562,3595" rendition="Line" xml:id="facs_2_r1l104"/>
+            <zone points="560,3659 1557,3643 1529,3589 560,3609" rendition="Line" xml:id="facs_2_r1l105"/>
+            <zone points="556,3706 2475,3701 2557,3618 555,3657" rendition="Line" xml:id="facs_2_r1l106"/>
+            <zone points="2284,3945 2303,3938 2313,3942 2324,3931 2340,3940 2347,3932 2365,3935 2399,3909 2439,3908 2435,3864 2402,3862 2389,3853 2377,3857 2361,3848 2326,3872 2302,3876 2294,3870 2276,3871" rendition="Line" xml:id="facs_2_r1l107"/>
+            <zone points="2329,4128 2344,4127 2363,4106 2377,4108 2390,4120 2400,4112 2437,4113 2434,4039 2402,4040 2392,4048 2380,4049 2357,4042 2340,4055 2326,4053" rendition="Line" xml:id="facs_2_r1l108"/>
+            <zone points="2227,4111 2257,4111 2264,4114 2313,4112 2314,4053 2302,4053 2300,4050 2292,4058 2282,4053 2267,4062 2245,4057 2228,4059" rendition="Line" xml:id="facs_2_r1l109"/>
+         </zone>
+         <zone points="2537,4007 2537,4160 2649,4160 2649,4007" rendition="TextRegion" xml:id="facs_2_r2">
+            <zone points="2524,4112 2561,4114 2576,4103 2586,4108 2662,4104 2662,4055 2639,4058 2632,4065 2615,4056 2600,4068 2583,4071 2550,4054 2543,4060 2523,4062" rendition="Line" xml:id="facs_2_r2l1"/>
+         </zone>
+         <zone points="2898,3996 2898,4151 3256,4151 3256,3996" rendition="TextRegion" xml:id="facs_2_r3">
+            <zone points="2885,4104 3043,4104 3055,4091 3115,4091 3135,4105 3268,4103 3267,4022 3228,4027 3196,4052 3109,4054 3062,4030 2998,4055 2938,4039 2884,4052" rendition="Line" xml:id="facs_2_r3l1"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>box 36/1
+               <lb facs="#facs_1_r1l2" n="N002"/>1
+               <lb facs="#facs_1_r1l3" n="N003"/>
+               <lb facs="#facs_1_r1l4" n="N004"/>OIfpr.
+               <lb facs="#facs_1_r1l5" n="N005"/>Magazin für Litteratur, Zweites Dezemberheft 1905
+               <lb facs="#facs_1_r1l6" n="N006"/>554
+               <lb facs="#facs_1_r1l7" n="N007"/>der Künstler, der selbst um eine persönliche Form
+               <lb facs="#facs_1_r1l8" n="N008"/>flexionen oder gar Voraussagungen gemischt, son¬
+               <lb facs="#facs_1_r1l9" n="N009"/>ringt, kann das mitwissen und kann es ganz ver¬
+               <lb facs="#facs_1_r1l10" n="N010"/>dern das Erleben, wie es der Tag bringt.
+               <lb facs="#facs_1_r1l11" n="N011"/>stehen, wie sich in der Stadt mit lichten Türmen
+               <lb facs="#facs_1_r1l12" n="N012"/>Es ist das Leben des Nicht=Allwissenden, des
+               <lb facs="#facs_1_r1l13" n="N013"/>eine Persönlichkeit ihre persönliche Kunstform ge¬
+               <lb facs="#facs_1_r1l14" n="N014"/>nicht über seiner Gegenwart Stehenden — das
+               <lb facs="#facs_1_r1l15" n="N015"/>schaffen hat.
+               <lb facs="#facs_1_r1l16" n="N016"/>Leben des Menschen.
+               <lb facs="#facs_1_r1l17" n="N017"/>Daß in unserer Zeit, die ein Buch um so
+               <lb facs="#facs_1_r1l18" n="N018"/>Diese Form, die ernsteste und strengste des
+               <lb facs="#facs_1_r1l19" n="N019"/>lieber liest, als es leicht und amüsant ist, diese
+               <lb facs="#facs_1_r1l20" n="N020"/>Romans, durchzuführen (ich erinnere an Pan von
+               <lb facs="#facs_1_r1l21" n="N021"/>Kunst, die sogar darauf verzichtet, dem Leser
+               <lb facs="#facs_1_r1l22" n="N022"/>Knut Hamsun, wo Hamsuns Persönlichkeit das
+               <lb facs="#facs_1_r1l23" n="N023"/>einen unterhaltenden Stoff oder eine wertgeschätzte
+               <lb facs="#facs_1_r1l24" n="N024"/>Problem löste), ist etwas schwerer, als die Fi¬
+               <lb facs="#facs_1_r1l25" n="N025"/>Zeitfrage zu bieten, wenig Verstehende finden
+               <lb facs="#facs_1_r1l26" n="N026"/>guren auf ein Schachbrett zu stellen und als In¬
+               <lb facs="#facs_1_r1l27" n="N027"/>kann, ist sicher. Um so weniger denke ich, es sei
+               <lb facs="#facs_1_r1l28" n="N028"/>telligenz darüber zu walten. Dieses Schritt für
+               <lb facs="#facs_1_r1l29" n="N029"/>nicht nötig gewesen, auf Toni Schwabes neuen
+               <lb facs="#facs_1_r1l30" n="N030"/>Schritt Miterleben einer Entwickelung sowohl als
+               <lb facs="#facs_1_r1l31" n="N031"/>Roman hinzuweisen.
+               <lb facs="#facs_1_r1l32" n="N032"/>eines Schicksals erfordert eine Kraft, die etwas
+               <lb facs="#facs_1_r1l33" n="N033"/>Denn vom Guten zu schweigen, ist eine
+               <lb facs="#facs_1_r1l34" n="N034"/>stärker sein muß, als die des Chronisten und Dra¬
+               <lb facs="#facs_1_r1l35" n="N035"/>Schmeichelei für das Geringe.
+               <lb facs="#facs_1_r1l36" n="N036"/>matikers.
+               <lb facs="#facs_1_r1l37" n="N037"/>Aber noch einmal, ich empfehle die Stadt
+               <lb facs="#facs_1_r1l38" n="N038"/>Diese Form durchzuführen, bis ein Kunstwerk,
+               <lb facs="#facs_1_r1l39" n="N039"/>mit lichten Türmen niemandes Wohlwollen.
+               <lb facs="#facs_1_r1l40" n="N040"/>das in seiner Art ohne Tadel ist, daraus wird,
+               <lb facs="#facs_1_r1l41" n="N041"/>An ein Kunstwerk herantreten zu dürfen, setzt
+               <lb facs="#facs_1_r1l42" n="N042"/>verlangt einen anderen Intelligenzaufwand, als
+               <lb facs="#facs_1_r1l43" n="N043"/>eine ehrfürchtige Seele voraus.
+               <lb facs="#facs_1_r1l44" n="N044"/>die Historien von zehn Familien zu fixieren. Nur
+               <lb facs="#facs_1_r1l45" n="N045"/>EU
+               <lb facs="#facs_1_r1l46" n="N046"/>Schnitzlers Lebenskunst
+               <lb facs="#facs_1_r1l47" n="N047"/>Artbur
+               <lb facs="#facs_1_r1l48" n="N048"/>Von A. Halbert=Cbarlottenburg
+               <lb facs="#facs_1_r1l49" n="N049"/>Auch nicht die Zukunft erforschen wollen: Es
+               <lb facs="#facs_1_r1l50" n="N050"/>Kampf ist Leben und Leben ist Kampf. Und
+               <lb facs="#facs_1_r1l51" n="N051"/>kommt ja doch, wie es kommen soll — kommen
+               <lb facs="#facs_1_r1l52" n="N052"/>„doch ist Leben des Lebens höchstes Gut.“
+               <lb facs="#facs_1_r1l53" n="N053"/>muß.
+               <lb facs="#facs_1_r1l54" n="N054"/>Dielleicht eben darum, meint der Lebensbejaher
+               <lb facs="#facs_1_r1l55" n="N055"/>Wer bedingt dieses „Muß?¬
+               <lb facs="#facs_1_r1l56" n="N056"/>Arthur Schnitzler.
+               <lb facs="#facs_1_r1l57" n="N057"/>Im! Das heißt zu Deutsch: grübeln; weg
+               <lb facs="#facs_1_r1l58" n="N058"/>Wollen, Wünschen, Werden, Kraft, Wille,
+               <lb facs="#facs_1_r1l59" n="N059"/>damit! Freuet euch des Lebens ... fühlt,
+               <lb facs="#facs_1_r1l60" n="N060"/> und unser
+               <lb facs="#facs_1_r1l61" n="N061"/>Sehnsucht füllen unsere Seele aus
+               <lb facs="#facs_1_r1l62" n="N062"/>empfindet, lachet, lebet, nur seufzet nicht: Es hilft
+               <lb facs="#facs_1_r1l63" n="N063"/>Teben.
+               <lb facs="#facs_1_r1l64" n="N064"/>ja doch nicht ...
+               <lb facs="#facs_1_r1l65" n="N065"/>Drum das Leben nehmen, wo man es findet,
+               <lb facs="#facs_1_r1l66" n="N066"/>Ob deine Frau dir treu ist oder nur Treue
+               <lb facs="#facs_1_r1l67" n="N067"/>und wie es einem in den Weg kommt. Das
+               <lb facs="#facs_1_r1l68" n="N068"/>heuchelt? Frage nicht so, du Allerweltstor! Liebe
+               <lb facs="#facs_1_r1l69" n="N069"/>Leben lieben, lehrt uns Schnitzler in allen seinen
+               <lb facs="#facs_1_r1l70" n="N070"/>hat mit Treue nichts zu schaffen. Küsse dein Weib
+               <lb facs="#facs_1_r1l71" n="N071"/>Werken — trotz allem Lug und Trug, der es be¬
+               <lb facs="#facs_1_r1l72" n="N072"/>und werde glücklich. Umarme sie und lebe. Ob
+               <lb facs="#facs_1_r1l73" n="N073"/>herrscht.
+               <lb facs="#facs_1_r1l74" n="N074"/>sie hinter deinem Rücken einem gelockten Jüng¬
+               <lb facs="#facs_1_r1l75" n="N075"/>Wissen, daß die Alenschen nicht immer wahr
+               <lb facs="#facs_1_r1l76" n="N076"/>ling das Haar streichelt — du bist wohl nicht recht
+               <lb facs="#facs_1_r1l77" n="N077"/>sind — wissen, daß wir selber nicht allzu wahr sind
+               <lb facs="#facs_1_r1l78" n="N078"/>gescheit! Warum soll, warum darf sie es nicht
+               <lb facs="#facs_1_r1l79" n="N079"/>nicht allzu peinlich die Lüge meiden — ahnen, daß
+               <lb facs="#facs_1_r1l80" n="N080"/>tun, wenn sie dir Genüge leistet ... Es gibt
+               <lb facs="#facs_1_r1l81" n="N081"/>wir betrogen werden und doch leben, die Augen
+               <lb facs="#facs_1_r1l82" n="N082"/>„weite“ Herzen ... Du bist vielleicht einer von
+               <lb facs="#facs_1_r1l83" n="N083"/>und die Berzen offen halten — das Leben und die
+               <lb facs="#facs_1_r1l84" n="N084"/>denen ... Sei vernünftig — und dein Weib
+               <lb facs="#facs_1_r1l85" n="N085"/>Kraft und die Liebe einströmen lassen in vollen
+               <lb facs="#facs_1_r1l86" n="N086"/>ist „die Frau des Weisen.“
+               <lb facs="#facs_1_r1l87" n="N087"/>Zügen, alles wie es ist, nicht wie es sein soll.
+               <lb facs="#facs_1_r1l88" n="N088"/>Und du Weib, wenn du deinen „Schleier“
+               <lb facs="#facs_1_r1l89" n="N089"/>Das ist der Weisheit erster Grund; das ist der
+               <lb facs="#facs_1_r1l90" n="N090"/>vergißt, wenn du tief fühlst und empfindest und
+               <lb facs="#facs_1_r1l91" n="N091"/>Weisheit letzter Schluß.
+               <lb facs="#facs_1_r1l92" n="N092"/>vor deinem Tier=Weib=Instinkt keine Ruhe hast
+               <lb facs="#facs_1_r1l93" n="N093"/>Das Leben bejahen und glücklich sein — so
+               <lb facs="#facs_1_r1l94" n="N094"/>du bist tragisch — „Beatrice“!
+               <lb facs="#facs_1_r1l95" n="N095"/>lange man kann; die Enttäuschungen kommen noch
+               <lb facs="#facs_1_r1l96" n="N096"/>Doch — das Leben darf nicht leer sein!
+               <lb facs="#facs_1_r1l97" n="N097"/>immer früh genug.
+               <lb facs="#facs_1_r1l98" n="N098"/>„Leutnant Gustel“ findet sonst keinen Anhalts¬
+               <lb facs="#facs_1_r1l99" n="N099"/>Nicht weich sein — nur weise — immer weise.
+               <lb facs="#facs_1_r1l100" n="N100"/>punkt, warum er weiter leben soll. Man muß
+               <lb facs="#facs_1_r1l101" n="N101"/>Nicht träumen, nicht in Erinnerung versinken, nicht
+               <lb facs="#facs_1_r1l102" n="N102"/>„ein Kerl“ sein, um weiter zu leben.
+               <lb facs="#facs_1_r1l103" n="N103"/>nach rückwärts schauen — immer vorwärts, nur
+               <lb facs="#facs_1_r1l104" n="N104"/>Es erfüllen mit Arbeit und Liebe.
+               <lb facs="#facs_1_r1l105" n="N105"/>geradeaus.
+            </ab>
+            <ab facs="#facs_1_r2">
+               <lb facs="#facs_1_r2l1" n="N001"/>
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1">
+               <lb facs="#facs_2_r1l1" n="N001"/>—
+               <lb facs="#facs_2_r1l2" n="N002"/>box 36/1
+               <lb facs="#facs_2_r1l3" n="N003"/>Panphlets, Ooffprints
+               <lb facs="#facs_2_r1l4" n="N004"/>555
+               <lb facs="#facs_2_r1l5" n="N005"/>Erich Mühsam: Heinrich Hart, der Plauderer
+               <lb facs="#facs_2_r1l6" n="N006"/>Sei du — sei ein Selbst. Kein „Vermächtnis“.
+               <lb facs="#facs_2_r1l7" n="N007"/>Dor allen Dingen nicht sentimental sein. Das
+               <lb facs="#facs_2_r1l8" n="N008"/>Wenn du ein Kind hast, sei ihm eine Mlutter:
+               <lb facs="#facs_2_r1l9" n="N009"/>ist zu tief für unsere leichtlebige Welt. Merke es
+               <lb facs="#facs_2_r1l10" n="N010"/>Kämpfe und lebe. Dersinke nicht: Weder in Di¬
+               <lb facs="#facs_2_r1l11" n="N011"/>dir, Mleisterin: Lerne unterscheiden zwischen Liebe
+               <lb facs="#facs_2_r1l12" n="N012"/>etät noch in Erinnerung. Beides ist gleich schäd¬
+               <lb facs="#facs_2_r1l13" n="N013"/>und „Liebelei“. Und wenn du eine tiefe Seele
+               <lb facs="#facs_2_r1l14" n="N014"/>lich. Die Menschen glauben es dir ja doch nicht.
+               <lb facs="#facs_2_r1l15" n="N015"/>hast — wirst du leiden.
+               <lb facs="#facs_2_r1l16" n="N016"/>Tiefe Naturen leiden immer ... Darum
+               <lb facs="#facs_2_r1l17" n="N017"/>Sie sind hartherzig. Und wenn schon — be¬
+               <lb facs="#facs_2_r1l18" n="N018"/>das ist bös!
+               <lb facs="#facs_2_r1l19" n="N019"/>wolle nicht verstanden werden, suche du zu ver¬
+               <lb facs="#facs_2_r1l20" n="N020"/>dauern, bemitleiden sie dich
+               <lb facs="#facs_2_r1l21" n="N021"/>Das heißt: Sinken — den Kampf, somit das Leben
+               <lb facs="#facs_2_r1l22" n="N022"/>stehen; nimm dir an Alizi Schlager, deiner
+               <lb facs="#facs_2_r1l23" n="N023"/>aufgeben. —
+               <lb facs="#facs_2_r1l24" n="N024"/>Freundin, ein Beispiel.
+               <lb facs="#facs_2_r1l25" n="N025"/>Recht flott und tugendhaft und — weise.
+               <lb facs="#facs_2_r1l26" n="N026"/>Wie ein roter Faden geht durch das ganze
+               <lb facs="#facs_2_r1l27" n="N027"/>So sind die Männer, so die Weiber, so: die
+               <lb facs="#facs_2_r1l28" n="N028"/>Schaffen Schnitzlers diese Kampffrendigkeit, diese
+               <lb facs="#facs_2_r1l29" n="N029"/>Welt.
+               <lb facs="#facs_2_r1l30" n="N030"/>Lebensbejahung.
+               <lb facs="#facs_2_r1l31" n="N031"/>Geb dich nicht als „Freiwild“ hin; du sinkst
+               <lb facs="#facs_2_r1l32" n="N032"/>Seufzen ist ihm ein Zeichen des Leidens, und
+               <lb facs="#facs_2_r1l33" n="N033"/>dann in anderer Achtung. Ja noch schlimmer:
+               <lb facs="#facs_2_r1l34" n="N034"/>Leid ein Symptom der Schwäche.
+               <lb facs="#facs_2_r1l35" n="N035"/>Wenn du tief bist, verlierst du auch die Achtung
+               <lb facs="#facs_2_r1l36" n="N036"/>Nicht niederdrücken lassen und vor allem sich
+               <lb facs="#facs_2_r1l37" n="N037"/>vor dir selber.
+               <lb facs="#facs_2_r1l38" n="N038"/>nicht ducken.
+               <lb facs="#facs_2_r1l39" n="N039"/>Und das ist schlimm! Das Schlimmste alles
+               <lb facs="#facs_2_r1l40" n="N040"/>Aufrecht gehen! Immer aufrecht!
+               <lb facs="#facs_2_r1l41" n="N041"/>Schlimmen.
+               <lb facs="#facs_2_r1l42" n="N042"/>U
+               <lb facs="#facs_2_r1l43" n="N043"/>Heinrich Hart, der Dlauderer
+               <lb facs="#facs_2_r1l44" n="N044"/>Gemeinschaft“ sich zu einem „Leben in Kunst“.
+               <lb facs="#facs_2_r1l45" n="N045"/>Um Mißdeutungen bei der interessierten Stelle
+               <lb facs="#facs_2_r1l46" n="N046"/>in einem Familienpensionat zusammenzufinden, als
+               <lb facs="#facs_2_r1l47" n="N047"/>von vornherein vorzubeugen, bemerke ich: Mit
+               <lb facs="#facs_2_r1l48" n="N048"/>„Lebensdilettanten“ zu bezeichnen wagte. Eine
+               <lb facs="#facs_2_r1l49" n="N049"/>den nachfolgenden Ausführungen will ich nicht wie
+               <lb facs="#facs_2_r1l50" n="N050"/>Ketzerriecherei, die meinen Ausdruck nur bestätigen
+               <lb facs="#facs_2_r1l51" n="N051"/>ein Schuljunge, der dem Lehrer, dessen Prügel¬
+               <lb facs="#facs_2_r1l52" n="N052"/>kann.
+               <lb facs="#facs_2_r1l53" n="N053"/>stock er eben entronnen ist, hinterher die Zunge
+               <lb facs="#facs_2_r1l54" n="N054"/>Also nochmals: irgendwelche Gründe pri¬
+               <lb facs="#facs_2_r1l55" n="N055"/>weist, Herrn Heinrich Hart, der mir einmal so
+               <lb facs="#facs_2_r1l56" n="N056"/>vater Natur sind es nicht, die mich drängen, gegen
+               <lb facs="#facs_2_r1l57" n="N057"/>etwas wie ein väterlicher Freund war, nun, wo
+               <lb facs="#facs_2_r1l58" n="N058"/>Heinrich Hart vorzugehen, sondern lediglich der
+               <lb facs="#facs_2_r1l59" n="N059"/>ich meinen eigenen Weg gefunden zu haben glaube,
+               <lb facs="#facs_2_r1l60" n="N060"/>Zorn ist es darüber, daß ich einen Baumeister an
+               <lb facs="#facs_2_r1l61" n="N061"/>zum Abschied etwas anhängen. Ich denke aber
+               <lb facs="#facs_2_r1l62" n="N062"/>dem Gerüst rütteln zu sehen meine, das er selbst
+               <lb facs="#facs_2_r1l63" n="N063"/>auch nicht daran, deshalb, weil er mir persönlich
+               <lb facs="#facs_2_r1l64" n="N064"/>aufrichtete.
+               <lb facs="#facs_2_r1l65" n="N065"/>nahe stand, einen Protest gegen seine jüngste litte¬
+               <lb facs="#facs_2_r1l66" n="N066"/>Nun zur Sache: Heinrich Hart ließ kürzlich
+               <lb facs="#facs_2_r1l67" n="N067"/>rarische Betätigung zu unterdrücken. Im Gegen¬
+               <lb facs="#facs_2_r1l68" n="N068"/>im „Tag“ eine Artikelserie erscheinen mit der Über¬
+               <lb facs="#facs_2_r1l69" n="N069"/>teil! Gerade meine persönlichen Beziehungen zu
+               <lb facs="#facs_2_r1l70" n="N070"/>schrift: „Die Litteratur=Bewegung von 1880 bis
+               <lb facs="#facs_2_r1l71" n="N071"/>Heinrich Hart, in dem ich zu Beginn meiner litte¬
+               <lb facs="#facs_2_r1l72" n="N072"/>1900. Nach persönlichen Erlebnissen.“ Es ist aber
+               <lb facs="#facs_2_r1l73" n="N073"/>rarischen Laufbahn meinen Lehrmeister und Be¬
+               <lb facs="#facs_2_r1l74" n="N074"/>eine altbekannte Erscheinung: Wer über eine Sache
+               <lb facs="#facs_2_r1l75" n="N075"/>rater sah, veranlassen mich, die Art, in der er
+               <lb facs="#facs_2_r1l76" n="N076"/>persönliche Erinnerungen schreibt, ist mit dieser
+               <lb facs="#facs_2_r1l77" n="N077"/>heute die Mentorstellung, die er seit mehr als
+               <lb facs="#facs_2_r1l78" n="N078"/>Sache innerlich fertig. (Ich werde demnächst mit
+               <lb facs="#facs_2_r1l79" n="N079"/>zwei Jahrzehnten jungen schriftstellerischen Ta¬
+               <lb facs="#facs_2_r1l80" n="N080"/>persönlichen Erinnerungen über die „Neue Ge¬
+               <lb facs="#facs_2_r1l81" n="N081"/>lenten gegenüber einnimmt, in die Öffentlichkeit
+               <lb facs="#facs_2_r1l82" n="N082"/>meinschaft“ hervortreten.) Wer von dieser Binsen¬
+               <lb facs="#facs_2_r1l83" n="N083"/>rückt, einer besonders scharfen und nachdrücklichen
+               <lb facs="#facs_2_r1l84" n="N084"/>weisheit, daß man Rückblicke nur auf überwundene
+               <lb facs="#facs_2_r1l85" n="N085"/>Kritik zu unterziehen.
+               <lb facs="#facs_2_r1l86" n="N086"/>Zeiten wirft, nicht von selbst überzeugt ist, lese
+               <lb facs="#facs_2_r1l87" n="N087"/>Ich habe diese Einleitung für notwendig er¬
+               <lb facs="#facs_2_r1l88" n="N088"/>die betreffenden Artikel Heinrich Harts.
+               <lb facs="#facs_2_r1l89" n="N089"/>achtet, weil es mir passiert ist, daß gelegentliche
+               <lb facs="#facs_2_r1l90" n="N090"/>Wir sind gewohnt, uns mit den Namen Hein¬
+               <lb facs="#facs_2_r1l91" n="N091"/>in Zeitschriften wie auch in Privatbriefen enthal¬
+               <lb facs="#facs_2_r1l92" n="N092"/>rich und Julius Hart die tapferen kritischen
+               <lb facs="#facs_2_r1l93" n="N093"/>tene Ausfälle gegen die Gegensatz=Überwindungs¬
+               <lb facs="#facs_2_r1l94" n="N094"/>Waffengänge verknüpft zu denken, in denen vor
+               <lb facs="#facs_2_r1l95" n="N095"/>Philosophie Julius Harts und gegen die aus
+               <lb facs="#facs_2_r1l96" n="N096"/>zwanzig Jahren die neue Dichtung, das neue
+               <lb facs="#facs_2_r1l97" n="N097"/>dem Geleise geratene „Neue Gemeinschaft“ an
+               <lb facs="#facs_2_r1l98" n="N098"/>künstlerische Empfinden, die neue ästhetische Kultur
+               <lb facs="#facs_2_r1l99" n="N099"/>deren Spitze die beiden Brüder stehen, von den Be¬
+               <lb facs="#facs_2_r1l100" n="N100"/>um ihre Entstehung kämpften. Wir wissen, daß
+               <lb facs="#facs_2_r1l101" n="N101"/>troffenen als Undankbarkeit, Gehässigkeit und
+               <lb facs="#facs_2_r1l102" n="N102"/>sich in jener Zeit der neuen Renaissance=Wehen
+               <lb facs="#facs_2_r1l103" n="N103"/>Treulosigkeit meinerseits bezeichnet wurden. Be¬
+               <lb facs="#facs_2_r1l104" n="N104"/>um die beiden Harts der ganze Kreis all derer
+               <lb facs="#facs_2_r1l105" n="N105"/>sonders wurde es mir verübelt, daß ich, wer weiß
+               <lb facs="#facs_2_r1l106" n="N106"/>wann und wo, die, die es unternahmen, als „Neue konzentrierte, deren künstlerische Bekenntnisse unse¬
+               <lb facs="#facs_2_r1l107" n="N107"/>ERE
+               <lb facs="#facs_2_r1l108" n="N108"/>„
+               <lb facs="#facs_2_r1l109" n="N109"/>A
+            </ab>
+            <ab facs="#facs_2_r2">
+               <lb facs="#facs_2_r2l1" n="N001"/>S
+            </ab>
+            <ab facs="#facs_2_r3">
+               <lb facs="#facs_2_r3l1" n="N001"/>  n
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">F_01-5_Broschüren-Sonderdrucke-1912-1913_Völker-Krieg-als-Erziehung</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">F_01-5_Broschüren-Sonderdrucke-1912-1913_Völker-Krieg-als-Erziehung</title><idno type="Transkribus">224210</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_1">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0001.jpeg" width="3392px" height="4320px"/>
+         <zone points="123,321 123,4227 2460,4227 2460,321" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="1104,353 1126,350 1130,354 1166,355 1183,342 1198,341 1196,301 1177,299 1171,304 1164,298 1149,298 1143,305 1126,307 1122,312 1103,312" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="488,354 587,351 585,293 571,298 547,284 541,291 536,287 526,298 509,302 505,307 496,301 486,301" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="1432,358 1517,371 1534,356 1587,365 1645,346 1702,367 1741,353 1841,370 1883,344 1911,351 1911,291 1698,295 1645,321 1611,297 1539,308 1494,290 1456,329 1432,326" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="112,356 582,402 1301,371 1263,302 1190,349 1099,346 1027,290 851,287 772,341 646,298 544,353 449,301 291,283 204,340 113,292" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="852,849 907,867 960,853 1045,867 1113,849 1253,870 1271,855 1339,860 1340,775 1295,773 1271,791 1170,760 1155,775 1001,794 895,763 853,775" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="928,903 1360,899 1442,939 1519,914 1667,954 1740,936 1741,810 1513,822 1456,854 1396,834 1326,861 1245,843 928,869" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="654,945 701,963 722,942 759,950 775,939 831,961 852,948 878,952 895,937 937,951 984,934 983,908 958,902 913,862 868,848 855,861 808,862 789,847 755,856 744,848 698,889 654,894" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="653,1011 696,1014 725,1032 741,1020 794,1018 840,1034 919,1029 958,1015 953,945 937,951 895,939 877,953 835,956 781,945 767,956 723,942 667,995 652,994" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="2316,1082 2329,1082 2343,1093 2356,1088 2378,1103 2427,1106 2440,1020 2416,1014 2409,1017 2399,1011 2387,1016 2362,1012 2359,1007 2349,1012 2346,1007 2329,1006" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="752,1143 1088,1187 2457,1158 2217,1093 752,1105" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="1215,1245 1306,1267 1993,1245 1993,1209 1827,1184 1215,1205" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="858,1325 2357,1344 2455,1287 1211,1294 1102,1239 1013,1295 858,1291" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="758,1399 2453,1404 2453,1349 2181,1329 758,1354" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="759,1447 2392,1461 2462,1410 759,1413" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="763,1504 2407,1521 2456,1457 763,1462" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="763,1561 2362,1578 2455,1525 763,1533" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="760,1619 2453,1632 2376,1571 760,1580" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="752,1683 2063,1704 2465,1654 751,1651" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="763,1744 2394,1757 2458,1704 763,1714" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="761,1807 2462,1794 2250,1746 761,1753" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="760,1862 2459,1848 2378,1802 760,1811" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="758,1919 2459,1920 2366,1867 758,1875" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="767,1975 2455,1985 2421,1930 2257,1920 767,1935" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="765,2044 2328,2049 2470,1994 765,1997" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="757,2089 2458,2077 2407,2038 757,2042" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="767,2159 2121,2174 2453,2127 766,2102" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="766,2222 2459,2218 2422,2157 766,2173" rendition="Line" xml:id="facs_1_r1l27"/>
+            <zone points="758,2277 2451,2273 2380,2218 758,2239" rendition="Line" xml:id="facs_1_r1l28"/>
+            <zone points="759,2335 2452,2326 2232,2273 759,2299" rendition="Line" xml:id="facs_1_r1l29"/>
+            <zone points="765,2401 2462,2390 2377,2331 765,2348" rendition="Line" xml:id="facs_1_r1l30"/>
+            <zone points="765,2447 2413,2465 2462,2409 765,2413" rendition="Line" xml:id="facs_1_r1l31"/>
+            <zone points="767,2511 2290,2520 2458,2467 767,2473" rendition="Line" xml:id="facs_1_r1l32"/>
+            <zone points="770,2575 2456,2573 2456,2528 2333,2510 770,2511" rendition="Line" xml:id="facs_1_r1l33"/>
+            <zone points="771,2635 2455,2622 2454,2573 2257,2569 770,2589" rendition="Line" xml:id="facs_1_r1l34"/>
+            <zone points="772,2694 2458,2678 2394,2629 772,2634" rendition="Line" xml:id="facs_1_r1l35"/>
+            <zone points="774,2761 2458,2746 2322,2683 774,2697" rendition="Line" xml:id="facs_1_r1l36"/>
+            <zone points="771,2812 2261,2816 2450,2800 2450,2751 770,2759" rendition="Line" xml:id="facs_1_r1l37"/>
+            <zone points="774,2883 2429,2868 2454,2800 774,2828" rendition="Line" xml:id="facs_1_r1l38"/>
+            <zone points="777,2925 2395,2935 2457,2875 777,2883" rendition="Line" xml:id="facs_1_r1l39"/>
+            <zone points="774,2980 2449,2994 2449,2936 2334,2920 774,2925" rendition="Line" xml:id="facs_1_r1l40"/>
+            <zone points="778,3048 2453,3026 2151,2974 778,2980" rendition="Line" xml:id="facs_1_r1l41"/>
+            <zone points="775,3093 2289,3099 2459,3089 2459,3048 775,3053" rendition="Line" xml:id="facs_1_r1l42"/>
+            <zone points="776,3152 2471,3145 2406,3088 776,3106" rendition="Line" xml:id="facs_1_r1l43"/>
+            <zone points="781,3224 2141,3215 2175,3159 780,3163" rendition="Line" xml:id="facs_1_r1l44"/>
+            <zone points="860,3262 2455,3252 2454,3205 2199,3190 860,3226" rendition="Line" xml:id="facs_1_r1l45"/>
+            <zone points="766,3322 2348,3321 2447,3262 765,3292" rendition="Line" xml:id="facs_1_r1l46"/>
+            <zone points="771,3390 1731,3415 2307,3394 2455,3331 771,3346" rendition="Line" xml:id="facs_1_r1l47"/>
+            <zone points="727,3524 2413,3477 1815,3428 1594,3471 726,3454" rendition="Line" xml:id="facs_1_r1l48"/>
+            <zone points="724,3585 2317,3580 2414,3524 724,3538" rendition="Line" xml:id="facs_1_r1l49"/>
+            <zone points="717,3631 2195,3637 2418,3614 2418,3573 717,3595" rendition="Line" xml:id="facs_1_r1l50"/>
+            <zone points="725,3695 2413,3670 2353,3622 725,3648" rendition="Line" xml:id="facs_1_r1l51"/>
+            <zone points="711,3757 2416,3746 2364,3682 710,3698" rendition="Line" xml:id="facs_1_r1l52"/>
+            <zone points="721,3811 2369,3809 2413,3747 720,3762" rendition="Line" xml:id="facs_1_r1l53"/>
+            <zone points="709,3865 2378,3870 2429,3808 709,3827" rendition="Line" xml:id="facs_1_r1l54"/>
+            <zone points="724,3931 2202,3933 2393,3921 2425,3865 724,3885" rendition="Line" xml:id="facs_1_r1l55"/>
+            <zone points="715,3987 2157,3994 2380,3979 2416,3928 715,3953" rendition="Line" xml:id="facs_1_r1l56"/>
+            <zone points="722,4053 2221,4045 2370,4033 2410,3980 722,4008" rendition="Line" xml:id="facs_1_r1l57"/>
+            <zone points="720,4099 2421,4072 2320,4032 719,4060" rendition="Line" xml:id="facs_1_r1l58"/>
+            <zone points="728,4169 2331,4159 2426,4117 727,4126" rendition="Line" xml:id="facs_1_r1l59"/>
+            <zone points="729,4210 2430,4194 2429,4145 729,4187" rendition="Line" xml:id="facs_1_r1l60"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_2">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0002.jpeg" width="3392px" height="4320px"/>
+         <zone points="583,170 583,4055 2317,4055 2317,170" rendition="TextRegion" xml:id="facs_2_r1">
+            <zone points="626,218 2315,203 626,169" rendition="Line" xml:id="facs_2_r1l1"/>
+            <zone points="636,275 2328,266 2245,217 636,219" rendition="Line" xml:id="facs_2_r1l2"/>
+            <zone points="638,315 2326,330 2294,279 2058,263 638,284" rendition="Line" xml:id="facs_2_r1l3"/>
+            <zone points="636,377 2324,381 2213,328 636,317" rendition="Line" xml:id="facs_2_r1l4"/>
+            <zone points="635,442 2309,444 2176,384 635,395" rendition="Line" xml:id="facs_2_r1l5"/>
+            <zone points="633,492 2318,502 2276,455 1663,426 633,463" rendition="Line" xml:id="facs_2_r1l6"/>
+            <zone points="637,550 2314,551 2314,511 2136,498 637,503" rendition="Line" xml:id="facs_2_r1l7"/>
+            <zone points="626,601 2311,636 2311,573 2018,549 626,571" rendition="Line" xml:id="facs_2_r1l8"/>
+            <zone points="631,670 2034,644 1958,604 631,619" rendition="Line" xml:id="facs_2_r1l9"/>
+            <zone points="729,725 2152,718 2285,706 2321,654 729,682" rendition="Line" xml:id="facs_2_r1l10"/>
+            <zone points="627,765 1789,793 2268,770 2321,716 627,741" rendition="Line" xml:id="facs_2_r1l11"/>
+            <zone points="640,855 1932,860 2314,787 639,788" rendition="Line" xml:id="facs_2_r1l12"/>
+            <zone points="572,994 2196,969 2287,920 572,924" rendition="Line" xml:id="facs_2_r1l13"/>
+            <zone points="583,1032 2143,1030 2283,986 583,990" rendition="Line" xml:id="facs_2_r1l14"/>
+            <zone points="577,1083 2169,1091 2292,1024 577,1064" rendition="Line" xml:id="facs_2_r1l15"/>
+            <zone points="589,1150 2185,1147 2291,1093 589,1105" rendition="Line" xml:id="facs_2_r1l16"/>
+            <zone points="587,1200 2205,1209 2285,1147 587,1164" rendition="Line" xml:id="facs_2_r1l17"/>
+            <zone points="587,1259 2035,1270 2255,1249 2276,1202 587,1220" rendition="Line" xml:id="facs_2_r1l18"/>
+            <zone points="578,1324 2289,1301 1923,1253 578,1296" rendition="Line" xml:id="facs_2_r1l19"/>
+            <zone points="587,1386 2289,1352 2202,1311 587,1322" rendition="Line" xml:id="facs_2_r1l20"/>
+            <zone points="579,1436 1852,1453 2217,1437 2285,1387 578,1395" rendition="Line" xml:id="facs_2_r1l21"/>
+            <zone points="577,1491 2271,1485 2251,1432 576,1459" rendition="Line" xml:id="facs_2_r1l22"/>
+            <zone points="596,1562 2286,1546 2204,1490 596,1513" rendition="Line" xml:id="facs_2_r1l23"/>
+            <zone points="591,1622 2291,1595 2182,1551 590,1573" rendition="Line" xml:id="facs_2_r1l24"/>
+            <zone points="594,1687 2298,1669 2278,1616 2091,1608 593,1643" rendition="Line" xml:id="facs_2_r1l25"/>
+            <zone points="582,1732 2019,1745 2290,1696 581,1692" rendition="Line" xml:id="facs_2_r1l26"/>
+            <zone points="580,1803 2240,1791 2288,1732 580,1763" rendition="Line" xml:id="facs_2_r1l27"/>
+            <zone points="597,1848 2291,1832 2290,1791 1940,1780 597,1814" rendition="Line" xml:id="facs_2_r1l28"/>
+            <zone points="590,1920 2123,1917 2199,1876 590,1863" rendition="Line" xml:id="facs_2_r1l29"/>
+            <zone points="694,1979 1970,1980 2299,1923 694,1932" rendition="Line" xml:id="facs_2_r1l30"/>
+            <zone points="593,2033 2094,2032 2297,1971 593,1978" rendition="Line" xml:id="facs_2_r1l31"/>
+            <zone points="597,2090 2299,2065 2192,2022 596,2033" rendition="Line" xml:id="facs_2_r1l32"/>
+            <zone points="595,2143 1881,2156 2297,2138 2297,2089 594,2101" rendition="Line" xml:id="facs_2_r1l33"/>
+            <zone points="596,2214 2300,2180 2129,2135 595,2152" rendition="Line" xml:id="facs_2_r1l34"/>
+            <zone points="585,2257 2124,2271 2287,2249 2304,2197 585,2234" rendition="Line" xml:id="facs_2_r1l35"/>
+            <zone points="595,2325 2306,2319 2305,2243 595,2268" rendition="Line" xml:id="facs_2_r1l36"/>
+            <zone points="596,2373 2294,2370 2236,2312 596,2347" rendition="Line" xml:id="facs_2_r1l37"/>
+            <zone points="592,2442 2295,2423 2294,2370 2150,2365 592,2400" rendition="Line" xml:id="facs_2_r1l38"/>
+            <zone points="602,2521 2302,2474 2157,2421 601,2451" rendition="Line" xml:id="facs_2_r1l39"/>
+            <zone points="597,2552 2162,2557 2295,2541 2295,2494 597,2528" rendition="Line" xml:id="facs_2_r1l40"/>
+            <zone points="590,2611 2303,2593 2185,2547 590,2575" rendition="Line" xml:id="facs_2_r1l41"/>
+            <zone points="589,2676 2306,2660 2305,2611 2220,2599 588,2614" rendition="Line" xml:id="facs_2_r1l42"/>
+            <zone points="603,2736 2301,2719 2300,2670 2181,2661 602,2690" rendition="Line" xml:id="facs_2_r1l43"/>
+            <zone points="606,2800 2304,2767 2303,2720 606,2739" rendition="Line" xml:id="facs_2_r1l44"/>
+            <zone points="602,2844 2303,2842 2302,2798 2155,2780 602,2806" rendition="Line" xml:id="facs_2_r1l45"/>
+            <zone points="596,2904 2303,2904 2234,2837 596,2862" rendition="Line" xml:id="facs_2_r1l46"/>
+            <zone points="598,2951 2154,2965 2300,2915 598,2928" rendition="Line" xml:id="facs_2_r1l47"/>
+            <zone points="594,3021 2307,3007 2255,2950 593,2985" rendition="Line" xml:id="facs_2_r1l48"/>
+            <zone points="604,3076 2073,3089 2283,3076 2310,3023 604,3040" rendition="Line" xml:id="facs_2_r1l49"/>
+            <zone points="607,3148 2112,3149 2302,3087 606,3090" rendition="Line" xml:id="facs_2_r1l50"/>
+            <zone points="607,3204 2112,3207 2307,3184 2307,3133 607,3151" rendition="Line" xml:id="facs_2_r1l51"/>
+            <zone points="597,3276 2269,3266 2309,3214 596,3227" rendition="Line" xml:id="facs_2_r1l52"/>
+            <zone points="596,3323 2303,3297 2302,3253 2209,3249 596,3278" rendition="Line" xml:id="facs_2_r1l53"/>
+            <zone points="608,3396 2092,3386 2285,3378 2310,3326 607,3334" rendition="Line" xml:id="facs_2_r1l54"/>
+            <zone points="609,3442 1839,3450 2269,3435 2307,3385 609,3400" rendition="Line" xml:id="facs_2_r1l55"/>
+            <zone points="600,3492 2315,3463 2217,3422 599,3450" rendition="Line" xml:id="facs_2_r1l56"/>
+            <zone points="601,3554 2015,3573 2274,3553 2316,3493 601,3514" rendition="Line" xml:id="facs_2_r1l57"/>
+            <zone points="1596,4053 1749,4079 1785,4057 1825,4052 1853,4073 1986,4042 2044,4069 2082,4039 2156,4070 2155,3992 1977,4004 1926,3990 1899,4007 1839,3988 1795,4000 1750,3970 1648,4003 1595,3991" rendition="Line" xml:id="facs_2_r1l58"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_3">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0003.jpeg" width="3392px" height="4320px"/>
+         <zone points="880,143 880,3665 2606,3665 2606,143" rendition="TextRegion" xml:id="facs_3_r1">
+            <zone points="950,191 971,199 1022,183 1043,200 1144,178 1187,196 1270,190 1268,105 1251,104 1207,143 1194,130 1146,140 1105,130 948,134" rendition="Line" xml:id="facs_3_r1l1"/>
+            <zone points="1315,183 2243,199 2244,137 2064,137 1997,95 1907,139 1316,138" rendition="Line" xml:id="facs_3_r1l2"/>
+            <zone points="874,243 2559,256 2559,212 2441,196 875,205" rendition="Line" xml:id="facs_3_r1l3"/>
+            <zone points="877,314 910,301 980,309 1023,283 1067,302 1135,281 1232,301 1277,282 1317,297 1385,284 1385,241 876,244" rendition="Line" xml:id="facs_3_r1l4"/>
+            <zone points="972,343 2559,349 2377,290 972,297" rendition="Line" xml:id="facs_3_r1l5"/>
+            <zone points="871,406 2409,426 2556,362 871,344" rendition="Line" xml:id="facs_3_r1l6"/>
+            <zone points="869,443 2566,432 869,411" rendition="Line" xml:id="facs_3_r1l7"/>
+            <zone points="870,480 2315,475 870,448" rendition="Line" xml:id="facs_3_r1l8"/>
+            <zone points="968,538 2561,550 2333,486 968,498" rendition="Line" xml:id="facs_3_r1l9"/>
+            <zone points="939,598 2329,605 2329,556 2264,544 939,539" rendition="Line" xml:id="facs_3_r1l10"/>
+            <zone points="933,921 2437,933 2437,882 2202,863 2058,900 1524,863 933,894" rendition="Line" xml:id="facs_3_r1l11"/>
+            <zone points="907,1073 2594,1093 2594,1029 2509,1012 908,1016" rendition="Line" xml:id="facs_3_r1l12"/>
+            <zone points="902,1120 2593,1131 2574,1085 2426,1079 902,1084" rendition="Line" xml:id="facs_3_r1l13"/>
+            <zone points="901,1178 2564,1212 2596,1157 901,1142" rendition="Line" xml:id="facs_3_r1l14"/>
+            <zone points="906,1233 2531,1271 2606,1216 907,1197" rendition="Line" xml:id="facs_3_r1l15"/>
+            <zone points="903,1304 2562,1324 2602,1254 903,1262" rendition="Line" xml:id="facs_3_r1l16"/>
+            <zone points="908,1364 2512,1392 2608,1332 908,1314" rendition="Line" xml:id="facs_3_r1l17"/>
+            <zone points="900,1417 2610,1437 2450,1374 901,1392" rendition="Line" xml:id="facs_3_r1l18"/>
+            <zone points="899,1467 2445,1506 2602,1492 2603,1448 899,1419" rendition="Line" xml:id="facs_3_r1l19"/>
+            <zone points="910,1539 2616,1539 2517,1492 911,1489" rendition="Line" xml:id="facs_3_r1l20"/>
+            <zone points="895,1583 2403,1622 2567,1619 2612,1557 895,1549" rendition="Line" xml:id="facs_3_r1l21"/>
+            <zone points="893,1658 2482,1677 2606,1625 894,1611" rendition="Line" xml:id="facs_3_r1l22"/>
+            <zone points="901,1718 2428,1739 2611,1698 901,1660" rendition="Line" xml:id="facs_3_r1l23"/>
+            <zone points="902,1755 2610,1780 2532,1726 903,1723" rendition="Line" xml:id="facs_3_r1l24"/>
+            <zone points="905,1830 2602,1839 2602,1786 2342,1778 905,1787" rendition="Line" xml:id="facs_3_r1l25"/>
+            <zone points="905,1899 2598,1900 2598,1851 2380,1840 905,1846" rendition="Line" xml:id="facs_3_r1l26"/>
+            <zone points="901,1940 2304,1978 2601,1923 901,1908" rendition="Line" xml:id="facs_3_r1l27"/>
+            <zone points="893,2009 2605,2030 2542,1962 894,1960" rendition="Line" xml:id="facs_3_r1l28"/>
+            <zone points="902,2086 2597,2066 2502,2020 902,2027" rendition="Line" xml:id="facs_3_r1l29"/>
+            <zone points="903,2124 2602,2148 2492,2075 903,2086" rendition="Line" xml:id="facs_3_r1l30"/>
+            <zone points="904,2186 2595,2174 904,2135" rendition="Line" xml:id="facs_3_r1l31"/>
+            <zone points="903,2238 2566,2277 2603,2213 903,2204" rendition="Line" xml:id="facs_3_r1l32"/>
+            <zone points="895,2304 1923,2300 1923,2268 1785,2248 1664,2273 895,2256" rendition="Line" xml:id="facs_3_r1l33"/>
+            <zone points="1011,2368 2450,2381 2594,2362 2594,2324 1011,2326" rendition="Line" xml:id="facs_3_r1l34"/>
+            <zone points="888,2400 1677,2439 2603,2402 889,2359" rendition="Line" xml:id="facs_3_r1l35"/>
+            <zone points="898,2486 2600,2485 2492,2420 898,2439" rendition="Line" xml:id="facs_3_r1l36"/>
+            <zone points="900,2533 2598,2538 2547,2481 901,2484" rendition="Line" xml:id="facs_3_r1l37"/>
+            <zone points="889,2589 2599,2600 2521,2539 889,2547" rendition="Line" xml:id="facs_3_r1l38"/>
+            <zone points="900,2641 2595,2641 2461,2596 900,2611" rendition="Line" xml:id="facs_3_r1l39"/>
+            <zone points="902,2719 2595,2713 2556,2652 902,2666" rendition="Line" xml:id="facs_3_r1l40"/>
+            <zone points="905,2779 2560,2784 2600,2718 905,2722" rendition="Line" xml:id="facs_3_r1l41"/>
+            <zone points="887,2852 2522,2837 2598,2782 886,2807" rendition="Line" xml:id="facs_3_r1l42"/>
+            <zone points="899,2892 2436,2897 2603,2837 899,2848" rendition="Line" xml:id="facs_3_r1l43"/>
+            <zone points="895,2940 2599,2937 2471,2884 895,2908" rendition="Line" xml:id="facs_3_r1l44"/>
+            <zone points="897,3002 2501,3016 2602,2958 897,2962" rendition="Line" xml:id="facs_3_r1l45"/>
+            <zone points="893,3070 2590,3069 2547,2999 892,3017" rendition="Line" xml:id="facs_3_r1l46"/>
+            <zone points="904,3122 2534,3132 2599,3068 904,3086" rendition="Line" xml:id="facs_3_r1l47"/>
+            <zone points="904,3204 2296,3183 2341,3178 2341,3119 904,3136" rendition="Line" xml:id="facs_3_r1l48"/>
+            <zone points="998,3228 2604,3246 2604,3189 2439,3172 998,3203" rendition="Line" xml:id="facs_3_r1l49"/>
+            <zone points="899,3303 2429,3306 2575,3298 2592,3249 899,3259" rendition="Line" xml:id="facs_3_r1l50"/>
+            <zone points="894,3348 2394,3371 2598,3349 2598,3309 894,3316" rendition="Line" xml:id="facs_3_r1l51"/>
+            <zone points="893,3418 2597,3401 2577,3346 893,3375" rendition="Line" xml:id="facs_3_r1l52"/>
+            <zone points="896,3467 2447,3487 2597,3434 896,3438" rendition="Line" xml:id="facs_3_r1l53"/>
+            <zone points="893,3528 2340,3544 2533,3538 2598,3485 893,3494" rendition="Line" xml:id="facs_3_r1l54"/>
+            <zone points="902,3587 2593,3587 2554,3527 902,3551" rendition="Line" xml:id="facs_3_r1l55"/>
+            <zone points="903,3671 2339,3671 2616,3606 902,3610" rendition="Line" xml:id="facs_3_r1l56"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_4">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0004.jpeg" width="3392px" height="4320px"/>
+         <zone points="131,312 131,3800 2246,3800 2246,312" rendition="TextRegion" xml:id="facs_4_r1">
+            <zone points="1207,347 1228,348 1247,341 1262,347 1298,344 1297,299 1282,300 1271,296 1250,301 1244,295 1233,295 1224,287 1205,287" rendition="Line" xml:id="facs_4_r1l1"/>
+            <zone points="1468,342 1550,343 1599,372 1686,335 1762,367 1815,366 1843,345 1877,354 1930,334 1931,296 1866,277 1798,293 1743,271 1596,308 1536,301 1511,279 1469,295" rendition="Line" xml:id="facs_4_r1l2"/>
+            <zone points="120,343 325,387 1250,381 1319,346 1219,345 1127,284 870,272 786,330 705,275 121,280" rendition="Line" xml:id="facs_4_r1l3"/>
+            <zone points="711,978 2194,973 2176,924 711,936" rendition="Line" xml:id="facs_4_r1l4"/>
+            <zone points="535,1115 2164,1131 2238,1073 829,1083 621,1040 535,1079" rendition="Line" xml:id="facs_4_r1l5"/>
+            <zone points="531,1177 2247,1177 2103,1120 531,1137" rendition="Line" xml:id="facs_4_r1l6"/>
+            <zone points="547,1259 2184,1254 2243,1190 546,1199" rendition="Line" xml:id="facs_4_r1l7"/>
+            <zone points="534,1288 2217,1293 2216,1251 1981,1235 534,1263" rendition="Line" xml:id="facs_4_r1l8"/>
+            <zone points="533,1364 2243,1361 2111,1297 533,1326" rendition="Line" xml:id="facs_4_r1l9"/>
+            <zone points="539,1422 1954,1433 2206,1418 2238,1367 539,1374" rendition="Line" xml:id="facs_4_r1l10"/>
+            <zone points="539,1483 2106,1491 2240,1429 539,1445" rendition="Line" xml:id="facs_4_r1l11"/>
+            <zone points="533,1548 2247,1541 2130,1478 532,1512" rendition="Line" xml:id="facs_4_r1l12"/>
+            <zone points="535,1591 2175,1608 2240,1539 535,1553" rendition="Line" xml:id="facs_4_r1l13"/>
+            <zone points="532,1648 2244,1653 2243,1606 2116,1592 532,1610" rendition="Line" xml:id="facs_4_r1l14"/>
+            <zone points="540,1719 2239,1702 2188,1654 540,1676" rendition="Line" xml:id="facs_4_r1l15"/>
+            <zone points="547,1782 2108,1781 2248,1721 547,1731" rendition="Line" xml:id="facs_4_r1l16"/>
+            <zone points="543,1846 2230,1844 2249,1780 543,1797" rendition="Line" xml:id="facs_4_r1l17"/>
+            <zone points="539,1886 1616,1904 1667,1883 1667,1842 538,1847" rendition="Line" xml:id="facs_4_r1l18"/>
+            <zone points="646,1955 2250,1934 2249,1892 646,1906" rendition="Line" xml:id="facs_4_r1l19"/>
+            <zone points="543,2001 2243,1998 2242,1956 2098,1946 543,1969" rendition="Line" xml:id="facs_4_r1l20"/>
+            <zone points="540,2056 2241,2056 2105,2007 540,2030" rendition="Line" xml:id="facs_4_r1l21"/>
+            <zone points="546,2138 2179,2135 2251,2076 546,2095" rendition="Line" xml:id="facs_4_r1l22"/>
+            <zone points="544,2182 2246,2173 2158,2124 544,2138" rendition="Line" xml:id="facs_4_r1l23"/>
+            <zone points="547,2243 2257,2223 2121,2184 547,2209" rendition="Line" xml:id="facs_4_r1l24"/>
+            <zone points="538,2301 1943,2297 1942,2246 1756,2239 538,2265" rendition="Line" xml:id="facs_4_r1l25"/>
+            <zone points="652,2366 2254,2344 1988,2296 652,2324" rendition="Line" xml:id="facs_4_r1l26"/>
+            <zone points="540,2427 2237,2411 2121,2358 540,2387" rendition="Line" xml:id="facs_4_r1l27"/>
+            <zone points="552,2487 2251,2473 2157,2414 551,2428" rendition="Line" xml:id="facs_4_r1l28"/>
+            <zone points="554,2539 2251,2531 2229,2480 2036,2471 553,2503" rendition="Line" xml:id="facs_4_r1l29"/>
+            <zone points="543,2589 2130,2602 2246,2588 2246,2535 543,2559" rendition="Line" xml:id="facs_4_r1l30"/>
+            <zone points="551,2664 2182,2665 2243,2610 550,2613" rendition="Line" xml:id="facs_4_r1l31"/>
+            <zone points="532,2697 736,2738 2250,2704 1938,2647 532,2678" rendition="Line" xml:id="facs_4_r1l32"/>
+            <zone points="541,2767 1886,2783 2198,2774 2242,2721 541,2733" rendition="Line" xml:id="facs_4_r1l33"/>
+            <zone points="541,2824 2246,2840 2246,2776 541,2797" rendition="Line" xml:id="facs_4_r1l34"/>
+            <zone points="543,2899 2244,2876 2201,2828 543,2848" rendition="Line" xml:id="facs_4_r1l35"/>
+            <zone points="549,2963 2104,2961 2254,2945 2254,2898 548,2904" rendition="Line" xml:id="facs_4_r1l36"/>
+            <zone points="546,3009 2060,3014 2251,2953 546,2960" rendition="Line" xml:id="facs_4_r1l37"/>
+            <zone points="555,3062 2242,3076 2241,3010 2156,3002 555,3036" rendition="Line" xml:id="facs_4_r1l38"/>
+            <zone points="544,3118 2245,3126 2245,3083 2128,3063 544,3090" rendition="Line" xml:id="facs_4_r1l39"/>
+            <zone points="535,3177 2209,3197 2251,3150 534,3135" rendition="Line" xml:id="facs_4_r1l40"/>
+            <zone points="551,3256 1964,3254 2206,3243 2246,3184 551,3210" rendition="Line" xml:id="facs_4_r1l41"/>
+            <zone points="550,3326 2039,3311 2207,3299 2245,3245 550,3252" rendition="Line" xml:id="facs_4_r1l42"/>
+            <zone points="550,3363 2245,3345 2119,3295 549,3325" rendition="Line" xml:id="facs_4_r1l43"/>
+            <zone points="552,3423 2170,3421 2242,3370 551,3380" rendition="Line" xml:id="facs_4_r1l44"/>
+            <zone points="544,3482 2239,3472 2238,3417 2160,3414 544,3442" rendition="Line" xml:id="facs_4_r1l45"/>
+            <zone points="542,3555 2250,3530 2143,3472 542,3494" rendition="Line" xml:id="facs_4_r1l46"/>
+            <zone points="549,3601 2181,3599 2238,3548 549,3563" rendition="Line" xml:id="facs_4_r1l47"/>
+            <zone points="543,3666 2238,3667 2250,3601 542,3613" rendition="Line" xml:id="facs_4_r1l48"/>
+            <zone points="554,3728 2037,3734 2249,3668 554,3673" rendition="Line" xml:id="facs_4_r1l49"/>
+            <zone points="610,3788 780,3802 811,3786 1079,3778 1162,3793 1212,3764 1199,3737 895,3746 844,3728 808,3744 782,3723 609,3748" rendition="Line" xml:id="facs_4_r1l50"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_5">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0005.jpeg" width="3392px" height="4320px"/>
+         <zone points="129,246 129,4273 2625,4273 2625,246" rendition="TextRegion" xml:id="facs_5_r1">
+            <zone points="1903,294 1971,308 1996,290 2073,312 2143,310 2187,290 2236,310 2341,288 2367,307 2390,302 2389,247 2205,262 2137,240 2074,267 2006,250 1902,256" rendition="Line" xml:id="facs_5_r1l1"/>
+            <zone points="1459,402 1531,409 1578,390 1637,401 1679,382 1802,410 1848,391 1926,389 1927,345 1834,321 1802,338 1713,323 1669,354 1627,331 1572,343 1502,318 1460,335" rendition="Line" xml:id="facs_5_r1l2"/>
+            <zone points="119,405 846,432 1307,405 1257,330 1111,316 851,325 806,367 655,319 424,348 291,322 231,366 120,335" rendition="Line" xml:id="facs_5_r1l3"/>
+            <zone points="943,1007 2357,1006 2441,992 2441,952 942,969" rendition="Line" xml:id="facs_5_r1l4"/>
+            <zone points="913,1152 2300,1165 2558,1152 2610,1096 913,1104" rendition="Line" xml:id="facs_5_r1l5"/>
+            <zone points="918,1224 2618,1191 2545,1145 918,1173" rendition="Line" xml:id="facs_5_r1l6"/>
+            <zone points="924,1268 2507,1273 2617,1221 924,1232" rendition="Line" xml:id="facs_5_r1l7"/>
+            <zone points="922,1319 2613,1323 2587,1271 2418,1261 921,1281" rendition="Line" xml:id="facs_5_r1l8"/>
+            <zone points="926,1399 2611,1375 2610,1335 2450,1319 926,1354" rendition="Line" xml:id="facs_5_r1l9"/>
+            <zone points="923,1451 2585,1450 2620,1388 923,1409" rendition="Line" xml:id="facs_5_r1l10"/>
+            <zone points="917,1525 2477,1511 2618,1497 2618,1446 916,1481" rendition="Line" xml:id="facs_5_r1l11"/>
+            <zone points="923,1571 2619,1555 2618,1498 923,1526" rendition="Line" xml:id="facs_5_r1l12"/>
+            <zone points="923,1628 2616,1629 2503,1554 922,1590" rendition="Line" xml:id="facs_5_r1l13"/>
+            <zone points="927,1695 2618,1671 2486,1615 926,1642" rendition="Line" xml:id="facs_5_r1l14"/>
+            <zone points="913,1742 2543,1742 2619,1689 913,1699" rendition="Line" xml:id="facs_5_r1l15"/>
+            <zone points="930,1809 2454,1820 2608,1792 2610,1743 930,1763" rendition="Line" xml:id="facs_5_r1l16"/>
+            <zone points="923,1875 955,1877 978,1864 1010,1877 1067,1868 1088,1880 1151,1863 1230,1868 1229,1826 1189,1808 1164,1820 1153,1810 1128,1812 1111,1825 1090,1811 1064,1826 1001,1811 923,1814" rendition="Line" xml:id="facs_5_r1l17"/>
+            <zone points="1030,1922 2616,1908 2535,1850 1030,1874" rendition="Line" xml:id="facs_5_r1l18"/>
+            <zone points="923,1984 2618,1970 2529,1914 922,1942" rendition="Line" xml:id="facs_5_r1l19"/>
+            <zone points="923,2051 2571,2040 2613,1984 922,2006" rendition="Line" xml:id="facs_5_r1l20"/>
+            <zone points="931,2100 2622,2080 2482,2031 930,2060" rendition="Line" xml:id="facs_5_r1l21"/>
+            <zone points="924,2153 2539,2159 2625,2097 923,2113" rendition="Line" xml:id="facs_5_r1l22"/>
+            <zone points="927,2218 2620,2200 2562,2147 926,2178" rendition="Line" xml:id="facs_5_r1l23"/>
+            <zone points="932,2283 2619,2259 2618,2217 2489,2204 931,2224" rendition="Line" xml:id="facs_5_r1l24"/>
+            <zone points="923,2339 2619,2327 2523,2267 923,2312" rendition="Line" xml:id="facs_5_r1l25"/>
+            <zone points="934,2402 2625,2395 2565,2331 933,2338" rendition="Line" xml:id="facs_5_r1l26"/>
+            <zone points="934,2450 2605,2454 2619,2399 934,2416" rendition="Line" xml:id="facs_5_r1l27"/>
+            <zone points="925,2510 2419,2513 2626,2454 925,2472" rendition="Line" xml:id="facs_5_r1l28"/>
+            <zone points="933,2566 2580,2570 2630,2512 933,2526" rendition="Line" xml:id="facs_5_r1l29"/>
+            <zone points="931,2644 2631,2612 2564,2559 931,2593" rendition="Line" xml:id="facs_5_r1l30"/>
+            <zone points="934,2690 2621,2667 2538,2619 934,2650" rendition="Line" xml:id="facs_5_r1l31"/>
+            <zone points="938,2748 2513,2745 2629,2684 938,2710" rendition="Line" xml:id="facs_5_r1l32"/>
+            <zone points="939,2811 2632,2792 2481,2736 938,2775" rendition="Line" xml:id="facs_5_r1l33"/>
+            <zone points="926,2861 2626,2854 2625,2803 2505,2796 926,2827" rendition="Line" xml:id="facs_5_r1l34"/>
+            <zone points="938,2923 2625,2911 2577,2854 937,2890" rendition="Line" xml:id="facs_5_r1l35"/>
+            <zone points="936,2988 2634,2962 2546,2912 936,2925" rendition="Line" xml:id="facs_5_r1l36"/>
+            <zone points="920,3044 2632,3038 2544,2971 919,3015" rendition="Line" xml:id="facs_5_r1l37"/>
+            <zone points="928,3107 2628,3077 2553,3027 928,3065" rendition="Line" xml:id="facs_5_r1l38"/>
+            <zone points="934,3167 2507,3159 2627,3111 934,3131" rendition="Line" xml:id="facs_5_r1l39"/>
+            <zone points="938,3236 2625,3197 2624,3147 937,3183" rendition="Line" xml:id="facs_5_r1l40"/>
+            <zone points="931,3304 2620,3254 2478,3207 931,3244" rendition="Line" xml:id="facs_5_r1l41"/>
+            <zone points="935,3356 2607,3347 2629,3274 934,3303" rendition="Line" xml:id="facs_5_r1l42"/>
+            <zone points="938,3404 2418,3406 2633,3344 938,3360" rendition="Line" xml:id="facs_5_r1l43"/>
+            <zone points="940,3472 2593,3453 2633,3391 940,3402" rendition="Line" xml:id="facs_5_r1l44"/>
+            <zone points="931,3510 2393,3520 2613,3505 2636,3456 930,3474" rendition="Line" xml:id="facs_5_r1l45"/>
+            <zone points="939,3583 2410,3579 2627,3528 938,3524" rendition="Line" xml:id="facs_5_r1l46"/>
+            <zone points="929,3642 2631,3613 2539,3561 929,3595" rendition="Line" xml:id="facs_5_r1l47"/>
+            <zone points="937,3691 2440,3697 2630,3640 937,3653" rendition="Line" xml:id="facs_5_r1l48"/>
+            <zone points="933,3756 2550,3769 2634,3709 932,3709" rendition="Line" xml:id="facs_5_r1l49"/>
+            <zone points="2423,4260 2437,4259 2442,4263 2459,4263 2461,4260 2488,4262 2490,4259 2509,4261 2508,4212 2493,4211 2478,4217 2472,4211 2465,4214 2448,4206 2434,4217 2421,4217" rendition="Line" xml:id="facs_5_r1l50"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_6">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0006.jpeg" width="3392px" height="4320px"/>
+         <zone points="167,234 167,3784 2412,3784 2412,234" rendition="TextRegion" xml:id="facs_6_r1">
+            <zone points="1964,308 2049,318 2087,301 2102,314 2140,298 2244,305 2258,289 2309,296 2334,274 2396,293 2423,286 2422,231 2380,245 2288,229 2240,248 1962,246" rendition="Line" xml:id="facs_6_r1l1"/>
+            <zone points="854,364 865,365 889,379 922,374 951,379 975,361 986,362 988,302 963,301 935,315 912,312 903,305 856,313" rendition="Line" xml:id="facs_6_r1l2"/>
+            <zone points="506,375 599,379 622,371 631,378 669,374 667,317 629,316 619,327 597,311 586,311 568,326 549,325 531,311 504,309" rendition="Line" xml:id="facs_6_r1l3"/>
+            <zone points="366,375 383,378 413,374 424,377 472,375 473,333 460,335 429,321 423,321 414,330 406,323 391,327 387,323 367,322" rendition="Line" xml:id="facs_6_r1l4"/>
+            <zone points="1085,378 1104,378 1119,367 1136,380 1216,379 1225,372 1252,380 1286,378 1287,301 1222,319 1179,315 1162,322 1139,314 1116,336 1084,327" rendition="Line" xml:id="facs_6_r1l5"/>
+            <zone points="1490,377 1585,398 1719,381 1750,403 1854,380 1907,396 1956,380 1957,318 1925,330 1894,315 1747,312 1700,338 1576,304 1491,322" rendition="Line" xml:id="facs_6_r1l6"/>
+            <zone points="157,379 1115,423 1344,413 1345,370 1143,377 1038,331 986,377 884,378 743,326 685,374 306,368 158,315" rendition="Line" xml:id="facs_6_r1l7"/>
+            <zone points="782,968 2211,983 2294,922 782,924" rendition="Line" xml:id="facs_6_r1l8"/>
+            <zone points="640,1119 2325,1106 1694,1034 640,1061" rendition="Line" xml:id="facs_6_r1l9"/>
+            <zone points="636,1181 2026,1167 1927,1116 636,1126" rendition="Line" xml:id="facs_6_r1l10"/>
+            <zone points="725,1224 2194,1248 2319,1229 2319,1178 725,1191" rendition="Line" xml:id="facs_6_r1l11"/>
+            <zone points="629,1307 2327,1290 2268,1237 629,1223" rendition="Line" xml:id="facs_6_r1l12"/>
+            <zone points="623,1346 2331,1361 2232,1293 623,1310" rendition="Line" xml:id="facs_6_r1l13"/>
+            <zone points="628,1399 2322,1416 2322,1365 2231,1356 628,1365" rendition="Line" xml:id="facs_6_r1l14"/>
+            <zone points="632,1466 2326,1458 2303,1416 632,1415" rendition="Line" xml:id="facs_6_r1l15"/>
+            <zone points="626,1542 2326,1538 2247,1472 626,1487" rendition="Line" xml:id="facs_6_r1l16"/>
+            <zone points="625,1578 1593,1610 1752,1602 1787,1536 625,1542" rendition="Line" xml:id="facs_6_r1l17"/>
+            <zone points="723,1645 2330,1651 2207,1585 723,1594" rendition="Line" xml:id="facs_6_r1l18"/>
+            <zone points="629,1709 2327,1704 2287,1653 2113,1646 629,1648" rendition="Line" xml:id="facs_6_r1l19"/>
+            <zone points="630,1775 2324,1774 2237,1712 630,1726" rendition="Line" xml:id="facs_6_r1l20"/>
+            <zone points="629,1824 2011,1845 2321,1820 2321,1773 629,1775" rendition="Line" xml:id="facs_6_r1l21"/>
+            <zone points="631,1894 2327,1899 2268,1829 631,1837" rendition="Line" xml:id="facs_6_r1l22"/>
+            <zone points="633,1956 2067,1966 2298,1955 2323,1895 633,1910" rendition="Line" xml:id="facs_6_r1l23"/>
+            <zone points="637,2009 2157,2021 2310,1956 637,1963" rendition="Line" xml:id="facs_6_r1l24"/>
+            <zone points="632,2066 2326,2052 2290,2001 632,2015" rendition="Line" xml:id="facs_6_r1l25"/>
+            <zone points="622,2131 2274,2135 2314,2076 622,2085" rendition="Line" xml:id="facs_6_r1l26"/>
+            <zone points="618,2163 2335,2178 2185,2121 618,2137" rendition="Line" xml:id="facs_6_r1l27"/>
+            <zone points="632,2230 2326,2232 2233,2181 632,2198" rendition="Line" xml:id="facs_6_r1l28"/>
+            <zone points="628,2300 2226,2311 2324,2256 628,2259" rendition="Line" xml:id="facs_6_r1l29"/>
+            <zone points="621,2364 2322,2368 2322,2313 621,2319" rendition="Line" xml:id="facs_6_r1l30"/>
+            <zone points="625,2411 2332,2411 2304,2362 625,2368" rendition="Line" xml:id="facs_6_r1l31"/>
+            <zone points="627,2470 2330,2474 2330,2428 2162,2415 627,2424" rendition="Line" xml:id="facs_6_r1l32"/>
+            <zone points="631,2528 2287,2543 2336,2479 631,2492" rendition="Line" xml:id="facs_6_r1l33"/>
+            <zone points="627,2600 2272,2609 2331,2549 627,2558" rendition="Line" xml:id="facs_6_r1l34"/>
+            <zone points="621,2645 2339,2661 2339,2614 2224,2593 621,2601" rendition="Line" xml:id="facs_6_r1l35"/>
+            <zone points="629,2713 1540,2724 1572,2688 1499,2655 628,2670" rendition="Line" xml:id="facs_6_r1l36"/>
+            <zone points="638,2747 1986,2788 2323,2779 2324,2711 638,2722" rendition="Line" xml:id="facs_6_r1l37"/>
+            <zone points="635,2831 2284,2841 2325,2779 635,2787" rendition="Line" xml:id="facs_6_r1l38"/>
+            <zone points="625,2889 2332,2879 2230,2822 625,2834" rendition="Line" xml:id="facs_6_r1l39"/>
+            <zone points="628,2944 2316,2934 1996,2881 628,2895" rendition="Line" xml:id="facs_6_r1l40"/>
+            <zone points="632,3012 2249,3015 2330,3002 2330,2943 631,2966" rendition="Line" xml:id="facs_6_r1l41"/>
+            <zone points="636,3071 2332,3061 2332,3012 2262,3004 636,3009" rendition="Line" xml:id="facs_6_r1l42"/>
+            <zone points="638,3126 2334,3124 2245,3063 638,3071" rendition="Line" xml:id="facs_6_r1l43"/>
+            <zone points="627,3179 2323,3175 2289,3131 1772,3115 627,3143" rendition="Line" xml:id="facs_6_r1l44"/>
+            <zone points="628,3243 2331,3232 2280,3180 2070,3176 628,3202" rendition="Line" xml:id="facs_6_r1l45"/>
+            <zone points="634,3307 2326,3310 2325,3247 2234,3241 634,3256" rendition="Line" xml:id="facs_6_r1l46"/>
+            <zone points="624,3362 2227,3375 2327,3358 2327,3309 624,3326" rendition="Line" xml:id="facs_6_r1l47"/>
+            <zone points="626,3420 2330,3427 2292,3366 2158,3358 626,3369" rendition="Line" xml:id="facs_6_r1l48"/>
+            <zone points="631,3484 2219,3489 2318,3478 2318,3421 631,3437" rendition="Line" xml:id="facs_6_r1l49"/>
+            <zone points="634,3549 2305,3546 2330,3497 634,3507" rendition="Line" xml:id="facs_6_r1l50"/>
+            <zone points="628,3588 2333,3600 2332,3530 628,3554" rendition="Line" xml:id="facs_6_r1l51"/>
+            <zone points="629,3652 2327,3653 2326,3598 628,3606" rendition="Line" xml:id="facs_6_r1l52"/>
+            <zone points="629,3728 2287,3733 2346,3684 629,3688" rendition="Line" xml:id="facs_6_r1l53"/>
+            <zone points="2115,3777 2136,3778 2144,3785 2157,3785 2168,3775 2176,3784 2181,3780 2191,3780 2193,3729 2180,3729 2174,3735 2168,3731 2159,3737 2153,3734 2136,3736 2132,3733 2117,3735" rendition="Line" xml:id="facs_6_r1l54"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_7">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0007.jpeg" width="3392px" height="4320px"/>
+         <zone points="133,229 133,3791 2599,3791 2599,229" rendition="TextRegion" xml:id="facs_7_r1">
+            <zone points="1910,284 1946,272 1982,293 2040,294 2106,276 2168,292 2204,272 2253,290 2338,287 2392,277 2391,232 1909,241" rendition="Line" xml:id="facs_7_r1l1"/>
+            <zone points="1466,384 1660,382 1673,369 1720,389 1750,368 1807,388 1846,368 1880,385 1899,368 1931,373 1932,328 1830,301 1806,316 1712,306 1667,327 1633,311 1606,326 1531,299 1467,315" rendition="Line" xml:id="facs_7_r1l2"/>
+            <zone points="122,383 1211,410 1322,388 1323,358 1116,300 863,297 800,343 649,295 300,306 229,350 123,300" rendition="Line" xml:id="facs_7_r1l3"/>
+            <zone points="900,1027 2190,1039 2375,1029 2401,982 899,986" rendition="Line" xml:id="facs_7_r1l4"/>
+            <zone points="862,1157 2538,1182 2559,1118 861,1119" rendition="Line" xml:id="facs_7_r1l5"/>
+            <zone points="870,1226 2571,1203 869,1190" rendition="Line" xml:id="facs_7_r1l6"/>
+            <zone points="877,1306 2564,1283 2514,1230 877,1261" rendition="Line" xml:id="facs_7_r1l7"/>
+            <zone points="877,1355 2566,1343 2316,1288 877,1306" rendition="Line" xml:id="facs_7_r1l8"/>
+            <zone points="865,1400 2537,1418 2573,1354 865,1363" rendition="Line" xml:id="facs_7_r1l9"/>
+            <zone points="863,1462 2573,1455 2362,1409 863,1432" rendition="Line" xml:id="facs_7_r1l10"/>
+            <zone points="867,1515 2384,1537 2533,1530 2565,1468 867,1485" rendition="Line" xml:id="facs_7_r1l11"/>
+            <zone points="875,1598 2573,1580 2447,1525 875,1543" rendition="Line" xml:id="facs_7_r1l12"/>
+            <zone points="871,1654 2571,1646 2570,1606 2349,1582 871,1607" rendition="Line" xml:id="facs_7_r1l13"/>
+            <zone points="867,1702 2080,1725 2541,1708 2575,1656 867,1660" rendition="Line" xml:id="facs_7_r1l14"/>
+            <zone points="876,1794 2574,1752 2324,1702 876,1723" rendition="Line" xml:id="facs_7_r1l15"/>
+            <zone points="879,1839 2557,1826 2585,1781 879,1788" rendition="Line" xml:id="facs_7_r1l16"/>
+            <zone points="880,1887 2315,1896 2584,1884 2584,1825 880,1840" rendition="Line" xml:id="facs_7_r1l17"/>
+            <zone points="884,1948 2577,1954 2577,1903 2487,1880 884,1895" rendition="Line" xml:id="facs_7_r1l18"/>
+            <zone points="878,2014 916,2020 940,2007 957,2019 985,2019 1006,2006 1064,2018 1177,2008 1176,1949 1148,1958 1091,1950 1061,1963 1037,1950 1014,1961 997,1951 965,1960 914,1947 877,1961" rendition="Line" xml:id="facs_7_r1l19"/>
+            <zone points="980,2067 2486,2068 2590,2001 980,2016" rendition="Line" xml:id="facs_7_r1l20"/>
+            <zone points="872,2112 2348,2136 2586,2066 872,2085" rendition="Line" xml:id="facs_7_r1l21"/>
+            <zone points="872,2172 2531,2187 2584,2141 871,2145" rendition="Line" xml:id="facs_7_r1l22"/>
+            <zone points="886,2253 2534,2240 2577,2199 886,2221" rendition="Line" xml:id="facs_7_r1l23"/>
+            <zone points="875,2303 2345,2315 2579,2259 1141,2239 875,2282" rendition="Line" xml:id="facs_7_r1l24"/>
+            <zone points="887,2363 2418,2365 2586,2350 2586,2310 887,2322" rendition="Line" xml:id="facs_7_r1l25"/>
+            <zone points="886,2418 2573,2401 2498,2350 886,2373" rendition="Line" xml:id="facs_7_r1l26"/>
+            <zone points="876,2481 2582,2478 2581,2424 2451,2409 875,2428" rendition="Line" xml:id="facs_7_r1l27"/>
+            <zone points="887,2533 2465,2539 2580,2478 887,2497" rendition="Line" xml:id="facs_7_r1l28"/>
+            <zone points="878,2606 2541,2593 2575,2539 877,2566" rendition="Line" xml:id="facs_7_r1l29"/>
+            <zone points="893,2648 2234,2664 2543,2655 2577,2610 892,2610" rendition="Line" xml:id="facs_7_r1l30"/>
+            <zone points="884,2725 2579,2701 2518,2644 883,2672" rendition="Line" xml:id="facs_7_r1l31"/>
+            <zone points="879,2785 2506,2770 2578,2721 878,2732" rendition="Line" xml:id="facs_7_r1l32"/>
+            <zone points="880,2821 2586,2829 2585,2771 2464,2759 879,2785" rendition="Line" xml:id="facs_7_r1l33"/>
+            <zone points="885,2889 2502,2893 2591,2837 885,2840" rendition="Line" xml:id="facs_7_r1l34"/>
+            <zone points="894,2955 2474,2950 2593,2898 893,2904" rendition="Line" xml:id="facs_7_r1l35"/>
+            <zone points="891,3007 2494,3012 2586,2960 890,2950" rendition="Line" xml:id="facs_7_r1l36"/>
+            <zone points="892,3071 2498,3072 2590,3016 892,3022" rendition="Line" xml:id="facs_7_r1l37"/>
+            <zone points="891,3134 2573,3134 2586,3070 890,3082" rendition="Line" xml:id="facs_7_r1l38"/>
+            <zone points="885,3191 2596,3166 2516,3118 885,3133" rendition="Line" xml:id="facs_7_r1l39"/>
+            <zone points="882,3235 2522,3244 2592,3181 882,3199" rendition="Line" xml:id="facs_7_r1l40"/>
+            <zone points="890,3320 2594,3297 2469,3234 889,3261" rendition="Line" xml:id="facs_7_r1l41"/>
+            <zone points="884,3372 2594,3344 2319,3294 884,3319" rendition="Line" xml:id="facs_7_r1l42"/>
+            <zone points="990,3417 2598,3406 2495,3351 990,3383" rendition="Line" xml:id="facs_7_r1l43"/>
+            <zone points="891,3493 2550,3482 2601,3434 891,3437" rendition="Line" xml:id="facs_7_r1l44"/>
+            <zone points="897,3547 2476,3543 2605,3472 897,3494" rendition="Line" xml:id="facs_7_r1l45"/>
+            <zone points="896,3601 2529,3604 2593,3529 896,3554" rendition="Line" xml:id="facs_7_r1l46"/>
+            <zone points="891,3665 2589,3638 2588,3591 891,3614" rendition="Line" xml:id="facs_7_r1l47"/>
+            <zone points="889,3730 2488,3720 2601,3659 888,3666" rendition="Line" xml:id="facs_7_r1l48"/>
+            <zone points="883,3798 2350,3787 2610,3718 882,3719" rendition="Line" xml:id="facs_7_r1l49"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_8">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0008.jpeg" width="3392px" height="4320px"/>
+         <zone points="116,231 116,4232 2312,4232 2312,231" rendition="TextRegion" xml:id="facs_8_r1">
+            <zone points="1879,287 1934,272 1957,291 2128,298 2196,272 2223,293 2316,298 2316,235 2157,228 2126,245 1940,229 1879,241" rendition="Line" xml:id="facs_8_r1l1"/>
+            <zone points="452,360 463,361 467,357 473,361 518,363 524,359 555,364 558,288 520,287 505,299 501,296 496,301 490,300 482,294 471,304 465,297 454,297" rendition="Line" xml:id="facs_8_r1l2"/>
+            <zone points="1444,363 1630,381 1662,358 1702,388 1736,370 1837,397 1904,385 1906,303 1826,302 1796,286 1739,315 1551,322 1494,302 1445,321" rendition="Line" xml:id="facs_8_r1l3"/>
+            <zone points="105,371 1309,392 1309,324 1200,297 847,295 769,345 602,305 490,359 435,307 286,295 213,349 106,295" rendition="Line" xml:id="facs_8_r1l4"/>
+            <zone points="780,943 2290,949 2073,892 781,901" rendition="Line" xml:id="facs_8_r1l5"/>
+            <zone points="618,1097 2275,1117 2324,1031 618,1054" rendition="Line" xml:id="facs_8_r1l6"/>
+            <zone points="619,1146 2175,1172 2321,1117 619,1121" rendition="Line" xml:id="facs_8_r1l7"/>
+            <zone points="626,1209 2313,1215 2206,1158 627,1173" rendition="Line" xml:id="facs_8_r1l8"/>
+            <zone points="624,1264 2213,1296 2321,1273 2321,1226 624,1237" rendition="Line" xml:id="facs_8_r1l9"/>
+            <zone points="623,1326 2071,1352 2286,1340 2310,1278 623,1284" rendition="Line" xml:id="facs_8_r1l10"/>
+            <zone points="617,1401 2309,1390 2285,1337 617,1355" rendition="Line" xml:id="facs_8_r1l11"/>
+            <zone points="608,1444 2318,1446 2236,1395 608,1402" rendition="Line" xml:id="facs_8_r1l12"/>
+            <zone points="617,1514 2274,1522 2313,1461 617,1455" rendition="Line" xml:id="facs_8_r1l13"/>
+            <zone points="616,1577 2248,1591 2303,1521 616,1524" rendition="Line" xml:id="facs_8_r1l14"/>
+            <zone points="620,1629 2168,1644 2299,1634 2299,1575 620,1593" rendition="Line" xml:id="facs_8_r1l15"/>
+            <zone points="613,1685 2311,1681 2311,1639 2049,1628 614,1647" rendition="Line" xml:id="facs_8_r1l16"/>
+            <zone points="616,1742 2290,1769 2310,1700 616,1691" rendition="Line" xml:id="facs_8_r1l17"/>
+            <zone points="625,1811 2314,1807 2107,1748 625,1765" rendition="Line" xml:id="facs_8_r1l18"/>
+            <zone points="613,1861 2247,1881 2310,1864 2310,1805 613,1814" rendition="Line" xml:id="facs_8_r1l19"/>
+            <zone points="621,1938 2281,1937 2315,1869 621,1868" rendition="Line" xml:id="facs_8_r1l20"/>
+            <zone points="619,1993 2308,1997 2308,1931 619,1940" rendition="Line" xml:id="facs_8_r1l21"/>
+            <zone points="621,2032 2314,2038 2193,1989 621,1999" rendition="Line" xml:id="facs_8_r1l22"/>
+            <zone points="610,2085 2310,2111 2245,2048 610,2053" rendition="Line" xml:id="facs_8_r1l23"/>
+            <zone points="625,2171 2314,2158 2221,2107 625,2114" rendition="Line" xml:id="facs_8_r1l24"/>
+            <zone points="615,2237 2309,2214 2309,2163 616,2176" rendition="Line" xml:id="facs_8_r1l25"/>
+            <zone points="614,2286 692,2293 759,2284 793,2294 818,2280 827,2289 846,2282 878,2294 877,2231 843,2242 824,2226 780,2233 758,2222 714,2234 697,2225 664,2241 613,2237" rendition="Line" xml:id="facs_8_r1l26"/>
+            <zone points="723,2344 2232,2358 2308,2337 2308,2275 723,2285" rendition="Line" xml:id="facs_8_r1l27"/>
+            <zone points="621,2392 2306,2406 2306,2336 622,2346" rendition="Line" xml:id="facs_8_r1l28"/>
+            <zone points="614,2451 2320,2457 2320,2415 2196,2400 615,2411" rendition="Line" xml:id="facs_8_r1l29"/>
+            <zone points="617,2510 2309,2519 2309,2462 2239,2458 618,2468" rendition="Line" xml:id="facs_8_r1l30"/>
+            <zone points="607,2563 2045,2590 2277,2580 2309,2519 607,2527" rendition="Line" xml:id="facs_8_r1l31"/>
+            <zone points="620,2627 2309,2631 2292,2574 620,2574" rendition="Line" xml:id="facs_8_r1l32"/>
+            <zone points="616,2683 2308,2682 2308,2636 2120,2631 617,2641" rendition="Line" xml:id="facs_8_r1l33"/>
+            <zone points="621,2754 2303,2744 2303,2693 621,2689" rendition="Line" xml:id="facs_8_r1l34"/>
+            <zone points="607,2798 2315,2806 2189,2753 608,2756" rendition="Line" xml:id="facs_8_r1l35"/>
+            <zone points="617,2863 2304,2875 2247,2811 617,2821" rendition="Line" xml:id="facs_8_r1l36"/>
+            <zone points="607,2929 2247,2942 2306,2870 607,2891" rendition="Line" xml:id="facs_8_r1l37"/>
+            <zone points="618,2987 2212,2999 2309,2989 2309,2925 618,2928" rendition="Line" xml:id="facs_8_r1l38"/>
+            <zone points="607,3044 2311,3037 2132,2987 607,2982" rendition="Line" xml:id="facs_8_r1l39"/>
+            <zone points="615,3102 2297,3103 2129,3046 615,3066" rendition="Line" xml:id="facs_8_r1l40"/>
+            <zone points="619,3159 2143,3178 2299,3161 2299,3106 618,3119" rendition="Line" xml:id="facs_8_r1l41"/>
+            <zone points="620,3224 2256,3238 2309,3227 2309,3153 620,3171" rendition="Line" xml:id="facs_8_r1l42"/>
+            <zone points="615,3285 2306,3281 2180,3222 615,3247" rendition="Line" xml:id="facs_8_r1l43"/>
+            <zone points="614,3342 2102,3358 2305,3295 614,3306" rendition="Line" xml:id="facs_8_r1l44"/>
+            <zone points="623,3413 2234,3418 2302,3365 623,3366" rendition="Line" xml:id="facs_8_r1l45"/>
+            <zone points="620,3464 2100,3475 2300,3461 2300,3402 620,3417" rendition="Line" xml:id="facs_8_r1l46"/>
+            <zone points="605,3527 2248,3526 2309,3457 605,3476" rendition="Line" xml:id="facs_8_r1l47"/>
+            <zone points="611,3577 2283,3589 2306,3519 611,3537" rendition="Line" xml:id="facs_8_r1l48"/>
+            <zone points="610,3653 2135,3648 2301,3637 2301,3593 610,3606" rendition="Line" xml:id="facs_8_r1l49"/>
+            <zone points="618,3692 2045,3725 2313,3699 2313,3642 618,3654" rendition="Line" xml:id="facs_8_r1l50"/>
+            <zone points="1247,4226 1268,4223 1274,4216 1302,4225 1343,4200 1358,4205 1373,4202 1370,4156 1341,4158 1323,4152 1305,4155 1296,4147 1273,4157 1243,4156" rendition="Line" xml:id="facs_8_r1l51"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_9">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0009.jpeg" width="3392px" height="4320px"/>
+         <zone points="139,206 139,3732 2514,3732 2514,206" rendition="TextRegion" xml:id="facs_9_r1">
+            <zone points="1880,249 1927,264 1974,249 2027,270 2136,273 2186,256 2216,270 2306,270 2305,212 2275,206 2237,217 1982,206 1880,218" rendition="Line" xml:id="facs_9_r1l1"/>
+            <zone points="1471,339 1530,355 1605,342 1622,360 1673,335 1826,362 1847,348 1947,348 1948,316 1862,267 1819,286 1737,269 1693,302 1564,277 1473,286" rendition="Line" xml:id="facs_9_r1l2"/>
+            <zone points="127,369 1320,368 1320,305 1132,273 953,264 816,326 577,268 307,274 230,317 128,286" rendition="Line" xml:id="facs_9_r1l3"/>
+            <zone points="829,977 2160,980 2302,973 2351,920 829,939" rendition="Line" xml:id="facs_9_r1l4"/>
+            <zone points="801,1108 2495,1108 2495,1064 2348,1049 801,1061" rendition="Line" xml:id="facs_9_r1l5"/>
+            <zone points="806,1185 2302,1187 2459,1180 2506,1120 806,1123" rendition="Line" xml:id="facs_9_r1l6"/>
+            <zone points="805,1246 2499,1240 2498,1180 2352,1172 805,1188" rendition="Line" xml:id="facs_9_r1l7"/>
+            <zone points="804,1298 2502,1287 2391,1232 804,1247" rendition="Line" xml:id="facs_9_r1l8"/>
+            <zone points="803,1349 2261,1369 2469,1356 2497,1305 803,1313" rendition="Line" xml:id="facs_9_r1l9"/>
+            <zone points="813,1407 2467,1426 2507,1360 813,1369" rendition="Line" xml:id="facs_9_r1l10"/>
+            <zone points="811,1471 2143,1470 2143,1436 2026,1410 811,1418" rendition="Line" xml:id="facs_9_r1l11"/>
+            <zone points="912,1537 2506,1520 2452,1465 912,1478" rendition="Line" xml:id="facs_9_r1l12"/>
+            <zone points="807,1575 2490,1588 2490,1539 2348,1529 807,1549" rendition="Line" xml:id="facs_9_r1l13"/>
+            <zone points="806,1656 2506,1638 2449,1589 806,1603" rendition="Line" xml:id="facs_9_r1l14"/>
+            <zone points="800,1700 2506,1699 2275,1646 800,1657" rendition="Line" xml:id="facs_9_r1l15"/>
+            <zone points="816,1770 2401,1771 2492,1760 2492,1715 815,1719" rendition="Line" xml:id="facs_9_r1l16"/>
+            <zone points="801,1819 2327,1835 2505,1779 801,1797" rendition="Line" xml:id="facs_9_r1l17"/>
+            <zone points="800,1876 2500,1895 2474,1823 800,1842" rendition="Line" xml:id="facs_9_r1l18"/>
+            <zone points="812,1948 2502,1948 2502,1899 2408,1883 812,1899" rendition="Line" xml:id="facs_9_r1l19"/>
+            <zone points="811,2003 2502,1999 2502,1950 2383,1937 811,1948" rendition="Line" xml:id="facs_9_r1l20"/>
+            <zone points="805,2073 2377,2074 2500,2026 804,2014" rendition="Line" xml:id="facs_9_r1l21"/>
+            <zone points="811,2135 2400,2129 2504,2073 810,2078" rendition="Line" xml:id="facs_9_r1l22"/>
+            <zone points="801,2174 2501,2183 2418,2118 801,2143" rendition="Line" xml:id="facs_9_r1l23"/>
+            <zone points="815,2245 2415,2251 2502,2238 2502,2189 815,2194" rendition="Line" xml:id="facs_9_r1l24"/>
+            <zone points="809,2303 2499,2288 2379,2242 809,2265" rendition="Line" xml:id="facs_9_r1l25"/>
+            <zone points="809,2366 2497,2352 2443,2299 809,2321" rendition="Line" xml:id="facs_9_r1l26"/>
+            <zone points="813,2428 2422,2423 2509,2363 813,2372" rendition="Line" xml:id="facs_9_r1l27"/>
+            <zone points="816,2489 2503,2467 2502,2425 2190,2412 815,2438" rendition="Line" xml:id="facs_9_r1l28"/>
+            <zone points="804,2529 2507,2532 2487,2475 804,2508" rendition="Line" xml:id="facs_9_r1l29"/>
+            <zone points="805,2593 2293,2602 2486,2584 2486,2538 805,2546" rendition="Line" xml:id="facs_9_r1l30"/>
+            <zone points="815,2658 2504,2645 2504,2605 2334,2588 815,2598" rendition="Line" xml:id="facs_9_r1l31"/>
+            <zone points="811,2716 2434,2720 2513,2656 811,2671" rendition="Line" xml:id="facs_9_r1l32"/>
+            <zone points="802,2754 919,2789 1947,2784 1947,2724 1913,2714 801,2730" rendition="Line" xml:id="facs_9_r1l33"/>
+            <zone points="914,2824 2280,2838 2482,2827 2501,2778 914,2782" rendition="Line" xml:id="facs_9_r1l34"/>
+            <zone points="803,2879 2320,2896 2501,2879 2501,2836 803,2850" rendition="Line" xml:id="facs_9_r1l35"/>
+            <zone points="810,2944 2455,2955 2510,2889 810,2903" rendition="Line" xml:id="facs_9_r1l36"/>
+            <zone points="816,3013 2301,3018 2482,3009 2507,2958 815,2966" rendition="Line" xml:id="facs_9_r1l37"/>
+            <zone points="809,3060 2511,3061 2424,3002 809,3015" rendition="Line" xml:id="facs_9_r1l38"/>
+            <zone points="821,3137 2481,3128 2510,3073 821,3082" rendition="Line" xml:id="facs_9_r1l39"/>
+            <zone points="813,3180 2505,3167 2441,3121 813,3140" rendition="Line" xml:id="facs_9_r1l40"/>
+            <zone points="815,3242 2523,3230 2287,3179 815,3199" rendition="Line" xml:id="facs_9_r1l41"/>
+            <zone points="804,3309 2526,3305 2525,3258 2332,3240 804,3275" rendition="Line" xml:id="facs_9_r1l42"/>
+            <zone points="812,3355 889,3379 1560,3364 1560,3310 1533,3306 812,3319" rendition="Line" xml:id="facs_9_r1l43"/>
+            <zone points="916,3430 2314,3440 2503,3415 2503,3364 916,3376" rendition="Line" xml:id="facs_9_r1l44"/>
+            <zone points="813,3476 2423,3486 2506,3428 812,3429" rendition="Line" xml:id="facs_9_r1l45"/>
+            <zone points="815,3545 2511,3537 2400,3478 815,3492" rendition="Line" xml:id="facs_9_r1l46"/>
+            <zone points="807,3610 2390,3608 2503,3586 2503,3535 807,3554" rendition="Line" xml:id="facs_9_r1l47"/>
+            <zone points="815,3654 2505,3661 2504,3600 2441,3594 815,3613" rendition="Line" xml:id="facs_9_r1l48"/>
+            <zone points="802,3716 2436,3730 2521,3671 801,3686" rendition="Line" xml:id="facs_9_r1l49"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_10">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0010.jpeg" width="3392px" height="4320px"/>
+         <zone points="109,240 109,3669 2383,3669 2383,240" rendition="TextRegion" xml:id="facs_10_r1">
+            <zone points="1866,291 1942,283 2010,307 2121,288 2153,301 2178,285 2260,286 2303,308 2394,298 2393,237 2363,231 2334,251 2266,239 2220,255 2160,229 2120,253 1865,242" rendition="Line" xml:id="facs_10_r1l1"/>
+            <zone points="804,373 840,379 855,376 859,371 874,379 905,378 908,319 894,314 881,318 868,315 862,321 853,318 849,322 824,308 807,308" rendition="Line" xml:id="facs_10_r1l2"/>
+            <zone points="510,378 544,377 554,368 572,378 595,377 601,372 620,373 618,331 586,330 580,324 571,323 565,329 546,315 542,318 531,310 508,315" rendition="Line" xml:id="facs_10_r1l3"/>
+            <zone points="319,377 351,375 355,371 359,375 399,376 412,367 433,368 434,300 423,300 404,310 396,308 366,331 353,329 347,322 334,329 320,326" rendition="Line" xml:id="facs_10_r1l4"/>
+            <zone points="1437,383 1578,402 1654,375 1781,407 1859,380 1901,402 1902,335 1824,308 1748,307 1718,328 1683,319 1649,337 1438,318" rendition="Line" xml:id="facs_10_r1l5"/>
+            <zone points="98,396 1283,430 1284,341 1183,315 944,310 810,373 684,319 624,375 202,364 135,308 99,324" rendition="Line" xml:id="facs_10_r1l6"/>
+            <zone points="762,898 2096,909 2263,901 2263,856 762,868" rendition="Line" xml:id="facs_10_r1l7"/>
+            <zone points="592,1057 2303,1052 2302,987 2243,981 592,1008" rendition="Line" xml:id="facs_10_r1l8"/>
+            <zone points="610,1114 2202,1112 2299,1101 2299,1057 610,1072" rendition="Line" xml:id="facs_10_r1l9"/>
+            <zone points="608,1171 2295,1167 2240,1102 608,1119" rendition="Line" xml:id="facs_10_r1l10"/>
+            <zone points="604,1220 2301,1214 2248,1159 604,1170" rendition="Line" xml:id="facs_10_r1l11"/>
+            <zone points="600,1272 2308,1276 2261,1228 600,1245" rendition="Line" xml:id="facs_10_r1l12"/>
+            <zone points="606,1343 2310,1334 2309,1289 2164,1279 606,1286" rendition="Line" xml:id="facs_10_r1l13"/>
+            <zone points="608,1400 1940,1420 2244,1411 2313,1356 607,1358" rendition="Line" xml:id="facs_10_r1l14"/>
+            <zone points="609,1471 2213,1467 2302,1454 2302,1397 608,1410" rendition="Line" xml:id="facs_10_r1l15"/>
+            <zone points="605,1519 2264,1533 2304,1469 605,1479" rendition="Line" xml:id="facs_10_r1l16"/>
+            <zone points="596,1585 2150,1588 2306,1533 596,1543" rendition="Line" xml:id="facs_10_r1l17"/>
+            <zone points="615,1643 2300,1645 2259,1577 615,1597" rendition="Line" xml:id="facs_10_r1l18"/>
+            <zone points="611,1701 2307,1696 2306,1643 2207,1635 611,1648" rendition="Line" xml:id="facs_10_r1l19"/>
+            <zone points="615,1776 2304,1746 2304,1706 2175,1694 615,1698" rendition="Line" xml:id="facs_10_r1l20"/>
+            <zone points="611,1808 2300,1815 2278,1758 610,1766" rendition="Line" xml:id="facs_10_r1l21"/>
+            <zone points="616,1888 2309,1879 2309,1818 616,1820" rendition="Line" xml:id="facs_10_r1l22"/>
+            <zone points="612,1942 2126,1946 2297,1932 2297,1875 612,1906" rendition="Line" xml:id="facs_10_r1l23"/>
+            <zone points="613,1989 1984,1986 1983,1943 1884,1935 613,1955" rendition="Line" xml:id="facs_10_r1l24"/>
+            <zone points="702,2063 2264,2059 2302,2004 702,2017" rendition="Line" xml:id="facs_10_r1l25"/>
+            <zone points="607,2113 2258,2118 2294,2065 607,2080" rendition="Line" xml:id="facs_10_r1l26"/>
+            <zone points="606,2170 2261,2176 2301,2117 606,2126" rendition="Line" xml:id="facs_10_r1l27"/>
+            <zone points="607,2241 2277,2241 2306,2182 606,2178" rendition="Line" xml:id="facs_10_r1l28"/>
+            <zone points="608,2288 2200,2298 2303,2234 607,2244" rendition="Line" xml:id="facs_10_r1l29"/>
+            <zone points="611,2344 2302,2332 2215,2288 611,2297" rendition="Line" xml:id="facs_10_r1l30"/>
+            <zone points="605,2388 2305,2391 2304,2349 2205,2346 605,2361" rendition="Line" xml:id="facs_10_r1l31"/>
+            <zone points="615,2460 2205,2469 2308,2452 2308,2407 615,2417" rendition="Line" xml:id="facs_10_r1l32"/>
+            <zone points="613,2516 2298,2509 2097,2455 613,2470" rendition="Line" xml:id="facs_10_r1l33"/>
+            <zone points="616,2599 2121,2594 2307,2574 2307,2529 616,2544" rendition="Line" xml:id="facs_10_r1l34"/>
+            <zone points="606,2643 2297,2625 2220,2575 605,2605" rendition="Line" xml:id="facs_10_r1l35"/>
+            <zone points="614,2700 2314,2684 2269,2632 614,2650" rendition="Line" xml:id="facs_10_r1l36"/>
+            <zone points="603,2749 2302,2749 2215,2693 603,2713" rendition="Line" xml:id="facs_10_r1l37"/>
+            <zone points="607,2811 2300,2808 2186,2751 607,2769" rendition="Line" xml:id="facs_10_r1l38"/>
+            <zone points="620,2875 2301,2872 2241,2813 620,2827" rendition="Line" xml:id="facs_10_r1l39"/>
+            <zone points="619,2940 2306,2929 2259,2870 618,2888" rendition="Line" xml:id="facs_10_r1l40"/>
+            <zone points="621,2994 2306,2979 2305,2938 2162,2927 621,2940" rendition="Line" xml:id="facs_10_r1l41"/>
+            <zone points="609,3065 2045,3077 2309,3051 2309,3006 609,3023" rendition="Line" xml:id="facs_10_r1l42"/>
+            <zone points="607,3132 1327,3109 1326,3069 1297,3056 607,3079" rendition="Line" xml:id="facs_10_r1l43"/>
+            <zone points="716,3172 2242,3180 2303,3106 715,3124" rendition="Line" xml:id="facs_10_r1l44"/>
+            <zone points="608,3226 2048,3240 2265,3233 2309,3182 607,3195" rendition="Line" xml:id="facs_10_r1l45"/>
+            <zone points="620,3296 2309,3284 2308,3239 2203,3221 619,3246" rendition="Line" xml:id="facs_10_r1l46"/>
+            <zone points="614,3359 2305,3338 2262,3286 613,3304" rendition="Line" xml:id="facs_10_r1l47"/>
+            <zone points="620,3424 2307,3402 2233,3348 620,3358" rendition="Line" xml:id="facs_10_r1l48"/>
+            <zone points="620,3473 2247,3468 2302,3398 619,3420" rendition="Line" xml:id="facs_10_r1l49"/>
+            <zone points="616,3536 2310,3542 2309,3468 616,3483" rendition="Line" xml:id="facs_10_r1l50"/>
+            <zone points="619,3592 2107,3598 2310,3539 618,3548" rendition="Line" xml:id="facs_10_r1l51"/>
+            <zone points="605,3656 2311,3651 2249,3580 604,3622" rendition="Line" xml:id="facs_10_r1l52"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_11">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0011.jpeg" width="3392px" height="4320px"/>
+         <zone points="143,237 143,3725 2573,3725 2573,237" rendition="TextRegion" xml:id="facs_11_r1">
+            <zone points="2001,308 2024,299 2079,315 2144,284 2167,290 2194,274 2241,294 2264,285 2288,293 2317,280 2316,225 2297,223 2272,245 2198,238 2086,247 1999,236" rendition="Line" xml:id="facs_11_r1l1"/>
+            <zone points="621,367 633,367 642,361 654,361 663,369 711,367 711,302 682,304 665,300 640,317 621,319" rendition="Line" xml:id="facs_11_r1l2"/>
+            <zone points="1465,364 1522,382 1545,371 1566,391 1642,386 1681,365 1714,389 1744,373 1870,394 1940,376 1941,311 1910,302 1832,313 1771,297 1671,331 1517,305 1466,321" rendition="Line" xml:id="facs_11_r1l3"/>
+            <zone points="132,379 404,417 1282,408 1322,398 1323,322 878,301 662,369 563,300 299,307 250,342 132,305" rendition="Line" xml:id="facs_11_r1l4"/>
+            <zone points="883,971 2380,975 2226,914 883,941" rendition="Line" xml:id="facs_11_r1l5"/>
+            <zone points="851,1117 2523,1129 2548,1070 851,1082" rendition="Line" xml:id="facs_11_r1l6"/>
+            <zone points="857,1182 2559,1170 2512,1126 857,1131" rendition="Line" xml:id="facs_11_r1l7"/>
+            <zone points="850,1240 2505,1246 2555,1186 849,1198" rendition="Line" xml:id="facs_11_r1l8"/>
+            <zone points="857,1306 2451,1309 2559,1246 857,1261" rendition="Line" xml:id="facs_11_r1l9"/>
+            <zone points="859,1362 2476,1368 2554,1294 858,1313" rendition="Line" xml:id="facs_11_r1l10"/>
+            <zone points="855,1431 2483,1429 2556,1367 855,1370" rendition="Line" xml:id="facs_11_r1l11"/>
+            <zone points="859,1472 2423,1492 2554,1481 2554,1430 858,1439" rendition="Line" xml:id="facs_11_r1l12"/>
+            <zone points="864,1546 2488,1544 2555,1481 864,1495" rendition="Line" xml:id="facs_11_r1l13"/>
+            <zone points="857,1616 2555,1584 2510,1535 857,1550" rendition="Line" xml:id="facs_11_r1l14"/>
+            <zone points="854,1658 2558,1644 2424,1587 854,1613" rendition="Line" xml:id="facs_11_r1l15"/>
+            <zone points="853,1722 2547,1711 2546,1664 2443,1650 853,1671" rendition="Line" xml:id="facs_11_r1l16"/>
+            <zone points="849,1766 2557,1759 2491,1710 848,1731" rendition="Line" xml:id="facs_11_r1l17"/>
+            <zone points="859,1830 2506,1841 2563,1780 859,1792" rendition="Line" xml:id="facs_11_r1l18"/>
+            <zone points="864,1888 2561,1886 2388,1828 864,1841" rendition="Line" xml:id="facs_11_r1l19"/>
+            <zone points="865,1947 2559,1932 2434,1886 865,1906" rendition="Line" xml:id="facs_11_r1l20"/>
+            <zone points="862,2011 2336,2018 2518,2012 2564,1957 862,1969" rendition="Line" xml:id="facs_11_r1l21"/>
+            <zone points="863,2075 2459,2078 2558,2057 2558,2006 863,2031" rendition="Line" xml:id="facs_11_r1l22"/>
+            <zone points="852,2131 2558,2121 2507,2062 852,2076" rendition="Line" xml:id="facs_11_r1l23"/>
+            <zone points="863,2184 2398,2195 2562,2175 2562,2131 862,2142" rendition="Line" xml:id="facs_11_r1l24"/>
+            <zone points="857,2258 878,2248 895,2261 938,2263 978,2248 997,2259 1014,2244 1062,2246 1081,2259 1163,2251 1164,2198 1104,2193 1085,2202 1045,2187 961,2206 927,2187 857,2193" rendition="Line" xml:id="facs_11_r1l25"/>
+            <zone points="1312,2283 2112,2295 2112,2246 2057,2227 1886,2246 1799,2219 1767,2242 1366,2222 1311,2243" rendition="Line" xml:id="facs_11_r1l26"/>
+            <zone points="1299,2330 1448,2365 1543,2338 1588,2351 1613,2328 1676,2351 2023,2343 2040,2289 1337,2284 1299,2309" rendition="Line" xml:id="facs_11_r1l27"/>
+            <zone points="955,2408 2564,2408 2249,2333 955,2355" rendition="Line" xml:id="facs_11_r1l28"/>
+            <zone points="870,2474 2335,2483 2557,2470 2557,2426 870,2428" rendition="Line" xml:id="facs_11_r1l29"/>
+            <zone points="866,2531 2529,2542 2563,2481 865,2493" rendition="Line" xml:id="facs_11_r1l30"/>
+            <zone points="867,2602 2530,2598 2558,2541 866,2547" rendition="Line" xml:id="facs_11_r1l31"/>
+            <zone points="867,2644 2554,2651 2554,2600 2444,2581 867,2602" rendition="Line" xml:id="facs_11_r1l32"/>
+            <zone points="864,2698 2564,2686 2458,2642 864,2666" rendition="Line" xml:id="facs_11_r1l33"/>
+            <zone points="868,2776 2570,2773 2519,2707 868,2717" rendition="Line" xml:id="facs_11_r1l34"/>
+            <zone points="867,2824 2571,2827 2454,2756 867,2776" rendition="Line" xml:id="facs_11_r1l35"/>
+            <zone points="873,2885 2567,2876 2566,2827 2389,2818 873,2831" rendition="Line" xml:id="facs_11_r1l36"/>
+            <zone points="864,2934 2434,2950 2563,2943 2563,2890 863,2885" rendition="Line" xml:id="facs_11_r1l37"/>
+            <zone points="869,2995 2220,3010 2520,3000 2571,2946 869,2965" rendition="Line" xml:id="facs_11_r1l38"/>
+            <zone points="870,3056 2548,3069 2565,3008 870,3027" rendition="Line" xml:id="facs_11_r1l39"/>
+            <zone points="873,3114 2509,3133 2566,3075 872,3079" rendition="Line" xml:id="facs_11_r1l40"/>
+            <zone points="873,3172 2475,3188 2572,3128 872,3124" rendition="Line" xml:id="facs_11_r1l41"/>
+            <zone points="876,3246 2567,3237 2364,3172 876,3189" rendition="Line" xml:id="facs_11_r1l42"/>
+            <zone points="875,3289 2565,3298 2564,3241 2431,3233 875,3253" rendition="Line" xml:id="facs_11_r1l43"/>
+            <zone points="873,3353 2451,3372 2569,3308 873,3309" rendition="Line" xml:id="facs_11_r1l44"/>
+            <zone points="871,3412 2575,3413 2519,3354 871,3372" rendition="Line" xml:id="facs_11_r1l45"/>
+            <zone points="867,3469 2566,3461 2461,3413 867,3425" rendition="Line" xml:id="facs_11_r1l46"/>
+            <zone points="871,3536 2568,3527 2518,3472 871,3475" rendition="Line" xml:id="facs_11_r1l47"/>
+            <zone points="879,3592 2543,3603 2570,3538 879,3547" rendition="Line" xml:id="facs_11_r1l48"/>
+            <zone points="880,3651 2577,3644 2463,3592 880,3613" rendition="Line" xml:id="facs_11_r1l49"/>
+            <zone points="878,3719 2508,3735 2583,3677 877,3656" rendition="Line" xml:id="facs_11_r1l50"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_12">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0012.jpeg" width="3392px" height="4320px"/>
+         <zone points="157,34 157,3657 2442,3657 2442,34" rendition="TextRegion" xml:id="facs_12_r1">
+            <zone points="1656,71 1677,68 1678,66 1691,66 1681,3 1671,5 1666,12 1663,12 1662,15 1656,18 1647,19" rendition="Line" xml:id="facs_12_r1l1"/>
+            <zone points="1988,272 2039,264 2060,278 2155,279 2188,302 2226,301 2246,287 2308,294 2360,261 2359,218 2200,232 2153,208 2135,227 2090,214 2059,238 2027,220 1987,225" rendition="Line" xml:id="facs_12_r1l2"/>
+            <zone points="847,357 864,355 875,361 898,361 898,283 881,281 877,285 862,289 858,294 847,294" rendition="Line" xml:id="facs_12_r1l3"/>
+            <zone points="1102,357 1117,357 1125,363 1147,363 1157,356 1168,362 1182,362 1206,361 1216,352 1229,352 1227,303 1211,310 1202,306 1185,309 1172,301 1160,305 1136,291 1117,287 1100,292" rendition="Line" xml:id="facs_12_r1l4"/>
+            <zone points="1478,367 1516,361 1613,401 1704,372 1926,382 1949,374 1950,302 1889,290 1825,313 1737,297 1685,336 1644,306 1530,292 1479,314" rendition="Line" xml:id="facs_12_r1l5"/>
+            <zone points="146,361 545,405 1346,388 1290,312 1232,360 1118,359 1013,292 922,291 822,355 614,290 339,293 260,345 147,308" rendition="Line" xml:id="facs_12_r1l6"/>
+            <zone points="909,891 2401,895 2401,844 910,855" rendition="Line" xml:id="facs_12_r1l7"/>
+            <zone points="749,1041 2314,1065 2445,1045 2446,996 749,994" rendition="Line" xml:id="facs_12_r1l8"/>
+            <zone points="738,1090 2343,1121 2447,1050 738,1060" rendition="Line" xml:id="facs_12_r1l9"/>
+            <zone points="750,1156 2450,1159 2214,1103 750,1116" rendition="Line" xml:id="facs_12_r1l10"/>
+            <zone points="735,1203 2368,1239 2445,1174 736,1169" rendition="Line" xml:id="facs_12_r1l11"/>
+            <zone points="746,1270 2438,1283 2402,1222 746,1236" rendition="Line" xml:id="facs_12_r1l12"/>
+            <zone points="748,1333 2436,1337 2379,1286 748,1295" rendition="Line" xml:id="facs_12_r1l13"/>
+            <zone points="747,1399 2359,1414 2443,1350 747,1370" rendition="Line" xml:id="facs_12_r1l14"/>
+            <zone points="749,1457 2443,1448 2410,1401 749,1406" rendition="Line" xml:id="facs_12_r1l15"/>
+            <zone points="748,1509 2447,1516 2244,1458 748,1463" rendition="Line" xml:id="facs_12_r1l16"/>
+            <zone points="738,1575 2327,1587 2441,1577 2441,1528 738,1531" rendition="Line" xml:id="facs_12_r1l17"/>
+            <zone points="752,1647 2334,1645 2439,1593 752,1600" rendition="Line" xml:id="facs_12_r1l18"/>
+            <zone points="750,1701 2446,1689 2304,1634 750,1650" rendition="Line" xml:id="facs_12_r1l19"/>
+            <zone points="752,1752 2438,1747 2381,1699 752,1703" rendition="Line" xml:id="facs_12_r1l20"/>
+            <zone points="740,1817 2447,1806 2388,1755 740,1762" rendition="Line" xml:id="facs_12_r1l21"/>
+            <zone points="751,1879 2443,1860 2353,1815 751,1818" rendition="Line" xml:id="facs_12_r1l22"/>
+            <zone points="748,1928 2453,1919 2305,1874 748,1888" rendition="Line" xml:id="facs_12_r1l23"/>
+            <zone points="743,1977 944,2009 1825,1994 1825,1961 1738,1937 743,1954" rendition="Line" xml:id="facs_12_r1l24"/>
+            <zone points="844,2050 2437,2047 2382,1985 844,2004" rendition="Line" xml:id="facs_12_r1l25"/>
+            <zone points="753,2120 2439,2104 2439,2059 2209,2051 753,2059" rendition="Line" xml:id="facs_12_r1l26"/>
+            <zone points="751,2185 2352,2178 2441,2125 751,2128" rendition="Line" xml:id="facs_12_r1l27"/>
+            <zone points="739,2236 2438,2222 2368,2167 739,2188" rendition="Line" xml:id="facs_12_r1l28"/>
+            <zone points="737,2281 2446,2292 2385,2235 2169,2227 737,2260" rendition="Line" xml:id="facs_12_r1l29"/>
+            <zone points="736,2341 2265,2363 2436,2340 2436,2290 736,2295" rendition="Line" xml:id="facs_12_r1l30"/>
+            <zone points="749,2399 2441,2403 2372,2352 1846,2336 749,2365" rendition="Line" xml:id="facs_12_r1l31"/>
+            <zone points="744,2456 2297,2470 2438,2455 2438,2412 744,2437" rendition="Line" xml:id="facs_12_r1l32"/>
+            <zone points="750,2526 2444,2522 2379,2463 750,2473" rendition="Line" xml:id="facs_12_r1l33"/>
+            <zone points="750,2573 2368,2592 2444,2522 750,2539" rendition="Line" xml:id="facs_12_r1l34"/>
+            <zone points="751,2645 2437,2627 2346,2583 751,2593" rendition="Line" xml:id="facs_12_r1l35"/>
+            <zone points="749,2699 2154,2712 2409,2701 2435,2646 749,2653" rendition="Line" xml:id="facs_12_r1l36"/>
+            <zone points="754,2760 2440,2748 2439,2689 754,2710" rendition="Line" xml:id="facs_12_r1l37"/>
+            <zone points="749,2804 2272,2827 2441,2805 2441,2756 749,2774" rendition="Line" xml:id="facs_12_r1l38"/>
+            <zone points="747,2865 2443,2870 2340,2817 747,2829" rendition="Line" xml:id="facs_12_r1l39"/>
+            <zone points="754,2938 2434,2922 2433,2873 754,2881" rendition="Line" xml:id="facs_12_r1l40"/>
+            <zone points="746,2988 2265,3004 2430,2989 2430,2940 746,2942" rendition="Line" xml:id="facs_12_r1l41"/>
+            <zone points="749,3049 2168,3070 2436,3015 748,3009" rendition="Line" xml:id="facs_12_r1l42"/>
+            <zone points="748,3113 2222,3124 2429,3111 2429,3060 747,3049" rendition="Line" xml:id="facs_12_r1l43"/>
+            <zone points="753,3173 2308,3180 2437,3161 2437,3110 753,3116" rendition="Line" xml:id="facs_12_r1l44"/>
+            <zone points="745,3235 2370,3243 2437,3175 745,3199" rendition="Line" xml:id="facs_12_r1l45"/>
+            <zone points="745,3279 1205,3306 1786,3287 1706,3228 745,3234" rendition="Line" xml:id="facs_12_r1l46"/>
+            <zone points="844,3341 2304,3363 2435,3300 844,3305" rendition="Line" xml:id="facs_12_r1l47"/>
+            <zone points="756,3417 2436,3411 2385,3352 756,3362" rendition="Line" xml:id="facs_12_r1l48"/>
+            <zone points="745,3456 2323,3476 2437,3415 745,3420" rendition="Line" xml:id="facs_12_r1l49"/>
+            <zone points="751,3524 2329,3540 2443,3498 750,3484" rendition="Line" xml:id="facs_12_r1l50"/>
+            <zone points="740,3586 2305,3596 2446,3532 739,3538" rendition="Line" xml:id="facs_12_r1l51"/>
+            <zone points="741,3644 2450,3641 2361,3580 741,3593" rendition="Line" xml:id="facs_12_r1l52"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_13">
+         <graphic url="F_01-5_Broschu%CC%88ren%20Sonderdrucke%201912%201913_Vo%CC%88lker-Krieg-als-Erziehung_0013.jpeg" width="3392px" height="4320px"/>
+         <zone points="144,238 144,395 232,395 232,238" rendition="TextRegion" xml:id="facs_13_r1">
+            <zone points="133,348 168,351 187,362 215,351 242,353 246,286 227,287 219,282 204,287 196,283 189,288 177,275 164,287 136,289" rendition="Line" xml:id="facs_13_r1l1"/>
+         </zone>
+         <zone points="268,215 268,4181 2676,4181 2676,215" rendition="TextRegion" xml:id="facs_13_r2">
+            <zone points="2017,258 2055,260 2063,251 2082,264 2097,255 2131,271 2169,268 2230,282 2257,265 2283,266 2282,207 2233,227 2197,217 2185,226 2098,221 2080,230 2054,213 2016,216" rendition="Line" xml:id="facs_13_r2l1"/>
+            <zone points="827,329 837,329 854,346 865,350 886,348 903,331 919,331 919,295 907,295 900,291 888,293 862,283 852,289 844,289 837,283 827,283" rendition="Line" xml:id="facs_13_r2l2"/>
+            <zone points="549,346 586,351 596,280 585,278 581,282 579,280 558,279" rendition="Line" xml:id="facs_13_r2l3"/>
+            <zone points="1471,341 1654,380 1673,365 1691,378 1886,371 1939,346 1939,319 1887,282 1811,298 1740,276 1672,306 1600,290 1566,304 1520,283 1471,299" rendition="Line" xml:id="facs_13_r2l4"/>
+            <zone points="257,366 1296,388 1331,317 977,283 850,343 667,285 576,341 504,282 257,305" rendition="Line" xml:id="facs_13_r2l5"/>
+            <zone points="1011,915 1070,926 1076,922 1089,924 1102,912 1123,912 1123,874 1100,874 1083,867 1079,872 1070,865 1047,867 1043,871 1032,863 1011,865" rendition="Line" xml:id="facs_13_r2l6"/>
+            <zone points="1397,919 2220,930 2220,880 2169,873 1824,859 1710,889 1398,858" rendition="Line" xml:id="facs_13_r2l7"/>
+            <zone points="970,1060 2664,1064 2594,1005 970,997" rendition="Line" xml:id="facs_13_r2l8"/>
+            <zone points="966,1100 1251,1141 2672,1118 2615,1067 966,1079" rendition="Line" xml:id="facs_13_r2l9"/>
+            <zone points="982,1187 2665,1196 2665,1141 2581,1128 982,1132" rendition="Line" xml:id="facs_13_r2l10"/>
+            <zone points="969,1235 2457,1266 2670,1254 2671,1197 969,1191" rendition="Line" xml:id="facs_13_r2l11"/>
+            <zone points="979,1292 2658,1314 2580,1253 980,1258" rendition="Line" xml:id="facs_13_r2l12"/>
+            <zone points="969,1355 2669,1363 2652,1319 2404,1305 969,1331" rendition="Line" xml:id="facs_13_r2l13"/>
+            <zone points="979,1416 2666,1414 2607,1365 979,1376" rendition="Line" xml:id="facs_13_r2l14"/>
+            <zone points="967,1475 2675,1488 2558,1426 968,1414" rendition="Line" xml:id="facs_13_r2l15"/>
+            <zone points="982,1532 2671,1540 2599,1489 982,1494" rendition="Line" xml:id="facs_13_r2l16"/>
+            <zone points="979,1599 2666,1593 2620,1546 979,1538" rendition="Line" xml:id="facs_13_r2l17"/>
+            <zone points="969,1638 2667,1660 2467,1600 970,1598" rendition="Line" xml:id="facs_13_r2l18"/>
+            <zone points="975,1720 2667,1715 2667,1673 2450,1660 976,1668" rendition="Line" xml:id="facs_13_r2l19"/>
+            <zone points="969,1765 2667,1776 2540,1721 969,1748" rendition="Line" xml:id="facs_13_r2l20"/>
+            <zone points="970,1839 2429,1850 2668,1807 970,1789" rendition="Line" xml:id="facs_13_r2l21"/>
+            <zone points="977,1883 2668,1890 2668,1850 2534,1838 977,1839" rendition="Line" xml:id="facs_13_r2l22"/>
+            <zone points="969,1938 2599,1969 2662,1893 969,1906" rendition="Line" xml:id="facs_13_r2l23"/>
+            <zone points="979,1999 2671,2009 2567,1956 980,1958" rendition="Line" xml:id="facs_13_r2l24"/>
+            <zone points="973,2063 2677,2063 2608,2018 974,2022" rendition="Line" xml:id="facs_13_r2l25"/>
+            <zone points="980,2117 2671,2132 2587,2075 980,2092" rendition="Line" xml:id="facs_13_r2l26"/>
+            <zone points="966,2189 1014,2211 1105,2180 1294,2202 1434,2183 1573,2209 1697,2183 1790,2206 1817,2200 1818,2141 1210,2125 1008,2131 966,2160" rendition="Line" xml:id="facs_13_r2l27"/>
+            <zone points="1074,2246 2666,2264 2666,2203 2591,2190 1074,2198" rendition="Line" xml:id="facs_13_r2l28"/>
+            <zone points="972,2301 2664,2292 973,2261" rendition="Line" xml:id="facs_13_r2l29"/>
+            <zone points="977,2372 2677,2350 2468,2307 977,2317" rendition="Line" xml:id="facs_13_r2l30"/>
+            <zone points="974,2421 2674,2428 2586,2371 974,2372" rendition="Line" xml:id="facs_13_r2l31"/>
+            <zone points="974,2472 2661,2479 2418,2430 974,2434" rendition="Line" xml:id="facs_13_r2l32"/>
+            <zone points="975,2556 2673,2545 2603,2487 975,2495" rendition="Line" xml:id="facs_13_r2l33"/>
+            <zone points="976,2599 2674,2609 2619,2549 977,2555" rendition="Line" xml:id="facs_13_r2l34"/>
+            <zone points="972,2655 2676,2651 2619,2608 972,2615" rendition="Line" xml:id="facs_13_r2l35"/>
+            <zone points="976,2721 2678,2701 976,2670" rendition="Line" xml:id="facs_13_r2l36"/>
+            <zone points="980,2788 2686,2773 2674,2720 1756,2756 980,2714" rendition="Line" xml:id="facs_13_r2l37"/>
+            <zone points="979,2850 1056,2838 1144,2850 1172,2838 1216,2854 1281,2840 1325,2839 1344,2856 1376,2840 1450,2856 1486,2846 1486,2812 1434,2788 1364,2799 1322,2780 1290,2796 1240,2780 1170,2796 1118,2780 1029,2798 981,2786" rendition="Line" xml:id="facs_13_r2l38"/>
+            <zone points="1380,3028 2120,3041 2247,3020 2247,2978 2186,2957 1580,2969 1494,2941 1380,2962" rendition="Line" xml:id="facs_13_r2l39"/>
+            <zone points="1602,3111 1722,3103 1760,3126 1794,3109 1853,3139 1899,3112 2030,3114 2030,3057 1748,3054 1710,3073 1634,3052 1602,3069" rendition="Line" xml:id="facs_13_r2l40"/>
+            <zone points="1070,3194 2660,3205 2660,3152 2517,3132 1070,3135" rendition="Line" xml:id="facs_13_r2l41"/>
+            <zone points="968,3253 2653,3244 2491,3199 968,3211" rendition="Line" xml:id="facs_13_r2l42"/>
+            <zone points="975,3314 2406,3334 2634,3321 2662,3266 975,3268" rendition="Line" xml:id="facs_13_r2l43"/>
+            <zone points="980,3377 2663,3379 2608,3317 980,3320" rendition="Line" xml:id="facs_13_r2l44"/>
+            <zone points="980,3432 2667,3425 2475,3376 980,3379" rendition="Line" xml:id="facs_13_r2l45"/>
+            <zone points="966,3469 2661,3497 2594,3438 966,3446" rendition="Line" xml:id="facs_13_r2l46"/>
+            <zone points="966,3540 2575,3564 2658,3555 2658,3499 966,3521" rendition="Line" xml:id="facs_13_r2l47"/>
+            <zone points="975,3601 2388,3629 2611,3617 2647,3556 975,3563" rendition="Line" xml:id="facs_13_r2l48"/>
+            <zone points="978,3684 2675,3681 2557,3617 978,3627" rendition="Line" xml:id="facs_13_r2l49"/>
+            <zone points="1782,4200 1816,4194 1848,4205 1892,4182 1901,4191 1943,4189 1957,4204 2004,4188 2092,4189 2091,4117 2026,4125 2015,4114 1971,4114 1958,4126 1916,4126 1897,4111 1842,4125 1805,4105 1784,4107" rendition="Line" xml:id="facs_13_r2l50"/>
+         </zone>
+         <zone points="2649,4155 2649,4230 2802,4230 2802,4155" rendition="TextRegion" xml:id="facs_13_r3">
+            <zone points="2649,4189 2672,4189 2680,4198 2697,4196 2704,4203 2729,4195 2750,4203 2763,4202 2782,4185 2811,4188 2813,4089 2786,4096 2779,4092 2771,4100 2758,4092 2726,4100 2716,4089 2705,4095 2689,4091 2680,4099 2651,4092" rendition="Line" xml:id="facs_13_r3l1"/>
+            <zone points="2639,4225 2694,4222 2698,4226 2736,4226 2742,4219 2788,4223 2788,4198 2746,4202 2714,4186 2704,4186 2693,4197 2676,4201 2638,4196" rendition="Line" xml:id="facs_13_r3l2"/>
+         </zone>
+         <zone points="2809,4117 2809,4268 2842,4268 2842,4117" rendition="TextRegion" xml:id="facs_13_r4">
+            <zone points="2800,4225 2852,4224 2849,4142 2838,4143 2832,4147 2826,4143 2822,4148 2807,4142 2796,4142" rendition="Line" xml:id="facs_13_r4l1"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>n
+               <lb facs="#facs_1_r1l2" n="N002"/>11
+               <lb facs="#facs_1_r1l3" n="N003"/>box 36/5
+               <lb facs="#facs_1_r1l4" n="N004"/>1. Panp.ts OffprS
+               <lb facs="#facs_1_r1l5" n="N005"/>(Quellenangspe ohne Geyähr.)
+               <lb facs="#facs_1_r1l6" n="N006"/>terreichische Zundschau, Wien
+               <lb facs="#facs_1_r1l7" n="N007"/>mmitt Käh:
+               <lb facs="#facs_1_r1l8" n="N008"/>NA FER 1310
+               <lb facs="#facs_1_r1l9" n="N009"/>SG
+               <lb facs="#facs_1_r1l10" n="N010"/>Der Krieg als Erzieher zum deutschen Idealismus.
+               <lb facs="#facs_1_r1l11" n="N011"/>Von Privatdozent Dr. Karl Völker.
+               <lb facs="#facs_1_r1l12" n="N012"/>Die großen Wendepunkte in der Geschichte der Staaten und Völker sind
+               <lb facs="#facs_1_r1l13" n="N013"/>die Kriege, die Siege wie Niederlagen, Die Wandlungen der Weltgeschichte
+               <lb facs="#facs_1_r1l14" n="N014"/>lassen sich, ohne daß man den Tatsachen Gewalt antun müßte, in diesem
+               <lb facs="#facs_1_r1l15" n="N015"/>Rahmen darstellen, denn die Kriege entspringen dem übrigen Gesamtgeschehen.
+               <lb facs="#facs_1_r1l16" n="N016"/>Man greift zu den Waffen, wenn die Auseinandersetzung widerstreitender
+               <lb facs="#facs_1_r1l17" n="N017"/>Gedankenzusammenhänge — und die Menschheitsgeschichte setzt sich aus solchen
+               <lb facs="#facs_1_r1l18" n="N018"/>zusammen — auf friedlichem Wege nicht mehr möglich erscheint. Es sind im
+               <lb facs="#facs_1_r1l19" n="N019"/>allgemeinen keine neuen Ideen, die der Krieg hervorbringt, aber er wird ge¬
+               <lb facs="#facs_1_r1l20" n="N020"/>führt, um lebenskräftigen zum Durchbruch zu verhelfen und veraltete, von
+               <lb facs="#facs_1_r1l21" n="N021"/>den Zeitumständen überholte, beiseite zu schieben. Der Krieg stellt das Kräfte¬
+               <lb facs="#facs_1_r1l22" n="N022"/>verhältnis fest. Er schafft Verhältnisse, welche es ermöglichen, daß eine Idee,
+               <lb facs="#facs_1_r1l23" n="N023"/>wenn auch nicht sofort, Wirklichkeit wird. Die Idee war längst vor Ausbruch
+               <lb facs="#facs_1_r1l24" n="N024"/>des Krieges vorhanden, aber über ihre Lebensfähigkeit wird auf den Schlacht¬
+               <lb facs="#facs_1_r1l25" n="N025"/>feldern entschieden. Nur einige Belege hiefür: die Reformatoren haben die
+               <lb facs="#facs_1_r1l26" n="N026"/>Zertrümmerung der mittelalterlichen Einheit von Staat und Papstkirche ge¬
+               <lb facs="#facs_1_r1l27" n="N027"/>fordert; im Augsburgischen Religionsfrieden 1555 wird das Luthertum als
+               <lb facs="#facs_1_r1l28" n="N028"/>gleichberechtigte Kirchengemeinschaft neben dem römischen Katholizismus an¬
+               <lb facs="#facs_1_r1l29" n="N029"/>erkannt. Ferdinand I. hätte dem nie zugestimmt, wenn er sich nicht hätte über¬
+               <lb facs="#facs_1_r1l30" n="N030"/>zeugen müssen, daß die Protestanten die Kraft besaßen, gegebenenfalls ihre
+               <lb facs="#facs_1_r1l31" n="N031"/>Forderung mit den Waffen durchzusetzen. Deutschland zerfiel in eine Reihe von
+               <lb facs="#facs_1_r1l32" n="N032"/>konfessionell streng abgegrenzten Gebieten. Aber auch diese Idee hat sich über¬
+               <lb facs="#facs_1_r1l33" n="N033"/>lebt. Hin und her wird das friedliche Zusammenleben der beiden Konfessionen
+               <lb facs="#facs_1_r1l34" n="N034"/>erwogen. Aber erst der blutige Dreißigjährige Krieg, in welchem sich beide
+               <lb facs="#facs_1_r1l35" n="N035"/>überzeugt haben, daß sie zu schwach seien, um den andern zu beseitigen, machte
+               <lb facs="#facs_1_r1l36" n="N036"/>dies möglich. Die Vorkämpfer der Aufklärung setzten sich mit aller Wärme
+               <lb facs="#facs_1_r1l37" n="N037"/>für den Duldungsstaat ein, der neben der herrschenden Kirche auch andere
+               <lb facs="#facs_1_r1l38" n="N038"/>religiöse Gemeinschaften zuließ; es mußte der spanische Erbfolgekrieg und der
+               <lb facs="#facs_1_r1l39" n="N039"/>nordische Krieg kommen, um die konfessionelle Frage in den Hintergrund zu
+               <lb facs="#facs_1_r1l40" n="N040"/>schieben, ehe der Toleranzstaat in Erscheinung treten konnte. Das moderne
+               <lb facs="#facs_1_r1l41" n="N041"/>Verfassungsleben ist ohne die Napoleonischen Kriege kaum denkbar; erwogen
+               <lb facs="#facs_1_r1l42" n="N042"/>wurde die neue Staatsform lange vor der französischen Revolution. Ohne den
+               <lb facs="#facs_1_r1l43" n="N043"/>deutsch=französischen Krieg 1870/71 kein geeinigtes Deutschland. In Versaillen
+               <lb facs="#facs_1_r1l44" n="N044"/>reifte nur aus, was Tausende vorher ersehnt und erbeten hatten.
+               <lb facs="#facs_1_r1l45" n="N045"/>Aber an keinen Krieg der Weltgeschichte wurden so viele Wünsche und
+               <lb facs="#facs_1_r1l46" n="N046"/>weitreichende Pläne geknüpft, wie an den gegenwärtigen. Elf Staaten haben
+               <lb facs="#facs_1_r1l47" n="N047"/>zu den Waffen gegriffen in der Überzeugung, daß ihre Staatsidee es also er¬
+               <lb facs="#facs_1_r1l48" n="N048"/>fordere. Die Neutralen, welche nicht unmittelbar in den Krieg eingreifen, sind
+               <lb facs="#facs_1_r1l49" n="N049"/>noch nie dermaßen in Mitleidenschaft gezogen worden, wie diesmal. England
+               <lb facs="#facs_1_r1l50" n="N050"/>will seine unbeschränkte Weltherrschaft zur See sichern, Frankreich durch die
+               <lb facs="#facs_1_r1l51" n="N051"/>Wiedergewinnung von Elsaß=Lothringen und die Zertrümmerung des angeb¬
+               <lb facs="#facs_1_r1l52" n="N052"/>lichen preußischen Militarismus die französische Sprachgrenze möglichst weit
+               <lb facs="#facs_1_r1l53" n="N053"/>nach dem Osten hinausschieben, Rußland träumt von der Vereinigung sämt¬
+               <lb facs="#facs_1_r1l54" n="N054"/>licher Slawen unter des Zaren Zepter (Panslawismus), zu deren Erfüllung
+               <lb facs="#facs_1_r1l55" n="N055"/>der Besitz von Konstantinopel ihm notwendig erscheint, Serbien hofft auf die
+               <lb facs="#facs_1_r1l56" n="N056"/>Errichtung des großserbischen Reiches an der Adria, Italien begeht einen in
+               <lb facs="#facs_1_r1l57" n="N057"/>der Weltgeschichte beispiellosen Treubruch zwecks „Befreiung“ der „unerlösten“.
+               <lb facs="#facs_1_r1l58" n="N058"/>Stammesgenossen, Japan glaubt, der Zeitpunkt sei für den Imperialismus der
+               <lb facs="#facs_1_r1l59" n="N059"/>gelben Rasse gekommen; die Vereinigten Staaten von Nordamerika werden
+               <lb facs="#facs_1_r1l60" n="N060"/>alsdann nicht ruhige Zuschauer bleiben dürfen, wenn sie nicht auf ihre bisherige
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1">
+               <lb facs="#facs_2_r1l1" n="N001"/>dies möglich. Die Vorkampfer der Aufklärung setzten sich mit aller Wärme
+               <lb facs="#facs_2_r1l2" n="N002"/>für den Duldungsstaat ein, der neben der herrschenden Kirche auch andere
+               <lb facs="#facs_2_r1l3" n="N003"/>religiöse Gemeinschaften zuließ; es mußte der spanische Erbfolgekrieg und der
+               <lb facs="#facs_2_r1l4" n="N004"/>nordische Krieg kommen, um die konfessionelle Frage in den Hintergrund zu
+               <lb facs="#facs_2_r1l5" n="N005"/>schieben, ehe der Toleranzstaat in Erscheinung treten konnte. Das moderne
+               <lb facs="#facs_2_r1l6" n="N006"/>Verfassungsleben ist ohne die Napoleonischen Kriege kaum denkbar; erwogen
+               <lb facs="#facs_2_r1l7" n="N007"/>wurde die neue Staatsform lange vor der frarzösischen Revolution. Ohne den
+               <lb facs="#facs_2_r1l8" n="N008"/>deutsch=französischen Krieg 1870/71 kein geeinigtes Deutschland. In Besseill—
+               <lb facs="#facs_2_r1l9" n="N009"/>reifte nur aus, was Tausende vorher ersehnt und erbeten hatten.
+               <lb facs="#facs_2_r1l10" n="N010"/>Aber an keinen Krieg der Weltgeschichte wurden so viele Wünsche und
+               <lb facs="#facs_2_r1l11" n="N011"/>weitreichende Pläne geknüpft, wie an den gegenwärtigen. Elf Staaten haben
+               <lb facs="#facs_2_r1l12" n="N012"/>zu den Waffen gegriffen in der Überzeugung, daß ihre Staatsidee es also er¬
+               <lb facs="#facs_2_r1l13" n="N013"/>fordere. Die Neutralen, welche nicht unmittelbar in den Krieg eingreifen, sind
+               <lb facs="#facs_2_r1l14" n="N014"/>noch nie dermaßen in Mitleidenschaft gezogen worden, wie diesmal. England
+               <lb facs="#facs_2_r1l15" n="N015"/>will seine unbeschränkte Weltherrschaft zur See sichern, Frankreich durch die
+               <lb facs="#facs_2_r1l16" n="N016"/>Wiedergewinnung von Elsaß=Lothringen und die Zertrümmerung des angeb¬
+               <lb facs="#facs_2_r1l17" n="N017"/>lichen preußischen Militarismus die französische Sprachgrenze möglichst weit
+               <lb facs="#facs_2_r1l18" n="N018"/>nach dem Osten hinausschieben, Rußland träumt von der Vereinigung sämt¬
+               <lb facs="#facs_2_r1l19" n="N019"/>licher Slawen unter des Zaren Zepter (Panslawismus), zu deren Erfüllung
+               <lb facs="#facs_2_r1l20" n="N020"/>der Besitz von Konstantinopel ihm notwendig erscheint, Serbien hofft auf die
+               <lb facs="#facs_2_r1l21" n="N021"/>Errichtung des großserbischen Reiches an der Adria, Italien begeht einen in
+               <lb facs="#facs_2_r1l22" n="N022"/>der Weltgeschichte beispiellosen Treubruch zwecks „Befreiung“ der „unerlösten“
+               <lb facs="#facs_2_r1l23" n="N023"/>Stammesgenossen, Japan glaubt, der Zeitpunkt sei für den Imperialismus der
+               <lb facs="#facs_2_r1l24" n="N024"/>gelben Rasse gekommen; die Vereinigten Staaten von Nordamerika werden
+               <lb facs="#facs_2_r1l25" n="N025"/>alsdann nicht ruhige Zuschauer bleiben dürfen, wenn sie nicht auf ihre bisherige
+               <lb facs="#facs_2_r1l26" n="N026"/>Weltstellung werden verzichten wollen. Nimmt man hinzu die polnische und
+               <lb facs="#facs_2_r1l27" n="N027"/>ukrainische Frage, so gewinnt man den Eindruck, als müßte die ganze Welt
+               <lb facs="#facs_2_r1l28" n="N028"/>ein anderes Gepräge erhalten, wenn auch nur ein geringer Teil aller jener
+               <lb facs="#facs_2_r1l29" n="N029"/>Ideen sich verwirklichen sollte, derentwegen der Weltbrand entstanden ist.
+               <lb facs="#facs_2_r1l30" n="N030"/>Die verbündeten Zentralmächte, Österreich=Ungarn und Deutschland, haben
+               <lb facs="#facs_2_r1l31" n="N031"/>den Krieg nicht gewollt, aber da er ihnen einmal aufgezwungen ist, sind sie in ihn
+               <lb facs="#facs_2_r1l32" n="N032"/>selbstverständlich mit ganz bestimmten Erwartungen eingetreten. Die einzelnen
+               <lb facs="#facs_2_r1l33" n="N033"/>nichtdeutschen Volksstämme der beiden Staaten hegen dabei ihre Sonderwünsche.
+               <lb facs="#facs_2_r1l34" n="N034"/>Im tiefsten Grunde wird jedoch in diesem Weltkrieg über das Schicksal des
+               <lb facs="#facs_2_r1l35" n="N035"/>deutschen Volkes entschieden. Es ist ein Ringen um Sein oder Nichtsein der
+               <lb facs="#facs_2_r1l36" n="N036"/>deutschen Kultur im weitesten Sinne dieses Wortes entbrannt. Bei der bewußten
+               <lb facs="#facs_2_r1l37" n="N037"/>oder unbewußten Abhängigkeit der mitteleuropäischen Volksstämme von dieser
+               <lb facs="#facs_2_r1l38" n="N038"/>als der überlegeneren, schlägt bei der Entscheidung in dem Riesenkampf auch
+               <lb facs="#facs_2_r1l39" n="N039"/>für sie die Schicksalsstunde. Sie gehören alle zu der einen mitteleuropäischen
+               <lb facs="#facs_2_r1l40" n="N040"/>abendländischen Kulturgemeinschaft, die sie gegen den Ansturm des Ostens ver¬
+               <lb facs="#facs_2_r1l41" n="N041"/>teidigen. Deshalb müßte Österreich=Ungarn geschaffen werden, wenn es nicht
+               <lb facs="#facs_2_r1l42" n="N042"/>da wäre. Durch den Krieg wird nicht dieses oder jenes Kulturgebiet betroffen,
+               <lb facs="#facs_2_r1l43" n="N043"/>auf dem Spiele steht die deutsche Kultur als Gesamterscheinung im Völker¬
+               <lb facs="#facs_2_r1l44" n="N044"/>leben. Wir haben den Eindruck, daß auf allen Gebieten vieles anders werden
+               <lb facs="#facs_2_r1l45" n="N045"/>muß, und so ist die eingehende Erwägung aller dieser Fragen als Vorbereitung
+               <lb facs="#facs_2_r1l46" n="N046"/>eines gedeihlichen Friedens ebensowenig zu entbehren, wie die treue Wacht in
+               <lb facs="#facs_2_r1l47" n="N047"/>den Schützengräben. Wer den Dingen etwas tiefer auf den Grund geht, dem
+               <lb facs="#facs_2_r1l48" n="N048"/>erschließt sich ein unübersehbares Arbeitsgebiet. Mit bloßer Arbeitsteilung ist
+               <lb facs="#facs_2_r1l49" n="N049"/>nicht viel erreicht. Ein Gebiet greift in das andere über. Die Fragen lassen
+               <lb facs="#facs_2_r1l50" n="N050"/>sich nicht gesondert behandeln. Die nationalen Belange sind von den politischen
+               <lb facs="#facs_2_r1l51" n="N051"/>schwer zu scheiden und diese hängen auf das engste mit den wirtschaftlichen
+               <lb facs="#facs_2_r1l52" n="N052"/>zusammen; die Klassenkämpfe der letzten Jahrzehnte haben zur Genüge gezeigt,
+               <lb facs="#facs_2_r1l53" n="N053"/>in welcher Weise die wirtschaftliche Lage auf die Gestaltung der sozialen Ver¬
+               <lb facs="#facs_2_r1l54" n="N054"/>hältnisse zurückwirkt. So ist es eine einseitige Betrachtung der Dinge, wenn
+               <lb facs="#facs_2_r1l55" n="N055"/>man den Krieg bloß als Wendepunkt etwa des Wirtschaftslebens darstellt.
+               <lb facs="#facs_2_r1l56" n="N056"/>Ein so gewaltiges Ringen mit einem solchen Aufgebot von Kräften, wie es
+               <lb facs="#facs_2_r1l57" n="N057"/>die Welt noch nicht erlebt hat, der erste eigentliche Wirtschaftskrieg und
+               <lb facs="#facs_2_r1l58" n="N058"/>S
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_r1">
+               <lb facs="#facs_3_r1l1" n="N001"/>1
+               <lb facs="#facs_3_r1l2" n="N002"/>
+               <lb facs="#facs_3_r1l3" n="N003"/>seeinsel Oesel wird von Deutschen besetzt. — Saarlouis wird von feindlichen
+               <lb facs="#facs_3_r1l4" n="N004"/>Flugzeugen angegriffen.
+               <lb facs="#facs_3_r1l5" n="N005"/>27. Unsere Truppen erreichen Kamienec=Litowsk. — Die Deutschen be¬
+               <lb facs="#facs_3_r1l6" n="N006"/>setzen die Festung Olita. — Der Zar empfängt den französischen Minister Cruppi
+               <lb facs="#facs_3_r1l7" n="N007"/>und erklärt, daß Rußland den Krieg bis ans Ende fortführen werde. — Die
+               <lb facs="#facs_3_r1l8" n="N008"/>russische Regierung kündigt die Neugruppierung ihrer Armeen an.
+               <lb facs="#facs_3_r1l9" n="N009"/>28. Die russische Front an der Zlota Lipa in Ostgalizien wird durchbrochen.
+               <lb facs="#facs_3_r1l10" n="N010"/>Die Rusion merhen ästlich nnn Micdimir=Malnvcbi gnschl-—
+               <lb facs="#facs_3_r1l11" n="N011"/>256 Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus.
+               <lb facs="#facs_3_r1l12" n="N012"/>zugleich ein Krieg, wo Technik und Chemie in bisher ungeahnter Weise
+               <lb facs="#facs_3_r1l13" n="N013"/>sich zur Geltung bringen, ein solcher Krieg ist ein Wendepunkt auf allen Ge¬
+               <lb facs="#facs_3_r1l14" n="N014"/>bieten der Kultur. Die Nachwirkungen der Napoleonischen Kriege machen sich
+               <lb facs="#facs_3_r1l15" n="N015"/>beispielsweise selbst in der Musikgeschichte bemerkbar; damals sind die großen
+               <lb facs="#facs_3_r1l16" n="N016"/>Orchester, die Hauptvoraussetzung der modernen Oper, aufgekommen. Erst nach
+               <lb facs="#facs_3_r1l17" n="N017"/>Jahrzehnten wird der rückwärtsschauende Historiker im einzelnen den Einfluß
+               <lb facs="#facs_3_r1l18" n="N018"/>des gegenwärtigen Krieges feststellen können. Aber es ist Pflicht derer, die an
+               <lb facs="#facs_3_r1l19" n="N019"/>den Ereignissen unmittelbar beteiligt sind, Grundlagen zu schaffen, welche eine
+               <lb facs="#facs_3_r1l20" n="N020"/>gedeihliche Gestaltung der Zukunft unseres Volkes und Staates sichern. Bei
+               <lb facs="#facs_3_r1l21" n="N021"/>der Verschlungenheit der vielen in Betracht kommenden Fragen, von deren
+               <lb facs="#facs_3_r1l22" n="N022"/>Lösung die weitere Entwicklung des Volksganzen abhängt, ergibt sich die
+               <lb facs="#facs_3_r1l23" n="N023"/>Hauptforderung, alles von einem bestimmten Mittelpunkt aus anzufassen, in der
+               <lb facs="#facs_3_r1l24" n="N024"/>Vielheit die Einheit zu suchen. Alsdann werden die vielen Kräfte, die bereits
+               <lb facs="#facs_3_r1l25" n="N025"/>am Werke sind und die noch wachgerufen werden, nicht gegeneinander wirken,
+               <lb facs="#facs_3_r1l26" n="N026"/>sondern sich gegenseitig ergänzen, um ein in sich geschlossenes großes Ganzes
+               <lb facs="#facs_3_r1l27" n="N027"/>hervorzubringen. Die alten Stoiker haben sich in der Verwobenheit der Welt
+               <lb facs="#facs_3_r1l28" n="N028"/>in der Weise zurecht gefunden, daß sie alles von einem bestimmten Mittelpunkt
+               <lb facs="#facs_3_r1l29" n="N029"/>aus von gleichartigen Kräften durchdrungen sein ließen. Auch wir brauchen
+               <lb facs="#facs_3_r1l30" n="N030"/>eine solche Urkraft, die zugleich Ziel und Zweck ist und die allen Teilkräften
+               <lb facs="#facs_3_r1l31" n="N031"/>auf den verschiedenen, oft so ganz auseinanderliegenden Gebieten eine bestimmte
+               <lb facs="#facs_3_r1l32" n="N032"/>Richtung weist. Diese Urkraft finden wir im Idealismus, ein undeutsches Wort,
+               <lb facs="#facs_3_r1l33" n="N033"/>in seinem Wesen aber deutsch wie nur etwas.
+               <lb facs="#facs_3_r1l34" n="N034"/>„Idealismus“ hat früher einen guten Klang gehabt, allmählich hat er
+               <lb facs="#facs_3_r1l35" n="N035"/>aber viel von diesem eingebüßt, nicht zuletzt deshalb, weil er an den natürlichen
+               <lb facs="#facs_3_r1l36" n="N036"/>Sinn große Anforderungen stellt. Der Idealismus blüht auf steiler Bergeshöhe,
+               <lb facs="#facs_3_r1l37" n="N037"/>von der er erst herabgeholt werden muß. Wer den Weg zu ihm finden will,
+               <lb facs="#facs_3_r1l38" n="N038"/>um hernach den Abstieg ins Tal zu wagen, muß dazu sich wohl ausrüsten.
+               <lb facs="#facs_3_r1l39" n="N039"/>Unter Idealismus versteht man nicht gewisse Fertigkeiten, Fähigkeiten, Stim¬
+               <lb facs="#facs_3_r1l40" n="N040"/>mungen, Empfindungen, auch nicht eine bestimmte Handlungsweise, er ist viel¬
+               <lb facs="#facs_3_r1l41" n="N041"/>mehr Lebens- und Weltanschauung. Gewisse Fertigkeiten lassen sich anlernen,
+               <lb facs="#facs_3_r1l42" n="N042"/>zu einer Lebens= oder Weltanschauung muß man erzogen werden, beziehungs¬
+               <lb facs="#facs_3_r1l43" n="N043"/>weise sich selbst erziehen. Zwischen Unterrichten und Erziehen besteht ein
+               <lb facs="#facs_3_r1l44" n="N044"/>bedeutender Gradunterschied. Die Kriegsereignisse decken Mängel und Unzu¬
+               <lb facs="#facs_3_r1l45" n="N045"/>länglichkeiten auf und werden auf diese Weise der Anstoß zu Verbesserungen,
+               <lb facs="#facs_3_r1l46" n="N046"/>nicht nur in der Kriegstechnik. Wo aber die tiefsten Fragen des Seins auf¬
+               <lb facs="#facs_3_r1l47" n="N047"/>gerollt werden, handelt es sich nicht um Verbessern, sondern um Erziehen. So
+               <lb facs="#facs_3_r1l48" n="N048"/>sprechen wir auch vom Kriege als dem Erzieher zum Idealismus.
+               <lb facs="#facs_3_r1l49" n="N049"/>Aber was ist Idealismus? Darüber herrscht vielfach arge Verwirrung.
+               <lb facs="#facs_3_r1l50" n="N050"/>Infolge der großen Unklarheit suchen wir den Begriff „Idealismus“ aus
+               <lb facs="#facs_3_r1l51" n="N051"/>seiner Geschichte zu verstehen. In der Menschheitsgeschichte kreuzen sich zwei
+               <lb facs="#facs_3_r1l52" n="N052"/>Weltanschauungen: die eine leitet alles vom Geist ab und erklärt den Stoff
+               <lb facs="#facs_3_r1l53" n="N053"/>als Ausfluß des Geistes, die andere erblickt in dem Geist eine bloße Erschei¬
+               <lb facs="#facs_3_r1l54" n="N054"/>nungsform des Stoffes, auf den sie alles zurückführt, spiritualistischer und
+               <lb facs="#facs_3_r1l55" n="N055"/>materialistischer Monismus. So einfach dies klingt, so verwickelt gestaltet sich
+               <lb facs="#facs_3_r1l56" n="N056"/>die Welterklärung, wenn man Stoff und Geist zueinander in Beziehung setzt.
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <ab facs="#facs_4_r1">
+               <lb facs="#facs_4_r1l1" n="N001"/>ts
+               <lb facs="#facs_4_r1l2" n="N002"/>box 36/5
+               <lb facs="#facs_4_r1l3" n="N003"/>1. Panphlets offpr in—
+               <lb facs="#facs_4_r1l4" n="N004"/>Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus. 257
+               <lb facs="#facs_4_r1l5" n="N005"/>Der Idealismus gehört auf die Linie der Betrachtungsweise, welche das
+               <lb facs="#facs_4_r1l6" n="N006"/>Wesen der Dinge als ein geistiges Sein erfaßt. Man unterscheidet zwei Arten
+               <lb facs="#facs_4_r1l7" n="N007"/>des Idealismus: den metaphysischen oder ontologischen und den erkenntnis¬
+               <lb facs="#facs_4_r1l8" n="N008"/>theoretischen. Der erstere nimmt als Prinzip der Welt etwas Geistiges an —
+               <lb facs="#facs_4_r1l9" n="N009"/>alles, was ist, verdankt seinen Ursprung dem geistigen Urgrund der Dinge,
+               <lb facs="#facs_4_r1l10" n="N010"/>der jenseits alles Geschehens liegt. Durch Platons Ideenlehre hat sich dieser
+               <lb facs="#facs_4_r1l11" n="N011"/>Idealismus in der Geistesgeschichte der Menschheit durchgesetzt. Der erkenntnis¬
+               <lb facs="#facs_4_r1l12" n="N012"/>theoretische Idealismus geht nicht von dem Urgrund aller Dinge aus, sondern
+               <lb facs="#facs_4_r1l13" n="N013"/>stellt zunächst die Frage nach der Art und der Möglichkeit einer wissenschaft¬
+               <lb facs="#facs_4_r1l14" n="N014"/>lichen Erkenntnis. Diese beantwortet er dahin, daß wir die Dinge nur so zu
+               <lb facs="#facs_4_r1l15" n="N015"/>erkennen vermögen, wie sie sich in unserem Bewußtsein spiegeln, d. h. wir
+               <lb facs="#facs_4_r1l16" n="N016"/>gelangen zu einer Erkenntnis der Welt durch die Vermittlung unseres Geistes.
+               <lb facs="#facs_4_r1l17" n="N017"/>Zwischen diesen beiden Arten besteht kein Gegensatz, sie gehen ineinander über,
+               <lb facs="#facs_4_r1l18" n="N018"/>das Geistige ist Erkenntnisgrund und Weltprinzip.
+               <lb facs="#facs_4_r1l19" n="N019"/>Der Idealismus hat seine besondere Ausprägung erhalten im sogenannten
+               <lb facs="#facs_4_r1l20" n="N020"/>deutschen Idealismus. Wir verstehen darunter den Abschnitt in der Kulturgeschichte
+               <lb facs="#facs_4_r1l21" n="N021"/>unseres Volkes, der in der Literatur die Klassik und Romantik umfaßt, in
+               <lb facs="#facs_4_r1l22" n="N022"/>Schiller und Goethe seinen Höhepunkt erreichte und der in der Philosophie
+               <lb facs="#facs_4_r1l23" n="N023"/>im Anschluß an Leibniz mit Kant einsetzte und mit Hegel unterging. Zur
+               <lb facs="#facs_4_r1l24" n="N024"/>Verdeutlichung der besonderen Art dieses Idealismus vergegenwärtigen wir
+               <lb facs="#facs_4_r1l25" n="N025"/>uns kurz die Denkweise der Philosophen dieses Zeitabschnittes.
+               <lb facs="#facs_4_r1l26" n="N026"/>Der moderne deutsche Idealismus wurzelt in Kants Kritizismus. Der
+               <lb facs="#facs_4_r1l27" n="N027"/>Königsberger Denker hat gegenüber dem Wolffschen Dogmatismus, der be¬
+               <lb facs="#facs_4_r1l28" n="N028"/>hauptete, daß der Mensch sich über alles: Gott, Welt, Seele vernünftige
+               <lb facs="#facs_4_r1l29" n="N029"/>Gedanken bilden könne, und dem Skeptizismus Humes, der die Erfahrbarkeit
+               <lb facs="#facs_4_r1l30" n="N030"/>äußerer Dinge in Frage stellte, die Grenze gezogen, inwieweit überhaupt die
+               <lb facs="#facs_4_r1l31" n="N031"/>Erkenntnis möglich sei. Nach Kant sind uns Anschauungsformen, Raum und
+               <lb facs="#facs_4_r1l32" n="N032"/>Zeit a priori gegeben, mit deren Hilfe der Verstand alle Eindrücke von außen
+               <lb facs="#facs_4_r1l33" n="N033"/>ordnet. Die Außenwelt besteht für uns nur so weit, als sie der Verstand in
+               <lb facs="#facs_4_r1l34" n="N034"/>unser Bewußtsein gelangen läßt. Sie entschwindet uns und es steigt uns auf
+               <lb facs="#facs_4_r1l35" n="N035"/>ehrfurchtsvoll gebietend die Größe unseres eigenen Geistes. Unserem Geist
+               <lb facs="#facs_4_r1l36" n="N036"/>wohnt das Streben nach Vollständigkeit inne und so erfaßt die Vernunft ein
+               <lb facs="#facs_4_r1l37" n="N037"/>dreifaches Ziel, die drei „Ideen“ die Zusammenfassung unserer Innenwelt
+               <lb facs="#facs_4_r1l38" n="N038"/>— Seele, die der äußern Welt — Natur und die Zusammenfassung beider
+               <lb facs="#facs_4_r1l39" n="N039"/>— Gott. Die Philosophie Kants ist nicht reiner Idealismus in dem Sinne,
+               <lb facs="#facs_4_r1l40" n="N040"/>daß der Geist alles schafft. Das Ding an sich entzieht sich unserer Erkenntnis,
+               <lb facs="#facs_4_r1l41" n="N041"/>es bleibt also ein bedeutendes Etwas übrig, dessen unser Geist nicht Herr wird.
+               <lb facs="#facs_4_r1l42" n="N042"/>Kants Kritizismus bildet Johann Gottlieb Fichte zum absoluten Idealismus
+               <lb facs="#facs_4_r1l43" n="N043"/>um. Der Menschengeist schafft nach ihm die Gesamtwelt seines Bewußtseins.
+               <lb facs="#facs_4_r1l44" n="N044"/>Es gibt nur das Ich und das Nichtich; aber dieses nur so weit, als es das
+               <lb facs="#facs_4_r1l45" n="N045"/>Ich setzt. Das Ich bewährt sich vor allem im sittlichen Handeln. Fichte hat
+               <lb facs="#facs_4_r1l46" n="N046"/>die Natur bloß als Mittel zur sittlichen Betätigung des Menschen gewürdigt.
+               <lb facs="#facs_4_r1l47" n="N047"/>Diesen Mangel sucht Friedrich Wilhelm Josef Schelling zu beheben, indem
+               <lb facs="#facs_4_r1l48" n="N048"/>er Natur und Geist als die beiden gleichwertigen Offenbarungen des Absoluten
+               <lb facs="#facs_4_r1l49" n="N049"/>erkennt; aber dieser Weltgrund ist geistig und bringt die Natur aus sich heraus.
+               <lb facs="#facs_4_r1l50" n="N050"/>„Österreichische Rundschau“, XLIV., 6.
+            </ab>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <ab facs="#facs_5_r1">
+               <lb facs="#facs_5_r1l1" n="N001"/>—
+               <lb facs="#facs_5_r1l2" n="N002"/>box 36/5
+               <lb facs="#facs_5_r1l3" n="N003"/>1. Panphlets offprints
+               <lb facs="#facs_5_r1l4" n="N004"/>258 Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus.
+               <lb facs="#facs_5_r1l5" n="N005"/>Die Formen der Natur regen den Menschengeist an, sich in seiner Kunst ihr
+               <lb facs="#facs_5_r1l6" n="N006"/>zu nähern; von da der starke ästhetische Einschlag in Schellings Philosophie,
+               <lb facs="#facs_5_r1l7" n="N007"/>wie bei Fichte der ethische. Schelling bleibt die Erklärung schuldig, wie das
+               <lb facs="#facs_5_r1l8" n="N008"/>Absolute den Gegensatz von Natur und Geist hervorbringt. Hier setzt Georg
+               <lb facs="#facs_5_r1l9" n="N009"/>Wilhelm Hegel ein, ebenfalls ein Schwabe. Schellings Absolutes vergleicht er
+               <lb facs="#facs_5_r1l10" n="N010"/>mit der Nacht, in der alle Kühe schwarz sind. Natur und Geist läßt er durch
+               <lb facs="#facs_5_r1l11" n="N011"/>einen abstrakten Denkprozeß in Erscheinung treten. Das Absolute geht in der
+               <lb facs="#facs_5_r1l12" n="N012"/>Natur aus sich heraus, um, durch die Geschichte bereichert, in sich
+               <lb facs="#facs_5_r1l13" n="N013"/>zurückzukehren. Mit Hilfe der dialektischen Methode — These, Antithese,
+               <lb facs="#facs_5_r1l14" n="N014"/>Synthese — denkt der Mensch diesen Werdegang nach. Der philosophische
+               <lb facs="#facs_5_r1l15" n="N015"/>Idealismus war reines Denken geworden und hatte dadurch den Zusammen¬
+               <lb facs="#facs_5_r1l16" n="N016"/>hang mit der Wirklichkeit verloren. Dieser Umstand führte seinen Zusammen¬
+               <lb facs="#facs_5_r1l17" n="N017"/>bruch herbei.
+               <lb facs="#facs_5_r1l18" n="N018"/>In die Geschichte des deutschen Geistes hat sich dieser Idealismus unaus¬
+               <lb facs="#facs_5_r1l19" n="N019"/>löschlich eingegraben. Aus ihm hat unser Volk die Kraft geschöpft, in den
+               <lb facs="#facs_5_r1l20" n="N020"/>Napoleonischen Kriegen sich aufzuraffen, um das Joch des Korsen abzuschütteln.
+               <lb facs="#facs_5_r1l21" n="N021"/>Die Begeisterung, die damals in den Herzen Tausender erglühte und sie zu Taten
+               <lb facs="#facs_5_r1l22" n="N022"/>entflammte — die Kriegslieder aus jenen Tagen, das Erhabenste des vorigen
+               <lb facs="#facs_5_r1l23" n="N023"/>Jahrhunderts — entspringt der Stimmung, die der Idealismus hervorgebracht
+               <lb facs="#facs_5_r1l24" n="N024"/>hat. Kants kategorischer Imperativ der Pflicht: „Du sollst, weil du mußt“ hat
+               <lb facs="#facs_5_r1l25" n="N025"/>in der Tat die Besten des Volkes bestimmt, so zu handeln, daß die Maxime
+               <lb facs="#facs_5_r1l26" n="N026"/>ihres Wollens zugleich Prinzip einer allgemeinen Gesetzgebung werden konnte.
+               <lb facs="#facs_5_r1l27" n="N027"/>Die Wirkung von Fichtes „Reden an die deutsche Nation“ war für die
+               <lb facs="#facs_5_r1l28" n="N028"/>Franzosen gleichbedeutend mit einem verlorenen Feldzug. Fichte sucht, wie er
+               <lb facs="#facs_5_r1l29" n="N029"/>in der ersten Rede ausführt, seine Zuhörer über den Schmerz zu erheben durch
+               <lb facs="#facs_5_r1l30" n="N030"/>klare Einsicht in unsere Lage, in unsere noch übriggebliebene Kraft, in die
+               <lb facs="#facs_5_r1l31" n="N031"/>Mittel unserer Rettung. Durch eine neue Erziehung will er die Deutschen zu
+               <lb facs="#facs_5_r1l32" n="N032"/>einer Gesamtheit bilden, die in allen ihren einzelnen Gliedern durch dieselbe
+               <lb facs="#facs_5_r1l33" n="N033"/>eine Angelegenheit getrieben und belebt wird. Gegenüber einem selbstsüchtigen
+               <lb facs="#facs_5_r1l34" n="N034"/>Utilitarismus schärft er die Notwendigkeit eines dem Einzelwillen übergeordneten
+               <lb facs="#facs_5_r1l35" n="N035"/>Gesamtwillens ein. Der soziale Staat, in welchem jeder nur die eine Tugend
+               <lb facs="#facs_5_r1l36" n="N036"/>kennt, sich selbst als Person zu vergessen, und nur ein Laster, nur an sich selbst
+               <lb facs="#facs_5_r1l37" n="N037"/>zu denken, schwebt ihm als Zukunftsideal vor. Der deutsche Geist ist berufen,
+               <lb facs="#facs_5_r1l38" n="N038"/>in dieser Hinsicht für die übrigen Völker das Vorbild zu schaffen. Hegel wurde
+               <lb facs="#facs_5_r1l39" n="N039"/>von Heidelberg an die Berliner Universität berufen, weil seine alle Gebiete
+               <lb facs="#facs_5_r1l40" n="N040"/>umfassende Philosophie die beste Gewähr für den Wiederaufbau des Staates
+               <lb facs="#facs_5_r1l41" n="N041"/>zu bieten schien. Schleiermacher, der Theologe des deutschen Idealismus und
+               <lb facs="#facs_5_r1l42" n="N042"/>zugleich nach Treitschke der politische Lehrer der gebildeten Berliner Gesellschaft,
+               <lb facs="#facs_5_r1l43" n="N043"/>war von dem Sieg des deutschen Volkes über Napoleon so überzeugt, daß er
+               <lb facs="#facs_5_r1l44" n="N044"/>sich kaum bewegen ließ, von seinem Schreibtisch ans Fenster zu treten, als der
+               <lb facs="#facs_5_r1l45" n="N045"/>Kaiser nach der Schlacht bei Jena durch Halle ritt. Die Philosophen und
+               <lb facs="#facs_5_r1l46" n="N046"/>Theologen des Idealismus, die Dichter und Denker waren Volkserzieher im
+               <lb facs="#facs_5_r1l47" n="N047"/>besten Sinne des Wortes geworden. Sie haben dem Volke Eisen ins Blut
+               <lb facs="#facs_5_r1l48" n="N048"/>gegossen; sie haben das Pflichtbewußtsein geweckt, den Willen stark gemacht,
+               <lb facs="#facs_5_r1l49" n="N049"/>sie haben das Ziel des allgemeinen Strebens höher gesteckt. Sie haben die
+               <lb facs="#facs_5_r1l50" n="N050"/>B
+            </ab>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_r1">
+               <lb facs="#facs_6_r1l1" n="N001"/>—
+               <lb facs="#facs_6_r1l2" n="N002"/>Of
+               <lb facs="#facs_6_r1l3" n="N003"/>hie
+               <lb facs="#facs_6_r1l4" n="N004"/>am
+               <lb facs="#facs_6_r1l5" n="N005"/>rint
+               <lb facs="#facs_6_r1l6" n="N006"/>box 36/5
+               <lb facs="#facs_6_r1l7" n="N007"/>1 
+               <lb facs="#facs_6_r1l8" n="N008"/>Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus. 259
+               <lb facs="#facs_6_r1l9" n="N009"/>Sittlichkeit gehoben, den Staatsgedanken vertieft, das Volksbewußtsein ge¬
+               <lb facs="#facs_6_r1l10" n="N010"/>stählt ... und dennoch hat sich dieser Idealismus bald überlebt.
+               <lb facs="#facs_6_r1l11" n="N011"/>Es kamen andere Mächte auf, welche ihn zurückdrängten. Von dem Höhen¬
+               <lb facs="#facs_6_r1l12" n="N012"/>flug der Befreiungskriege hatte man sich der Wirklichkeit zugewandt und diese
+               <lb facs="#facs_6_r1l13" n="N013"/>so ganz anders befunden, als der Idealismus sie erträumt. In der Politik,
+               <lb facs="#facs_6_r1l14" n="N014"/>Wirtschaft und Wissenschaft — diese drei beherrschen hauptsächlich das Leben
+               <lb facs="#facs_6_r1l15" n="N015"/>der Gesamtheit — war man im Laufe der Zeit zu einer Auffassung der Dinge
+               <lb facs="#facs_6_r1l16" n="N016"/>gelangt, die mit jener des Idealismus nicht im entferntesten übereinstimmte.
+               <lb facs="#facs_6_r1l17" n="N017"/>Wir betrachten kurz diese Wandlungen im einzelnen.
+               <lb facs="#facs_6_r1l18" n="N018"/>Nach dem Wiener Kongresse beginnt ein kleinliches Feilschen zwischen
+               <lb facs="#facs_6_r1l19" n="N019"/>dem Volk und den Regierungen um politische Rechte. Uneingedenk dessen, daß
+               <lb facs="#facs_6_r1l20" n="N020"/>an des Volkes Entschlossenheit des Korsen Macht zerschellt war, suchen in der
+               <lb facs="#facs_6_r1l21" n="N021"/>Metternichschen Ara diese das Volk einem selbstherrlichen Polizeistaat zu unter¬
+               <lb facs="#facs_6_r1l22" n="N022"/>werfen. Die besten Kräfte verbrauchen sich in einem beständigen Kleinkrieg
+               <lb facs="#facs_6_r1l23" n="N023"/>gegen die leitenden Kreise, bis das Jahr 1848 die teilweise Erfüllung der
+               <lb facs="#facs_6_r1l24" n="N024"/>Freiheitswünsche brachte, aber anderseits die ganze Zerrissenheit und Zerfahren¬
+               <lb facs="#facs_6_r1l25" n="N025"/>heit der deutschen Kleinstaaterei aufdeckte. Der Verlauf der Frankfurte: National¬
+               <lb facs="#facs_6_r1l26" n="N026"/>versammlung, die schließlich mit Polizeigewalt auseinandergejagt wurde, nach¬
+               <lb facs="#facs_6_r1l27" n="N027"/>dem sie erfolglos versucht hatte, das deutsche Kaisertum wieder herzustellen,
+               <lb facs="#facs_6_r1l28" n="N028"/>kennzeichnet zur Genüge die unerquicklichen Verhältnisse. Fruchtlos waren aber
+               <lb facs="#facs_6_r1l29" n="N029"/>alle die Bestrebungen, die darauf hinzielten, dem Volke einen Anteil an der
+               <lb facs="#facs_6_r1l30" n="N030"/>Leitung der Staatsgeschäfte zu sichern, doch nicht geblieben. Sie haben die
+               <lb facs="#facs_6_r1l31" n="N031"/>Gründung des neuen Deutschen Reiches wesentlich vorbereitet und haben auch
+               <lb facs="#facs_6_r1l32" n="N032"/>die Deutschen Österreichs in ihrem Volksbewußtsein gekräftigt. Im politischen
+               <lb facs="#facs_6_r1l33" n="N033"/>Kampf ging aber anderseits vieles verloren, was der deutsche Idealismus mit
+               <lb facs="#facs_6_r1l34" n="N034"/>zärtlicher Sorgfalt gepflegt hat. Man hätte erwarten können, daß die Ereignisse
+               <lb facs="#facs_6_r1l35" n="N035"/>des Jahres 1870/71 dem deutschen Idealismus zu neuer Blüte verhelfen werden;
+               <lb facs="#facs_6_r1l36" n="N036"/>aber es schoben sich andere Interessen vor.
+               <lb facs="#facs_6_r1l37" n="N037"/> Das Wirtschaftsleben nahm einen ungeheuren Aufschwung, Handel und
+               <lb facs="#facs_6_r1l38" n="N038"/>Industrie blühten auf. Deutschland meldete sich zwar als letzte Großmacht bei
+               <lb facs="#facs_6_r1l39" n="N039"/>der Verteilung der außereuropäischen Gebiete, aber es setzte doch bald mit einer
+               <lb facs="#facs_6_r1l40" n="N040"/>zielbewußten Kolonialpolitik ein. Einfuhr und Ausfuhr wuchsen ins Riesen¬
+               <lb facs="#facs_6_r1l41" n="N041"/>hafte. Die Technik steigerte durch die Vervollkommnung der Verkehrsmittel
+               <lb facs="#facs_6_r1l42" n="N042"/>sowie durch Herstellung der verschiedenen Maschinen die Umsatzmöglichkeit.
+               <lb facs="#facs_6_r1l43" n="N043"/>Kühn erhebt sich in kurzer Zeit aus dem Nichts eine stattliche Kriegsflotte, der
+               <lb facs="#facs_6_r1l44" n="N044"/>die verbündete österreichisch=ungarische Marine würdig an die Seite tritt. Beide
+               <lb facs="#facs_6_r1l45" n="N045"/>schützen die Handelsflagge ihrer Staaten in fernen Meeren und Ländern. Der
+               <lb facs="#facs_6_r1l46" n="N046"/>deutsche Kaufmann und Fabrikant ist überall zur Stelle. Das deutsche Volk
+               <lb facs="#facs_6_r1l47" n="N047"/>ist reich geworden, das deutsche Kapital eine Macht auf dem Weltmarkt. Mit
+               <lb facs="#facs_6_r1l48" n="N048"/>diesem Wachsen des Volksvermögens hängen die Klassenkämpfe zusammen,
+               <lb facs="#facs_6_r1l49" n="N049"/>deren Wurzeln allerdings zeitlich weiter zurückliegen. Es kommt die Sozial¬
+               <lb facs="#facs_6_r1l50" n="N050"/>demokratie auf, die der bestehenden Gesellschaftsordnung den Krieg erklärt und
+               <lb facs="#facs_6_r1l51" n="N051"/>es offen ausspricht, daß sie ihre ganze festgefügte Organisation in den Dienst
+               <lb facs="#facs_6_r1l52" n="N052"/>der gemeinsamen Sache stelle, dem vierten Stand einen möglichst großen An¬
+               <lb facs="#facs_6_r1l53" n="N053"/>teil an Besitz und Vermögen zu erzwingen. Die Frage nach der Berechtigung
+               <lb facs="#facs_6_r1l54" n="N054"/>17*
+            </ab>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <ab facs="#facs_7_r1">
+               <lb facs="#facs_7_r1l1" n="N001"/>—.—
+               <lb facs="#facs_7_r1l2" n="N002"/>box 36/5
+               <lb facs="#facs_7_r1l3" n="N003"/>1. Panphlets offprints
+               <lb facs="#facs_7_r1l4" n="N004"/>260 Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus.
+               <lb facs="#facs_7_r1l5" n="N005"/>der Forderungen auf Verbesserung der wirtschaftlichen Lage des Arbeiterstandes
+               <lb facs="#facs_7_r1l6" n="N006"/>wollen wir hier ganz ausschalten. Weite Kreise des Volkes, oben wie unten,
+               <lb facs="#facs_7_r1l7" n="N007"/>werden von einem ungestümen Hasten und Jagen nach Geld und Gut erfaßt.
+               <lb facs="#facs_7_r1l8" n="N008"/>Die Bedeutung dieses wirtschaftlichen Aufschwunges für die Weltstellung des
+               <lb facs="#facs_7_r1l9" n="N009"/>deutschen Volkes muß unumwunden zugegeben werden; ohne diese Erfolge im
+               <lb facs="#facs_7_r1l10" n="N010"/>Wirtschaftsleben wäre es in einem Zeitalter, wo alles sich von wirtschaftlichen
+               <lb facs="#facs_7_r1l11" n="N011"/>Belangen bestimmen läßt, bedeutungslos geworden. Durch den Anteil an der
+               <lb facs="#facs_7_r1l12" n="N012"/>Weltwirtschaft rückte es aber noch mehr ab von den Idealen des deutschen
+               <lb facs="#facs_7_r1l13" n="N013"/>Idealismus zu Beginn des Jahrhunderts. Der Übergang der Väter der deutschen
+               <lb facs="#facs_7_r1l14" n="N014"/>Sozialdemokratie, Marx', Engels' und Lassalles, von Hegel zur materialistischen
+               <lb facs="#facs_7_r1l15" n="N015"/>Weltanschauung kennzeichnet am besten diesen Wandel. Engels gibt dies un¬
+               <lb facs="#facs_7_r1l16" n="N016"/>umwunden zu: „Wir deutsche Sozialdemokraten sind stolz darauf, abzustammen
+               <lb facs="#facs_7_r1l17" n="N017"/>nicht nur von Saint=Simon, Fourier und Owen, sondern auch von Kant, Fichte
+               <lb facs="#facs_7_r1l18" n="N018"/>und Hegel. Die deutsche Arbeiterbewegung ist die Erbin der deutschen klassischen
+               <lb facs="#facs_7_r1l19" n="N019"/>Philosophie.“
+               <lb facs="#facs_7_r1l20" n="N020"/>Die Vertreter des alten Idalismus waren nicht ganz ausgestorben, aber
+               <lb facs="#facs_7_r1l21" n="N021"/>die Philosophie hatte längst die Führung eingebüßt. Die „Idealisten“ waren
+               <lb facs="#facs_7_r1l22" n="N022"/>weltfremb geworden; man bemitleidete sie, man machte sich gar über sie lustig:
+               <lb facs="#facs_7_r1l23" n="N023"/>„Grau, Freund, ist alle Theorie, und grün des Lebens goldner Baum.“ Aber
+               <lb facs="#facs_7_r1l24" n="N024"/>auch die Wissenschaft hat dem Idealismus den Rücken gekehrt; durch die Er¬
+               <lb facs="#facs_7_r1l25" n="N025"/>gebnisse der Forschung war dieser bald überholt. Das hängt vor allem zusammen
+               <lb facs="#facs_7_r1l26" n="N026"/>mit dem ungeheuren Aufschwung der Naturwissenschaften, der sich in dem Ge¬
+               <lb facs="#facs_7_r1l27" n="N027"/>samtcharakter der Wissenschaft ausprägte. Schellings und Hegels Naturforschung
+               <lb facs="#facs_7_r1l28" n="N028"/>erwies sich bald als vollständig unzureichend, naiv. Man geht nun von Vor¬
+               <lb facs="#facs_7_r1l29" n="N029"/>aussetzungen aus, welche die idealistische Betrachtung beiseite schob. Es wird
+               <lb facs="#facs_7_r1l30" n="N030"/>ein entgegengesetzter Weg eingeschlagen als früher. War es bei den idealistischen
+               <lb facs="#facs_7_r1l31" n="N031"/>Philosophen eine ausgemachte Sache, daß alles das, was man unter Natur
+               <lb facs="#facs_7_r1l32" n="N032"/>zusammenfaßt, der Ausfluß des Geistes sei, so schaltete man jetzt diesen als
+               <lb facs="#facs_7_r1l33" n="N033"/>Prinzip alles Seins vollständig aus und suchte die Dinge aus ihrer stofflichen
+               <lb facs="#facs_7_r1l34" n="N034"/>Art zu verstehen und zu erklären. Diese Methode ist nicht neu, wurde aber
+               <lb facs="#facs_7_r1l35" n="N035"/>noch nie mit einer solchen Folgerichtigkeit durchgeführt. Die Ergebnisse waren
+               <lb facs="#facs_7_r1l36" n="N036"/>überraschend. Man vergegenwärtige sich nur, welchen ungeheuren Aufschwung
+               <lb facs="#facs_7_r1l37" n="N037"/>die einzelnen Zweige der Naturwissenschaft, wie Chemie, Botanik, Zoologie,
+               <lb facs="#facs_7_r1l38" n="N038"/>Astronomie, Mechanik, Anatomie, Physiologie, Biologie, Elektrizität u. dgl. m.
+               <lb facs="#facs_7_r1l39" n="N039"/>in den letzten Jahrzehnten genommen haben. Die Gründlichkeit der deutschen
+               <lb facs="#facs_7_r1l40" n="N040"/>Forschung hat einen hervorragenden Anteil daran. Welch' ungeheuren Ein¬
+               <lb facs="#facs_7_r1l41" n="N041"/>fluß diese Forschungsergebnisse auf die verschiedensten Gebiete menschlichen
+               <lb facs="#facs_7_r1l42" n="N042"/>Schaffens ausgeübt haben, braucht nicht erst im einzelnen ausgeführt zu werden.
+               <lb facs="#facs_7_r1l43" n="N043"/>Die Naturwissenschaft begnügt sich nicht damit, Einzeldinge zu untersuchen
+               <lb facs="#facs_7_r1l44" n="N044"/>und ihren gesetzmäßigen Verlauf festzustellen; sie baut eine Weltanschauung
+               <lb facs="#facs_7_r1l45" n="N045"/>auf nach Prinzipien, die dem Idealismus gerade entgegengesetzt sind. Robert
+               <lb facs="#facs_7_r1l46" n="N046"/>Mayer und Helmholtz haben durch das Gesetz von der Erhaltung der Energie
+               <lb facs="#facs_7_r1l47" n="N047"/>die Naturkräfte, Karl Darwin durch die Abstammungslehre die Lebens¬
+               <lb facs="#facs_7_r1l48" n="N048"/>vorgänge mechanisiert. Man geht nun darauf aus, das gesamte Universum
+               <lb facs="#facs_7_r1l49" n="N049"/>naturgesetzlich zu erklären, alles Geschehen auf mechanische, beziehungsweise
+            </ab>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <ab facs="#facs_8_r1">
+               <lb facs="#facs_8_r1l1" n="N001"/>—.—
+               <lb facs="#facs_8_r1l2" n="N002"/>h
+               <lb facs="#facs_8_r1l3" n="N003"/>box 36/5
+               <lb facs="#facs_8_r1l4" n="N004"/>1. Panb lets offprints
+               <lb facs="#facs_8_r1l5" n="N005"/>Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus. 261
+               <lb facs="#facs_8_r1l6" n="N006"/>physikalisch=chemische Vorgänge zurückzuführen. Alles, was ist, ist demnach
+               <lb facs="#facs_8_r1l7" n="N007"/>durch die gesetzmäßig sich abwickelnde Bewegung des Stoffes bedingt. Diesem
+               <lb facs="#facs_8_r1l8" n="N008"/>wurden auch die organischen Vorgänge, das Leben, der Mensch, die Seele
+               <lb facs="#facs_8_r1l9" n="N009"/>unterworfen. Das Seelenleben wurzelt nicht, wie es der Idealismus haben
+               <lb facs="#facs_8_r1l10" n="N010"/>wollte, in einer höheren geistigen Seinsweise, sondern ist lediglich eine Er¬
+               <lb facs="#facs_8_r1l11" n="N011"/>scheinung, welche der Stoff neben vielen anderen hervorbringt. Die Seelenvor¬
+               <lb facs="#facs_8_r1l12" n="N012"/>gänge sind im Gehirn lokalisiert, jeder äußere Reiz an der bestimmten Stelle
+               <lb facs="#facs_8_r1l13" n="N013"/>des Gehirns löst einen ganz bestimmten seelischen Vorgang aus. In dem von
+               <lb facs="#facs_8_r1l14" n="N014"/>Wilhelm Wundt in Leipzig eingerichteten Institut für Experimentalpsychologie
+               <lb facs="#facs_8_r1l15" n="N015"/>wird die Seele daraufhin untersucht. Die Seelenkunde wird eine Art Natur¬
+               <lb facs="#facs_8_r1l16" n="N016"/>wissenschaft. Das Seelenleben ist nicht der Ausfluß des Geistigen, sondern der
+               <lb facs="#facs_8_r1l17" n="N017"/>Geist das Produkt des Stoffes. Durch volkstümliche Schriften von Büchner,
+               <lb facs="#facs_8_r1l18" n="N018"/>Moleschott, Karl Vogt, die reißenden Absatz fanden, werden diese Gedanken
+               <lb facs="#facs_8_r1l19" n="N019"/>in die breite Masse des Volkes hineingetragen und verdichten sich bei dieser
+               <lb facs="#facs_8_r1l20" n="N020"/>zu einer ausgesprochen materialistischen Weltanschauung. Bei der gebildeten
+               <lb facs="#facs_8_r1l21" n="N021"/>Oberschichte ist der Begriff „materialistische Weltanschauung“ verpönt, aber im
+               <lb facs="#facs_8_r1l22" n="N022"/>Denken und Handeln ist sie von ihr stark beeinflußt. Nüchterne, ruhige Wirk¬
+               <lb facs="#facs_8_r1l23" n="N023"/>lichkeitsmenschen, welche sich durch Stimmungen von dem einmal einge¬
+               <lb facs="#facs_8_r1l24" n="N024"/>schlagenen Ziel nicht abbringen lassen, im Kampf mit Naturgewalten, von
+               <lb facs="#facs_8_r1l25" n="N025"/>denen sie sich abhängig wissen, hart geworden sind in dieser Umwelt empor¬
+               <lb facs="#facs_8_r1l26" n="N026"/>gewachsen.
+               <lb facs="#facs_8_r1l27" n="N027"/>Ihren Niederschlag findet diese Stimmung in der Richtung der zeitge¬
+               <lb facs="#facs_8_r1l28" n="N028"/>nössischen Literatur, welche man mit Rücksicht auf ihre Herkunft Naturalismus
+               <lb facs="#facs_8_r1l29" n="N029"/>bezeichnet. Die beliebtesten und gefeiertesten Schriftsteller gehören ihr an: Gerhard
+               <lb facs="#facs_8_r1l30" n="N030"/>Hauptmann, Hermann Sudermann, Karl Schönherr, Max Halbe, Arthur Schnitzler,
+               <lb facs="#facs_8_r1l31" n="N031"/>Otto Ernst, Gustav Frenssen, Hermann Bahr, Rudolf Hans Bartsch, Felix Salten
+               <lb facs="#facs_8_r1l32" n="N032"/>u. a. m. Es sind nicht überragende Helden, Träger weltbewegender Ideen, sondern
+               <lb facs="#facs_8_r1l33" n="N033"/>Wirklichkeitsmenschen aus dem Leben herausgegriffen, welche sie künstlerisch
+               <lb facs="#facs_8_r1l34" n="N034"/>gestalten. Nicht hochfliegende Gedankenzusammenhänge, starke Willensmotive
+               <lb facs="#facs_8_r1l35" n="N035"/>bestimmen deren Tun, sondern vielmehr sind sie in ihren Entschlüssen abhängig
+               <lb facs="#facs_8_r1l36" n="N036"/>von natürlichen Zusammenhängen. Besonders deutlich wird dies an dem
+               <lb facs="#facs_8_r1l37" n="N037"/>neuesten Schauspiel Schönherrs dem „Weibsteufel“: Drei Menschen, Er, Sie und
+               <lb facs="#facs_8_r1l38" n="N038"/>der Andere, die zugrunde gehen, weil die Triebe, die durch ihr Zusammentreffen
+               <lb facs="#facs_8_r1l39" n="N039"/>in ihnen erwachen, stärker sind, als daß sie sie bezwingen könnten. In
+               <lb facs="#facs_8_r1l40" n="N040"/>dem viel bewunderten „Glaube und Heimat“ ist der Glaube nicht als Bekennt¬
+               <lb facs="#facs_8_r1l41" n="N041"/>nistreue gefaßt, sondern als ein Trieb, der stärker ist als der Trieb zur Heimat.
+               <lb facs="#facs_8_r1l42" n="N042"/>Rott gesteht e# seiner Frau unumwunden zu, er wisse eigentlich gar nicht,
+               <lb facs="#facs_8_r1l43" n="N043"/>weshalb er so handle, es treibe ihn eben so. Der naturalistische Determinismus
+               <lb facs="#facs_8_r1l44" n="N044"/>wird an erblich belasteten Gestalten verdeutlicht. In Gerhard Hauptmanns
+               <lb facs="#facs_8_r1l45" n="N045"/>„Vor Sonnenaufgang“ opfert der Doktor Helene, weil er infolge der Trunk¬
+               <lb facs="#facs_8_r1l46" n="N046"/>sucht von deren Vater für seine Nachkommenschaft fürchtet. Mit Heldengestalten,
+               <lb facs="#facs_8_r1l47" n="N047"/>die einen Schiller und Goethe begeistert haben, weiß diese Richtung nicht viel
+               <lb facs="#facs_8_r1l48" n="N048"/>anzufangen. Sein Bismarck=Epos hat Frenssen bald aus dem Buchhandel
+               <lb facs="#facs_8_r1l49" n="N049"/>zurückgezogen und Gerhard Hauptmanns Festspiel anläßlich der Breslauer
+               <lb facs="#facs_8_r1l50" n="N050"/>Ausstellung hat ebenfalls nicht eingeschlagen. Es liegt mir vollständig ferne,
+               <lb facs="#facs_8_r1l51" n="N051"/>WNN
+            </ab>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <ab facs="#facs_9_r1">
+               <lb facs="#facs_9_r1l1" n="N001"/>——
+               <lb facs="#facs_9_r1l2" n="N002"/>box 36/5
+               <lb facs="#facs_9_r1l3" n="N003"/>1. Panphlets, offprints
+               <lb facs="#facs_9_r1l4" n="N004"/>262 Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus.
+               <lb facs="#facs_9_r1l5" n="N005"/>den künstlerischen Wert dieser Dichtungen herabzusetzen. Der Naturalismus
+               <lb facs="#facs_9_r1l6" n="N006"/>hat von seinen Voraussetzungen aus vollendete Kunstwerke geschaffen. Man
+               <lb facs="#facs_9_r1l7" n="N007"/>denke beispielsweise an die drei Gestalten im „Weibsteufel“. Die Natur¬
+               <lb facs="#facs_9_r1l8" n="N008"/>schilderungen des Naturalismus gehören zu dem Besten dieser Art. Der soziale
+               <lb facs="#facs_9_r1l9" n="N009"/>Zug, das Mitleid mit den wirtschaftlich notleidenden Gesellschaftsschichten, der
+               <lb facs="#facs_9_r1l10" n="N010"/>Grundgedanke so vieler Werke naturalistischer Schriftsteller, hat dieser Richtung
+               <lb facs="#facs_9_r1l11" n="N011"/>einen nicht gering einzuschätzenden ethischen Einfluß gesichert.
+               <lb facs="#facs_9_r1l12" n="N012"/>Den Idealismus hat aber gerade diese Literatur mehr als irgend ein
+               <lb facs="#facs_9_r1l13" n="N013"/>anderer Faktor zurückgedrängt. Die beiden Philosophen, welche ihre Weltan¬
+               <lb facs="#facs_9_r1l14" n="N014"/>schauung dank der anmutigen Form und faßlichen Art, mit der sie sie vortrugen,
+               <lb facs="#facs_9_r1l15" n="N015"/>in die weitesten Kreise der Gebildeten hineintrugen, Arthur Schopenhauer und
+               <lb facs="#facs_9_r1l16" n="N016"/>Eduard von Hartmann, Idealisten, insoferne sie den Weltgrund und die Ent¬
+               <lb facs="#facs_9_r1l17" n="N017"/>wicklung des Seienden als etwas Geistiges fassen, haben den alten optimistischen
+               <lb facs="#facs_9_r1l18" n="N018"/>Idealismus vollends unmöglich gemacht; der eine durch seine Predigt von der
+               <lb facs="#facs_9_r1l19" n="N019"/>Verneinung des Willens zum Leben, der andere durch seine Philosophie des
+               <lb facs="#facs_9_r1l20" n="N020"/>Unbewußten. Die Begeisterung für Schopenhauer erklärt sich nicht zuletzt aus
+               <lb facs="#facs_9_r1l21" n="N021"/>der Enttäuschung darüber, daß die Werte des einstigen Idealismus ent¬
+               <lb facs="#facs_9_r1l22" n="N022"/>schwunden waren. Im tiefsten Grunde der Volksseele lebte aber die Sehnsucht
+               <lb facs="#facs_9_r1l23" n="N023"/>nach großen Idealen fort. So wird die Nietzsche=Begeisterung verständlich.
+               <lb facs="#facs_9_r1l24" n="N024"/>Dessen Verkündigung von dem Willen zur Macht, eine scharfe Absage auch
+               <lb facs="#facs_9_r1l25" n="N025"/>an den Naturalismus, hat in ihrer Wirkung das Gegenteil von dem hervor¬
+               <lb facs="#facs_9_r1l26" n="N026"/>gebracht, was dem einsamen Denker als Ideal des Übermenschentums vor¬
+               <lb facs="#facs_9_r1l27" n="N027"/>schwebte: ungezügeltes Begehren und Genießen. Trotz aller Anfeindungen
+               <lb facs="#facs_9_r1l28" n="N028"/>gegen Nietzsche gerade von seiten der Vertreter einer idealistischen Weltbe¬
+               <lb facs="#facs_9_r1l29" n="N029"/>trachtung darf jedoch dieser als Wegbereiter des neuen Idealismus gelten.
+               <lb facs="#facs_9_r1l30" n="N030"/>Die Aufnahme, die er bei Ungezählten fand — sein „Also sprach Zaratustra“
+               <lb facs="#facs_9_r1l31" n="N031"/>ist neben dem Neuen Testament und Goethes Faust das gelesenste Buch in
+               <lb facs="#facs_9_r1l32" n="N032"/>den Schützengräben — beweist, daß sich die Menschenseele für die Dauer von
+               <lb facs="#facs_9_r1l33" n="N033"/>dem Fluge ins Unermeßliche nicht zurückhalten ließ.
+               <lb facs="#facs_9_r1l34" n="N034"/>Seit einiger Zeit gewinnt man immer mehr den Eindruck, daß sich das
+               <lb facs="#facs_9_r1l35" n="N035"/>Blatt wieder zugunsten des Idealismus gewendet habe. Es kommt ein Neu¬
+               <lb facs="#facs_9_r1l36" n="N036"/>kantianismus auf; Hegel und Fichte werden wieder viel genannt; man spricht
+               <lb facs="#facs_9_r1l37" n="N037"/>sogar von einer Hegelwiederbelebung; es werden Stimmen laut, daß Goethe
+               <lb facs="#facs_9_r1l38" n="N038"/>und besonders Schiller als Jugendbildner der modernen Dichtung vorzuziehen
+               <lb facs="#facs_9_r1l39" n="N039"/>seien. Während meiner Berliner Studienzeit machte es Eindruck, als der
+               <lb facs="#facs_9_r1l40" n="N040"/>amerikanische Austauschprofessor Münsterberg Vorlesungen über idealistische
+               <lb facs="#facs_9_r1l41" n="N041"/>Weltanschauung ankündigte und eine nach Hunderten zählende Zuhörerschaft
+               <lb facs="#facs_9_r1l42" n="N042"/>sich einstellte. Dieser Umschwung zugunsten des Idealismus hängt zusammen
+               <lb facs="#facs_9_r1l43" n="N043"/>mit Ergebnissen der Wissenschaft.
+               <lb facs="#facs_9_r1l44" n="N044"/>In ihrem Siegeslauf glaubte die mechanistische Naturwissenschaft alle
+               <lb facs="#facs_9_r1l45" n="N045"/>Welträtsel lösen zu können, aber sie mußte sich überzeugen, daß sie in den
+               <lb facs="#facs_9_r1l46" n="N046"/>letzten Fragen alles Seins über Theorie und Hypothese nicht hinauskomme.
+               <lb facs="#facs_9_r1l47" n="N047"/>Es ist ihr nicht gelungen, das Seelenleben in allgemeinen Naturgesetzen restlos
+               <lb facs="#facs_9_r1l48" n="N048"/>aufgehen zu lassen. Gerade die Untersuchungen Wilhelm Wundts, die wir
+               <lb facs="#facs_9_r1l49" n="N049"/>früher erwähnt haben, haben dies zur Genüge bestätigt. Noch immer ist der
+            </ab>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <ab facs="#facs_10_r1">
+               <lb facs="#facs_10_r1l1" n="N001"/>——
+               <lb facs="#facs_10_r1l2" n="N002"/>of
+               <lb facs="#facs_10_r1l3" n="N003"/>le
+               <lb facs="#facs_10_r1l4" n="N004"/>a m
+               <lb facs="#facs_10_r1l5" n="N005"/>box 36/5
+               <lb facs="#facs_10_r1l6" n="N006"/>1Sfprints
+               <lb facs="#facs_10_r1l7" n="N007"/>Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus. 263
+               <lb facs="#facs_10_r1l8" n="N008"/>Übergang vom anorganischen zum organischen Leben nicht „exakt“ erklärt
+               <lb facs="#facs_10_r1l9" n="N009"/>und auf die für den Idealismus entscheidende Frage, wie aus dem animali¬
+               <lb facs="#facs_10_r1l10" n="N010"/>schen Leben sich die höhere Geisteskultur entwickle, ist man eine befriedigende
+               <lb facs="#facs_10_r1l11" n="N011"/>Antwort schuldig geblieben. Es meldet sich zu Wort eine Betrachtungsweise
+               <lb facs="#facs_10_r1l12" n="N012"/>der Dinge, die das Leben als etwas ganz besonders Eigenartiges wertet.
+               <lb facs="#facs_10_r1l13" n="N013"/>Jakob Baron von Uexküll ist in seinen „Bausteinen zu einer biologischen
+               <lb facs="#facs_10_r1l14" n="N014"/>Weltanschauung“ überzeugt, daß auf die Epoche der physikalisch=chemischen
+               <lb facs="#facs_10_r1l15" n="N015"/>Weltbetrachtung, die zum Materialismus führte, nun die biologische folge und
+               <lb facs="#facs_10_r1l16" n="N016"/>zwar als Wegbereiterin des Idealismus. Auf die Frage nach der Stellung
+               <lb facs="#facs_10_r1l17" n="N017"/>des Menschen im Universum, welche der Naturalismus dahin beantwortete:
+               <lb facs="#facs_10_r1l18" n="N018"/>„Ein von mechanischen Kräften umhergeschleuderter Komplex von Atomen“,
+               <lb facs="#facs_10_r1l19" n="N019"/>lautet seine Erklärung: „Der Mensch und die ihn umgebende Natur bilden zu¬
+               <lb facs="#facs_10_r1l20" n="N020"/>sammen eine planvolle harmonische Einheit, in der alle Teile in zweckmäßiger
+               <lb facs="#facs_10_r1l21" n="N021"/>Wechselwirkung stehen“ (S. 141 f.). Das Werk ist Houston Stewart Chamber¬
+               <lb facs="#facs_10_r1l22" n="N022"/>lain zugeeignet, der durch seine „Grundlagen des 19. Jahrhunderts“ nicht
+               <lb facs="#facs_10_r1l23" n="N023"/>wenig dazu beigetragen hat, daß den Gebildeten wieder Sinn und Verständ¬
+               <lb facs="#facs_10_r1l24" n="N024"/>nis für eine idealistische Betrachtung des Weltganzen aufging.
+               <lb facs="#facs_10_r1l25" n="N025"/>Selbstverständlich darf der neue Idealismus nicht eine bloße Wiederholung
+               <lb facs="#facs_10_r1l26" n="N026"/>des alten sein. Zwischen jenem und unserer Zeit liegt ein Jahrhundert Welt¬
+               <lb facs="#facs_10_r1l27" n="N027"/>geschichte. Damals waren wir in der Tat ein Volk von Dichtern und Denkern,
+               <lb facs="#facs_10_r1l28" n="N028"/>heute haben wir uns zu einem Weltvolk entwickelt und wir sind überzeugt,
+               <lb facs="#facs_10_r1l29" n="N029"/>daß der gegenwärtige Weltkrieg dem deutschen Gedanken erst eigentlich zum
+               <lb facs="#facs_10_r1l30" n="N030"/>Durchbruch verhelfen werde und zwar in der Wissenschaft ebenso, wie in der
+               <lb facs="#facs_10_r1l31" n="N031"/>Wirtschaft, Technik und Industrie. Der neue Idealismus wird all den Er¬
+               <lb facs="#facs_10_r1l32" n="N032"/>rungenschaften, die den alten beiseite geschoben haben, nicht nur vollends
+               <lb facs="#facs_10_r1l33" n="N033"/>Rechnung tragen müssen, sondern er wird sich durchsetzen, weil jene ihn von
+               <lb facs="#facs_10_r1l34" n="N034"/>selbst als notwendige Folgerung erheischen. Wilhelm Wundt überschreibt in
+               <lb facs="#facs_10_r1l35" n="N035"/>seinem kürzlich erschienenen Kriegsbeitrag „Die Nationen und ihre Philosophie“.
+               <lb facs="#facs_10_r1l36" n="N036"/>das Kapitel über deutsche Philosophie „Der deutsche Idealismus“ und will
+               <lb facs="#facs_10_r1l37" n="N037"/>damit andeuten, daß dieser der eigentliche Ausdruck der deutschen Art sei. Die
+               <lb facs="#facs_10_r1l38" n="N038"/>Richtigkeit dieser Betrachtung der Dinge erhellt am besten aus dem Umstande,
+               <lb facs="#facs_10_r1l39" n="N039"/>daß die deutschen „Monisten“ mit ihren Führern Ernst Haeckel und Wilhelm
+               <lb facs="#facs_10_r1l40" n="N040"/>Ostwald trotz ihres theoretischen Materialismus praktische Idealisten sind.
+               <lb facs="#facs_10_r1l41" n="N041"/>Eine Erneuerung des Idealismus muß aber von der Tatsache, welche die
+               <lb facs="#facs_10_r1l42" n="N042"/>Naturwissenschaft heute bereits zugibt, ausgehen, daß das Geistesleben ein
+               <lb facs="#facs_10_r1l43" n="N043"/>selbständiges Gebiet für sich sei.
+               <lb facs="#facs_10_r1l44" n="N044"/>Mitten in die Verhandlungen fiel der Weltkrieg. Mit einem Male war
+               <lb facs="#facs_10_r1l45" n="N045"/>der Idealismus da als eine Macht, als ob wir ihn nie verloren hätten. Der
+               <lb facs="#facs_10_r1l46" n="N046"/>Krieg hat mit einem Schlage alle die Hindernisse, die sich ihm entgegengestellt
+               <lb facs="#facs_10_r1l47" n="N047"/>haben, beseitigt. Wer wollte es heute leugnen, daß der Geist die Herrschaft
+               <lb facs="#facs_10_r1l48" n="N048"/>über die Natur erlangt hat. Die deutsche Volksseele ist als etwas großes
+               <lb facs="#facs_10_r1l49" n="N049"/>Geistiges erwacht und es geht uns ihre besondere Art auf, wenn wir die
+               <lb facs="#facs_10_r1l50" n="N050"/>Begeisterung, die Opferfreudigkeit, die selbstlose Hingabe für die Allgemeinheit
+               <lb facs="#facs_10_r1l51" n="N051"/>auf uns wirken lassen. Die Kassandrarufe der Schwarzseher in den Friedens¬
+               <lb facs="#facs_10_r1l52" n="N052"/>zeiten klingen uns noch im Ohre nach, daß uns das Schicksal bevorstehe, dem
+            </ab>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <ab facs="#facs_11_r1">
+               <lb facs="#facs_11_r1l1" n="N001"/>—
+               <lb facs="#facs_11_r1l2" n="N002"/>t
+               <lb facs="#facs_11_r1l3" n="N003"/>box 36/5
+               <lb facs="#facs_11_r1l4" n="N004"/>1. Panphle offorints
+               <lb facs="#facs_11_r1l5" n="N005"/>264 Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus.
+               <lb facs="#facs_11_r1l6" n="N006"/>so viele Völker infolge einer gesteigerten Überkultur erlegen seien. Der Krieg
+               <lb facs="#facs_11_r1l7" n="N007"/>hat gezeigt, daß der starke Idealismus, der die Allgemeinheit beseelt, uns auch
+               <lb facs="#facs_11_r1l8" n="N008"/>fernerhin lebenskräftig erhalten wird. Schwache sind stark geworden, stark im
+               <lb facs="#facs_11_r1l9" n="N009"/>Dulden, Hoffen und Ertragen und die Starken leisten, was sie sich früher nie
+               <lb facs="#facs_11_r1l10" n="N010"/>zugetraut haben. Dieser Idealismus muß festgehalten werden, damit wir nach
+               <lb facs="#facs_11_r1l11" n="N011"/>dem Kriege nicht wieder in die Mattigkeit von einst verfallen. Aber wie?
+               <lb facs="#facs_11_r1l12" n="N012"/>Was ist das Geheimnis des deutschen Idealismus? Wir können diese Frage
+               <lb facs="#facs_11_r1l13" n="N013"/>kurz beantworten. Das Geheimnis des deutschen Idealismus ist das Bewußt¬
+               <lb facs="#facs_11_r1l14" n="N014"/>sein des Besitzes des deutschen Geistes. Es ist ein Kampf auf Leben und Tod
+               <lb facs="#facs_11_r1l15" n="N015"/>entbrannt um die Erhaltung dieses wie noch nie zuvor in der Weltgeschichte.
+               <lb facs="#facs_11_r1l16" n="N016"/>In den Freiheitskriegen vor hundert Jahren kämpften mit uns unsere
+               <lb facs="#facs_11_r1l17" n="N017"/>Feinde von heute, Rußland und England gegen den einen Übermächtigen,
+               <lb facs="#facs_11_r1l18" n="N018"/>und die Sachsen mußten erst herübergezogen werden. Heute stehen zum ersten
+               <lb facs="#facs_11_r1l19" n="N019"/>Male in der Weltgeschichte alle Deutschen, Österreich=Ungarns wie des Reiches,
+               <lb facs="#facs_11_r1l20" n="N020"/>Schulter an Schulter im harten Ringen um das gemeinsame Erbe der Väter,
+               <lb facs="#facs_11_r1l21" n="N021"/>und die deutschen Stammesbrüder in den neutralen Ländern begleiten dieses
+               <lb facs="#facs_11_r1l22" n="N022"/>mit ihren Sympathien und Hilfeleistungen sozialer Art. Was ist deutscher
+               <lb facs="#facs_11_r1l23" n="N023"/>Geist? Wir lernen seine Art kennen an den deutschen Meistern, über die
+               <lb facs="#facs_11_r1l24" n="N024"/>Richard Wagner in seiner „Meistersingern“ Hans Sachs die Worte in den
+               <lb facs="#facs_11_r1l25" n="N025"/>Mund legt:
+               <lb facs="#facs_11_r1l26" n="N026"/>Was deutsch und echt wüßt' keiner mehr,
+               <lb facs="#facs_11_r1l27" n="N027"/>Lebt's nicht in deutscher Meister Ehr'.
+               <lb facs="#facs_11_r1l28" n="N028"/>Was ist die besondere Eigenart des deutschen Geistes? Ein Doppeltes,
+               <lb facs="#facs_11_r1l29" n="N029"/>ein scheinbarer Gegensatz: tiefste Verinnerlichung und höchste Betätigung, ein
+               <lb facs="#facs_11_r1l30" n="N030"/>sich selbst Versenken und ein Heraustreten aus sich selbst, ein sich Zurückziehen
+               <lb facs="#facs_11_r1l31" n="N031"/>in die Welt des Ich und ein sich Betätigen in der größeren des Du und Er.
+               <lb facs="#facs_11_r1l32" n="N032"/>Keines ohne das andere, beide neben= und durcheinander. Ist das nicht anders¬
+               <lb facs="#facs_11_r1l33" n="N033"/>wo auch der Fall? Ist diese Doppelart nicht etwas menschlich Selbstverständ¬
+               <lb facs="#facs_11_r1l34" n="N034"/>liches? Wir müssen hier wohl unterscheiden zwischen innerstem Erleben und
+               <lb facs="#facs_11_r1l35" n="N035"/>bloßen Seelenstimmungen. Die Franzosen und Russen verstehen es vielleicht
+               <lb facs="#facs_11_r1l36" n="N036"/>besser, Seelenstimmungen nachzuempfinden und sie wiederzugeben; deutsche Art
+               <lb facs="#facs_11_r1l37" n="N037"/>ist es, den tiefsten Fragen des Seins, der Seele und des Lebens bis auf den
+               <lb facs="#facs_11_r1l38" n="N038"/>Grund zu gehen. Kant wie überhaupt die Philosophen des Idealismus sind
+               <lb facs="#facs_11_r1l39" n="N039"/>nur als Deutsche denkbar. Wir wollen selbstverständlich nicht in den Fehler
+               <lb facs="#facs_11_r1l40" n="N040"/>verfallen, der gerade infolge des Krieges naheliegt, den anderen Völkern ihre
+               <lb facs="#facs_11_r1l41" n="N041"/>besonderen Kulturgüter zu schmälern. Aber es gilt, und das ist eine Voraus¬
+               <lb facs="#facs_11_r1l42" n="N042"/>setzung des Sieges, sich seine besondere Eigenart vollauf zum Bewußtsein zu
+               <lb facs="#facs_11_r1l43" n="N043"/>bringen. Und diese wird durch jene gekennzeichnet. Aber es ist nicht bloß ver¬
+               <lb facs="#facs_11_r1l44" n="N044"/>standesmäßiges Erwägen. Das Ganze wurzelt tiefer. Aus dem mystischen Unter¬
+               <lb facs="#facs_11_r1l45" n="N045"/>grund bricht der deutsche Idealismus hervor, die großen Gedanken, das tiefe
+               <lb facs="#facs_11_r1l46" n="N046"/>Empfinden, das deutsche Gemüt. Die Erlebnisse in der Tiefe der Seele offen¬
+               <lb facs="#facs_11_r1l47" n="N047"/>bart der eine in der Sprache des Unaussprechlichen, in der Sprache der Kunst,
+               <lb facs="#facs_11_r1l48" n="N048"/>in Farbe und Ton, der andere schafft große Gedankengebilde; aber Albrecht
+               <lb facs="#facs_11_r1l49" n="N049"/>Dürer, Kant und Richard Wagner sind alle in demselben Grunde verankert;
+               <lb facs="#facs_11_r1l50" n="N050"/>sie sind Propheten eines und desselben Geistes. In eines jeden Deutschen
+            </ab>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <ab facs="#facs_12_r1">
+               <lb facs="#facs_12_r1l1" n="N001"/>
+               <lb facs="#facs_12_r1l2" n="N002"/>—
+               <lb facs="#facs_12_r1l3" n="N003"/>0
+               <lb facs="#facs_12_r1l4" n="N004"/>in
+               <lb facs="#facs_12_r1l5" n="N005"/>box 36/5
+               <lb facs="#facs_12_r1l6" n="N006"/>1. Panphlets.Offpl.s
+               <lb facs="#facs_12_r1l7" n="N007"/>Dr. Karl Völker, Der Krieg als Erzieher zum deutschen Idealismus. 265
+               <lb facs="#facs_12_r1l8" n="N008"/>Seele schlummert dieser Geist, es gilt ihn zu wecken um das Große, was jene
+               <lb facs="#facs_12_r1l9" n="N009"/>erlebt, nachzuempfinden. Aber es ist dieses Geistes besondere Art, daß er sich
+               <lb facs="#facs_12_r1l10" n="N010"/>nicht mit dem Erleben begnügt, sondern zum Bewußtsein seiner selbst gelangt,
+               <lb facs="#facs_12_r1l11" n="N011"/>indem er sich auslebt und auswirkt. „Du sollst, weil du mußt.“ Dieses Pflicht¬
+               <lb facs="#facs_12_r1l12" n="N012"/>bewußtsein, das aus dem Innern kommt, baut sich die Welt um sich auf und
+               <lb facs="#facs_12_r1l13" n="N013"/>meistert mit starker Hand die Schwierigkeiten, die sich ihm entgegenstellen. Es
+               <lb facs="#facs_12_r1l14" n="N014"/>gibt kein undeutscheres Gerede als dies, daß die Verhältnisse den Menschen
+               <lb facs="#facs_12_r1l15" n="N015"/>schaffen; die starke Persönlichkeit gestaltet die Verhältnisse nach seiner Art um.
+               <lb facs="#facs_12_r1l16" n="N016"/>Diese Persönlichkeit sucht nun äußeres Gelingen mit dem inneren Beginnen
+               <lb facs="#facs_12_r1l17" n="N017"/>in Einklang zu bringen und es wird ihr deutlich, daß in ihrem ganzen Wirken
+               <lb facs="#facs_12_r1l18" n="N018"/>ein Plan verborgen liegt, nach welchem sich alles zielbewußt entfaltet. Der
+               <lb facs="#facs_12_r1l19" n="N019"/>einzelne, der als geistige Persönlichkeit so sein Leben gestaltet, fühlt sich als
+               <lb facs="#facs_12_r1l20" n="N020"/>etwas in sich geschlossenes, als etwas, was nicht durch einen bloßen Zufall in
+               <lb facs="#facs_12_r1l21" n="N021"/>die Welt gesetzt wurde, um alsdann ebenso zu verschwinden; sondern er merkt
+               <lb facs="#facs_12_r1l22" n="N022"/>die Zielstrebigkeit und Planmäßigkeit auch in seinem Leben. Und da geht ihm
+               <lb facs="#facs_12_r1l23" n="N023"/>mit einem Male etwas auf, wodurch sein ganzes Wesen erst den eigentlichen
+               <lb facs="#facs_12_r1l24" n="N024"/>Abschluß und die höhere Weihe erhält, Religion.
+               <lb facs="#facs_12_r1l25" n="N025"/>Man ist der Religion aus dem Wege gegangen, weil man mit ihr nichts
+               <lb facs="#facs_12_r1l26" n="N026"/>anzufangen wußte. Die alten Werte sah man zerrinnen und hat keine neuen
+               <lb facs="#facs_12_r1l27" n="N027"/>gefunden. Aber über die Religion zur Tagesordnung zu schreiten, ist undeutsch.
+               <lb facs="#facs_12_r1l28" n="N028"/>Ihr Wesen zu ergründen, hat stets den deutschen Geist beschäftigt. Die mittel¬
+               <lb facs="#facs_12_r1l29" n="N029"/>alterliche Mystik hat in den deutschen Meistern Eckehart und Tauler ihre
+               <lb facs="#facs_12_r1l30" n="N030"/>tiefste Ausprägung erhalten. Die große religiöse Bewegung im sechzehnten
+               <lb facs="#facs_12_r1l31" n="N031"/>Jahrhundert ist von einem deutschen Professor, Martin Luther, ausgegangen.
+               <lb facs="#facs_12_r1l32" n="N032"/>Calvin ist ohne Luther undenkbar. Johann Sebastian Bachs Musik ist aus
+               <lb facs="#facs_12_r1l33" n="N033"/>dem protestantischen Gottesdienst hervorgegangen. Kant hat die Grundlagen für
+               <lb facs="#facs_12_r1l34" n="N034"/>das moderne religiöse Denken geschaffen und für alle Philosophen nach ihm
+               <lb facs="#facs_12_r1l35" n="N035"/>ist das religiöse Problem eines der entscheidensten. Die Wissenschaft der
+               <lb facs="#facs_12_r1l36" n="N036"/>Religionsphilosophie ist deutscher Herkunft. In Beethovens Missa Solemnis
+               <lb facs="#facs_12_r1l37" n="N037"/>ringt ein großer Geist nach religiöser Klarheit. Bekannt ist Goethes Wort
+               <lb facs="#facs_12_r1l38" n="N038"/>aus einem Brief an Jacobi: „Ich für mich kann bei den mannigfachen
+               <lb facs="#facs_12_r1l39" n="N039"/>Richtungen meines Wesens nicht an einer Denkweise genug haben. Als
+               <lb facs="#facs_12_r1l40" n="N040"/>Dichter und Künstler bin ich Polytheist, Pantheist als Naturforscher und eines
+               <lb facs="#facs_12_r1l41" n="N041"/>so entschieden wie das andere. Bedarf es eines Gottes für meine Persönlich¬
+               <lb facs="#facs_12_r1l42" n="N042"/>keit als sittlicher Mensch, so ist auch dafür gesorgt.“ Richard Wagners Werke
+               <lb facs="#facs_12_r1l43" n="N043"/>durchzieht wie ein roter Faden von Lohengrin bis Parsifal die entscheidende
+               <lb facs="#facs_12_r1l44" n="N044"/>religiöse Frage nach Freiheit und Erlösung. Anläßlich des hundertsten Geburts¬
+               <lb facs="#facs_12_r1l45" n="N045"/>tages Bismarcks ist darauf hingewiesen worden, wie seine Persönlichkeit ohne
+               <lb facs="#facs_12_r1l46" n="N046"/>den religiösen Untergrund unverständlich bleibt.
+               <lb facs="#facs_12_r1l47" n="N047"/>Alle diese Persönlichkeiten wissen sich abhängig von einem großen geistigen
+               <lb facs="#facs_12_r1l48" n="N048"/>Sein, das sie in sich fühlen, das sie empfinden, dessen Wesen sie nicht ganz
+               <lb facs="#facs_12_r1l49" n="N049"/>erschöpfen können, weder in der Dichtung, noch in der Tonkunst, noch in
+               <lb facs="#facs_12_r1l50" n="N050"/>wissenschaftlichen Erörterungen, selbst nicht ganz in der Sprache der Religion.
+               <lb facs="#facs_12_r1l51" n="N051"/>Es steigt empor aus der Tiefe unseres Selbst und hebt uns empor, daß wir
+               <lb facs="#facs_12_r1l52" n="N052"/>uns schauen im Spiegel einer höheren Weltordnung. Wir schöpfen aus ihr
+            </ab>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <ab facs="#facs_13_r1">
+               <lb facs="#facs_13_r1l1" n="N001"/>1.
+            </ab>
+            <ab facs="#facs_13_r2">
+               <lb facs="#facs_13_r2l1" n="N001"/>—.—
+               <lb facs="#facs_13_r2l2" n="N002"/>0
+               <lb facs="#facs_13_r2l3" n="N003"/>1
+               <lb facs="#facs_13_r2l4" n="N004"/>box 36/5
+               <lb facs="#facs_13_r2l5" n="N005"/>Panph-ets.forints
+               <lb facs="#facs_13_r2l6" n="N006"/>266
+               <lb facs="#facs_13_r2l7" n="N007"/>Felix Braun, Österreichische Bibliothek.
+               <lb facs="#facs_13_r2l8" n="N008"/>die Kraft zum Überwinden und schaffen in ihr bleibende Werte. Wer mag des
+               <lb facs="#facs_13_r2l9" n="N009"/>Geistes Tiefe ganz ergründen? Es bleibt ein Ahnen, das zur Gewißheit wird
+               <lb facs="#facs_13_r2l10" n="N010"/>und in der Gewißheit weiß sich die freie Persönlichkeit als ein Gedanke
+               <lb facs="#facs_13_r2l11" n="N011"/>Gottes aus der Zeit für die Ewigkeit. Das ist Religion in ihrer klarsten und
+               <lb facs="#facs_13_r2l12" n="N012"/>reinsten Form, wie sie uns am ursprünglichsten in Jesus von Nazareth ent¬
+               <lb facs="#facs_13_r2l13" n="N013"/>gegentritt. Das deutsche Gemüt hat die christliche Frömmigkeit in seiner ganzen
+               <lb facs="#facs_13_r2l14" n="N014"/>Tiefe erfaßt. Bei keinem Volk wurde so viel gerungen, geschrieben, gekämpft
+               <lb facs="#facs_13_r2l15" n="N015"/>für und wider das Christentum, wie bei den Deutschen. Konfession, Kultus,
+               <lb facs="#facs_13_r2l16" n="N016"/>Dogma sind etwas Abgeleitetes. Das Ursprüngliche ist die Religion des
+               <lb facs="#facs_13_r2l17" n="N017"/>frommen Gemüts und hierin stehen sich deutsche Katholiken und deutsche
+               <lb facs="#facs_13_r2l18" n="N018"/>Protestanten viel näher als z. B. italienische und deutsche Katholiken. Es
+               <lb facs="#facs_13_r2l19" n="N019"/>hieße Zeit und Kraft vergeuden, wollte man die Religion durch neue Unions¬
+               <lb facs="#facs_13_r2l20" n="N020"/>versuche zwischen Katholizismus und Protestantismus erneuern. Im achzehnten
+               <lb facs="#facs_13_r2l21" n="N021"/>Jahrhundert haben es der Jesuit Spinola und der protestantische Abt von
+               <lb facs="#facs_13_r2l22" n="N022"/>Loccum Molanus versucht. Der eine wurde für verrückt erklärt, dem andern
+               <lb facs="#facs_13_r2l23" n="N023"/>wurde geheimer Papismus vorgeworfen. Heute käme man auf diesem Wege
+               <lb facs="#facs_13_r2l24" n="N024"/>ebenso wenig zum Ziele. Das Entscheidende bleibt die Vertiefung der beiden
+               <lb facs="#facs_13_r2l25" n="N025"/>Konfessionen durch und aus der Religion der Verinnerlichung. (Vgl. Leopold
+               <lb facs="#facs_13_r2l26" n="N026"/>v. Schröder, Wesen und Ursprung der Religion, in den Beitr. z. Weiterentwick¬
+               <lb facs="#facs_13_r2l27" n="N027"/>lung der christlichen Religion. S. 23.)
+               <lb facs="#facs_13_r2l28" n="N028"/>Der Krieg hat uns verinnerlicht und unsere Schaffensfreudigkeit erhöht.
+               <lb facs="#facs_13_r2l29" n="N029"/>Er hat den deutschen Geist in seiner Tiefe und Ursprünglichkeit hervor¬
+               <lb facs="#facs_13_r2l30" n="N030"/>leuchten lassen. Wir besinnen uns auf uns selbst: Religion, Lebens= und
+               <lb facs="#facs_13_r2l31" n="N031"/>Weltanschauung, Lebensfreudigkeit, ewige Jugend, Lebensmut, Lebensglück,
+               <lb facs="#facs_13_r2l32" n="N032"/>kurzum Idealismus im besten Sinne des Wortes sind uns wieder aufgegangen.
+               <lb facs="#facs_13_r2l33" n="N033"/>Die Feinde haben sich zusammengetan, um deutsche Art zu vernichten. Wir
+               <lb facs="#facs_13_r2l34" n="N034"/>können es ihnen nur danken. Sie haben den deutschen Geist geweckt und
+               <lb facs="#facs_13_r2l35" n="N035"/>dieser ist unbesiegbar. Lassen wir uns von diesem ganz durchdringen und
+               <lb facs="#facs_13_r2l36" n="N036"/>tragen wir ihn Mann wie Frau hinein in Haus und Beruf: Dann bedeutet
+               <lb facs="#facs_13_r2l37" n="N037"/>der Weltkrieg den Anbruch eines neuen Zeitalters des weltumspannenden
+               <lb facs="#facs_13_r2l38" n="N038"/>deutschen Idealismus.
+               <lb facs="#facs_13_r2l39" n="N039"/>Österreichische Bibliothek.
+               <lb facs="#facs_13_r2l40" n="N040"/>Von Felix Braun.
+               <lb facs="#facs_13_r2l41" n="N041"/>Eine österreichische Bibliothek ist gegründet worden; von einem Dichter: Hugo
+               <lb facs="#facs_13_r2l42" n="N042"/>v. Hofmannsthal. Wenn es zum Wesen des Dichters gehört, einer Gemein¬
+               <lb facs="#facs_13_r2l43" n="N043"/>schaft schauend, fühlend, denkend vorzuleben, sie zu lehren, was sie ist und was
+               <lb facs="#facs_13_r2l44" n="N044"/>sie soll, was ihr ziemt und was sie ehrt, so ist dies hier in einer stillen Art
+               <lb facs="#facs_13_r2l45" n="N045"/>schön bewährt. Denn die Gemeinschaft, der dieser Dienst erwiesen wird, war
+               <lb facs="#facs_13_r2l46" n="N046"/>bisher nicht nur allen übrigen so gut wie fremd, verhüllt und namenlos, sie war
+               <lb facs="#facs_13_r2l47" n="N047"/>es auch sich selbst. Hoch bis in älteste Zeiten reichend, großer Taten, unver¬
+               <lb facs="#facs_13_r2l48" n="N048"/>gänglicher Ideen, erhabener Menschen teilhaft wie jede andre, schien sie den¬
+               <lb facs="#facs_13_r2l49" n="N049"/>noch alles Geschehenen vergessen zu haben, des Bestehenden gering zu achten
+               <lb facs="#facs_13_r2l50" n="N050"/> Aahrhen
+            </ab>
+            <ab facs="#facs_13_r3">
+               <lb facs="#facs_13_r3l1" n="N001"/>
+               <lb facs="#facs_13_r3l2" n="N002"/>
+            </ab>
+            <ab facs="#facs_13_r4">
+               <lb facs="#facs_13_r4l1" n="N001"/>73
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

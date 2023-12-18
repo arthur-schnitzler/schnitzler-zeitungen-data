@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">A_20_Die-Geschichte-eines-Genies</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">A_20_Die-Geschichte-eines-Genies</title><idno type="Transkribus">223901</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3296" lry="4256" xml:id="facs_1">
+         <graphic url="A_20_Die-Geschichte-eines-Genies_35505_00001.jpeg" width="3296px" height="4256px"/>
+         <zone points="203,172 203,2684 1698,2684 1698,172" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="585,202 1620,218 1697,212 1698,169 1555,139 1355,173 586,140" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="194,205 268,219 310,205 356,221 382,206 497,207 497,139 467,153 420,145 388,166 356,161 342,174 306,142 194,152" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="408,242 1706,259 1697,197 604,202 523,159 409,200" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="549,2029 560,2028 564,2034 586,2029 596,2040 618,2032 631,2032 637,1965 621,1962 609,1951 598,1948 556,1952" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="686,2058 750,2076 782,2054 900,2072 989,2050 1045,2073 1115,2054 1224,2076 1328,2048 1329,1998 1226,1972 1064,1971 970,1996 882,1969 763,1991 686,1971" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="503,2113 514,2118 525,2111 550,2122 565,2120 589,2126 623,2118 636,2041 610,2033 599,2040 593,2035 587,2039 579,2033 564,2034 550,2021 520,2018" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="503,2162 519,2164 533,2181 588,2180 618,2171 627,2163 645,2169 648,2146 637,2142 630,2145 600,2125 577,2128 557,2118 536,2119 532,2113 507,2116" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="906,2236 950,2223 1085,2230 1108,2211 1152,2216 1221,2193 1317,2212 1313,2138 1277,2116 1165,2127 1113,2153 1056,2127 1005,2130 986,2147 944,2136 902,2155" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="435,2301 1498,2357 1618,2330 1620,2260 436,2267" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="404,2356 1617,2405 1619,2330 406,2311" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="399,2397 1605,2438 1593,2389 400,2361" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="403,2448 1612,2495 1614,2437 404,2405" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="401,2483 1563,2535 1609,2486 401,2454" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="395,2550 1547,2580 1613,2566 1614,2513 396,2495" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="386,2579 1435,2627 1608,2622 1610,2574 387,2550" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="404,2622 1532,2691 1628,2630 405,2578" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="386,2693 921,2701 937,2698 939,2642 388,2629" rendition="Line" xml:id="facs_1_r1l17"/>
+         </zone>
+         <zone points="1691,176 1691,3775 2965,3775 2965,176" rendition="TextRegion" xml:id="facs_1_r2">
+            <zone points="1813,231 1868,225 1893,240 1916,224 1943,235 2036,207 2076,230 2136,220 2153,231 2218,211 2218,156 2159,143 2077,147 2029,180 1939,147 1918,158 1869,142 1814,157" rendition="Line" xml:id="facs_1_r2l1"/>
+            <zone points="1992,664 2674,713 2876,697 2831,640 1995,608" rendition="Line" xml:id="facs_1_r2l2"/>
+            <zone points="2088,717 2706,765 2762,751 2764,717 2729,708 2091,675" rendition="Line" xml:id="facs_1_r2l3"/>
+            <zone points="1986,759 2785,812 2856,805 2859,768 1989,713" rendition="Line" xml:id="facs_1_r2l4"/>
+            <zone points="1975,818 2688,877 2780,862 2782,837 1977,796" rendition="Line" xml:id="facs_1_r2l5"/>
+            <zone points="1976,860 2841,920 2843,883 2753,863 2381,862 1979,818" rendition="Line" xml:id="facs_1_r2l6"/>
+            <zone points="1960,998 2420,1036 2473,1005 2475,968 2209,962 2143,936 1962,971" rendition="Line" xml:id="facs_1_r2l7"/>
+            <zone points="2208,1061 2795,1106 2840,1094 2843,1057 2500,1022 2449,1039 2210,1032" rendition="Line" xml:id="facs_1_r2l8"/>
+            <zone points="2198,1089 2313,1118 2837,1149 2840,1094 2578,1098 2200,1057" rendition="Line" xml:id="facs_1_r2l9"/>
+            <zone points="2198,1140 2797,1181 2834,1179 2836,1151 2440,1113 2199,1114" rendition="Line" xml:id="facs_1_r2l10"/>
+            <zone points="1939,1288 2000,1321 2020,1311 2035,1322 2057,1308 2102,1329 2127,1311 2286,1320 2304,1313 2306,1283 2288,1288 2239,1253 2151,1273 2131,1259 2091,1269 2051,1250 2011,1272 1985,1256 1940,1272" rendition="Line" xml:id="facs_1_r2l11"/>
+            <zone points="2157,1360 2245,1366 2283,1391 2460,1371 2760,1401 2763,1306 2393,1316 2325,1286 2285,1320 2158,1336" rendition="Line" xml:id="facs_1_r2l12"/>
+            <zone points="1937,1522 1961,1523 1981,1539 1997,1527 2009,1532 2021,1523 2058,1546 2074,1542 2079,1454 2054,1445 2028,1460 2018,1457 2000,1471 1992,1467 1960,1488 1939,1485" rendition="Line" xml:id="facs_1_r2l13"/>
+            <zone points="2148,1517 2341,1513 2485,1546 2507,1532 2540,1555 2593,1561 2606,1557 2614,1479 2568,1461 2479,1457 2462,1470 2417,1450 2296,1451 2259,1435 2222,1449 2193,1424 2156,1433" rendition="Line" xml:id="facs_1_r2l14"/>
+            <zone points="1717,1666 2921,1667 2920,1632 2826,1607 1717,1611" rendition="Line" xml:id="facs_1_r2l15"/>
+            <zone points="1699,1725 2620,1731 2910,1688 1698,1667" rendition="Line" xml:id="facs_1_r2l16"/>
+            <zone points="1702,1778 2922,1757 2921,1718 2803,1710 1702,1731" rendition="Line" xml:id="facs_1_r2l17"/>
+            <zone points="1700,1822 2910,1824 2919,1763 1699,1777" rendition="Line" xml:id="facs_1_r2l18"/>
+            <zone points="1695,1863 2921,1870 2920,1822 2839,1808 1694,1827" rendition="Line" xml:id="facs_1_r2l19"/>
+            <zone points="1705,1923 2920,1908 2919,1870 2839,1855 1705,1868" rendition="Line" xml:id="facs_1_r2l20"/>
+            <zone points="1704,1964 2808,1974 2912,1922 1704,1924" rendition="Line" xml:id="facs_1_r2l21"/>
+            <zone points="1698,2033 2701,2021 2914,1982 2689,1949 1697,1968" rendition="Line" xml:id="facs_1_r2l22"/>
+            <zone points="1698,2064 2879,2066 2922,2012 1698,2033" rendition="Line" xml:id="facs_1_r2l23"/>
+            <zone points="1691,2139 2928,2105 2813,2053 1690,2062" rendition="Line" xml:id="facs_1_r2l24"/>
+            <zone points="1699,2168 2928,2151 2903,2101 1698,2118" rendition="Line" xml:id="facs_1_r2l25"/>
+            <zone points="1694,2203 2834,2213 2923,2168 1694,2170" rendition="Line" xml:id="facs_1_r2l26"/>
+            <zone points="1698,2264 2924,2249 2923,2211 2859,2201 1697,2219" rendition="Line" xml:id="facs_1_r2l27"/>
+            <zone points="1693,2320 2927,2298 2856,2249 1693,2270" rendition="Line" xml:id="facs_1_r2l28"/>
+            <zone points="1701,2359 2937,2360 2936,2321 2856,2302 1701,2315" rendition="Line" xml:id="facs_1_r2l29"/>
+            <zone points="1706,2415 2903,2407 2917,2348 1705,2364" rendition="Line" xml:id="facs_1_r2l30"/>
+            <zone points="1695,2459 2841,2461 2922,2450 2922,2411 1695,2422" rendition="Line" xml:id="facs_1_r2l31"/>
+            <zone points="1704,2508 2626,2521 2887,2500 2930,2457 1704,2464" rendition="Line" xml:id="facs_1_r2l32"/>
+            <zone points="1702,2564 2767,2566 2905,2550 2926,2501 1702,2509" rendition="Line" xml:id="facs_1_r2l33"/>
+            <zone points="1695,2603 2618,2614 2882,2601 2924,2558 1695,2566" rendition="Line" xml:id="facs_1_r2l34"/>
+            <zone points="1715,2652 2928,2644 2928,2605 2791,2594 1715,2605" rendition="Line" xml:id="facs_1_r2l35"/>
+            <zone points="1699,2700 2927,2695 2927,2663 2785,2641 1699,2650" rendition="Line" xml:id="facs_1_r2l36"/>
+            <zone points="1697,2746 2922,2749 2872,2694 1697,2698" rendition="Line" xml:id="facs_1_r2l37"/>
+            <zone points="1700,2799 2814,2814 2920,2749 1700,2760" rendition="Line" xml:id="facs_1_r2l38"/>
+            <zone points="1708,2846 2751,2859 2932,2803 1708,2806" rendition="Line" xml:id="facs_1_r2l39"/>
+            <zone points="1708,2900 2770,2906 2933,2891 2933,2858 1707,2847" rendition="Line" xml:id="facs_1_r2l40"/>
+            <zone points="1711,2952 2733,2955 2914,2940 2927,2902 1710,2901" rendition="Line" xml:id="facs_1_r2l41"/>
+            <zone points="1702,2996 2796,2996 2916,2949 1701,2948" rendition="Line" xml:id="facs_1_r2l42"/>
+            <zone points="1695,3055 2925,3042 2924,2986 2889,2984 1695,3002" rendition="Line" xml:id="facs_1_r2l43"/>
+            <zone points="1698,3089 2915,3086 2847,3033 1698,3051" rendition="Line" xml:id="facs_1_r2l44"/>
+            <zone points="1685,3130 2933,3133 2869,3083 1752,3104 1685,3059" rendition="Line" xml:id="facs_1_r2l45"/>
+            <zone points="1684,3198 2108,3226 2974,3192 2937,3142 2791,3134 1839,3161 1684,3129" rendition="Line" xml:id="facs_1_r2l46"/>
+            <zone points="1713,3275 2880,3266 2934,3252 2934,3208 1713,3231" rendition="Line" xml:id="facs_1_r2l47"/>
+            <zone points="1718,3330 2935,3313 2922,3248 1718,3287" rendition="Line" xml:id="facs_1_r2l48"/>
+            <zone points="1715,3379 2940,3368 2939,3330 2840,3307 1715,3333" rendition="Line" xml:id="facs_1_r2l49"/>
+            <zone points="1703,3405 1753,3437 2788,3425 2913,3411 2938,3369 1702,3381" rendition="Line" xml:id="facs_1_r2l50"/>
+            <zone points="1710,3461 2903,3469 2939,3418 1710,3443" rendition="Line" xml:id="facs_1_r2l51"/>
+            <zone points="1715,3510 2941,3510 2941,3476 2790,3452 1715,3471" rendition="Line" xml:id="facs_1_r2l52"/>
+            <zone points="1723,3572 2955,3545 2954,3510 2871,3503 1722,3536" rendition="Line" xml:id="facs_1_r2l53"/>
+            <zone points="1724,3610 2943,3623 2954,3546 1723,3573" rendition="Line" xml:id="facs_1_r2l54"/>
+            <zone points="1723,3654 2952,3657 2951,3612 2900,3603 1722,3622" rendition="Line" xml:id="facs_1_r2l55"/>
+            <zone points="1711,3713 2898,3716 2943,3706 2942,3656 1710,3673" rendition="Line" xml:id="facs_1_r2l56"/>
+            <zone points="1717,3764 2451,3791 2917,3752 2868,3701 1716,3734" rendition="Line" xml:id="facs_1_r2l57"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>Geschichte eines Genies
+               <lb facs="#facs_1_r1l2" n="N002"/>20. Di
+               <lb facs="#facs_1_r1l3" n="N003"/>—— E  e retere ue er tenererte re eree ie e Ae   A E R  
+               <lb facs="#facs_1_r1l4" n="N004"/>2
+               <lb facs="#facs_1_r1l5" n="N005"/>Nenes Wiener KagUs Wien
+               <lb facs="#facs_1_r1l6" n="N006"/>1
+               <lb facs="#facs_1_r1l7" n="N007"/>0
+               <lb facs="#facs_1_r1l8" n="N008"/># # 935
+               <lb facs="#facs_1_r1l9" n="N009"/>* Alma Seidler und Karl Eidlitz vom Burgtheater
+               <lb facs="#facs_1_r1l10" n="N010"/>geben morgen, Montagsim großen Saal der Urania einen
+               <lb facs="#facs_1_r1l11" n="N011"/>modernen Vortragsabend Alma Seidler liest aus dem Nachlaß
+               <lb facs="#facs_1_r1l12" n="N012"/>Artur Schnitzlers zwei Nopellen, „Das Genie" und „Ein
+               <lb facs="#facs_1_r1l13" n="N013"/>Erfolg“, und aus dem Roman „Die Jungen aus der Paulsgasse“
+               <lb facs="#facs_1_r1l14" n="N014"/>von Franz Molnar ein heiteres Kapitel, Karl Eidlitz eine
+               <lb facs="#facs_1_r1l15" n="N015"/>unveröffentlichte Novelle von Lernet=Holenig, „Die heiligen drei
+               <lb facs="#facs_1_r1l16" n="N016"/>Könige vom toten Leben", und Gedichte von Günther, Gregor,
+               <lb facs="#facs_1_r1l17" n="N017"/>Oberkofler und Zuckmayer.
+            </ab>
+            <ab facs="#facs_1_r2">
+               <lb facs="#facs_1_r2l1" n="N001"/>box 2/9
+               <lb facs="#facs_1_r2l2" n="N002"/>CASINOS IN OSTERREICH
+               <lb facs="#facs_1_r2l3" n="N003"/>Baden Salzburg Semmering
+               <lb facs="#facs_1_r2l4" n="N004"/>Roulette — Baccara — Chemin de fer
+               <lb facs="#facs_1_r2l5" n="N005"/>Österreichische Casino A.
+               <lb facs="#facs_1_r2l6" n="N006"/>Wien III, Schwarzenbergplatz 5a
+               <lb facs="#facs_1_r2l7" n="N007"/>JOBSERVER“
+               <lb facs="#facs_1_r2l8" n="N008"/>I. österr. behördlich konzessioniertes
+               <lb facs="#facs_1_r2l9" n="N009"/>Unternehmen für Zeitungs-Aussehnltte
+               <lb facs="#facs_1_r2l10" n="N010"/>Wien I, Wollzeile 11, Telephon R-23-0-43
+               <lb facs="#facs_1_r2l11" n="N011"/>Ausschnitt aus:
+               <lb facs="#facs_1_r2l12" n="N012"/>neues Wiener Abendblatt
+               <lb facs="#facs_1_r2l13" n="N013"/>Vom:
+               <lb facs="#facs_1_r2l14" n="N014"/>1 4 MR Z. 1935
+               <lb facs="#facs_1_r2l15" n="N015"/>* (Vortragsabend Alma Seidler=Karl Eidlitz.)
+               <lb facs="#facs_1_r2l16" n="N016"/>Alma Seidler und Karl Eidlitz gaben jüngst einen Vor¬
+               <lb facs="#facs_1_r2l17" n="N017"/>tragsabend in der Urania mit einem ganz besonders gücklich
+               <lb facs="#facs_1_r2l18" n="N018"/>gewählten Programm. Eidlitz las zunächst eine Erzählung
+               <lb facs="#facs_1_r2l19" n="N019"/>von Alexander Lernet=Holenia, „Die heiligen drei Könige
+               <lb facs="#facs_1_r2l20" n="N020"/>von Totenleben“, aus dem Manuskript vor. Schlicht und ein¬
+               <lb facs="#facs_1_r2l21" n="N021"/>drucksvoll wird uns die Zusammenkunft der drei feindlichen
+               <lb facs="#facs_1_r2l22" n="N022"/>Feldherren Turenne, Melander und Wrangel geschildert, die,
+               <lb facs="#facs_1_r2l23" n="N023"/>als „Sternsinger“ verkleidet, eine geheime Zusammenkunft
+               <lb facs="#facs_1_r2l24" n="N024"/>abhalten, um zu entscheiden ob die Heere den endlich zu
+               <lb facs="#facs_1_r2l25" n="N025"/>Münster begonnenen Friedensverhandlungen beistimmen
+               <lb facs="#facs_1_r2l26" n="N026"/>sollen, die für den Soldaten ja das Aufhören der herrlichen
+               <lb facs="#facs_1_r2l27" n="N027"/>Kriegsjahre bedeuten. Und wie der Anblick eines neugebornen
+               <lb facs="#facs_1_r2l28" n="N028"/>Kindes den fast schon verschütteten Quell der Menschlichkeit in
+               <lb facs="#facs_1_r2l29" n="N029"/>ihren Herzen aufs neue erweckt. Dann interpretierte Eidlitz
+               <lb facs="#facs_1_r2l30" n="N030"/>sehr eindringlich Gedichte von Josef Gregor, J. G. Oberkofler
+               <lb facs="#facs_1_r2l31" n="N031"/>und Karl Zuckmayer. Zwei Kabinettstückchen Arthur
+               <lb facs="#facs_1_r2l32" n="N032"/>Schnitzlers gab Alma Seidler mit der ganzen herzbezwingen¬
+               <lb facs="#facs_1_r2l33" n="N033"/>den Anmut ihres Wesens wieder. Insbesondere übte die Ge¬
+               <lb facs="#facs_1_r2l34" n="N034"/>schichte des braven Wachmannes Engelbert Friedmann („Ein
+               <lb facs="#facs_1_r2l35" n="N035"/>Erfolg“) ihre schon oft erprobte Wirkung aufs neue. Köstlich,
+               <lb facs="#facs_1_r2l36" n="N036"/>wie der Biedere sich grämt, daß das Schicksal es ihm hartnäckig
+               <lb facs="#facs_1_r2l37" n="N037"/>versagt, sich als Hüter der öffentlichen Ordnung zu bewähren
+               <lb facs="#facs_1_r2l38" n="N038"/>und einen Delinquenten stellig zu machen, weil durch einen
+               <lb facs="#facs_1_r2l39" n="N039"/>unseligen Zufall niemand sich etwas in seinem Rayon zu¬
+               <lb facs="#facs_1_r2l40" n="N040"/>schulden kommen läßt während er Dienst tut, und wie er dann
+               <lb facs="#facs_1_r2l41" n="N041"/>schließlich die eigene Braut verhaftet und damit den heiß¬
+               <lb facs="#facs_1_r2l42" n="N042"/>ersehnten Erfolg erringt. In zwei Märchen Andersens, „Das
+               <lb facs="#facs_1_r2l43" n="N043"/>Mädchen mit den Schwefelhölzern" und „Der Schweinehirt
+               <lb facs="#facs_1_r2l44" n="N044"/>und die Prinzessin“, von Richard Maux melodramatisch be¬
+               <lb facs="#facs_1_r2l45" n="N045"/>arbeitet, übertraf sich die Künstlerin selbst, und man erlebte die
+               <lb facs="#facs_1_r2l46" n="N046"/>beiden altvertrauten Märchen, als hörte man sie zum ersten¬—
+               <lb facs="#facs_1_r2l47" n="N047"/>mal. Der Komponist saß am Flügel und brachte seine die Ge¬
+               <lb facs="#facs_1_r2l48" n="N048"/>schehnisse diskret und stilvoll untermalende Musik bestens zur
+               <lb facs="#facs_1_r2l49" n="N049"/>Geltung. Der zweite Teil des Abends stand dann ganz im
+               <lb facs="#facs_1_r2l50" n="N050"/>Zeichen der Heiterkeit. Zwei entzückende Lausbubengeschichten
+               <lb facs="#facs_1_r2l51" n="N051"/>von Paul Keller und Franz Molnar (die erstere von Karl
+               <lb facs="#facs_1_r2l52" n="N052"/>Eidlitz, die letztere von Alma Seidler vorgetragen), jede in
+               <lb facs="#facs_1_r2l53" n="N053"/>ihrer Art so vollendet, daß man nicht wußte, welcher man den
+               <lb facs="#facs_1_r2l54" n="N054"/>Vorzug geben sollte. Das zahlreich erschienene Publikum
+               <lb facs="#facs_1_r2l55" n="N055"/>dankte den beiden Künstlern mit herzlichem, langanhaltendem
+               <lb facs="#facs_1_r2l56" n="N056"/>Beifall, der deutlich den Wunsch zu erkennen gab, der schöre
+               <lb facs="#facs_1_r2l57" n="N057"/>Abend möge recht bald eine Fortsetzung finden. B.=Sch.
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

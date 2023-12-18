@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">F_01-7_Broschüren-Sonderdrucke-Undat_Kikeriki</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">F_01-7_Broschüren-Sonderdrucke-Undat_Kikeriki</title><idno type="Transkribus">224233</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3392" lry="4320" xml:id="facs_1">
+         <graphic url="F_01-7_Broschu%CC%88ren%20Sonderdrucke%20Undat_Kikeriki_0001.jpeg" width="3392px" height="4320px"/>
+         <zone points="143,274 143,3644 1591,3644 1591,274" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="849,324 881,335 961,306 982,321 1038,304 1094,322 1153,311 1185,326 1202,312 1239,323 1279,306 1280,265 1199,243 1178,259 1147,244 1120,258 1084,253 1053,280 998,260 965,269 876,245 851,254" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="145,308 253,307 297,341 723,325 712,261 550,241 507,272 483,249 427,246 380,268 318,248 245,293 183,241 147,250" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="1144,1143 1189,1144 1216,1128 1295,1143 1358,1128 1437,1142 1492,1124 1545,1149 1544,1070 1523,1063 1469,1074 1444,1097 1384,1087 1306,1106 1223,1056 1144,1060" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="512,1156 548,1143 612,1164 659,1154 711,1164 779,1136 810,1153 846,1149 844,1054 763,1066 736,1055 704,1065 627,1057 600,1070 510,1065" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="199,1153 237,1168 256,1160 285,1164 296,1156 328,1165 337,1155 377,1167 386,1158 411,1156 409,1082 372,1092 332,1080 304,1097 255,1073 244,1080 233,1073 197,1079" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="720,1264 1090,1263 1089,1192 1044,1197 1003,1180 965,1193 944,1184 908,1195 884,1183 797,1200 779,1184 750,1200 719,1195" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="134,1361 1369,1331 1368,1284 919,1269 512,1305 411,1272 351,1323 134,1330" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="1425,1333 1444,1335 1487,1362 1509,1344 1530,1350 1550,1341 1568,1347 1569,1290 1540,1296 1529,1307 1524,1301 1506,1314 1495,1306 1488,1311 1470,1306 1453,1289 1438,1298 1426,1294" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="1363,1431 1440,1442 1449,1434 1464,1434 1478,1448 1496,1442 1494,1370 1466,1380 1451,1371 1440,1372 1427,1359 1411,1364 1397,1359 1383,1372 1361,1372" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="537,1451 590,1474 675,1449 746,1466 1180,1453 1231,1432 1230,1369 1087,1344 966,1371 714,1358 537,1433" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="174,1542 1573,1522 1572,1473 1362,1454 174,1486" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="483,1601 671,1625 811,1600 1255,1609 1337,1594 1337,1549 672,1537 482,1565" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="410,1681 1410,1666 1408,1598 1212,1630 971,1610 808,1654 748,1617 409,1636" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="186,1866 351,1889 691,1826 1018,1861 1118,1810 1340,1822 1356,1772 1156,1761 1114,1792 1033,1754 961,1795 915,1755 694,1810 339,1782 184,1814" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="185,2034 256,2013 329,2023 367,2000 551,2027 604,2000 669,2008 667,1946 627,1936 593,1950 541,1936 493,1965 429,1937 385,1960 351,1948 267,1962 238,1945 199,1972 183,1965" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="648,2146 691,2161 750,2135 828,2165 889,2146 921,2161 965,2129 1004,2155 1084,2137 1156,2159 1154,2064 1020,2089 919,2062 880,2092 759,2061 646,2082" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="391,2187 412,2178 450,2197 460,2190 491,2197 510,2186 545,2193 625,2183 614,2041 569,2074 552,2066 506,2088 473,2069 457,2086 417,2084 384,2098" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="918,2190 954,2176 970,2192 1177,2185 1236,2205 1444,2182 1444,2153 1405,2139 1385,2156 1266,2138 1229,2155 1187,2144 1091,2161 1004,2154 979,2129 918,2145" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="426,2256 1481,2232 1447,2186 925,2206 860,2168 774,2205 426,2206" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="322,2283 1490,2280 1451,2241 322,2247" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="324,2332 1440,2344 1490,2281 324,2292" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="314,2378 1487,2380 1487,2337 1302,2325 314,2331" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="329,2424 1487,2410 1468,2373 329,2381" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="324,2458 1482,2451 1430,2415 324,2422" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="321,2499 1377,2503 1483,2490 1483,2451 321,2454" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="323,2533 1466,2543 1482,2489 322,2497" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="306,2590 1449,2578 1470,2530 305,2529" rendition="Line" xml:id="facs_1_r1l27"/>
+            <zone points="311,2616 1340,2623 1476,2611 1476,2575 311,2585" rendition="Line" xml:id="facs_1_r1l28"/>
+            <zone points="317,2653 1329,2663 1456,2653 1456,2615 316,2612" rendition="Line" xml:id="facs_1_r1l29"/>
+            <zone points="317,2695 1387,2705 1489,2680 1488,2639 316,2663" rendition="Line" xml:id="facs_1_r1l30"/>
+            <zone points="321,2737 1492,2729 1491,2681 321,2696" rendition="Line" xml:id="facs_1_r1l31"/>
+            <zone points="319,2774 1457,2774 1484,2729 319,2738" rendition="Line" xml:id="facs_1_r1l32"/>
+            <zone points="313,2812 1487,2802 1486,2757 312,2771" rendition="Line" xml:id="facs_1_r1l33"/>
+            <zone points="315,2857 1488,2869 1487,2801 315,2817" rendition="Line" xml:id="facs_1_r1l34"/>
+            <zone points="318,2911 1478,2878 1242,2842 318,2857" rendition="Line" xml:id="facs_1_r1l35"/>
+            <zone points="315,2934 1471,2937 1487,2881 315,2910" rendition="Line" xml:id="facs_1_r1l36"/>
+            <zone points="467,2979 1489,2976 1488,2935 1388,2925 467,2947" rendition="Line" xml:id="facs_1_r1l37"/>
+            <zone points="311,2972 325,2969 352,2984 361,2984 381,2975 394,2978 402,2972 413,2976 424,2965 435,2965 434,2941 405,2944 394,2933 378,2932 352,2947 335,2936 310,2942" rendition="Line" xml:id="facs_1_r1l38"/>
+            <zone points="317,3020 1371,3013 1487,2971 317,2978" rendition="Line" xml:id="facs_1_r1l39"/>
+            <zone points="317,3051 1440,3054 1489,3046 1488,2992 316,3018" rendition="Line" xml:id="facs_1_r1l40"/>
+            <zone points="321,3093 1376,3094 1485,3082 1485,3048 320,3052" rendition="Line" xml:id="facs_1_r1l41"/>
+            <zone points="324,3134 1425,3134 1471,3076 324,3092" rendition="Line" xml:id="facs_1_r1l42"/>
+            <zone points="310,3178 1484,3174 1458,3119 309,3128" rendition="Line" xml:id="facs_1_r1l43"/>
+            <zone points="324,3218 1419,3210 1487,3172 323,3173" rendition="Line" xml:id="facs_1_r1l44"/>
+            <zone points="320,3261 1472,3261 1482,3195 319,3219" rendition="Line" xml:id="facs_1_r1l45"/>
+            <zone points="309,3315 318,3315 332,3302 364,3302 373,3293 431,3293 438,3300 483,3302 483,3257 459,3246 420,3261 384,3250 366,3259 350,3252 308,3260" rendition="Line" xml:id="facs_1_r1l46"/>
+            <zone points="611,3306 665,3302 701,3319 842,3301 857,3310 873,3299 914,3306 914,3251 891,3247 841,3287 828,3274 746,3270 726,3250 704,3261 679,3243 650,3257 611,3252" rendition="Line" xml:id="facs_1_r1l47"/>
+            <zone points="1285,3331 1303,3329 1306,3333 1317,3331 1326,3335 1331,3331 1346,3346 1356,3342 1365,3348 1382,3337 1403,3337 1403,3289 1382,3289 1369,3283 1362,3289 1355,3283 1351,3287 1344,3281 1333,3285 1312,3277 1285,3279" rendition="Line" xml:id="facs_1_r1l48"/>
+            <zone points="290,3350 557,3371 858,3338 1015,3361 1137,3346 1136,3294 698,3318 407,3292 289,3318" rendition="Line" xml:id="facs_1_r1l49"/>
+            <zone points="1411,3369 1443,3366 1462,3357 1479,3363 1524,3360 1535,3366 1544,3361 1551,3368 1585,3362 1587,3299 1560,3296 1511,3324 1493,3322 1450,3335 1435,3332 1424,3339 1412,3336" rendition="Line" xml:id="facs_1_r1l50"/>
+            <zone points="1276,3373 1316,3372 1327,3377 1334,3370 1343,3378 1350,3374 1357,3378 1375,3396 1378,3392 1389,3392 1390,3342 1374,3340 1365,3347 1331,3331 1277,3332" rendition="Line" xml:id="facs_1_r1l51"/>
+            <zone points="1437,3380 1448,3380 1455,3388 1467,3391 1489,3388 1494,3393 1503,3386 1530,3394 1534,3390 1562,3387 1563,3362 1545,3362 1536,3367 1487,3357 1437,3364" rendition="Line" xml:id="facs_1_r1l52"/>
+            <zone points="285,3393 333,3391 337,3394 355,3392 360,3395 380,3391 379,3362 361,3361 353,3354 332,3357 319,3355 316,3359 304,3352 296,3358 283,3355" rendition="Line" xml:id="facs_1_r1l53"/>
+            <zone points="1267,3409 1316,3410 1321,3414 1332,3411 1346,3421 1351,3418 1358,3424 1372,3423 1376,3370 1353,3371 1341,3381 1333,3374 1327,3377 1322,3371 1270,3371" rendition="Line" xml:id="facs_1_r1l54"/>
+            <zone points="1424,3416 1447,3423 1490,3417 1519,3423 1567,3420 1567,3391 1503,3387 1494,3392 1476,3392 1458,3389 1447,3380 1438,3386 1424,3386" rendition="Line" xml:id="facs_1_r1l55"/>
+            <zone points="278,3431 289,3431 296,3436 305,3432 332,3433 335,3429 341,3433 357,3434 364,3441 368,3437 377,3437 376,3396 320,3392 314,3396 277,3391" rendition="Line" xml:id="facs_1_r1l56"/>
+            <zone points="1273,3450 1283,3448 1289,3452 1303,3452 1309,3448 1316,3452 1323,3448 1327,3452 1332,3448 1339,3455 1344,3452 1348,3455 1353,3452 1377,3455 1377,3425 1355,3423 1352,3419 1344,3423 1332,3416 1325,3418 1316,3411 1273,3412" rendition="Line" xml:id="facs_1_r1l57"/>
+            <zone points="1400,3445 1445,3462 1461,3453 1479,3465 1499,3447 1519,3456 1533,3449 1548,3458 1560,3451 1591,3457 1591,3408 1564,3404 1546,3421 1526,3422 1478,3417 1447,3424 1436,3417 1418,3422 1401,3417" rendition="Line" xml:id="facs_1_r1l58"/>
+            <zone points="271,3471 289,3466 300,3475 319,3470 332,3472 337,3468 365,3476 378,3466 391,3466 390,3451 374,3452 352,3433 336,3430 296,3435 284,3429 269,3431" rendition="Line" xml:id="facs_1_r1l59"/>
+            <zone points="1248,3497 1264,3496 1273,3503 1284,3496 1289,3500 1296,3496 1314,3506 1323,3504 1326,3508 1336,3501 1344,3505 1366,3492 1375,3493 1376,3455 1346,3451 1338,3454 1322,3448 1284,3453 1279,3448 1274,3451 1249,3443" rendition="Line" xml:id="facs_1_r1l60"/>
+            <zone points="269,3524 285,3528 297,3517 306,3521 317,3518 328,3523 342,3511 357,3513 360,3509 382,3507 382,3489 371,3489 353,3471 296,3474 287,3467 269,3472" rendition="Line" xml:id="facs_1_r1l61"/>
+            <zone points="244,3528 253,3525 260,3525 265,3520 269,3521 275,3519 265,3481 256,3483 253,3486 249,3483 245,3483 242,3481 232,3484" rendition="Line" xml:id="facs_1_r1l62"/>
+            <zone points="318,3562 1546,3534 1533,3471 1473,3507 797,3520 708,3482 639,3518 317,3524" rendition="Line" xml:id="facs_1_r1l63"/>
+            <zone points="1282,3572 1332,3582 1386,3571 1422,3581 1447,3571 1537,3580 1599,3562 1598,3501 1556,3504 1518,3537 1475,3529 1410,3544 1360,3536 1330,3548 1281,3545" rendition="Line" xml:id="facs_1_r1l64"/>
+            <zone points="208,3609 1199,3590 1218,3554 207,3556" rendition="Line" xml:id="facs_1_r1l65"/>
+            <zone points="203,3649 1506,3636 1558,3624 1557,3575 202,3606" rendition="Line" xml:id="facs_1_r1l66"/>
+         </zone>
+         <zone points="1631,1074 1631,3501 3105,3501 3105,1074" rendition="TextRegion" xml:id="facs_1_r2">
+            <zone points="2178,1132 2436,1140 2470,1129 2540,1139 2540,1075 2488,1053 2414,1072 2291,1078 2238,1060 2212,1071 2177,1060" rendition="Line" xml:id="facs_1_r2l1"/>
+            <zone points="1645,1217 2510,1231 2758,1218 2824,1156 1901,1179 1714,1130 1644,1171" rendition="Line" xml:id="facs_1_r2l2"/>
+            <zone points="2869,1206 2891,1206 2916,1221 2943,1215 2968,1223 2981,1215 3015,1235 3060,1232 3074,1221 3097,1219 3097,1176 3074,1183 3024,1154 3008,1171 2981,1180 2952,1158 2939,1162 2921,1147 2869,1138" rendition="Line" xml:id="facs_1_r2l3"/>
+            <zone points="2822,1298 2895,1317 2934,1301 2963,1315 2979,1307 3006,1318 3040,1297 3058,1311 3083,1312 3081,1233 3008,1229 2992,1239 2964,1223 2934,1247 2891,1221 2821,1237" rendition="Line" xml:id="facs_1_r2l4"/>
+            <zone points="2041,1332 2353,1345 2470,1314 2597,1336 2663,1313 2663,1277 2594,1241 2122,1248 2073,1299 2040,1303" rendition="Line" xml:id="facs_1_r2l5"/>
+            <zone points="1635,1412 3089,1374 3088,1331 2959,1320 1634,1349" rendition="Line" xml:id="facs_1_r2l6"/>
+            <zone points="1912,1484 2160,1494 2380,1464 2490,1496 2784,1455 2766,1383 2668,1432 2492,1403 2406,1430 2233,1397 2108,1435 1910,1414" rendition="Line" xml:id="facs_1_r2l7"/>
+            <zone points="1866,1549 2704,1563 2867,1539 2867,1487 1866,1510" rendition="Line" xml:id="facs_1_r2l8"/>
+            <zone points="2209,1714 2285,1705 2363,1740 2525,1683 2626,1682 2852,1716 2893,1709 2894,1642 2822,1653 2739,1623 2581,1664 2490,1635 2454,1660 2368,1636 2292,1659 2210,1640" rendition="Line" xml:id="facs_1_r2l9"/>
+            <zone points="1622,1745 1700,1725 1815,1750 1859,1725 2059,1725 2165,1746 2224,1727 2224,1700 2130,1705 2032,1664 1980,1680 1874,1657 1795,1677 1622,1659" rendition="Line" xml:id="facs_1_r2l10"/>
+            <zone points="2273,1823 2323,1810 2372,1846 2409,1829 2435,1843 2518,1823 2576,1843 2646,1830 2709,1865 2751,1858 2763,1728 2650,1730 2619,1709 2463,1739 2432,1721 2362,1742 2282,1725" rendition="Line" xml:id="facs_1_r2l11"/>
+            <zone points="1644,1889 1680,1892 1692,1880 1705,1889 1724,1882 1751,1889 1780,1878 1791,1887 1803,1887 1803,1833 1780,1831 1764,1817 1723,1840 1680,1837 1672,1831 1658,1837 1644,1833" rendition="Line" xml:id="facs_1_r2l12"/>
+            <zone points="2755,1875 2766,1876 2774,1887 2788,1883 2795,1892 2806,1895 2825,1813 2813,1811 2806,1802 2789,1808 2782,1802 2773,1800" rendition="Line" xml:id="facs_1_r2l13"/>
+            <zone points="2795,1916 2812,1923 2835,1915 2865,1924 2874,1935 2891,1935 2908,1923 2945,1933 2973,1925 3027,1944 3032,1898 2993,1895 2975,1877 2951,1868 2943,1873 2892,1848 2832,1863 2805,1838" rendition="Line" xml:id="facs_1_r2l14"/>
+            <zone points="2209,1973 2315,1989 2468,1968 2498,1989 2512,1976 2579,1990 2606,1978 2629,1995 2705,1967 2705,1944 2641,1919 2598,1931 2501,1908 2438,1925 2350,1912 2327,1926 2261,1907 2237,1927 2210,1924" rendition="Line" xml:id="facs_1_r2l15"/>
+            <zone points="1915,2034 3114,2046 3114,1994 3028,1988 1915,1988" rendition="Line" xml:id="facs_1_r2l16"/>
+            <zone points="1818,2089 3087,2088 3053,2040 1818,2046" rendition="Line" xml:id="facs_1_r2l17"/>
+            <zone points="1820,2144 2709,2142 2689,2089 1820,2092" rendition="Line" xml:id="facs_1_r2l18"/>
+            <zone points="1916,2189 3088,2202 3088,2164 3016,2142 1916,2143" rendition="Line" xml:id="facs_1_r2l19"/>
+            <zone points="1817,2244 3088,2258 3088,2202 3042,2198 1817,2208" rendition="Line" xml:id="facs_1_r2l20"/>
+            <zone points="1822,2301 3095,2320 3095,2252 3027,2248 1822,2246" rendition="Line" xml:id="facs_1_r2l21"/>
+            <zone points="1815,2340 2208,2359 2329,2340 2576,2368 2654,2342 2627,2301 1816,2307" rendition="Line" xml:id="facs_1_r2l22"/>
+            <zone points="1910,2405 3100,2398 3100,2366 3028,2353 2750,2341 1910,2362" rendition="Line" xml:id="facs_1_r2l23"/>
+            <zone points="1824,2448 3083,2467 3061,2406 2634,2434 1825,2398" rendition="Line" xml:id="facs_1_r2l24"/>
+            <zone points="1815,2496 3088,2504 3088,2457 1815,2464" rendition="Line" xml:id="facs_1_r2l25"/>
+            <zone points="1813,2551 2883,2569 3091,2538 2987,2506 1813,2513" rendition="Line" xml:id="facs_1_r2l26"/>
+            <zone points="1824,2597 3095,2607 3095,2562 3038,2551 1824,2561" rendition="Line" xml:id="facs_1_r2l27"/>
+            <zone points="1820,2646 3086,2659 3086,2605 3039,2601 1821,2606" rendition="Line" xml:id="facs_1_r2l28"/>
+            <zone points="1809,2684 2281,2723 2339,2695 2908,2701 2908,2656 2718,2645 1809,2645" rendition="Line" xml:id="facs_1_r2l29"/>
+            <zone points="1917,2752 3082,2767 3082,2718 3037,2713 1917,2702" rendition="Line" xml:id="facs_1_r2l30"/>
+            <zone points="1823,2817 3094,2817 3085,2755 1823,2755" rendition="Line" xml:id="facs_1_r2l31"/>
+            <zone points="1825,2854 3092,2877 3092,2816 3029,2809 1825,2818" rendition="Line" xml:id="facs_1_r2l32"/>
+            <zone points="1820,2912 1833,2910 1848,2922 1858,2916 1871,2924 1890,2910 1914,2918 1937,2906 1971,2909 1989,2899 2009,2902 2007,2877 1989,2880 1961,2858 1924,2863 1902,2857 1867,2870 1818,2871" rendition="Line" xml:id="facs_1_r2l33"/>
+            <zone points="1915,2962 2942,2976 3096,2959 3097,2896 2894,2929 2797,2900 1915,2912" rendition="Line" xml:id="facs_1_r2l34"/>
+            <zone points="1823,3015 2941,3004 2873,2954 1823,2958" rendition="Line" xml:id="facs_1_r2l35"/>
+            <zone points="1915,3067 2985,3092 3093,3057 3093,3007 3034,2992 2817,3030 1916,3013" rendition="Line" xml:id="facs_1_r2l36"/>
+            <zone points="1814,3138 3085,3134 3085,3077 1815,3063" rendition="Line" xml:id="facs_1_r2l37"/>
+            <zone points="1833,3190 3081,3202 3097,3132 1833,3149" rendition="Line" xml:id="facs_1_r2l38"/>
+            <zone points="1663,3224 1678,3222 1688,3227 1697,3218 1712,3224 1722,3218 1731,3223 1737,3218 1748,3221 1762,3209 1776,3209 1776,3171 1760,3171 1744,3160 1731,3168 1715,3161 1700,3164 1691,3157 1686,3161 1663,3163" rendition="Line" xml:id="facs_1_r2l39"/>
+            <zone points="1841,3249 1877,3255 1937,3233 1990,3241 2021,3232 2041,3240 2070,3222 2070,3194 2050,3199 2029,3188 2005,3204 1982,3201 1945,3177 1901,3200 1882,3189 1842,3194" rendition="Line" xml:id="facs_1_r2l40"/>
+            <zone points="1928,3290 2759,3272 3002,3305 3097,3290 3097,3233 1928,3238" rendition="Line" xml:id="facs_1_r2l41"/>
+            <zone points="1746,3319 1768,3332 1809,3334 1834,3322 1872,3341 2039,3329 2039,3302 2006,3290 1982,3302 1909,3274 1878,3287 1832,3250 1748,3261" rendition="Line" xml:id="facs_1_r2l42"/>
+            <zone points="2654,3371 2689,3361 2699,3369 2728,3353 2752,3362 2792,3363 2800,3355 2823,3369 2863,3350 2887,3365 2903,3362 2899,3304 2871,3314 2830,3315 2815,3307 2742,3314 2710,3302 2677,3315 2650,3313" rendition="Line" xml:id="facs_1_r2l43"/>
+            <zone points="1697,3393 1718,3393 1735,3379 1745,3382 1764,3373 1786,3379 1803,3370 1818,3377 1837,3371 1857,3374 1855,3320 1841,3326 1832,3321 1811,3334 1751,3329 1729,3346 1720,3343 1708,3353 1694,3350" rendition="Line" xml:id="facs_1_r2l44"/>
+            <zone points="1788,3405 3054,3398 3053,3353 2983,3341 1788,3375" rendition="Line" xml:id="facs_1_r2l45"/>
+            <zone points="2748,3445 2820,3450 2871,3437 2943,3446 2973,3434 3023,3459 3039,3449 3098,3454 3097,3411 3042,3397 2962,3413 2925,3398 2867,3412 2841,3401 2815,3412 2775,3403 2747,3417" rendition="Line" xml:id="facs_1_r2l46"/>
+            <zone points="1678,3464 2752,3445 2737,3401 1678,3410" rendition="Line" xml:id="facs_1_r2l47"/>
+            <zone points="1672,3512 3034,3485 2970,3435 1671,3464" rendition="Line" xml:id="facs_1_r2l48"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>box 37/1
+               <lb facs="#facs_1_r1l2" n="N002"/>2. duttings
+               <lb facs="#facs_1_r1l3" n="N003"/>
+               <lb facs="#facs_1_r1l4" n="N004"/>eenetnetchetscheten
+               <lb facs="#facs_1_r1l5" n="N005"/>—
+               <lb facs="#facs_1_r1l6" n="N006"/>Telefon 12801.
+               <lb facs="#facs_1_r1l7" n="N007"/>Inerhmen für Zeitungs-Ausschnitte
+               <lb facs="#facs_1_r1l8" n="N008"/>Aussd
+               <lb facs="#facs_1_r1l9" n="N009"/>Nr.
+               <lb facs="#facs_1_r1l10" n="N010"/>„OBSERVER“
+               <lb facs="#facs_1_r1l11" n="N011"/>I. österr. behördl. concess. Bureau für Zeitungsberichte und Personalnachrick
+               <lb facs="#facs_1_r1l12" n="N012"/>Wien, IX/1 Türkenstrasse 17.
+               <lb facs="#facs_1_r1l13" n="N013"/>— Filiale in Budapest: „Figyelö VIII. Josefsring 31a. —
+               <lb facs="#facs_1_r1l14" n="N014"/>Ausschnitt aus: „Ndtute Geterz
+               <lb facs="#facs_1_r1l15" n="N015"/>vom F. 5. 74y 6.
+               <lb facs="#facs_1_r1l16" n="N016"/>Thodtey- Kilierikli.
+               <lb facs="#facs_1_r1l17" n="N017"/>700
+               <lb facs="#facs_1_r1l18" n="N018"/>Motto: Fort mit den Juden.
+               <lb facs="#facs_1_r1l19" n="N019"/>Ein echt jüdisches=Theaterstückel. Am Freitag den 29.
+               <lb facs="#facs_1_r1l20" n="N020"/>April gelangte im Carl=Theater das Schauspiel „Maria
+               <lb facs="#facs_1_r1l21" n="N021"/>Michaloti“ von Alexander Erdmann zur ersten Aufführung.
+               <lb facs="#facs_1_r1l22" n="N022"/>Nach den jüdischen Machwerken der Herren Felix Dörmann,
+               <lb facs="#facs_1_r1l23" n="N023"/>Arthux Schnitzler. Theodor Herzl 2c., denen die beste Theaterzeit
+               <lb facs="#facs_1_r1l24" n="N024"/>wär eingeräumt worden, kam endlich am vorletzten Apriltag das
+               <lb facs="#facs_1_r1l25" n="N025"/>Werk eines christlichen deutschen Autors an die Reihe. Das Stück
+               <lb facs="#facs_1_r1l26" n="N026"/>eines Neulings, beileibe kein Meisterwerk, aber immerhin eine
+               <lb facs="#facs_1_r1l27" n="N027"/>talentvolle Arbeit. Und das Stück gefiel, der in Wien ganz unbe¬
+               <lb facs="#facs_1_r1l28" n="N028"/>kannte Verfasser wurde nach dem zweiten und dritten Act gerufen.
+               <lb facs="#facs_1_r1l29" n="N029"/>Achtmal hob sich der Vorhang nach dem zweiten Act! Die
+               <lb facs="#facs_1_r1l30" n="N030"/>Kritiken der Clique, die da einen neuen Concurrenten erstehen
+               <lb facs="#facs_1_r1l31" n="N031"/>sah, waren ungünstig, ja gehässig. Aber das kommt oft vor und
+               <lb facs="#facs_1_r1l32" n="N032"/>die Stücke bleiben am Leben. Was aber that der famose Herr
+               <lb facs="#facs_1_r1l33" n="N033"/>Leopold Müller (recte Meiseles), der in Abwesenheit des Directors
+               <lb facs="#facs_1_r1l34" n="N034"/>Jauner das Carl=Theater beherrscht? Der nur gegen gut klingende
+               <lb facs="#facs_1_r1l35" n="N035"/>Gründe zugängliche Mann setzte die zweite Aufführung von
+               <lb facs="#facs_1_r1l36" n="N036"/>„Maria Michaloti“ am nächsten Tage vom Repertoire ab und ließ
+               <lb facs="#facs_1_r1l37" n="N037"/> „Das neue Ghetto“ spielen! Das Stück eines christlichen;
+               <lb facs="#facs_1_r1l38" n="N038"/>dafür
+               <lb facs="#facs_1_r1l39" n="N039"/>deutschen Autors, der, wir wiederholen dies, in Wien fremd ist
+               <lb facs="#facs_1_r1l40" n="N040"/>und trotzdem achtmal gerufen wurde, ein Stück, dessen erste Auf¬
+               <lb facs="#facs_1_r1l41" n="N041"/>führung im Publikum ohne den geringsten Widerspruch blieb, ver¬
+               <lb facs="#facs_1_r1l42" n="N042"/>schwindet im Carl=Theater nach einmaliger Aufführung!!
+               <lb facs="#facs_1_r1l43" n="N043"/>Warum? Was ist da vorgegangen? Ein so freches theatralisches)
+               <lb facs="#facs_1_r1l44" n="N044"/>Judenstückel war schon lange nicht da! Wie lange wird der ehe¬
+               <lb facs="#facs_1_r1l45" n="N045"/>malige Parasit des Volkstheaters sein Unwesen im Carl=Theater
+               <lb facs="#facs_1_r1l46" n="N046"/>treiben?
+               <lb facs="#facs_1_r1l47" n="N047"/>S
+               <lb facs="#facs_1_r1l48" n="N048"/>7.50
+               <lb facs="#facs_1_r1l49" n="N049"/>50 Zeitungsausschnitte (Artikel oller Notizen)
+               <lb facs="#facs_1_r1l50" n="N050"/>inclusive
+               <lb facs="#facs_1_r1l51" n="N051"/>14.—
+               <lb facs="#facs_1_r1l52" n="N052"/>Porto.
+               <lb facs="#facs_1_r1l53" n="N053"/>100
+               <lb facs="#facs_1_r1l54" n="N054"/>25.—
+               <lb facs="#facs_1_r1l55" n="N055"/>Zahlbar
+               <lb facs="#facs_1_r1l56" n="N056"/>200
+               <lb facs="#facs_1_r1l57" n="N057"/>55.—
+               <lb facs="#facs_1_r1l58" n="N058"/>im Vorau
+               <lb facs="#facs_1_r1l59" n="N059"/>500
+               <lb facs="#facs_1_r1l60" n="N060"/>100.—
+               <lb facs="#facs_1_r1l61" n="N061"/>1000
+               <lb facs="#facs_1_r1l62" n="N062"/>*
+               <lb facs="#facs_1_r1l63" n="N063"/>Im Gegensatze zu anderen Bureaux für Zeitungsausschnitte ist
+               <lb facs="#facs_1_r1l64" n="N064"/>auch steht es 7
+               <lb facs="#facs_1_r1l65" n="N065"/>Abonnement durch keine bestimmte Zeitdauer begrenzt:
+               <lb facs="#facs_1_r1l66" n="N066"/>Abonnenten frei die aufgegebenen Themen zu eränzen oder zu ändern.
+            </ab>
+            <ab facs="#facs_1_r2">
+               <lb facs="#facs_1_r2l1" n="N001"/>Telefon 12801
+               <lb facs="#facs_1_r2l2" n="N002"/>#0/3 Unternehmen für Zeitungs-Ausschnitte
+               <lb facs="#facs_1_r2l3" n="N003"/>Ausschnitt
+               <lb facs="#facs_1_r2l4" n="N004"/>N. 4/ 5
+               <lb facs="#facs_1_r2l5" n="N005"/>„OBSERVER
+               <lb facs="#facs_1_r2l6" n="N006"/>I. österr. behördl. concess. Bureau für Zeitungsberichte und Personalnachrichten
+               <lb facs="#facs_1_r2l7" n="N007"/>WWien, IX/ Türkenstrasse 17.
+               <lb facs="#facs_1_r2l8" n="N008"/>— Filiale in Budapest: „Figyelö“, VIII. Josefering 31|a. —
+               <lb facs="#facs_1_r2l9" n="N009"/>S Jagaro W ##
+               <lb facs="#facs_1_r2l10" n="N010"/>Ausschnitt aus: „
+               <lb facs="#facs_1_r2l11" n="N011"/>34 
+               <lb facs="#facs_1_r2l12" n="N012"/>vom
+               <lb facs="#facs_1_r2l13" n="N013"/>S
+               <lb facs="#facs_1_r2l14" n="N014"/>2
+               <lb facs="#facs_1_r2l15" n="N015"/>Theater-Jigaro.
+               <lb facs="#facs_1_r2l16" n="N016"/>Die erste Novität im „Deutschen Volkstheater“ mußte
+               <lb facs="#facs_1_r2l17" n="N017"/>heuer wieder gleich ein „französisches" Schauspiel sein.!
+               <lb facs="#facs_1_r2l18" n="N018"/>Daher der Name „Deutsches Volkstheater“.
+               <lb facs="#facs_1_r2l19" n="N019"/>Man brachte „Pamela“ (ein Schauspiel in vier Akten
+               <lb facs="#facs_1_r2l20" n="N020"/>und sieben Bildern) von Viktorien Sardon zur Aufführung.
+               <lb facs="#facs_1_r2l21" n="N021"/>Es galt, Frau Odilon Gelegenheit zu geben, sich in einer Rolle
+               <lb facs="#facs_1_r2l22" n="N022"/>à la Madame Sans-Gene sehen zu lassen.
+               <lb facs="#facs_1_r2l23" n="N023"/>Man sah auch einige Sensationstoiletten dieser „berühmten
+               <lb facs="#facs_1_r2l24" n="N024"/>Frau“, welche die Schultern frei ließen, und als sie nebstbei
+               <lb facs="#facs_1_r2l25" n="N025"/>in ihr „goldenes Herz“ blicken ließ und den im Temple gefangen
+               <lb facs="#facs_1_r2l26" n="N026"/>gehaltenen kleinen Dauphin in einem Wäschkorbe auf einem
+               <lb facs="#facs_1_r2l27" n="N027"/>Schiebkarren aus der Gefangenschaft befreite, da brach ein Jubel
+               <lb facs="#facs_1_r2l28" n="N028"/>los, als ob sie sich mit Girardi wieder versöhnt und ihm
+               <lb facs="#facs_1_r2l29" n="N029"/>neuerdings die Hand zum ewigen Bund gereicht hätte.
+               <lb facs="#facs_1_r2l30" n="N030"/>Das ist eben der Zauber der Beliebtheit und Popularität.
+               <lb facs="#facs_1_r2l31" n="N031"/>Das Stück ist sehr effektvoll und hat eine Reihe spannender
+               <lb facs="#facs_1_r2l32" n="N032"/>Szenen. Den Kritikern aber will der alte Sardon gar nimmer
+               <lb facs="#facs_1_r2l33" n="N033"/>gefallen.
+               <lb facs="#facs_1_r2l34" n="N034"/>Einst als eines der größten theatralischen Genies gepriesen,
+               <lb facs="#facs_1_r2l35" n="N035"/>erachten sie ihn jetzt von den Neuen kolossal überflügelt.
+               <lb facs="#facs_1_r2l36" n="N036"/>Der kühne Dörmann, der empfindsame Arthur Schnitzler,
+               <lb facs="#facs_1_r2l37" n="N037"/>der geistreiche Ebermann, der freie Hermann Bahr 22
+               <lb facs="#facs_1_r2l38" n="N038"/>was will unter solchen Geistesfürsten heute noch ein Viktorien
+               <lb facs="#facs_1_r2l39" n="N039"/>Fer
+               <lb facs="#facs_1_r2l40" n="N040"/>Sardon?
+               <lb facs="#facs_1_r2l41" n="N041"/>Gehört er der Klique an? — Nein! — Also nieder
+               <lb facs="#facs_1_r2l42" n="N042"/>30 mitihm
+               <lb facs="#facs_1_r2l43" n="N043"/> „ 100.—
+               <lb facs="#facs_1_r2l44" n="N044"/>" 1000
+               <lb facs="#facs_1_r2l45" n="N045"/>Im Gegensatze zu anderen Bureaux für Zeitungsausschnitte ist d
+               <lb facs="#facs_1_r2l46" n="N046"/>auch steht es den
+               <lb facs="#facs_1_r2l47" n="N047"/>Abonnement durch keine bestimunte Zeitdauer begrenzt; —
+               <lb facs="#facs_1_r2l48" n="N048"/>Abonnenten frei die aufgegebenen Themen zu ergänzen oder zu ändern.
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

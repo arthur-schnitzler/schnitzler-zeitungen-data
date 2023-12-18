@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">D_05_Bemerkungen-mit-Fragezeichen</title></titleStmt>
+         <seriesStmt><title>Arthur Schnitzler – Archiv der Zeitungssauschnittte https://schnitzler-zeitungen.acdh.oeaw.ac.at</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">D_05_Bemerkungen-mit-Fragezeichen</title><idno type="Transkribus">224095</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3284" lry="4316" xml:id="facs_1">
+         <graphic url="D_05_Bemerkungen-mit-Fragezeichen_00001.jpeg" width="3284px" height="4316px"/>
+         <zone points="16,2869 16,3066 78,3066 78,2869" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="38,2926 47,2925 59,2915 70,2916 75,2912 84,2911 77,2819 64,2818 59,2824 52,2826 46,2823 30,2826" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="53,3012 62,3014 71,3013 84,3015 90,2977 81,2976 76,2971 60,2969" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="7,3066 20,3065 32,3058 44,3063 62,3058 69,3064 84,3063 82,3021 48,3021 27,3009 5,3011" rendition="Line" xml:id="facs_1_r1l3"/>
+         </zone>
+         <zone points="257,297 257,3582 2411,3582 2411,297" rendition="TextRegion" xml:id="facs_1_r2">
+            <zone points="1951,337 2052,348 2167,328 2262,353 2335,339 2356,357 2389,331 2420,337 2420,295 2353,271 2296,290 2240,264 2170,282 2088,275 2057,292 2030,277 1951,277" rendition="Line" xml:id="facs_1_r2l1"/>
+            <zone points="942,329 1065,387 1800,364 1800,294 1670,261 1586,300 1539,269 1473,298 942,291" rendition="Line" xml:id="facs_1_r2l2"/>
+            <zone points="247,358 339,351 368,377 508,372 555,395 641,371 700,388 1001,368 1001,346 887,289 867,307 632,287 466,304 393,275 315,329 248,316" rendition="Line" xml:id="facs_1_r2l3"/>
+            <zone points="1095,1694 1983,1697 1981,1637 1798,1597 1472,1627 1231,1604 1095,1662" rendition="Line" xml:id="facs_1_r2l4"/>
+            <zone points="1162,1843 1435,1852 1492,1818 1562,1848 1635,1823 1787,1845 1932,1824 1932,1777 1831,1760 1753,1783 1654,1750 1525,1788 1161,1774" rendition="Line" xml:id="facs_1_r2l5"/>
+            <zone points="987,2001 1142,2002 1221,1956 1459,1995 1504,1971 1736,1979 1785,1961 1783,1901 1622,1930 1520,1889 1448,1935 1400,1910 1267,1913 1176,1862 985,1967" rendition="Line" xml:id="facs_1_r2l6"/>
+            <zone points="879,2063 2273,2052 2272,2001 2168,1981 878,1996" rendition="Line" xml:id="facs_1_r2l7"/>
+            <zone points="805,2119 2239,2112 2275,2056 804,2091" rendition="Line" xml:id="facs_1_r2l8"/>
+            <zone points="805,2177 2280,2162 2279,2120 2173,2101 805,2142" rendition="Line" xml:id="facs_1_r2l9"/>
+            <zone points="807,2240 2072,2236 2276,2224 2275,2168 806,2207" rendition="Line" xml:id="facs_1_r2l10"/>
+            <zone points="806,2296 2188,2294 2277,2281 2276,2223 805,2272" rendition="Line" xml:id="facs_1_r2l11"/>
+            <zone points="815,2364 2284,2334 2210,2281 814,2336" rendition="Line" xml:id="facs_1_r2l12"/>
+            <zone points="824,2428 2293,2404 2291,2353 2227,2338 823,2387" rendition="Line" xml:id="facs_1_r2l13"/>
+            <zone points="818,2485 2177,2469 2275,2448 2274,2410 817,2448" rendition="Line" xml:id="facs_1_r2l14"/>
+            <zone points="816,2529 2293,2507 2220,2460 816,2510" rendition="Line" xml:id="facs_1_r2l15"/>
+            <zone points="829,2614 2152,2594 2279,2540 828,2554" rendition="Line" xml:id="facs_1_r2l16"/>
+            <zone points="825,2653 2283,2630 2212,2577 824,2617" rendition="Line" xml:id="facs_1_r2l17"/>
+            <zone points="820,2711 2056,2718 2249,2704 2285,2656 819,2683" rendition="Line" xml:id="facs_1_r2l18"/>
+            <zone points="827,2785 2285,2748 2227,2698 826,2743" rendition="Line" xml:id="facs_1_r2l19"/>
+            <zone points="828,2843 2286,2820 2284,2767 2189,2757 827,2795" rendition="Line" xml:id="facs_1_r2l20"/>
+            <zone points="822,2893 2301,2873 2224,2815 822,2873" rendition="Line" xml:id="facs_1_r2l21"/>
+            <zone points="832,2956 2285,2933 2227,2873 832,2930" rendition="Line" xml:id="facs_1_r2l22"/>
+            <zone points="825,3014 2135,3003 2261,2994 2285,2950 824,2985" rendition="Line" xml:id="facs_1_r2l23"/>
+            <zone points="825,3065 1158,3108 2296,3049 2295,3002 2109,2993 825,3041" rendition="Line" xml:id="facs_1_r2l24"/>
+            <zone points="827,3133 2296,3101 2266,3054 826,3095" rendition="Line" xml:id="facs_1_r2l25"/>
+            <zone points="832,3209 2255,3187 2302,3128 831,3162" rendition="Line" xml:id="facs_1_r2l26"/>
+            <zone points="825,3249 2297,3236 2295,3181 2202,3172 825,3216" rendition="Line" xml:id="facs_1_r2l27"/>
+            <zone points="832,3299 908,3336 2298,3292 2297,3235 2236,3231 832,3283" rendition="Line" xml:id="facs_1_r2l28"/>
+            <zone points="834,3381 1937,3372 2299,3344 2298,3293 833,3330" rendition="Line" xml:id="facs_1_r2l29"/>
+            <zone points="833,3448 1122,3464 1221,3423 1680,3440 2017,3403 1895,3355 832,3410" rendition="Line" xml:id="facs_1_r2l30"/>
+            <zone points="2212,3577 2225,3575 2230,3571 2239,3578 2243,3577 2253,3582 2258,3577 2269,3576 2261,3504 2247,3507 2237,3506 2229,3501 2221,3510 2219,3508 2205,3510" rendition="Line" xml:id="facs_1_r2l31"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3180" lry="4219" xml:id="facs_2">
+         <graphic url="D_05_Bemerkungen-mit-Fragezeichen_00002.jpeg" width="3180px" height="4219px"/>
+         <zone points="209,321 209,3453 2516,3453 2516,321" rendition="TextRegion" xml:id="facs_2_r1">
+            <zone points="1808,378 1861,366 1879,380 1973,383 2026,355 2062,386 2185,355 2217,371 2277,352 2278,316 2191,293 2102,292 2028,326 1975,300 1948,314 1871,292 1809,313" rendition="Line" xml:id="facs_2_r1l1"/>
+            <zone points="1263,365 1314,396 1651,391 1650,313 1621,306 1580,320 1556,304 1522,312 1489,292 1471,308 1417,299 1384,323 1363,311 1263,320" rendition="Line" xml:id="facs_2_r1l2"/>
+            <zone points="799,354 815,352 826,358 836,370 894,372 896,323 882,321 871,326 860,322 845,323 833,313 829,317 826,313 811,318 800,317" rendition="Line" xml:id="facs_2_r1l3"/>
+            <zone points="200,389 1284,387 1216,310 1057,298 967,370 837,370 750,314 200,324" rendition="Line" xml:id="facs_2_r1l4"/>
+            <zone points="1591,1142 1635,1135 1682,1152 1702,1135 1732,1135 1756,1151 1819,1118 1865,1139 1920,1125 1919,1076 1898,1084 1878,1075 1836,1084 1818,1073 1744,1078 1715,1092 1704,1083 1684,1092 1657,1077 1590,1089" rendition="Line" xml:id="facs_2_r1l5"/>
+            <zone points="1079,1232 2486,1224 2458,1181 2156,1169 1204,1203 1079,1147" rendition="Line" xml:id="facs_2_r1l6"/>
+            <zone points="1027,1299 2490,1286 2489,1251 2314,1233 1027,1262" rendition="Line" xml:id="facs_2_r1l7"/>
+            <zone points="1035,1355 2444,1349 2206,1298 1035,1322" rendition="Line" xml:id="facs_2_r1l8"/>
+            <zone points="1038,1422 2481,1417 2480,1365 2355,1353 1038,1380" rendition="Line" xml:id="facs_2_r1l9"/>
+            <zone points="1043,1472 2487,1468 2420,1414 1649,1452 1043,1421" rendition="Line" xml:id="facs_2_r1l10"/>
+            <zone points="1075,1540 2244,1551 2468,1532 2497,1488 1075,1505" rendition="Line" xml:id="facs_2_r1l11"/>
+            <zone points="1037,1589 2485,1590 2448,1532 1036,1554" rendition="Line" xml:id="facs_2_r1l12"/>
+            <zone points="1037,1659 2439,1655 2501,1646 2501,1595 1036,1626" rendition="Line" xml:id="facs_2_r1l13"/>
+            <zone points="1037,1721 2442,1723 2499,1659 1037,1678" rendition="Line" xml:id="facs_2_r1l14"/>
+            <zone points="1040,1764 2444,1787 2491,1747 2350,1713 1039,1742" rendition="Line" xml:id="facs_2_r1l15"/>
+            <zone points="1045,1834 2332,1838 2489,1827 2489,1787 1045,1792" rendition="Line" xml:id="facs_2_r1l16"/>
+            <zone points="1044,1889 2433,1898 2501,1837 1044,1857" rendition="Line" xml:id="facs_2_r1l17"/>
+            <zone points="1047,1955 2457,1960 2500,1897 1047,1915" rendition="Line" xml:id="facs_2_r1l18"/>
+            <zone points="1051,2010 1991,2036 2041,1995 2490,1999 2375,1944 1051,1981" rendition="Line" xml:id="facs_2_r1l19"/>
+            <zone points="1040,2078 2338,2080 2506,2058 2506,2013 1040,2026" rendition="Line" xml:id="facs_2_r1l20"/>
+            <zone points="1039,2133 2446,2133 2498,2091 1413,2074 1039,2113" rendition="Line" xml:id="facs_2_r1l21"/>
+            <zone points="1039,2201 2454,2195 2499,2140 1038,2156" rendition="Line" xml:id="facs_2_r1l22"/>
+            <zone points="1052,2261 2467,2251 2503,2197 1051,2223" rendition="Line" xml:id="facs_2_r1l23"/>
+            <zone points="1043,2337 2491,2317 2503,2278 2351,2242 1042,2281" rendition="Line" xml:id="facs_2_r1l24"/>
+            <zone points="1053,2379 2510,2354 2471,2304 2203,2301 1053,2346" rendition="Line" xml:id="facs_2_r1l25"/>
+            <zone points="1050,2428 2462,2413 2405,2359 1049,2390" rendition="Line" xml:id="facs_2_r1l26"/>
+            <zone points="1098,2490 2401,2491 2495,2479 2495,2428 1097,2456" rendition="Line" xml:id="facs_2_r1l27"/>
+            <zone points="1050,2553 2379,2559 2505,2518 2233,2481 1050,2530" rendition="Line" xml:id="facs_2_r1l28"/>
+            <zone points="1053,2608 2498,2603 2497,2556 2395,2545 1053,2587" rendition="Line" xml:id="facs_2_r1l29"/>
+            <zone points="1060,2668 2461,2664 2507,2604 1059,2632" rendition="Line" xml:id="facs_2_r1l30"/>
+            <zone points="1099,2737 2201,2742 2456,2727 2505,2674 1099,2696" rendition="Line" xml:id="facs_2_r1l31"/>
+            <zone points="1059,2779 2228,2792 2478,2783 2499,2739 1058,2737" rendition="Line" xml:id="facs_2_r1l32"/>
+            <zone points="1061,2849 2504,2848 2503,2783 1061,2802" rendition="Line" xml:id="facs_2_r1l33"/>
+            <zone points="1055,2907 2212,2919 2467,2903 2505,2848 1055,2867" rendition="Line" xml:id="facs_2_r1l34"/>
+            <zone points="1058,2973 2506,2955 2505,2915 2172,2903 1057,2933" rendition="Line" xml:id="facs_2_r1l35"/>
+            <zone points="1058,3034 1963,3044 2507,2989 2458,2955 1057,2996" rendition="Line" xml:id="facs_2_r1l36"/>
+            <zone points="1057,3084 2510,3090 2510,3043 1056,3035" rendition="Line" xml:id="facs_2_r1l37"/>
+            <zone points="1057,3142 2509,3151 2508,3093 2381,3076 1057,3121" rendition="Line" xml:id="facs_2_r1l38"/>
+            <zone points="1067,3205 2512,3211 2511,3148 2455,3136 1067,3163" rendition="Line" xml:id="facs_2_r1l39"/>
+            <zone points="1060,3268 2476,3264 2515,3207 1060,3219" rendition="Line" xml:id="facs_2_r1l40"/>
+            <zone points="1062,3322 2523,3307 2522,3271 2367,3262 1062,3299" rendition="Line" xml:id="facs_2_r1l41"/>
+            <zone points="1065,3388 2374,3388 2526,3335 1065,3351" rendition="Line" xml:id="facs_2_r1l42"/>
+            <zone points="1068,3443 1088,3442 1110,3460 1348,3447 1410,3462 1410,3415 1390,3419 1355,3392 1319,3402 1284,3384 1255,3397 1219,3390 1156,3413 1131,3393 1105,3399 1067,3388" rendition="Line" xml:id="facs_2_r1l43"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3124" lry="4219" xml:id="facs_3">
+         <graphic url="D_05_Bemerkungen-mit-Fragezeichen_00003.jpeg" width="3124px" height="4219px"/>
+         <zone points="124,315 124,359 682,359 682,315" rendition="TextRegion" xml:id="facs_3_r1">
+            <zone points="115,337 414,377 518,333 580,371 691,367 691,285 545,267 374,300 292,280 228,317 144,275 115,293" rendition="Line" xml:id="facs_3_r1l1"/>
+            <zone points="466,369 475,370 485,361 492,365 498,360 505,363 514,363 517,322 506,321 499,315 484,328 480,324 469,324" rendition="Line" xml:id="facs_3_r1l2"/>
+         </zone>
+         <zone points="681,284 681,3543 2319,3543 2319,284" rendition="TextRegion" xml:id="facs_3_r2">
+            <zone points="1861,328 2030,340 2056,327 2116,356 2163,328 2207,355 2234,329 2267,342 2329,311 2329,289 2232,255 2108,264 2065,299 2003,274 1860,266" rendition="Line" xml:id="facs_3_r2l1"/>
+            <zone points="1375,326 1404,331 1449,363 1461,353 1593,360 1640,350 1693,362 1691,276 1653,273 1620,285 1551,268 1495,284 1471,269 1374,284" rendition="Line" xml:id="facs_3_r2l2"/>
+            <zone points="680,363 871,385 970,358 1420,359 1419,326 1281,280 1182,294 1089,273 1047,305 963,269 849,316 767,280 679,286" rendition="Line" xml:id="facs_3_r2l3"/>
+            <zone points="1234,1067 1261,1059 1369,1074 1458,1054 1544,1062 1571,1056 1571,998 1467,1023 1418,1007 1379,1014 1352,1000 1233,1012" rendition="Line" xml:id="facs_3_r2l4"/>
+            <zone points="717,1153 2060,1164 2133,1149 2133,1099 717,1105" rendition="Line" xml:id="facs_3_r2l5"/>
+            <zone points="671,1198 1072,1236 2127,1212 2047,1157 671,1178" rendition="Line" xml:id="facs_3_r2l6"/>
+            <zone points="675,1269 2140,1278 2089,1222 1929,1213 675,1240" rendition="Line" xml:id="facs_3_r2l7"/>
+            <zone points="677,1335 863,1337 897,1352 914,1337 1056,1331 1129,1349 1160,1338 1160,1311 1107,1284 1045,1300 1006,1288 877,1301 842,1283 810,1307 744,1282 713,1304 677,1304" rendition="Line" xml:id="facs_3_r2l8"/>
+            <zone points="739,1414 2133,1404 2133,1353 738,1346" rendition="Line" xml:id="facs_3_r2l9"/>
+            <zone points="676,1464 2125,1473 2125,1416 2043,1398 676,1425" rendition="Line" xml:id="facs_3_r2l10"/>
+            <zone points="672,1524 2101,1531 2128,1472 672,1488" rendition="Line" xml:id="facs_3_r2l11"/>
+            <zone points="675,1586 2129,1586 2087,1527 674,1547" rendition="Line" xml:id="facs_3_r2l12"/>
+            <zone points="681,1634 2068,1649 2133,1636 2133,1589 680,1595" rendition="Line" xml:id="facs_3_r2l13"/>
+            <zone points="676,1704 2129,1683 2085,1645 1722,1640 676,1672" rendition="Line" xml:id="facs_3_r2l14"/>
+            <zone points="676,1756 1812,1773 2085,1762 2123,1712 676,1737" rendition="Line" xml:id="facs_3_r2l15"/>
+            <zone points="680,1827 2135,1824 2134,1769 2007,1759 791,1767 680,1806" rendition="Line" xml:id="facs_3_r2l16"/>
+            <zone points="677,1880 2066,1888 2130,1850 908,1824 677,1861" rendition="Line" xml:id="facs_3_r2l17"/>
+            <zone points="675,1938 1799,1958 2131,1945 2131,1898 674,1905" rendition="Line" xml:id="facs_3_r2l18"/>
+            <zone points="678,1996 2038,2015 2136,1957 678,1959" rendition="Line" xml:id="facs_3_r2l19"/>
+            <zone points="684,2070 2131,2076 2134,2015 683,1997" rendition="Line" xml:id="facs_3_r2l20"/>
+            <zone points="686,2127 1020,2126 1019,2084 977,2073 952,2081 921,2065 826,2084 802,2066 784,2075 757,2062 726,2081 686,2083" rendition="Line" xml:id="facs_3_r2l21"/>
+            <zone points="732,2179 2136,2178 2026,2115 1915,2148 732,2130" rendition="Line" xml:id="facs_3_r2l22"/>
+            <zone points="680,2259 2063,2256 2134,2204 679,2210" rendition="Line" xml:id="facs_3_r2l23"/>
+            <zone points="679,2309 1993,2322 2130,2262 679,2272" rendition="Line" xml:id="facs_3_r2l24"/>
+            <zone points="681,2368 2134,2370 2134,2326 2046,2306 681,2317" rendition="Line" xml:id="facs_3_r2l25"/>
+            <zone points="681,2425 2141,2425 2080,2364 680,2385" rendition="Line" xml:id="facs_3_r2l26"/>
+            <zone points="691,2496 2011,2494 2136,2474 2136,2436 691,2446" rendition="Line" xml:id="facs_3_r2l27"/>
+            <zone points="684,2549 1922,2562 2137,2541 2137,2492 684,2516" rendition="Line" xml:id="facs_3_r2l28"/>
+            <zone points="680,2606 2138,2590 2088,2542 1762,2537 679,2590" rendition="Line" xml:id="facs_3_r2l29"/>
+            <zone points="681,2668 2132,2664 2131,2611 2068,2605 681,2617" rendition="Line" xml:id="facs_3_r2l30"/>
+            <zone points="688,2741 2135,2715 2134,2667 2085,2664 687,2692" rendition="Line" xml:id="facs_3_r2l31"/>
+            <zone points="679,2782 2139,2765 2065,2718 679,2747" rendition="Line" xml:id="facs_3_r2l32"/>
+            <zone points="685,2848 2074,2857 2138,2792 685,2797" rendition="Line" xml:id="facs_3_r2l33"/>
+            <zone points="689,2899 2136,2903 2135,2854 2033,2844 689,2870" rendition="Line" xml:id="facs_3_r2l34"/>
+            <zone points="685,2975 2132,2967 2132,2927 2000,2899 685,2924" rendition="Line" xml:id="facs_3_r2l35"/>
+            <zone points="690,3022 2143,3017 2142,2975 1978,2956 690,2989" rendition="Line" xml:id="facs_3_r2l36"/>
+            <zone points="680,3085 2032,3088 2132,3036 679,3051" rendition="Line" xml:id="facs_3_r2l37"/>
+            <zone points="687,3159 1992,3151 2134,3134 2134,3091 687,3103" rendition="Line" xml:id="facs_3_r2l38"/>
+            <zone points="691,3185 1030,3228 1876,3212 2140,3193 2140,3145 691,3163" rendition="Line" xml:id="facs_3_r2l39"/>
+            <zone points="682,3270 1585,3275 1632,3240 1772,3281 2122,3252 2138,3208 682,3217" rendition="Line" xml:id="facs_3_r2l40"/>
+            <zone points="677,3300 744,3336 1965,3332 2111,3328 2153,3276 676,3271" rendition="Line" xml:id="facs_3_r2l41"/>
+            <zone points="679,3378 2148,3364 2046,3316 679,3342" rendition="Line" xml:id="facs_3_r2l42"/>
+            <zone points="2049,3531 2114,3552 2125,3551 2135,3543 2146,3544 2141,3446 2128,3447 2123,3452 2108,3451 2103,3457 2068,3455 2055,3469 2046,3469" rendition="Line" xml:id="facs_3_r2l43"/>
+         </zone>
+         <zone points="2444,2573 2444,2736 2738,2736 2738,2573" rendition="TextRegion" xml:id="facs_3_r3">
+            <zone points="2435,2723 2529,2685 2573,2686 2591,2700 2651,2684 2677,2697 2710,2680 2728,2692 2748,2681 2747,2606 2707,2623 2690,2607 2668,2619 2646,2606 2616,2618 2595,2611 2581,2624 2494,2627 2461,2657 2434,2648" rendition="Line" xml:id="facs_3_r3l1"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3124" lry="4219" xml:id="facs_4">
+         <graphic url="D_05_Bemerkungen-mit-Fragezeichen_00004.jpeg" width="3124px" height="4219px"/>
+         <zone points="76,257 76,3567 2496,3567 2496,257" rendition="TextRegion" xml:id="facs_4_r1">
+            <zone points="1811,286 1878,306 1942,291 1973,310 2022,284 2069,308 2155,305 2176,289 2227,300 2273,285 2273,245 2189,220 2169,232 2075,223 2022,259 1939,226 1891,251 1857,226 1811,251" rendition="Line" xml:id="facs_4_r1l1"/>
+            <zone points="1226,324 1255,318 1273,329 1300,319 1335,324 1422,318 1421,239 1399,240 1383,255 1350,242 1341,248 1312,239 1285,256 1225,244" rendition="Line" xml:id="facs_4_r1l2"/>
+            <zone points="1419,319 1452,318 1460,325 1474,318 1509,327 1529,321 1537,328 1561,316 1589,321 1618,296 1656,296 1652,253 1639,256 1606,235 1589,248 1565,241 1551,252 1537,251 1497,233 1437,261 1413,258" rendition="Line" xml:id="facs_4_r1l3"/>
+            <zone points="1605,322 1617,325 1627,318 1634,319 1639,325 1647,322 1659,323 1663,285 1650,284 1640,289 1628,289 1626,291 1607,289" rendition="Line" xml:id="facs_4_r1l4"/>
+            <zone points="67,308 1110,338 1233,319 1234,245 67,264" rendition="Line" xml:id="facs_4_r1l5"/>
+            <zone points="430,335 445,333 456,337 461,333 470,337 483,330 499,335 508,328 519,336 528,332 539,338 545,332 554,332 554,296 545,296 538,303 529,298 523,303 496,303 487,293 480,292 458,306 431,305" rendition="Line" xml:id="facs_4_r1l6"/>
+            <zone points="1000,1082 2398,1080 2463,1028 1000,1042" rendition="Line" xml:id="facs_4_r1l7"/>
+            <zone points="1004,1142 2464,1132 2407,1071 1004,1096" rendition="Line" xml:id="facs_4_r1l8"/>
+            <zone points="1012,1200 2416,1198 2466,1142 1012,1173" rendition="Line" xml:id="facs_4_r1l9"/>
+            <zone points="1020,1256 2463,1240 2320,1184 1219,1233 1019,1203" rendition="Line" xml:id="facs_4_r1l10"/>
+            <zone points="1017,1317 2480,1311 2479,1268 2392,1247 1016,1290" rendition="Line" xml:id="facs_4_r1l11"/>
+            <zone points="1016,1373 2272,1380 2439,1367 2479,1312 1016,1339" rendition="Line" xml:id="facs_4_r1l12"/>
+            <zone points="1016,1444 1048,1457 1070,1445 1090,1453 1103,1447 1116,1453 1150,1445 1159,1449 1201,1431 1202,1406 1186,1406 1168,1396 1139,1401 1131,1393 1110,1393 1099,1382 1073,1392 1057,1390 1046,1401 1017,1393" rendition="Line" xml:id="facs_4_r1l13"/>
+            <zone points="1507,1555 1549,1558 1597,1588 1673,1561 1724,1571 1742,1552 1863,1543 1933,1559 1969,1546 1968,1491 1899,1507 1793,1484 1697,1515 1668,1497 1628,1513 1506,1497" rendition="Line" xml:id="facs_4_r1l14"/>
+            <zone points="1063,1643 1236,1677 2461,1650 2460,1601 2311,1592 1261,1625 1062,1566" rendition="Line" xml:id="facs_4_r1l15"/>
+            <zone points="1013,1722 2295,1731 2476,1678 1013,1701" rendition="Line" xml:id="facs_4_r1l16"/>
+            <zone points="1018,1781 2354,1783 2468,1772 2467,1707 1017,1733" rendition="Line" xml:id="facs_4_r1l17"/>
+            <zone points="1016,1841 2476,1821 2375,1770 1016,1803" rendition="Line" xml:id="facs_4_r1l18"/>
+            <zone points="1027,1894 2470,1904 2497,1863 2382,1828 1026,1878" rendition="Line" xml:id="facs_4_r1l19"/>
+            <zone points="1025,1958 2485,1943 2410,1891 1025,1921" rendition="Line" xml:id="facs_4_r1l20"/>
+            <zone points="1022,2032 2478,2014 2477,1974 2357,1949 1021,1986" rendition="Line" xml:id="facs_4_r1l21"/>
+            <zone points="1020,2073 2482,2050 2285,2009 1020,2047" rendition="Line" xml:id="facs_4_r1l22"/>
+            <zone points="1028,2151 2309,2142 2434,2135 2474,2082 1027,2108" rendition="Line" xml:id="facs_4_r1l23"/>
+            <zone points="1024,2210 2462,2198 2461,2140 2332,2124 1024,2170" rendition="Line" xml:id="facs_4_r1l24"/>
+            <zone points="1024,2268 2478,2243 2477,2203 2355,2187 1023,2224" rendition="Line" xml:id="facs_4_r1l25"/>
+            <zone points="1024,2317 2469,2303 2424,2250 1023,2286" rendition="Line" xml:id="facs_4_r1l26"/>
+            <zone points="1023,2376 2490,2358 2489,2314 2411,2304 1023,2353" rendition="Line" xml:id="facs_4_r1l27"/>
+            <zone points="1027,2441 2488,2413 2385,2366 1026,2398" rendition="Line" xml:id="facs_4_r1l28"/>
+            <zone points="1028,2494 2482,2480 2454,2430 2358,2424 1028,2472" rendition="Line" xml:id="facs_4_r1l29"/>
+            <zone points="1035,2575 2487,2552 2486,2503 2428,2490 1034,2504" rendition="Line" xml:id="facs_4_r1l30"/>
+            <zone points="1035,2599 2425,2615 2483,2555 1035,2579" rendition="Line" xml:id="facs_4_r1l31"/>
+            <zone points="1029,2669 2469,2681 2499,2619 1029,2642" rendition="Line" xml:id="facs_4_r1l32"/>
+            <zone points="1037,2735 1897,2742 1960,2723 1959,2679 1036,2695" rendition="Line" xml:id="facs_4_r1l33"/>
+            <zone points="1081,2813 2491,2794 2490,2745 2421,2722 1080,2764" rendition="Line" xml:id="facs_4_r1l34"/>
+            <zone points="1028,2858 2490,2847 2489,2795 1028,2842" rendition="Line" xml:id="facs_4_r1l35"/>
+            <zone points="1032,2915 2483,2909 2386,2849 1032,2879" rendition="Line" xml:id="facs_4_r1l36"/>
+            <zone points="1038,3000 2481,2973 2480,2923 2376,2917 1037,2947" rendition="Line" xml:id="facs_4_r1l37"/>
+            <zone points="1037,3053 2487,3020 2486,2970 1036,3002" rendition="Line" xml:id="facs_4_r1l38"/>
+            <zone points="1037,3110 2466,3103 2496,3044 1249,3045 1037,3084" rendition="Line" xml:id="facs_4_r1l39"/>
+            <zone points="1038,3162 2254,3165 2501,3118 2267,3085 1037,3120" rendition="Line" xml:id="facs_4_r1l40"/>
+            <zone points="1036,3217 2294,3226 2475,3216 2493,3161 1035,3190" rendition="Line" xml:id="facs_4_r1l41"/>
+            <zone points="1043,3286 2432,3277 2504,3227 1043,3246" rendition="Line" xml:id="facs_4_r1l42"/>
+            <zone points="1037,3331 2499,3315 2309,3268 1037,3298" rendition="Line" xml:id="facs_4_r1l43"/>
+            <zone points="1035,3389 1170,3424 1266,3394 1368,3417 2011,3399 1967,3338 1035,3367" rendition="Line" xml:id="facs_4_r1l44"/>
+            <zone points="1047,3570 1062,3571 1068,3568 1081,3582 1133,3576 1136,3519 1122,3518 1107,3523 1102,3517 1096,3519 1082,3512 1069,3517 1065,3513 1051,3514" rendition="Line" xml:id="facs_4_r1l45"/>
+         </zone>
+         <zone points="2529,2011 2529,2177 2704,2177 2704,2011" rendition="TextRegion" xml:id="facs_4_r2">
+            <zone points="2517,2148 2535,2154 2548,2142 2605,2125 2613,2135 2650,2127 2658,2137 2683,2124 2690,2131 2714,2129 2726,1984 2671,1994 2642,1982 2581,2001 2565,1985 2530,1995" rendition="Line" xml:id="facs_4_r2l1"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3124" lry="4219" xml:id="facs_5">
+         <graphic url="D_05_Bemerkungen-mit-Fragezeichen_00005.jpeg" width="3124px" height="4219px"/>
+         <zone points="140,267 140,3448 2336,3448 2336,267" rendition="TextRegion" xml:id="facs_5_r1">
+            <zone points="1872,320 2060,323 2086,310 2171,327 2213,314 2260,331 2279,316 2346,319 2346,257 2295,244 2133,237 2109,257 2057,262 2011,251 1958,266 1913,245 1873,258" rendition="Line" xml:id="facs_5_r1l1"/>
+            <zone points="1296,307 1376,340 1614,332 1647,343 1731,327 1731,256 1700,247 1654,267 1627,254 1602,267 1560,248 1518,265 1456,246 1398,271 1296,245" rendition="Line" xml:id="facs_5_r1l2"/>
+            <zone points="986,316 1005,311 1009,315 1022,313 1015,253 1007,254 999,261 994,261 989,268 980,269" rendition="Line" xml:id="facs_5_r1l3"/>
+            <zone points="131,327 470,361 530,320 679,351 1341,337 1286,265 1104,250 1018,313 898,263 312,262 253,295 132,263" rendition="Line" xml:id="facs_5_r1l4"/>
+            <zone points="520,352 536,354 542,351 549,351 566,343 575,344 577,320 555,319 549,322 548,320 522,319" rendition="Line" xml:id="facs_5_r1l5"/>
+            <zone points="1043,975 1212,972 1267,1001 1309,973 1692,982 1810,971 1839,907 1742,935 1611,908 1547,932 1411,907 1280,933 1207,912 1043,925" rendition="Line" xml:id="facs_5_r1l6"/>
+            <zone points="770,1071 2037,1076 2185,1039 769,998" rendition="Line" xml:id="facs_5_r1l7"/>
+            <zone points="715,1136 2090,1141 2177,1092 714,1079" rendition="Line" xml:id="facs_5_r1l8"/>
+            <zone points="716,1183 2069,1195 2177,1178 2177,1127 716,1163" rendition="Line" xml:id="facs_5_r1l9"/>
+            <zone points="724,1246 2172,1242 2172,1202 2021,1184 724,1202" rendition="Line" xml:id="facs_5_r1l10"/>
+            <zone points="720,1300 2187,1300 2150,1251 1884,1244 720,1284" rendition="Line" xml:id="facs_5_r1l11"/>
+            <zone points="729,1378 2136,1371 2176,1321 728,1335" rendition="Line" xml:id="facs_5_r1l12"/>
+            <zone points="728,1415 2191,1421 1961,1364 728,1393" rendition="Line" xml:id="facs_5_r1l13"/>
+            <zone points="724,1478 2195,1494 2195,1432 723,1450" rendition="Line" xml:id="facs_5_r1l14"/>
+            <zone points="732,1555 2041,1559 2181,1540 2181,1491 731,1493" rendition="Line" xml:id="facs_5_r1l15"/>
+            <zone points="725,1603 2191,1603 2080,1544 725,1557" rendition="Line" xml:id="facs_5_r1l16"/>
+            <zone points="726,1666 2125,1668 2190,1622 726,1623" rendition="Line" xml:id="facs_5_r1l17"/>
+            <zone points="727,1722 2192,1705 2191,1661 727,1668" rendition="Line" xml:id="facs_5_r1l18"/>
+            <zone points="727,1783 2184,1791 2045,1725 726,1743" rendition="Line" xml:id="facs_5_r1l19"/>
+            <zone points="731,1841 2101,1854 2186,1839 2186,1793 731,1801" rendition="Line" xml:id="facs_5_r1l20"/>
+            <zone points="734,1899 2191,1895 2041,1837 733,1877" rendition="Line" xml:id="facs_5_r1l21"/>
+            <zone points="731,1961 2152,1971 2186,1916 731,1918" rendition="Line" xml:id="facs_5_r1l22"/>
+            <zone points="724,2034 2185,2018 2130,1960 2015,1955 1922,1990 724,1983" rendition="Line" xml:id="facs_5_r1l23"/>
+            <zone points="727,2083 2190,2072 2018,2018 727,2040" rendition="Line" xml:id="facs_5_r1l24"/>
+            <zone points="728,2156 2132,2161 2201,2113 1139,2082 727,2121" rendition="Line" xml:id="facs_5_r1l25"/>
+            <zone points="728,2200 1791,2213 1833,2208 1833,2164 727,2163" rendition="Line" xml:id="facs_5_r1l26"/>
+            <zone points="1067,2358 1466,2374 1830,2340 1829,2293 1802,2282 1731,2311 1551,2280 1433,2315 1066,2301" rendition="Line" xml:id="facs_5_r1l27"/>
+            <zone points="775,2440 2185,2444 2185,2381 1094,2412 775,2356" rendition="Line" xml:id="facs_5_r1l28"/>
+            <zone points="721,2511 2082,2514 2180,2461 721,2478" rendition="Line" xml:id="facs_5_r1l29"/>
+            <zone points="732,2578 2180,2562 2134,2507 732,2525" rendition="Line" xml:id="facs_5_r1l30"/>
+            <zone points="735,2630 2185,2619 2124,2564 735,2579" rendition="Line" xml:id="facs_5_r1l31"/>
+            <zone points="732,2687 1833,2701 2182,2682 2182,2635 732,2649" rendition="Line" xml:id="facs_5_r1l32"/>
+            <zone points="737,2750 2119,2754 2181,2710 737,2715" rendition="Line" xml:id="facs_5_r1l33"/>
+            <zone points="730,2809 2132,2815 2196,2802 2196,2756 730,2767" rendition="Line" xml:id="facs_5_r1l34"/>
+            <zone points="738,2865 2040,2880 2171,2861 2196,2814 737,2837" rendition="Line" xml:id="facs_5_r1l35"/>
+            <zone points="737,2927 2118,2941 2190,2871 737,2896" rendition="Line" xml:id="facs_5_r1l36"/>
+            <zone points="1850,3075 1862,3072 1869,3076 1872,3069 1883,3067 1869,3012 1855,3014 1850,3011 1847,3014 1845,3012 1834,3015" rendition="Line" xml:id="facs_5_r1l37"/>
+            <zone points="1043,3079 1556,3072 1645,3099 1707,3072 1791,3092 1803,3033 1411,3009 1340,3026 1288,3000 1092,3025 1043,3003" rendition="Line" xml:id="facs_5_r1l38"/>
+            <zone points="813,3154 2181,3156 2180,3119 1987,3104 1809,3137 812,3101" rendition="Line" xml:id="facs_5_r1l39"/>
+            <zone points="734,3225 2197,3227 2020,3164 819,3172 734,3209" rendition="Line" xml:id="facs_5_r1l40"/>
+            <zone points="734,3294 1982,3301 2196,3247 734,3250" rendition="Line" xml:id="facs_5_r1l41"/>
+            <zone points="2105,3447 2121,3443 2138,3451 2152,3438 2162,3446 2169,3444 2176,3451 2183,3445 2194,3445 2191,3378 2180,3378 2175,3384 2146,3380 2141,3384 2130,3384 2116,3397 2103,3396" rendition="Line" xml:id="facs_5_r1l42"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3284" lry="4252" xml:id="facs_6">
+         <graphic url="D_05_Bemerkungen-mit-Fragezeichen_00006.jpeg" width="3284px" height="4252px"/>
+         <zone points="145,236 145,403 801,403 801,236" rendition="TextRegion" xml:id="facs_6_r1">
+            <zone points="136,354 229,348 314,377 809,367 810,290 680,299 538,273 347,298 292,275 215,310 137,271" rendition="Line" xml:id="facs_6_r1l1"/>
+         </zone>
+         <zone points="823,291 823,3126 2589,3126 2589,291" rendition="TextRegion" xml:id="facs_6_r2">
+            <zone points="1862,347 1891,355 1933,333 1976,347 1993,333 2027,349 2045,333 2096,333 2160,358 2194,355 2247,315 2267,335 2325,324 2325,291 2260,258 2207,269 2123,251 2027,284 1947,284 1918,262 1891,282 1862,277" rendition="Line" xml:id="facs_6_r2l1"/>
+            <zone points="814,340 1024,338 1046,329 1043,262 1007,275 996,268 984,281 942,279 923,294 901,286 860,315 825,289 812,289" rendition="Line" xml:id="facs_6_r2l2"/>
+            <zone points="970,387 1061,358 1615,363 1651,333 1709,333 1707,293 1652,269 1591,284 1475,263 1293,295 1188,296 1121,267 1030,336 968,335" rendition="Line" xml:id="facs_6_r2l3"/>
+            <zone points="1652,375 1661,376 1663,374 1674,386 1686,384 1693,379 1711,381 1717,326 1699,323 1685,332 1677,326 1657,326" rendition="Line" xml:id="facs_6_r2l4"/>
+            <zone points="1120,1056 2197,1073 2534,1059 2572,1013 1120,1019" rendition="Line" xml:id="facs_6_r2l5"/>
+            <zone points="1125,1117 2486,1120 2582,1062 1125,1071" rendition="Line" xml:id="facs_6_r2l6"/>
+            <zone points="1121,1166 2545,1184 2582,1124 1121,1148" rendition="Line" xml:id="facs_6_r2l7"/>
+            <zone points="1123,1226 2477,1248 2573,1198 1123,1207" rendition="Line" xml:id="facs_6_r2l8"/>
+            <zone points="1124,1285 2589,1294 2540,1233 1124,1245" rendition="Line" xml:id="facs_6_r2l9"/>
+            <zone points="1128,1354 2509,1369 2574,1356 2574,1309 1128,1325" rendition="Line" xml:id="facs_6_r2l10"/>
+            <zone points="1128,1420 2542,1410 2541,1372 2365,1353 1127,1351" rendition="Line" xml:id="facs_6_r2l11"/>
+            <zone points="1124,1471 2525,1482 2585,1424 1124,1451" rendition="Line" xml:id="facs_6_r2l12"/>
+            <zone points="1117,1511 2282,1550 2529,1534 2578,1485 1116,1491" rendition="Line" xml:id="facs_6_r2l13"/>
+            <zone points="1123,1596 2319,1613 2560,1594 2587,1552 1122,1558" rendition="Line" xml:id="facs_6_r2l14"/>
+            <zone points="1139,1645 1520,1674 2160,1646 2304,1684 2380,1612 1138,1616" rendition="Line" xml:id="facs_6_r2l15"/>
+            <zone points="1457,1810 1696,1801 1775,1828 1949,1795 2243,1805 2243,1734 2185,1756 2057,1726 1787,1763 1457,1750" rendition="Line" xml:id="facs_6_r2l16"/>
+            <zone points="1170,1907 2577,1911 2535,1849 1321,1870 1170,1831" rendition="Line" xml:id="facs_6_r2l17"/>
+            <zone points="1122,1947 2443,1982 2576,1957 2576,1911 1122,1923" rendition="Line" xml:id="facs_6_r2l18"/>
+            <zone points="1122,2016 2311,2041 2560,2028 2585,1981 1122,2000" rendition="Line" xml:id="facs_6_r2l19"/>
+            <zone points="1123,2079 2385,2098 2548,2092 2588,2039 1123,2056" rendition="Line" xml:id="facs_6_r2l20"/>
+            <zone points="1126,2158 2553,2160 2593,2100 1126,2103" rendition="Line" xml:id="facs_6_r2l21"/>
+            <zone points="1124,2197 2576,2206 2495,2148 1124,2177" rendition="Line" xml:id="facs_6_r2l22"/>
+            <zone points="1122,2250 2527,2275 2579,2268 2579,2204 1121,2215" rendition="Line" xml:id="facs_6_r2l23"/>
+            <zone points="1133,2320 2587,2317 2547,2266 1133,2286" rendition="Line" xml:id="facs_6_r2l24"/>
+            <zone points="1126,2379 2482,2395 2589,2386 2589,2346 1126,2354" rendition="Line" xml:id="facs_6_r2l25"/>
+            <zone points="1126,2446 2475,2451 2431,2386 1126,2413" rendition="Line" xml:id="facs_6_r2l26"/>
+            <zone points="1553,2597 1586,2588 1622,2615 1657,2591 1797,2592 1847,2618 1989,2616 2098,2581 2127,2604 2152,2592 2152,2533 1553,2550" rendition="Line" xml:id="facs_6_r2l27"/>
+            <zone points="1189,2687 2581,2703 2581,2652 2495,2635 1555,2662 1189,2625" rendition="Line" xml:id="facs_6_r2l28"/>
+            <zone points="1133,2762 2578,2773 2534,2706 2362,2691 1133,2715" rendition="Line" xml:id="facs_6_r2l29"/>
+            <zone points="1117,2817 2380,2832 2582,2776 1117,2786" rendition="Line" xml:id="facs_6_r2l30"/>
+            <zone points="1125,2867 2525,2889 2592,2830 1125,2850" rendition="Line" xml:id="facs_6_r2l31"/>
+            <zone points="1129,2925 2588,2935 2487,2879 1129,2889" rendition="Line" xml:id="facs_6_r2l32"/>
+            <zone points="1122,2996 2447,3026 2592,2995 2592,2938 1122,2965" rendition="Line" xml:id="facs_6_r2l33"/>
+            <zone points="1133,3062 2598,3057 2597,3011 2456,2986 1280,2997 1133,3037" rendition="Line" xml:id="facs_6_r2l34"/>
+            <zone points="1126,3115 1197,3135 1404,3114 1506,3131 1555,3110 1711,3126 1760,3112 1760,3081 1665,3063 1382,3082 1344,3062 1288,3080 1248,3062 1126,3083" rendition="Line" xml:id="facs_6_r2l35"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l1" n="N001"/>84
+               <lb facs="#facs_1_r1l2" n="N002"/>r
+               <lb facs="#facs_1_r1l3" n="N003"/>der
+            </ab>
+            <ab facs="#facs_1_r2">
+               <lb facs="#facs_1_r2l1" n="N001"/>box 35/4
+               <lb facs="#facs_1_r2l2" n="N002"/>nit Fragezeichen
+               <lb facs="#facs_1_r2l3" n="N003"/>Benerkungen
+               <lb facs="#facs_1_r2l4" n="N004"/>ARTHUR SCHNTTZLER
+               <lb facs="#facs_1_r2l5" n="N005"/>Bemerlungen mit Fragezeichen
+               <lb facs="#facs_1_r2l6" n="N006"/>1 Rationalismus —
+               <lb facs="#facs_1_r2l7" n="N007"/>Viel zu-wenig, groß und klein, nah und fern, das sind höchst
+               <lb facs="#facs_1_r2l8" n="N008"/>relative Begriffe; und eine durchaus sentimentale Naturbetrachtung
+               <lb facs="#facs_1_r2l9" n="N009"/>muß man es nennen, wenn die Menschen immer wieder anläßlich
+               <lb facs="#facs_1_r2l10" n="N010"/>besonders hoher oder besonders niederer Ziffern in eine Art reli¬
+               <lb facs="#facs_1_r2l11" n="N011"/>giöser Verzückung geraten. Denn es ist um nichts merkwürdiger,
+               <lb facs="#facs_1_r2l12" n="N012"/>daß das Licht von gewissen Gestirnen her erst nach Jahrtausenden
+               <lb facs="#facs_1_r2l13" n="N013"/>zu uns gelangt, daß ein halbes Gramm Uran erst nach fünftausend
+               <lb facs="#facs_1_r2l14" n="N014"/>Millionen Jahren völlig zerfallen ist, daß in einem Kubikzentimeter
+               <lb facs="#facs_1_r2l15" n="N015"/>Meerwasser über eine Million Radiolarien enthalten sind und daß
+               <lb facs="#facs_1_r2l16" n="N016"/>der Ichthyosaurus schon vor zweihundert Millionen Jahren gelebt
+               <lb facs="#facs_1_r2l17" n="N017"/>hat, — um nichts merkwürdiger, als daß das Körpermaß des erwach¬
+               <lb facs="#facs_1_r2l18" n="N018"/>senen Menschen fünf bis sechs Fuß beträgt, daß das Licht der Sonne
+               <lb facs="#facs_1_r2l19" n="N019"/>schon nach acht Minuten bei uns eintrifft, daß gewisse chemische
+               <lb facs="#facs_1_r2l20" n="N020"/>Stoffe sich innerhalb weniger Sekunden auflösen, daß der Anfang
+               <lb facs="#facs_1_r2l21" n="N021"/>des Menschengeschlechtes nur auf zo bis go.ooo Jahre zurückgcht
+               <lb facs="#facs_1_r2l22" n="N022"/>usw. Daß überhaupt etwas ist, der Geist ebenso wie die Materie,
+               <lb facs="#facs_1_r2l23" n="N023"/>das Licht, der Ather, Entstehen, Blühen und Vergchen — das ist
+               <lb facs="#facs_1_r2l24" n="N024"/>das Wundey und gegenüber diesen ewigen Rätseln hat Staunen,
+               <lb facs="#facs_1_r2l25" n="N025"/>Ehrfurcht, ja, wenn man will, Glaube seinen Sinn: Ziffern und
+               <lb facs="#facs_1_r2l26" n="N026"/>Maße, hohe wie niedere, sind nichts als ein unerläßliches Mittel
+               <lb facs="#facs_1_r2l27" n="N027"/>der Verständigung zwischen den Menschen; Andacht aber vor den
+               <lb facs="#facs_1_r2l28" n="N028"/>Quantitäten, vor verschwindend kleinen und ungeheuer großen
+               <lb facs="#facs_1_r2l29" n="N029"/>Zahlen, welches Maß immer in Zeit und Raum sie ausdrücken
+               <lb facs="#facs_1_r2l30" n="N030"/>mögen, ist nicht Frömmigkeit, sondern Götzendienst.
+               <lb facs="#facs_1_r2l31" n="N031"/>7
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_r1">
+               <lb facs="#facs_2_r1l1" n="N001"/>box 35/4
+               <lb facs="#facs_2_r1l2" n="N002"/>zeichen
+               <lb facs="#facs_2_r1l3" n="N003"/>m
+               <lb facs="#facs_2_r1l4" n="N004"/>Benerkungen Fragt
+               <lb facs="#facs_2_r1l5" n="N005"/>Mystik —?
+               <lb facs="#facs_2_r1l6" n="N006"/>Den Verlauf einer Infektionskrankheit im menschlichen Körper
+               <lb facs="#facs_2_r1l7" n="N007"/>dürfen wir uns vielleicht als die Geschichte eines Geschlechts von
+               <lb facs="#facs_2_r1l8" n="N008"/>Bazillen vorstellen, sein Entstehen, Blühen und Vergehen; —
+               <lb facs="#facs_2_r1l9" n="N009"/>Geschichte so gut, wie die Geschichte des Menschengeschlechtes,
+               <lb facs="#facs_2_r1l10" n="N010"/>freilich in anderen Maßen, aber doch der Idee nach das gleiche.
+               <lb facs="#facs_2_r1l11" n="N011"/>Solch ein Bazillengeschlecht lebr im Blut, in der Lymphe, im
+               <lb facs="#facs_2_r1l12" n="N012"/>Gewebe eines menschlichen Individuums; dieser von unserem Stand¬
+               <lb facs="#facs_2_r1l13" n="N013"/>punkt aus erkrankte Mensch ist ihre Landschaft, ihre Welt; und daß
+               <lb facs="#facs_2_r1l14" n="N014"/>jene kleinsten Individuen unbewußt und absichtslos diese ihre Welt
+               <lb facs="#facs_2_r1l15" n="N015"/>zu vernichten streben und oft wirklich vernichten, ist Bedingung,
+               <lb facs="#facs_2_r1l16" n="N016"/>Notwendigkeit, Sinn ihres Daseins. (Wer weiß, ob die ein¬
+               <lb facs="#facs_2_r1l17" n="N017"/>zelnen Individuen eines solchen Bazillengeschlechtes nicht geradeso
+               <lb facs="#facs_2_r1l18" n="N018"/>wie die menschlichen Individuen von höchst verschiedener Begabung
+               <lb facs="#facs_2_r1l19" n="N019"/>und Willensstärke sind und ob es nicht aber unter ihnen Alltags¬
+               <lb facs="#facs_2_r1l20" n="N020"/>bazillen und Genies gibt?) Wäre es nun nicht denkbar, daß auch
+               <lb facs="#facs_2_r1l21" n="N021"/>die Menschheit für irgendeinen höheren, uns als Ganzes unfaßbaren
+               <lb facs="#facs_2_r1l22" n="N022"/>Organismus, innerhalb dessen sie Bedingung, Notwendigkeit und
+               <lb facs="#facs_2_r1l23" n="N023"/>Sinn ihres Daseins findet, eine Krankheit bedeutet und daß sie
+               <lb facs="#facs_2_r1l24" n="N024"/>jenen Organismus zu zerstören sucht und endlich, je höher sie sich
+               <lb facs="#facs_2_r1l25" n="N025"/>entwickelt, zerstören muß — geradeso wie das Bazillengeschlecht
+               <lb facs="#facs_2_r1l26" n="N026"/>das „erkrankte“ menschliche Individuum zu vernichten trachter!
+               <lb facs="#facs_2_r1l27" n="N027"/>Und dürfen wir nicht weiter fragen, ob es nicht vielleicht die Auf¬
+               <lb facs="#facs_2_r1l28" n="N028"/>gabe jeder lebendigen Gemeinschaft bedeutet, sei es Bazillengeschlecht,
+               <lb facs="#facs_2_r1l29" n="N029"/>sei es Menschheit, die ihr übergeordnete Welt — sei dies ein mensch¬
+               <lb facs="#facs_2_r1l30" n="N030"/>liches Individuum, sei es das Universum — allmählich zu vernichten?
+               <lb facs="#facs_2_r1l31" n="N031"/>Auch wenn diese Annahme der Wahrheit nahe käme — unser
+               <lb facs="#facs_2_r1l32" n="N032"/>Vorstellungsvermögen wüßte damit nichts anzufangen; denn unser
+               <lb facs="#facs_2_r1l33" n="N033"/>Geist ist nur fähig, das Absteigende, Tiefere, niemals aber das
+               <lb facs="#facs_2_r1l34" n="N034"/>Aufsteigende, Höhere zu erfassen; nur das Niedere kann von
+               <lb facs="#facs_2_r1l35" n="N035"/>uns relativ gewußt, doch das Höhere von uns immer nur ge¬
+               <lb facs="#facs_2_r1l36" n="N036"/>ahnt werden. In diesem Sinne darf man die Geschichte der Mensch¬
+               <lb facs="#facs_2_r1l37" n="N037"/>heit vielleicht als ihren ewigen Kampf gegen das Göttliche begreifen,
+               <lb facs="#facs_2_r1l38" n="N038"/>das trotz allen Widerstandes allmählich doch mit Notwendigkeit
+               <lb facs="#facs_2_r1l39" n="N039"/>durch das Menschliche vernichtet wird; und diesem Gedankengang
+               <lb facs="#facs_2_r1l40" n="N040"/>folgend dürfen wir vielleicht annehmen, daß diesem uns göttlich
+               <lb facs="#facs_2_r1l41" n="N041"/>erscheinenden oder als göttlich geahnten uns übergeordneten Eiement
+               <lb facs="#facs_2_r1l42" n="N042"/>ein noch höheres übergcordnet ist, und so immer weiter bis in die
+               <lb facs="#facs_2_r1l43" n="N043"/>Unendlichkeit.
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_r1">
+               <lb facs="#facs_3_r1l1" n="N001"/>5. Benerkun
+               <lb facs="#facs_3_r1l2" n="N002"/>1
+            </ab>
+            <ab facs="#facs_3_r2">
+               <lb facs="#facs_3_r2l1" n="N001"/>box 35/4
+               <lb facs="#facs_3_r2l2" n="N002"/>eichen
+               <lb facs="#facs_3_r2l3" n="N003"/>gen nit Frages¬
+               <lb facs="#facs_3_r2l4" n="N004"/>Skepsis —?
+               <lb facs="#facs_3_r2l5" n="N005"/>Der Gedanke der Seelenwanderung wird völlig sinnlos, wenn
+               <lb facs="#facs_3_r2l6" n="N006"/>wir nicht zugleich eine Fortdauer des Ichbewußtseins als gegeben
+               <lb facs="#facs_3_r2l7" n="N007"/>annehmen. Als ein Anderer dagewesen sein, das heißt: überhaupt
+               <lb facs="#facs_3_r2l8" n="N008"/>nicht dagewesen sein.
+               <lb facs="#facs_3_r2l9" n="N009"/>Wie zum Beweis dafür, daß die Seelen wandern, erzählen uns
+               <lb facs="#facs_3_r2l10" n="N010"/>manche Leute) Männer, und noch öfter Frauen, daß sie die deutliche
+               <lb facs="#facs_3_r2l11" n="N011"/>Empfindung hatten, schon früher einmal, etwa zur Zeit der Antike
+               <lb facs="#facs_3_r2l12" n="N012"/>oder der Renaissance oder in irgendeiner anderen vergangenen
+               <lb facs="#facs_3_r2l13" n="N013"/>merkwürdigen Epcche, in anderer Gestalt, selbstverständlich immer
+               <lb facs="#facs_3_r2l14" n="N014"/>als merkwürdige Persönlichkeiten, als Fürsten, Künstler, Abenteurer
+               <lb facs="#facs_3_r2l15" n="N015"/>männlichen oder weiblichen Geschlechts, als dämonische oder sata¬
+               <lb facs="#facs_3_r2l16" n="N016"/>nische Naturen auf der Welt gewesen zu sein. Keiner noch hat sich
+               <lb facs="#facs_3_r2l17" n="N017"/>erinnert, in früherer Zeit als Bettler, als Kanalräumer, als Sklave,
+               <lb facs="#facs_3_r2l18" n="N018"/>als Bierversilberer, als Waschfrau, als Sitzkassierin, als Pfahlbauer,
+               <lb facs="#facs_3_r2l19" n="N019"/>als Menschenaffe — oder gar in irgendeiner Epoche gelebt zu haben,
+               <lb facs="#facs_3_r2l20" n="N020"/>von der er früher niemals aus Büchern oder Erzählungen Kenntnis
+               <lb facs="#facs_3_r2l21" n="N021"/>erhalten hätte.
+               <lb facs="#facs_3_r2l22" n="N022"/>Man möchte auch gerne wissen, wie sich solche Leute technisch
+               <lb facs="#facs_3_r2l23" n="N023"/>(man verzeihe dieses allzu konkrete Wort in so metaphysi¬
+               <lb facs="#facs_3_r2l24" n="N024"/>schem Zusammenhang) den Vorgang der Seelenwanderung eigent¬
+               <lb facs="#facs_3_r2l25" n="N025"/>lich vorstellen? — Geht die Seele des Dahingeschiedenen schon
+               <lb facs="#facs_3_r2l26" n="N026"/>im Augenblick des Todes in den neuen Leib ein — und wenn das
+               <lb facs="#facs_3_r2l27" n="N027"/>der Fall wäre, in einen Leib, der eben geboren oder in einen, der
+               <lb facs="#facs_3_r2l28" n="N028"/>eben gezeugt wird? — Oder sollen wir eine Art von Quarantäne
+               <lb facs="#facs_3_r2l29" n="N029"/>annehmen, eine Wartezeit innerhalb der Unendlichkeit, wo die
+               <lb facs="#facs_3_r2l30" n="N030"/>Seelen der Verstorbenen verweilen oder wenigstens in der Idee
+               <lb facs="#facs_3_r2l31" n="N031"/>vorhanden sind — solange bis sich wieder ein richtiges oder, wie
+               <lb facs="#facs_3_r2l32" n="N032"/>es leider meist zu geschehen scheint, ein nicht ganz passendes leib¬
+               <lb facs="#facs_3_r2l33" n="N033"/>liches Quartier für sie gefunden hat? Und wandern alle Seelen?
+               <lb facs="#facs_3_r2l34" n="N034"/>Oder gibt es welche, die nach ihrer ersten oder nach ihrer tausendsten
+               <lb facs="#facs_3_r2l35" n="N035"/>irdischen Existenz des Wanderns müde sind und als reine Seelen
+               <lb facs="#facs_3_r2l36" n="N036"/>weiter existieren und nichts weiter zu tun haben als neugierigen
+               <lb facs="#facs_3_r2l37" n="N037"/>Spiritisten durch Tischklopfen auf törichte Fragen törichte (ver¬
+               <lb facs="#facs_3_r2l38" n="N038"/>mutlich ironisch gemeinte) Antworten zu erteilen? Und hängt das
+               <lb facs="#facs_3_r2l39" n="N039"/>Wandern und am Ende auch das Erscheinen von ihrem Belieben
+               <lb facs="#facs_3_r2l40" n="N040"/>ab Oder folgen sie einem höheren Auftrag? — Wie der Glaube hat
+               <lb facs="#facs_3_r2l41" n="N041"/>auch sein mißgewachsener Bastard, der Aberglaube, seinen Ursprung
+               <lb facs="#facs_3_r2l42" n="N042"/>weit seltener in den metaphysischen Bedürfnissen der Menschheit
+               <lb facs="#facs_3_r2l43" n="N043"/>79
+            </ab>
+            <ab facs="#facs_3_r3">
+               <lb facs="#facs_3_r3l1" n="N001"/>2 —
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <ab facs="#facs_4_r1">
+               <lb facs="#facs_4_r1l1" n="N001"/>box 35/4
+               <lb facs="#facs_4_r1l2" n="N002"/>e7e1
+               <lb facs="#facs_4_r1l3" n="N003"/>ichen
+               <lb facs="#facs_4_r1l4" n="N004"/>—
+               <lb facs="#facs_4_r1l5" n="N005"/>5. Benerkungen nit Frag
+               <lb facs="#facs_4_r1l6" n="N006"/>—
+               <lb facs="#facs_4_r1l7" n="N007"/>(die weniger verbreitet sind als die freundlichen Uberschätzer eben¬
+               <lb facs="#facs_4_r1l8" n="N008"/>dieser Menschheit ihr zu schmeicheln pflegen), als in den allgemein
+               <lb facs="#facs_4_r1l9" n="N009"/>menschlichen Eitelkeiten und Angstgefühlen. Und es gibt keine
+               <lb facs="#facs_4_r1l10" n="N010"/>Torheit, durch die sich die Menschen nicht — für Augenblicke
+               <lb facs="#facs_4_r1l11" n="N011"/>wenigstens — interessanter machen wollten, als es ihnen in ihrem
+               <lb facs="#facs_4_r1l12" n="N012"/>armen, vermutlich doch nur einmaligen Leben vergönnt zu sein
+               <lb facs="#facs_4_r1l13" n="N013"/>pflegt.
+               <lb facs="#facs_4_r1l14" n="N014"/>Falschspieler —?
+               <lb facs="#facs_4_r1l15" n="N015"/>Iehmen wir einmal an, du setztest dich mit deinem Partner
+               <lb facs="#facs_4_r1l16" n="N016"/>zum Kartenspiel nieder, und eine Weile würde anständig, den
+               <lb facs="#facs_4_r1l17" n="N017"/>Regeln nach und ohne Zank gespielt. Wie nun, wenn in irgend¬
+               <lb facs="#facs_4_r1l18" n="N018"/>einem Augenblick, da du eben mit deinem As den König des andern
+               <lb facs="#facs_4_r1l19" n="N019"/>stechen wolltest, dein Partner behauptete, daß nicht das As, sondern
+               <lb facs="#facs_4_r1l20" n="N020"/>der König die höhere Karte bedeuter? Oder daß es gar nicht das
+               <lb facs="#facs_4_r1l21" n="N021"/>As sei, das du in Händen hieltest, sondern die Dame, oder der
+               <lb facs="#facs_4_r1l22" n="N022"/>Siebner oder ein weißes Blatt? — Oder wenn er es als einen Grund¬
+               <lb facs="#facs_4_r1l23" n="N023"/>irrtum der überhaupt höchst reformbedürftigen Spielregel be¬
+               <lb facs="#facs_4_r1l24" n="N024"/>zeichnete, daß man gerade das As als höchste Karte gelten ließe? —
+               <lb facs="#facs_4_r1l25" n="N025"/>Oder wenn er gar erklärte, daß eine Karte sich unter Umständen
+               <lb facs="#facs_4_r1l26" n="N026"/>in eine andere verwandeln könne, da ja bei Gott kein Ding unmög¬
+               <lb facs="#facs_4_r1l27" n="N027"/>lich sei? Und wenn er, falls du solches zu bezweifeln wagtest, dich
+               <lb facs="#facs_4_r1l28" n="N028"/>beschuldigte, daß es dir an Demut mangle und daß sein König schon
+               <lb facs="#facs_4_r1l29" n="N029"/>deshalb etwas Höheres bedeute als dein As, weil er eben die Gnade
+               <lb facs="#facs_4_r1l30" n="N030"/>habe, du aber nicht? — Oder wenn er, deines Widerstandes müde,
+               <lb facs="#facs_4_r1l31" n="N031"/>einfach die Karten hinwürfe: es sei ja nur ein Spiel und darum
+               <lb facs="#facs_4_r1l32" n="N032"/>nicht ernst zu nehmen — und wenn er sich mit dieser Begründung
+               <lb facs="#facs_4_r1l33" n="N033"/>weigerte, dir deinen Gewinst auszuzahlen?
+               <lb facs="#facs_4_r1l34" n="N034"/>Unsinnige Beispiele, meinst du? Keineswegs. Immer wieder bist
+               <lb facs="#facs_4_r1l35" n="N035"/>du als redlicher Mann Abenteuern solcher Art ausgesetzt, wenn du
+               <lb facs="#facs_4_r1l36" n="N036"/>dir’s einfallen läßt, dich mit einem unlautern Gegner in ein religiöses,
+               <lb facs="#facs_4_r1l37" n="N037"/>auch wohl in ein philosophisches oder politisches Gespräch einzu¬
+               <lb facs="#facs_4_r1l38" n="N038"/>lassen. Denn im Geistesspiel gibt es noch öfters unehrliche Partner
+               <lb facs="#facs_4_r1l39" n="N039"/>als am Kartentisch; und solche Falschspieler des Geistes gebärden
+               <lb facs="#facs_4_r1l40" n="N040"/>sich um so unverschämter, als sie immer wieder Leute finden, die
+               <lb facs="#facs_4_r1l41" n="N041"/>sich aus Dummheit, aus Snobbismus oder in der Erwartung bei der
+               <lb facs="#facs_4_r1l42" n="N042"/>Sache auch ein Geschäft zu machen, auf die Seite jener unredlichen
+               <lb facs="#facs_4_r1l43" n="N043"/>Spieler stellen und mindestens deren guten Glauben, wenn nicht gar
+               <lb facs="#facs_4_r1l44" n="N044"/>ihr gutes Recht zu beschwören bereit sind.
+               <lb facs="#facs_4_r1l45" n="N045"/>80
+            </ab>
+            <ab facs="#facs_4_r2">
+               <lb facs="#facs_4_r2l1" n="N001"/>4
+            </ab>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <ab facs="#facs_5_r1">
+               <lb facs="#facs_5_r1l1" n="N001"/>box 35/4
+               <lb facs="#facs_5_r1l2" n="N002"/>ezeichen
+               <lb facs="#facs_5_r1l3" n="N003"/>1
+               <lb facs="#facs_5_r1l4" n="N004"/>5. Benerkungen  Frage
+               <lb facs="#facs_5_r1l5" n="N005"/>—
+               <lb facs="#facs_5_r1l6" n="N006"/>Psychophysisches Gesetz —?
+               <lb facs="#facs_5_r1l7" n="N007"/>Es ist nun einmal so, daß die Menschen immer erst Raum in
+               <lb facs="#facs_5_r1l8" n="N008"/>ihren Herzen schaffen müssen, wenn ein neues Wesen ihnen gegen¬
+               <lb facs="#facs_5_r1l9" n="N009"/>übertritt, das auf ihre Liebe, Freundschaft, Sympathie, ja nur auf
+               <lb facs="#facs_5_r1l10" n="N010"/>ihre Beachtung Anspruch erhebt. Das menschliche Gefühl ist nur
+               <lb facs="#facs_5_r1l11" n="N011"/>selten einem unerschöpflich sprudelnden Quell vergleichbar, meist
+               <lb facs="#facs_5_r1l12" n="N012"/>ist es wohl abgemessen in ein Reservoir gezwängt, aus dem es unter
+               <lb facs="#facs_5_r1l13" n="N013"/>ewig gleichem Druck in eine beschränkte Anzahl von Leitungen
+               <lb facs="#facs_5_r1l14" n="N014"/>abfließt; und wenn ein neues Rohr sich füllt, muß ein anderes sich
+               <lb facs="#facs_5_r1l15" n="N015"/>leeren oder gar völlig versiegen. Und ebenso verhält es sich auf
+               <lb facs="#facs_5_r1l16" n="N016"/>geistigem Gebiete. Sobald von einer neuen Seite her Begeisterung,
+               <lb facs="#facs_5_r1l17" n="N017"/>Anerkennung, Aufmerksamkeit gefordert wird, werden alle diese
+               <lb facs="#facs_5_r1l18" n="N018"/>Gaben von einem anderen Objekt, so weit als möglich, mit größter
+               <lb facs="#facs_5_r1l19" n="N019"/>Hast abgezogen. Und so ausnahmslos wirkt dieses Gesetz sich aus,
+               <lb facs="#facs_5_r1l20" n="N020"/>daß nicht nur ein Mensch gegen den andern als Gesamterscheinung,
+               <lb facs="#facs_5_r1l21" n="N021"/>sondern daß auch die Eigenschaften und Leistungen innerhalb
+               <lb facs="#facs_5_r1l22" n="N022"/>einer und derselben Persönlichkeit immer wieder
+               <lb facs="#facs_5_r1l23" n="N023"/>gegeneinander abgewogen und ausgespielt werden, als müßte jede
+               <lb facs="#facs_5_r1l24" n="N024"/>unvorhergeschene neue Ausgabe durch sorgfältigste Sparsamkeit an
+               <lb facs="#facs_5_r1l25" n="N025"/>anderem Ort gleich wieder gutgemacht und die etwaigen Folgen
+               <lb facs="#facs_5_r1l26" n="N026"/>einer sträflichen Verschwendung verhütet werden.
+               <lb facs="#facs_5_r1l27" n="N027"/>Mythos gegen Historie —?
+               <lb facs="#facs_5_r1l28" n="N028"/>Die Bedeutung einer Gestalt für die Menschheit beruht nicht auf
+               <lb facs="#facs_5_r1l29" n="N029"/>ihrer historischen, sondern auf ihrer mythischen Wahr¬
+               <lb facs="#facs_5_r1l30" n="N030"/>heit, die in jedem Fall eine Wahrheit von höherem Range bedeutet.
+               <lb facs="#facs_5_r1l31" n="N031"/>Nur wenigen historischen Gestalten wohnt die Kraft inne, ins
+               <lb facs="#facs_5_r1l32" n="N032"/>Mythische emporzuwachsen, ja manche von diesen mythisch werden¬
+               <lb facs="#facs_5_r1l33" n="N033"/>den Gestalten hören eines Tages sogar auf, historisch zu sein, ja
+               <lb facs="#facs_5_r1l34" n="N034"/>sie sind es vielleicht niemals gewesen. Die Schnsucht war es, die
+               <lb facs="#facs_5_r1l35" n="N035"/>solche Gestalten ins Licht rief, der Glaube erhält sie lebendig, und
+               <lb facs="#facs_5_r1l36" n="N036"/>der Zweifel vor allem ist es, der an ihrer Vergöttlichung teilhat.
+               <lb facs="#facs_5_r1l37" n="N037"/>?
+               <lb facs="#facs_5_r1l38" n="N038"/>Wahn als Selbstbehauptung
+               <lb facs="#facs_5_r1l39" n="N039"/>Wie leicht sind wir geneigt, andere des Größen-, des Verfolgungs¬
+               <lb facs="#facs_5_r1l40" n="N040"/>wahns zu bezichtigen — und vergessen dabei, daß die Empfindung,
+               <lb facs="#facs_5_r1l41" n="N041"/>Mittelpunkt der Welt zu sein, eine nahezu normale Art der Selbst¬
+               <lb facs="#facs_5_r1l42" n="N042"/>81
+            </ab>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_r1">
+               <lb facs="#facs_6_r1l1" n="N001"/>5. Benerkunge
+            </ab>
+            <ab facs="#facs_6_r2">
+               <lb facs="#facs_6_r2l1" n="N001"/>box 35/4
+               <lb facs="#facs_6_r2l2" n="N002"/>mit
+               <lb facs="#facs_6_r2l3" n="N003"/>Fragezeichen
+               <lb facs="#facs_6_r2l4" n="N004"/>—
+               <lb facs="#facs_6_r2l5" n="N005"/>behauptung vorstellt und daß das innere Gleichgewicht eines In¬
+               <lb facs="#facs_6_r2l6" n="N006"/>dividuums eigentlich schon gestört ist, sobald dieses sich nicht mehr
+               <lb facs="#facs_6_r2l7" n="N007"/>als Zentrum, sondern als peripherisch zu empfinden beginnt; daß also
+               <lb facs="#facs_6_r2l8" n="N008"/>die Menschen im allgemeinen ihren sozusagen physiologischen Größen¬
+               <lb facs="#facs_6_r2l9" n="N009"/>wahn bestenfalls nur zu dissimulieren versuchen. — Daher wird
+               <lb facs="#facs_6_r2l10" n="N010"/>nicht nur Feindseligkeit oder Abneigung, sondern auch schon Gleich¬
+               <lb facs="#facs_6_r2l11" n="N011"/>gültigkeit von den meisten Menschen als Verfolgung empfunden, —
+               <lb facs="#facs_6_r2l12" n="N012"/>und gewissermaßen mit Recht. Denn Mangel an Interesse und För¬
+               <lb facs="#facs_6_r2l13" n="N013"/>derung ist in seiner Wirkung von Schädigung nur graduell unter¬
+               <lb facs="#facs_6_r2l14" n="N014"/>schieden, und in der Okonomie menschlicher Beziehungen besonders
+               <lb facs="#facs_6_r2l15" n="N015"/>von ethischem Standpunkt aus kaum anders zu bewerten.
+               <lb facs="#facs_6_r2l16" n="N016"/>Der Asthet als Bösewicht —?
+               <lb facs="#facs_6_r2l17" n="N017"/>ede Art von ästhetischer Weltanschauung ist mit Egoismus nahe
+               <lb facs="#facs_6_r2l18" n="N018"/>verwandt; — wenn er nicht geradezu als eine ihrer Quellen gelten
+               <lb facs="#facs_6_r2l19" n="N019"/>darf; und auf die Wirklichkeit angewandt, kann eine rein ästhetische
+               <lb facs="#facs_6_r2l20" n="N020"/>Betrachtungsweise leicht wie Schurkerei erscheinen. Denn wenn wir
+               <lb facs="#facs_6_r2l21" n="N021"/>uns beispielsweise sorgfältig in Acht nehmen, dem bunten Schmetterling
+               <lb facs="#facs_6_r2l22" n="N022"/>etwas zuleide zu tun und im nächften Augenblick den uns wider¬
+               <lb facs="#facs_6_r2l23" n="N023"/>lichen Wurm achtlos oder gar absichtlich mit unserem Fuß zer¬
+               <lb facs="#facs_6_r2l24" n="N024"/>treten; — was haben wir denn anderes getan als den Wurm mit
+               <lb facs="#facs_6_r2l25" n="N025"/>dem Tod zu bestrafen, weil er vor unserem Schönheitssinn nicht
+               <lb facs="#facs_6_r2l26" n="N026"/>so gut bestand wie der Falter, der unser Aug’ entzückt hat.
+               <lb facs="#facs_6_r2l27" n="N027"/>Gespensterfurcht —?
+               <lb facs="#facs_6_r2l28" n="N028"/>Wie einsam du zeitlebens gewesen bist, das kannst du nie völlig
+               <lb facs="#facs_6_r2l29" n="N029"/>erfassen und wirst es nie, — es sei denn, du vermöchtest als Dahin¬
+               <lb facs="#facs_6_r2l30" n="N030"/>geschiedener in die Seele eines Menschen zu schauen, dem du vor
+               <lb facs="#facs_6_r2l31" n="N031"/>allen lieb gewesen bist. Dann würdest du erfahren, wie sich auch
+               <lb facs="#facs_6_r2l32" n="N032"/>in dieser treuesten Seele der Gedanke, du könntest wiederkehren,
+               <lb facs="#facs_6_r2l33" n="N033"/>aus der Sehnsucht nach einem Wunder ohnegleichen allmählich, doch
+               <lb facs="#facs_6_r2l34" n="N034"/>unaufhaltsam, von Jahr zu Jahr, von Tag zu Tag in grausamere
+               <lb facs="#facs_6_r2l35" n="N035"/>Schauer der Angst wandelt.
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
